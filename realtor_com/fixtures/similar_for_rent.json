@@ -1,0 +1,268 @@
+{
+ "property_id": "9447422407",
+ "related_homes": {
+  "results": [
+   {
+    "property_id": "9164142880",
+    "listing_id": "2985800981",
+    "permalink": "13400-Bee-Cave-Pkwy_Bee-Cave_TX_78738_M91641-42880",
+    "href": "https://www.realtor.com/rentals/details/13400-Bee-Cave-Pkwy_Bee-Cave_TX_78738_M91641-42880",
+    "status": "for_rent",
+    "list_date": "2025-08-27T23:24:15.000000Z",
+    "last_update_date": "2026-11-07T01:16:58Z",
+    "last_status_change_date": null,
+    "list_price": null,
+    "list_price_min": 1550,
+    "list_price_max": 2795,
+    "price_per_sqft": null,
+    "last_sold_price": null,
+    "last_sold_date": null,
+    "flags": {
+     "is_coming_soon": null,
+     "is_contingent": null,
+     "is_garage_present": null,
+     "is_new_construction": null,
+     "is_pending": null,
+     "is_short_sale": null,
+     "is_foreclosure": null,
+     "is_senior_community": null,
+     "is_for_rent": true,
+     "is_deal_available": null,
+     "is_price_reduced": null,
+     "is_new_listing": false,
+     "is_subdivision": null,
+     "is_plan": null
+    },
+    "description": {
+     "type": "apartment",
+     "sub_type": null,
+     "name": "Pearl Bee Cave",
+     "beds": null,
+     "baths": null,
+     "baths_full": null,
+     "baths_half": null,
+     "baths_consolidated": null,
+     "sqft": null,
+     "lot_sqft": null,
+     "year_built": 2025
+    },
+    "location": {
+     "address": {
+      "line": "13400 Bee Cave Pkwy",
+      "unit": null,
+      "city": "Bee Cave",
+      "state_code": "TX",
+      "postal_code": "78738",
+      "coordinate": {
+       "lat": 30.316361,
+       "lon": -97.946283
+      }
+     },
+     "neighborhoods": null
+    },
+    "source": {
+     "id": "ZILL",
+     "type": "community",
+     "name": "Zillow",
+     "agents": null
+    },
+    "primary_photo": {
+     "href": "https://ar.rdcpix.com/9bbe5a377a77d9a5b9e208cf68864562c-f1577111319xd-w300_h300_q80.jpg"
+    },
+    "photos": null,
+    "open_houses": null,
+    "virtual_tours": null,
+    "advertisers": [
+     {
+      "name": "Zillow",
+      "office": {
+       "name": "Morgan Group"
+      }
+     },
+     {
+      "name": "Zillow",
+      "office": {
+       "name": "Pearl Bee Cave"
+      }
+     }
+    ],
+    "current_estimates": [],
+    "units": null
+   },
+   {
+    "property_id": "9226684253",
+    "listing_id": "2988232095",
+    "permalink": "50-Bella-Toscana-Ave_Lakeway_TX_78734_M92266-84253",
+    "href": "https://www.realtor.com/rentals/details/50-Bella-Toscana-Ave_Lakeway_TX_78734_M92266-84253",
+    "status": "for_rent",
+    "list_date": "2025-11-07T20:55:06.000000Z",
+    "last_update_date": "2026-11-07T02:06:37Z",
+    "last_status_change_date": null,
+    "list_price": null,
+    "list_price_min": 2065,
+    "list_price_max": 4079,
+    "price_per_sqft": null,
+    "last_sold_price": null,
+    "last_sold_date": null,
+    "flags": {
+     "is_coming_soon": null,
+     "is_contingent": null,
+     "is_garage_present": null,
+     "is_new_construction": null,
+     "is_pending": null,
+     "is_short_sale": null,
+     "is_foreclosure": null,
+     "is_senior_community": null,
+     "is_for_rent": true,
+     "is_deal_available": null,
+     "is_price_reduced": null,
+     "is_new_listing": false,
+     "is_subdivision": null,
+     "is_plan": null
+    },
+    "description": {
+     "type": "apartment",
+     "sub_type": null,
+     "name": "Jovie Lakeway",
+     "beds": null,
+     "baths": null,
+     "baths_full": null,
+     "baths_half": null,
+     "baths_consolidated": null,
+     "sqft": null,
+     "lot_sqft": null,
+     "year_built": null
+    },
+    "location": {
+     "address": {
+      "line": "50 Bella Toscana Ave",
+      "unit": null,
+      "city": "Lakeway",
+      "state_code": "TX",
+      "postal_code": "78734",
+      "coordinate": {
+       "lat": 30.346048232702,
+       "lon": -97.973872184297
+      }
+     },
+     "neighborhoods": null
+    },
+    "source": {
+     "id": "ZILL",
+     "type": "community",
+     "name": "Zillow",
+     "agents": null
+    },
+    "primary_photo": {
+     "href": "https://ar.rdcpix.com/14b3c1fcc06a16ef8ae1374a76e0deb6c-f3537784439xd-w300_h300_q80.jpg"
+    },
+    "photos": null,
+    "open_houses": null,
+    "virtual_tours": null,
+    "advertisers": [
+     {
+      "name": "Zillow",
+      "office": {
+       "name": "Avenue 5 Residential"
+      }
+     },
+     {
+      "name": "Zillow",
+      "office": {
+       "name": "Jovie Lakeway"
+      }
+     }
+    ],
+    "current_estimates": [],
+    "units": null
+   },
+   {
+    "property_id": "9761424033",
+    "listing_id": "2983550383",
+    "permalink": "167-Hargraves-Dr_Austin_TX_78737_M97614-24033",
+    "href": "https://www.realtor.com/rentals/details/167-Hargraves-Dr_Austin_TX_78737_M97614-24033",
+    "status": "for_rent",
+    "list_date": "2025-06-25T23:54:44.000000Z",
+    "last_update_date": "2026-11-07T01:16:58Z",
+    "last_status_change_date": null,
+    "list_price": null,
+    "list_price_min": 1807,
+    "list_price_max": 3228,
+    "price_per_sqft": null,
+    "last_sold_price": null,
+    "last_sold_date": null,
+    "flags": {
+     "is_coming_soon": null,
+     "is_contingent": null,
+     "is_garage_present": null,
+     "is_new_construction": null,
+     "is_pending": null,
+     "is_short_sale": null,
+     "is_foreclosure": null,
+     "is_senior_community": null,
+     "is_for_rent": true,
+     "is_deal_available": null,
+     "is_price_reduced": null,
+     "is_new_listing": false,
+     "is_subdivision": null,
+     "is_plan": null
+    },
+    "description": {
+     "type": "apartment",
+     "sub_type": null,
+     "name": "Jovie Belterra - 55+ Active Adult Apartment Home",
+     "beds": null,
+     "baths": null,
+     "baths_full": null,
+     "baths_half": null,
+     "baths_consolidated": null,
+     "sqft": null,
+     "lot_sqft": null,
+     "year_built": 2024
+    },
+    "location": {
+     "address": {
+      "line": "167 Hargraves Dr",
+      "unit": null,
+      "city": "Austin",
+      "state_code": "TX",
+      "postal_code": "78737",
+      "coordinate": {
+       "lat": 30.205498,
+       "lon": -97.97522
+      }
+     },
+     "neighborhoods": null
+    },
+    "source": {
+     "id": "ZILL",
+     "type": "community",
+     "name": "Zillow",
+     "agents": null
+    },
+    "primary_photo": {
+     "href": "https://ar.rdcpix.com/e44a5934b0e89ac27fce0a5ca8866ab1c-f3253080604xd-w300_h300_q80.jpg"
+    },
+    "photos": null,
+    "open_houses": null,
+    "virtual_tours": null,
+    "advertisers": [
+     {
+      "name": "Zillow",
+      "office": {
+       "name": "Greystar"
+      }
+     },
+     {
+      "name": "Zillow",
+      "office": {
+       "name": "Jovie Belterra - 55+ Active Adult Apartment Home"
+      }
+     }
+    ],
+    "current_estimates": [],
+    "units": null
+   }
+  ]
+ }
+}

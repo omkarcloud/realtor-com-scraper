@@ -1,0 +1,318 @@
+{
+ "fulfillment_id": "1918615",
+ "id": "56a649a10fa417010073f11b",
+ "is_paid": true,
+ "is_realtor": true,
+ "designations": [],
+ "display_ratings": true,
+ "has_rps": false,
+ "endorsements": null,
+ "avatar": {
+  "initials": "ACJRAT",
+  "url": "https://ap.rdcpix.com/1671514694/5926e52748f51f5e62858c04d77081dfa-e0rd-w144_h144.jpg"
+ },
+ "bio": "🏡 Andra Cortez Jackson Jr., Realtor®\nAustin & Central Texas Real Estate\nNew Construction • Residential Sales • Investment Properties\n\nBuying or selling real estate should feel exciting—not overwhelming. Andra Cortez Jackson Jr. combines trusted guidance, responsive communication, and experienced advocacy to help every client move forward with clarity and confidence.\n\nWith more than 15 years of real estate experience and lifelong roots in Central Texas, Andra offers an insider’s understanding of the Austin-area market. His previous experience with a Fortune 500 home builder gives his clients an additional advantage when evaluating construction quality, comparing communities, negotiating builder incentives, and identifying valuable new-construction opportunities.\n\n📍 Serving Austin and surrounding Central Texas communities, including Round Rock, Pflugerville, Hutto, Georgetown, Cedar Park, Leander, Taylor, and beyond.\n\nAndra proudly assists:\n\n🏠 First-time and experienced homebuyers\n🔑 Homeowners preparing to sell\n🏗️ New-construction buyers\n📦 Relocation clients and families\n📈 New and seasoned real estate investors\n\nClients appreciate Andra’s:\n\n✅ Strong negotiation and advocacy\n✅ Prompt, dependable communication\n✅ Extensive local-market knowledge\n✅ Creative, solution-focused approach\n✅ Ability to simplify complex transactions\n✅ Commitment to protecting their interests\n\nWhether he is helping a buyer find the right home, negotiating valuable builder incentives, positioning a property to achieve the strongest possible outcome, or helping an investor uncover an overlooked opportunity, Andra remains personally involved from the first conversation through closing—and beyond.\n\nMost importantly, Andra believes successful real estate begins with relationships, not pressure. His role is to listen, educate, and provide honest guidance so every client feels informed, protected, and confident in each decision.\n\nIf you are considering buying, selling, investing, relocating, or exploring new construction in Austin or Central Texas, connect with Andra and discover how experienced, personalized representation can make all the difference.\n\n🏡 Andra Cortez Jackson Jr., Realtor®\n📍 Team West Real Estate\n📞 512-565-8448\n\nYour goals. Your future. Trusted guidance every step of the way.",
+ "fullname": "Andra Cortez Jackson Realtor Austin TX",
+ "website": "http://www.teamwestre.com",
+ "intent_type": [
+  "BUYER",
+  "SELLER"
+ ],
+ "broker": {
+  "name": "Team West Real Estate - Broker",
+  "website": null,
+  "fulfillment_id": "3337315"
+ },
+ "languages": [
+  "English"
+ ],
+ "specializations": [
+  {
+   "name": "contracts"
+  },
+  {
+   "name": "expert"
+  },
+  {
+   "name": "location"
+  },
+  {
+   "name": "negotiation"
+  },
+  {
+   "name": "sales"
+  },
+  {
+   "name": "relocation"
+  },
+  {
+   "name": "education"
+  },
+  {
+   "name": "advising"
+  },
+  {
+   "name": "multi family"
+  },
+  {
+   "name": "commercial"
+  },
+  {
+   "name": "new construction"
+  },
+  {
+   "name": "Full Listing Services"
+  },
+  {
+   "name": "Buyer representation"
+  },
+  {
+   "name": "luxury real estate"
+  },
+  {
+   "name": "Buyer's agent"
+  },
+  {
+   "name": "Seller's agent"
+  }
+ ],
+ "experience": {
+  "first_year": "2011",
+  "first_month": "January",
+  "label": "15 years 10 months of experience"
+ },
+ "ratings_reviews": {
+  "average_rating": 5,
+  "reviews_count": 11,
+  "recommendations_count": 62,
+  "combined_testimonials_and_reviews_count": 73
+ },
+ "served_areas": [
+  {
+   "name": "Austin",
+   "state_code": "TX"
+  },
+  {
+   "name": "Bastrop",
+   "state_code": "TX"
+  },
+  {
+   "name": "Buda",
+   "state_code": "TX"
+  },
+  {
+   "name": "Cedar Creek",
+   "state_code": "TX"
+  },
+  {
+   "name": "Cedar Park",
+   "state_code": "TX"
+  },
+  {
+   "name": "Elgin",
+   "state_code": "TX"
+  },
+  {
+   "name": "Florence",
+   "state_code": "TX"
+  },
+  {
+   "name": "Georgetown",
+   "state_code": "TX"
+  },
+  {
+   "name": "Hutto",
+   "state_code": "TX"
+  },
+  {
+   "name": "Kyle",
+   "state_code": "TX"
+  },
+  {
+   "name": "Lago Vista",
+   "state_code": "TX"
+  },
+  {
+   "name": "Leander",
+   "state_code": "TX"
+  },
+  {
+   "name": "Liberty Hill",
+   "state_code": "TX"
+  },
+  {
+   "name": "Manor",
+   "state_code": "TX"
+  },
+  {
+   "name": "Pflugerville",
+   "state_code": "TX"
+  },
+  {
+   "name": "Round Rock",
+   "state_code": "TX"
+  },
+  {
+   "name": "Taylor",
+   "state_code": "TX"
+  },
+  {
+   "name": "Westlake",
+   "state_code": "TX"
+  }
+ ],
+ "listing_stats": {
+  "combined_annual": {
+   "max": 462000,
+   "min": 325000
+  },
+  "for_sale": {
+   "count": 3,
+   "last_listing_date": "2026-09-02T16:35:35Z",
+   "min": 325000,
+   "max": 462000
+  },
+  "recently_sold": {
+   "count": 17,
+   "last_sold_date": "2026-09-11",
+   "min": null,
+   "max": null
+  },
+  "recently_sold_annual": {
+   "count": 11
+  },
+  "recently_sold_listing_details": {
+   "listings": [
+    {
+     "baths": 4,
+     "beds": 4,
+     "city": "Hutto",
+     "photo": "https://ap.rdcpix.com/586141c29cd47a38c52e756f331cb7c7l-m3759679666rd-w100_h67.jpg",
+     "state_code": "TX"
+    },
+    {
+     "baths": 2,
+     "beds": 3,
+     "city": "Pflugerville",
+     "photo": "https://ap.rdcpix.com/ec1d6cb2203c574161e94559223bd38fl-m1758456478rd-w100_h67.jpg",
+     "state_code": "TX"
+    },
+    {
+     "baths": 4,
+     "beds": 5,
+     "city": "Pflugerville",
+     "photo": "https://ap.rdcpix.com/0447697f71a4b7b5425e42a80c162b11l-m2862962397rd-w100_h67.jpg",
+     "state_code": "TX"
+    }
+   ],
+   "show_additional": true
+  }
+ },
+ "mls": [
+  {
+   "mls_set": "A-AUTX-642309",
+   "agent_id": "642309",
+   "id": "AUTX",
+   "primary": true,
+   "license_number": "0642309",
+   "inactivation_date": null,
+   "status": "A"
+  },
+  {
+   "mls_set": "A-HOTX-ANDRAJACK",
+   "agent_id": "ANDRAJACK",
+   "id": "HOTX",
+   "primary": false,
+   "license_number": "0642309",
+   "inactivation_date": null,
+   "status": "A"
+  }
+ ],
+ "office": {
+  "name": "Team West Real Estate",
+  "phones": [
+   {
+    "type": "office",
+    "value": "(512) 296-0669"
+   }
+  ],
+  "website": "http://teamwestre.com/",
+  "address": {
+   "address_formatted_line_1": "13812 Research Blvd.",
+   "address_formatted_line_2": "Austin, TX 78750",
+   "city": "Austin",
+   "postal_code": "78750",
+   "state_code": "TX"
+  }
+ },
+ "phones": [
+  {
+   "type": "mobile",
+   "value": "(512) 565-8448"
+  },
+  {
+   "type": "mobile",
+   "value": "(512) 565-8448"
+  }
+ ],
+ "license_number": "0642309",
+ "license_state": "TX",
+ "is_empty_profile": false,
+ "social_media": {
+  "facebook": {
+   "href": "https://www.facebook.com/AndraJacksonHomes"
+  },
+  "instagram": {
+   "href": "https://www.instagram.com/austinsfinestrealtor/"
+  },
+  "linkedin": {
+   "href": "https://www.linkedin.com/in/andra-cortez-jackson-jr-98737859/"
+  },
+  "tiktok": null,
+  "x": {
+   "href": "https://twitter.com/andra_cortez"
+  },
+  "youtube": null
+ },
+ "about_video": {
+  "id": "EhSPmmvO4aI",
+  "source": "YOUTUBE",
+  "url": "https://youtu.be/EhSPmmvO4aI"
+ },
+ "services": {
+  "buyer": [
+   "Personalized neighborhood guidance",
+   "Access to market insights",
+   "Early access to new listings",
+   "Persuasive offer proposals",
+   "Home inspection support",
+   "Pre-approval assistance",
+   "Lender referrals",
+   "Other professional network referrals"
+  ],
+  "seller": [
+   "Professional photography",
+   "Postcards and flyers",
+   "Virtual tour",
+   "Comparative market analysis"
+  ]
+ },
+ "questions_and_answers": [
+  {
+   "question_text": "What’s the top reason to hire you?",
+   "answer_text": "🏡 Why should you hire me as your REALTOR®?\n\nBecause I combine more than 15 years of real estate experience with personal, hands-on service—and I treat your goals as if they were my own.\n\nAs a lifelong Central Texas professional with previous experience working for a Fortune 500 home builder, I understand both resale and new-construction transactions from the inside out. I know how to evaluate opportunities, anticipate potential problems, negotiate favorable terms, and help clients avoid costly mistakes.\n\nBut experience alone is not enough. Every client has a different timeline, budget, concern, and definition of success. I take the time to listen, explain your options clearly, and create a strategy tailored specifically to you.\n\nClients choose to work with me because I am:\n\n✅ Responsive, accessible, and easy to reach\n✅ Experienced in resale, new construction, land, and investment properties\n✅ Skilled at negotiating price, repairs, incentives, and contract terms\n✅ Strategic in identifying opportunities others may overlook\n✅ Calm and solutions-focused when challenges arise\n✅ Personally involved from our first conversation through closing\n\nWhether you are buying your first home, selling a property, relocating, building an investment portfolio, or navigating an important life transition, you deserve an experienced advocate who will protect your interests and keep the process moving forward.\n\nReal estate is more than a transaction. It is one of the most important financial and personal decisions you may make.\n\n🔑 When you are ready to make your next move, I am ready to help you move forward with confidence."
+  },
+  {
+   "question_text": "What makes you stand apart from other agents?",
+   "answer_text": "Clients often choose to work with Andra Cortez Jackson Jr. because he offers far more than just basic real estate services — he provides experienced guidance, strong negotiation skills, and deep Central Texas market knowledge that helps clients make confident decisions.\n\nWith more than 15 years of real estate experience, hundreds of successful transactions, and over 35 years living in the Austin area, Andra brings valuable insight into local neighborhoods, market trends, long-term property value, and emerging growth areas throughout Austin, Pflugerville, Round Rock, Hutto, Georgetown, Cedar Park, Leander, and surrounding communities.\n\nBefore becoming a full-time REALTOR®, Andra worked with a Fortune 500 home builder, giving him unique expertise in:\n✅ New construction and builder negotiations\n✅ Construction quality and home design\n✅ Builder incentives and financing programs\n✅ Investment potential and future development trends\n\nThis background is especially valuable for buyers considering new construction homes, investment opportunities, relocation purchases, or rapidly growing suburban communities.\n\nAndra works with a wide variety of clients and property types including:\n🏡 First-time buyers\n🏡 Residential resale\n🏡 New construction\n🏡 Investment properties\n🏡 Luxury and commercial opportunities\n\nClients consistently praise his responsiveness, professionalism, market knowledge, and ability to simplify what can otherwise feel like a stressful process. His approach is hands-on, solutions-oriented, and focused on protecting his clients’ interests every step of the way.\n\nWhether helping buyers find the right home, negotiating builder incentives, marketing listings for maximum exposure, or helping investors identify opportunities others may overlook, Andra is committed to delivering a smooth, informed, and successful experience from start to finish."
+  },
+  {
+   "question_text": "What is the latest market trend in your service area?",
+   "answer_text": "• Inventory is up — supply favors buyers\n\nThe number of active home listings has surged, giving buyers more choices.\n\nSome reports put months-of-inventory (MOI) in a more “balanced” to “buyer-friendly” range, compared with the tight-supply, high-demand conditions seen during the pandemic housing boom. \n\nBecause of this, many homes are lingering longer on the market and getting price reductions, rather than going under contract immediately. \n\n• Prices easing (or at least leveling off), improving affordability compared with recent years\n\nAccording to one recent snapshot, the median sale price in Austin was around $537,000 (as of October 2025), a slight year-over-year dip. \nRedfin\n\nThe “list-price per square foot” and listing prices have also seen downward adjustments in parts of the metro — a contrast from the runaway inflation of home prices during the 2020–2022 BOOM.\n\nNew-construction homes are playing an increasing role in the market. In many cases, they’re listed at discounts relative to older/resale homes — which is a reversal from the usual premium attached to new builds in many markets. \n\n• Market cooling and more negotiation power for buyers (less frenzy, more realistic pricing)\n\nHomes are spending more time on the market (longer “days on market”), meaning buyers have more breathing room. \n\nAccording to a recent listing-to-pending analysis, the ratio of new listings to contracts is unusually high — meaning many more homes are listed than being bought right now. \n\nIn some segments (especially outside ultra-hot luxury neighborhoods), the market appears less competitive — offering buyers leverage on price, terms, and negotiation."
+  },
+  {
+   "question_text": "What is your online and offline marketing strategy for sellers?",
+   "answer_text": "“Austin Realtor with 25+ years of local insight + Fortune 500 builder expertise.”\nThis differentiates him strongly from generic agents.\n\nKey value pillars:\n\nLocal Insider Knowledge\n\nConstruction & New-Build Expertise\n\nLuxury Home Marketing Certified\n\nFull-Spectrum Real Estate (Buy/Sell/Invest/Commercial)\n\nClient-First, Highly Responsive Experience"
+  }
+ ]
+}

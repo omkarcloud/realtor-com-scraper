@@ -1,0 +1,56 @@
+{
+ "geo_results": [
+  {
+   "type": "location",
+   "text": "Zilker, Austin, TX",
+   "geo": {
+    "_id": "neigh:tx_austin_zilker",
+    "mpr_id": null,
+    "area_type": "neighborhood",
+    "city": "Austin",
+    "state_code": "TX",
+    "postal_code": null,
+    "county": null,
+    "slug_id": "Zilker_Austin_TX",
+    "geo_id": "b0a1621e-d65f-54b9-a3a6-70f028e71972",
+    "city_slug_id": null,
+    "centroid": {
+     "lat": 30.255589,
+     "lon": -97.768172
+    },
+    "street": null,
+    "line": null,
+    "school": null,
+    "school_district": null,
+    "neighborhood": "Zilker"
+   }
+  },
+  {
+   "type": "location",
+   "text": "Zilker Elementary School, Austin, TX",
+   "geo": {
+    "_id": "school:0768579861",
+    "mpr_id": null,
+    "area_type": "school",
+    "city": "Austin",
+    "state_code": "TX",
+    "postal_code": "78704",
+    "county": null,
+    "slug_id": "Zilker-Elementary-School-0768579861",
+    "geo_id": null,
+    "city_slug_id": "Austin_TX",
+    "centroid": {
+     "lat": 30.252843,
+     "lon": -97.774666
+    },
+    "street": null,
+    "line": "1900 Bluebonnet Lane",
+    "school": "Zilker Elementary School",
+    "school_district": null,
+    "neighborhood": null
+   }
+  }
+ ],
+ "typeahead_results": [],
+ "has_results": true
+}

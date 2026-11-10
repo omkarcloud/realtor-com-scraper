@@ -1,0 +1,176 @@
+{
+ "fulfillment_id": "184731",
+ "id": "56b080147e54f7010020a7b7",
+ "is_paid": false,
+ "is_realtor": true,
+ "designations": [],
+ "display_ratings": false,
+ "has_rps": false,
+ "endorsements": null,
+ "avatar": {
+  "initials": "KW",
+  "url": "https://ap.rdcpix.com/c35406d29809fc1f037a8c1ae795e0a0a-e2501184590rd-w144_h144.jpg"
+ },
+ "bio": "With over 20 years of real estate experience and more than 1,000 homes sold, Knolly Williams is recognized as one of Central Texas’ most trusted and accomplished real estate professionals. His focus? Helping homeowners like you sell faster, easier, and for top dollar.\n\nKnown as a Listing Specialist, Knolly’s proven systems and marketing strategies have positioned him in the top 1% of REALTORS® in Austin, consistently ranked by the Austin Business Journal among the area’s top producers. But what truly sets him apart is his personal approach and passion for educating his clients throughout the process.\n\nBefore real estate, Knolly was a successful entrepreneur in the music industry, running a seven-figure record label in his 20s. After selling his first home—and learning the hard way what happens when you choose the wrong agent—he committed himself to mastering the home selling process. Today, Knolly’s mission is simple: to help his clients avoid costly mistakes and experience a smooth, profitable sale.\n\nWhen you work with Knolly, you’re backed by:\n\n• A proven marketing system that gets results\n• Decades of real-world experience\n• Honest, expert guidance every step of the way\n• A specialist dedicated to seller success—not a generalist\n\nKnolly is also the author of multiple bestselling real estate books, a national speaker, and the founder of The Knolly Team at eXp Realty.\n\nWhether you're moving up, downsizing, or relocating, Knolly Williams is the trusted partner who can help you sell your home with confidence.",
+ "fullname": "Knolly Williams",
+ "website": "http://www.Knolly.com",
+ "intent_type": [
+  "SELLER"
+ ],
+ "broker": {
+  "name": "eXp Realty, LLC",
+  "website": null,
+  "fulfillment_id": "100250952"
+ },
+ "languages": [
+  "English"
+ ],
+ "specializations": [
+  {
+   "name": "Austin"
+  },
+  {
+   "name": "Foreclosure"
+  },
+  {
+   "name": "Investment"
+  },
+  {
+   "name": "Listings"
+  },
+  {
+   "name": "Marketing"
+  },
+  {
+   "name": "Residential"
+  },
+  {
+   "name": "Short Sale"
+  },
+  {
+   "name": "Seller's agent"
+  }
+ ],
+ "experience": {
+  "first_year": "0",
+  "first_month": "January",
+  "label": null
+ },
+ "ratings_reviews": {
+  "average_rating": null,
+  "reviews_count": 0,
+  "recommendations_count": 0,
+  "combined_testimonials_and_reviews_count": 0
+ },
+ "served_areas": [
+  {
+   "name": "Austin",
+   "state_code": "TX"
+  },
+  {
+   "name": "Round Rock",
+   "state_code": "TX"
+  }
+ ],
+ "listing_stats": {
+  "combined_annual": {
+   "max": 400000,
+   "min": 160000
+  },
+  "for_sale": {
+   "count": 10,
+   "last_listing_date": "2026-09-03T21:41:50Z",
+   "min": 160000,
+   "max": 400000
+  },
+  "recently_sold": {
+   "count": 13,
+   "last_sold_date": "2026-10-22",
+   "min": null,
+   "max": null
+  },
+  "recently_sold_annual": {
+   "count": 8
+  },
+  "recently_sold_listing_details": {
+   "listings": [
+    {
+     "baths": 5,
+     "beds": 4,
+     "city": "Taylor",
+     "photo": "https://ap.rdcpix.com/528d150a28b4fa53d8d6efa0a4687ac3l-m390328704rd-w100_h67.jpg",
+     "state_code": "TX"
+    },
+    {
+     "baths": 3,
+     "beds": 4,
+     "city": "Austin",
+     "photo": "https://ap.rdcpix.com/8ecf7f2df3359d3164d6397bd1dc3bc0l-m1241807209rd-w100_h67.jpg",
+     "state_code": "TX"
+    },
+    {
+     "baths": 3,
+     "beds": 4,
+     "city": "Lockhart",
+     "photo": "https://ap.rdcpix.com/0ee79538646dea9216b1bd1e00983317l-m3290665501rd-w100_h67.jpg",
+     "state_code": "TX"
+    }
+   ],
+   "show_additional": true
+  }
+ },
+ "mls": [
+  {
+   "mls_set": "A-AUTX-510003",
+   "agent_id": "510003",
+   "id": "AUTX",
+   "primary": true,
+   "license_number": "0510003",
+   "inactivation_date": null,
+   "status": "A"
+  }
+ ],
+ "office": {
+  "name": "eXp Realty, LLC",
+  "phones": [
+   {
+    "type": "office",
+    "value": "(888) 519-7431"
+   }
+  ],
+  "website": null,
+  "address": {
+   "address_formatted_line_1": "9600 GREAT HILLS TRL",
+   "address_formatted_line_2": "AUSTIN, TX 78759",
+   "city": "AUSTIN",
+   "postal_code": "78759",
+   "state_code": "TX"
+  }
+ },
+ "phones": [
+  {
+   "type": "mobile",
+   "value": "(737) 205-1640"
+  }
+ ],
+ "license_number": "0510003",
+ "license_state": "TX",
+ "is_empty_profile": false,
+ "social_media": {
+  "facebook": {
+   "href": "https://www.facebook.com/knolly.williams"
+  },
+  "instagram": null,
+  "linkedin": null,
+  "tiktok": null,
+  "x": null,
+  "youtube": null
+ },
+ "about_video": {
+  "id": "https://storage.googleapis.com/msgsndr/EPuSIAVNtU5joBI7wNDD/media/6876789383bdce66b30882cd.mp4",
+  "source": "OTHER",
+  "url": "https://storage.googleapis.com/msgsndr/EPuSIAVNtU5joBI7wNDD/media/6876789383bdce66b30882cd.mp4"
+ },
+ "services": null,
+ "questions_and_answers": null
+}

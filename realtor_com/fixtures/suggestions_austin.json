@@ -1,0 +1,406 @@
+{
+ "geo_results": [
+  {
+   "type": "location",
+   "text": "Austin, TX",
+   "geo": {
+    "_id": "city:tx_austin",
+    "mpr_id": null,
+    "area_type": "city",
+    "city": "Austin",
+    "state_code": "TX",
+    "postal_code": null,
+    "county": null,
+    "slug_id": "Austin_TX",
+    "geo_id": "426c3033-22a7-50c7-ba07-1f2bb51db2d1",
+    "city_slug_id": null,
+    "centroid": {
+     "lat": 30.2986219,
+     "lon": -97.7541339
+    },
+    "street": null,
+    "line": null,
+    "school": null,
+    "school_district": null,
+    "neighborhood": null
+   }
+  },
+  {
+   "type": "location",
+   "text": "Austin, MN",
+   "geo": {
+    "_id": "city:mn_austin",
+    "mpr_id": null,
+    "area_type": "city",
+    "city": "Austin",
+    "state_code": "MN",
+    "postal_code": null,
+    "county": null,
+    "slug_id": "Austin_MN",
+    "geo_id": "e99d3faa-9c3a-5fb6-b10c-d1776dc22cb7",
+    "city_slug_id": null,
+    "centroid": {
+     "lat": 43.6720977,
+     "lon": -92.9778634
+    },
+    "street": null,
+    "line": null,
+    "school": null,
+    "school_district": null,
+    "neighborhood": null
+   }
+  },
+  {
+   "type": "location",
+   "text": "Austin, AR",
+   "geo": {
+    "_id": "city:ar_austin",
+    "mpr_id": null,
+    "area_type": "city",
+    "city": "Austin",
+    "state_code": "AR",
+    "postal_code": null,
+    "county": null,
+    "slug_id": "Austin_AR",
+    "geo_id": "8d7af455-c7fb-5701-a5b8-fa45901cf5bc",
+    "city_slug_id": null,
+    "centroid": {
+     "lat": 35.0059116,
+     "lon": -91.9896087
+    },
+    "street": null,
+    "line": null,
+    "school": null,
+    "school_district": null,
+    "neighborhood": null
+   }
+  },
+  {
+   "type": "location",
+   "text": "Austin, NV",
+   "geo": {
+    "_id": "city:nv_austin",
+    "mpr_id": null,
+    "area_type": "city",
+    "city": "Austin",
+    "state_code": "NV",
+    "postal_code": null,
+    "county": null,
+    "slug_id": "Austin_NV",
+    "geo_id": "11a7ad24-bd25-5562-85d5-380acd7c8723",
+    "city_slug_id": null,
+    "centroid": {
+     "lat": 39.4975352,
+     "lon": -117.0740094
+    },
+    "street": null,
+    "line": null,
+    "school": null,
+    "school_district": null,
+    "neighborhood": null
+   }
+  },
+  {
+   "type": "location",
+   "text": "Austin, PA",
+   "geo": {
+    "_id": "city:pa_austin",
+    "mpr_id": null,
+    "area_type": "city",
+    "city": "Austin",
+    "state_code": "PA",
+    "postal_code": null,
+    "county": null,
+    "slug_id": "Austin_PA",
+    "geo_id": "b3736078-f0d4-5b81-b18b-9c36b8f02664",
+    "city_slug_id": null,
+    "centroid": {
+     "lat": 41.6373062,
+     "lon": -78.0903354
+    },
+    "street": null,
+    "line": null,
+    "school": null,
+    "school_district": null,
+    "neighborhood": null
+   }
+  },
+  {
+   "type": "location",
+   "text": "Austin, IN",
+   "geo": {
+    "_id": "city:in_austin",
+    "mpr_id": null,
+    "area_type": "city",
+    "city": "Austin",
+    "state_code": "IN",
+    "postal_code": null,
+    "county": null,
+    "slug_id": "Austin_IN",
+    "geo_id": "aced7709-6103-53df-a8c3-c3bca1c0de79",
+    "city_slug_id": null,
+    "centroid": {
+     "lat": 38.7402437,
+     "lon": -85.8102712
+    },
+    "street": null,
+    "line": null,
+    "school": null,
+    "school_district": null,
+    "neighborhood": null
+   }
+  },
+  {
+   "type": "location",
+   "text": "Austin, CO",
+   "geo": {
+    "_id": "city:co_austin",
+    "mpr_id": null,
+    "area_type": "city",
+    "city": "Austin",
+    "state_code": "CO",
+    "postal_code": null,
+    "county": null,
+    "slug_id": "Austin_CO",
+    "geo_id": "4858844d-ae4a-5caa-b0d1-3e5b8686481e",
+    "city_slug_id": null,
+    "centroid": {
+     "lat": 38.79933529939214,
+     "lon": -107.95606316332994
+    },
+    "street": null,
+    "line": null,
+    "school": null,
+    "school_district": null,
+    "neighborhood": null
+   }
+  },
+  {
+   "type": "location",
+   "text": "Austin, KY",
+   "geo": {
+    "_id": "city:ky_austin",
+    "mpr_id": null,
+    "area_type": "city",
+    "city": "Austin",
+    "state_code": "KY",
+    "postal_code": null,
+    "county": null,
+    "slug_id": "Austin_KY",
+    "geo_id": "40fbb9ad-ff16-5e05-8b00-c10b67f8fc8a",
+    "city_slug_id": null,
+    "centroid": {
+     "lat": 36.820406235920494,
+     "lon": -85.99576705479501
+    },
+    "street": null,
+    "line": null,
+    "school": null,
+    "school_district": null,
+    "neighborhood": null
+   }
+  },
+  {
+   "type": "location",
+   "text": "Austin, UT",
+   "geo": {
+    "_id": "city:ut_austin",
+    "mpr_id": null,
+    "area_type": "city",
+    "city": "Austin",
+    "state_code": "UT",
+    "postal_code": null,
+    "county": null,
+    "slug_id": "Austin_UT",
+    "geo_id": "bc5c005d-c4ef-5378-a456-73fa95d27c3d",
+    "city_slug_id": null,
+    "centroid": {
+     "lat": 38.58023328538221,
+     "lon": -112.09827242007651
+    },
+    "street": null,
+    "line": null,
+    "school": null,
+    "school_district": null,
+    "neighborhood": null
+   }
+  },
+  {
+   "type": "location",
+   "text": "Austin, MO",
+   "geo": {
+    "_id": "city:mo_austin",
+    "mpr_id": null,
+    "area_type": "city",
+    "city": "Austin",
+    "state_code": "MO",
+    "postal_code": null,
+    "county": null,
+    "slug_id": "Austin_MO",
+    "geo_id": "64d0b340-cd93-500a-b755-1c63e90a22e1",
+    "city_slug_id": null,
+    "centroid": {
+     "lat": 38.5155747,
+     "lon": -94.3205498
+    },
+    "street": null,
+    "line": null,
+    "school": null,
+    "school_district": null,
+    "neighborhood": null
+   }
+  },
+  {
+   "type": "location",
+   "text": "Austintown, OH",
+   "geo": {
+    "_id": "city:oh_austintown",
+    "mpr_id": null,
+    "area_type": "city",
+    "city": "Austintown",
+    "state_code": "OH",
+    "postal_code": null,
+    "county": null,
+    "slug_id": "Austintown_OH",
+    "geo_id": "a1ce7655-41af-5793-b737-704cd52f3b42",
+    "city_slug_id": null,
+    "centroid": {
+     "lat": 41.0918766,
+     "lon": -80.7384219
+    },
+    "street": null,
+    "line": null,
+    "school": null,
+    "school_district": null,
+    "neighborhood": null
+   }
+  },
+  {
+   "type": "location",
+   "text": "Austin High School, Austin, TX",
+   "geo": {
+    "_id": "school:0768578861",
+    "mpr_id": null,
+    "area_type": "school",
+    "city": "Austin",
+    "state_code": "TX",
+    "postal_code": "78703",
+    "county": null,
+    "slug_id": "Austin-High-School-0768578861",
+    "geo_id": null,
+    "city_slug_id": "Austin_TX",
+    "centroid": {
+     "lat": 30.27375,
+     "lon": -97.76715
+    },
+    "street": null,
+    "line": "1715 West Cesar Chavez Street",
+    "school": "Austin High School",
+    "school_district": null,
+    "neighborhood": null
+   }
+  },
+  {
+   "type": "location",
+   "text": "Austinburg, OH",
+   "geo": {
+    "_id": "city:oh_austinburg",
+    "mpr_id": null,
+    "area_type": "city",
+    "city": "Austinburg",
+    "state_code": "OH",
+    "postal_code": null,
+    "county": null,
+    "slug_id": "Austinburg_OH",
+    "geo_id": "1345dabb-2509-5790-80df-e0765ea7f140",
+    "city_slug_id": null,
+    "centroid": {
+     "lat": 41.7691684,
+     "lon": -80.8556049
+    },
+    "street": null,
+    "line": null,
+    "school": null,
+    "school_district": null,
+    "neighborhood": null
+   }
+  },
+  {
+   "type": "location",
+   "text": "Austinville, VA",
+   "geo": {
+    "_id": "city:va_austinville",
+    "mpr_id": null,
+    "area_type": "city",
+    "city": "Austinville",
+    "state_code": "VA",
+    "postal_code": null,
+    "county": null,
+    "slug_id": "Austinville_VA",
+    "geo_id": "04a272fa-18c3-5697-8765-35daad8aa845",
+    "city_slug_id": null,
+    "centroid": {
+     "lat": 36.851018,
+     "lon": -80.9145066
+    },
+    "street": null,
+    "line": null,
+    "school": null,
+    "school_district": null,
+    "neighborhood": null
+   }
+  },
+  {
+   "type": "location",
+   "text": "Austin Presbyterian Theological Seminary, Austin, TX",
+   "geo": {
+    "_id": "university:00000001104483290748",
+    "mpr_id": null,
+    "area_type": "university",
+    "city": "Austin",
+    "state_code": "TX",
+    "postal_code": null,
+    "county": null,
+    "slug_id": "Austin-Presbyterian-Theological-Seminary-00000001104483290748",
+    "geo_id": null,
+    "city_slug_id": "Austin_TX",
+    "centroid": {
+     "lat": 30.2929856,
+     "lon": -97.737621
+    },
+    "street": null,
+    "line": null,
+    "school": null,
+    "school_district": null,
+    "neighborhood": null
+   }
+  },
+  {
+   "type": "location",
+   "text": "Austin College, Sherman, TX",
+   "geo": {
+    "_id": "university:00000001104476363731",
+    "mpr_id": null,
+    "area_type": "university",
+    "city": "Sherman",
+    "state_code": "TX",
+    "postal_code": null,
+    "county": null,
+    "slug_id": "Austin-College-00000001104476363731",
+    "geo_id": null,
+    "city_slug_id": "Sherman_TX",
+    "centroid": {
+     "lat": 33.6472899,
+     "lon": -96.5981079
+    },
+    "street": null,
+    "line": null,
+    "school": null,
+    "school_district": null,
+    "neighborhood": null
+   }
+  }
+ ],
+ "typeahead_results": [],
+ "has_results": true
+}

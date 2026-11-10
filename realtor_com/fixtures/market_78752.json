@@ -1,0 +1,25 @@
+{
+ "slug_id": "78752",
+ "state_code": "TX",
+ "centroid": {
+  "lat": 30.33193,
+  "lon": -97.70406
+ },
+ "geo_statistics": {
+  "housing_market": {
+   "median_listing_price": 395000,
+   "median_rent_price": 1269,
+   "median_sold_price": null,
+   "median_days_on_market": 89,
+   "median_price_per_sqft": 306,
+   "local_hotness_score": 39.534883721,
+   "national_hotness_score": 22.541789577,
+   "local_temperature": "warm",
+   "national_temperature": "cool",
+   "hot_market_badge": "Other",
+   "hot_market_rank": 12345,
+   "ratio_of_days_on_market_vs_typical_property_in_county": 4,
+   "ratio_of_ldp_views_vs_typical_property_in_county": 1.158254707213
+  }
+ }
+}

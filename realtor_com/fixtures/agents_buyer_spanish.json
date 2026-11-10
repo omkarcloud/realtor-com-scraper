@@ -1,0 +1,365 @@
+{
+ "agents": [
+  {
+   "id": "568002aa7e54f701001ecdb9",
+   "fulfillment_id": "1553081",
+   "fullname": "Gilbert Gonzalez",
+   "is_paid": false,
+   "is_realtor": true,
+   "display_ratings": true,
+   "has_rps": false,
+   "avatar": {
+    "url": "https://ap.rdcpix.com/2d18b2486c9f358f493b02c3b650277ca-e2242675840rd-w144_h144.jpg",
+    "initials": "GG"
+   },
+   "broker": {
+    "name": "eXp Realty, LLC",
+    "fulfillment_id": "100250952"
+   },
+   "office": {
+    "name": "eXp Realty, LLC"
+   },
+   "ratings_reviews": {
+    "average_rating": 5,
+    "recommendations_count": 19,
+    "reviews_count": 49,
+    "combined_testimonials_and_reviews_count": 68
+   },
+   "listing_stats": {
+    "combined_annual": {
+     "min": 324950,
+     "max": 444950
+    },
+    "for_sale": {
+     "count": 14,
+     "last_listing_date": "2026-10-26T21:24:53Z",
+     "min": 324950,
+     "max": 444950
+    },
+    "recently_sold_annual": {
+     "count": 13
+    },
+    "recently_sold_listing_details": {
+     "listings": [
+      {
+       "baths": 2,
+       "beds": 3,
+       "city": "Liberty Hill",
+       "photo": "https://ap.rdcpix.com/e16d171d541776d6f1d9c7095fcdcb90l-m3827937179rd-w100_h67.jpg",
+       "state_code": "TX"
+      },
+      {
+       "baths": 2,
+       "beds": 3,
+       "city": "Round Rock",
+       "photo": "https://ap.rdcpix.com/d2fe0987eaf8606815c70f619e7eae89l-m1820291638rd-w100_h67.jpg",
+       "state_code": "TX"
+      },
+      {
+       "baths": 3,
+       "beds": 5,
+       "city": "Cedar Park",
+       "photo": "https://ap.rdcpix.com/be194448ddf12a8f6e2d4647a6e0a125l-m1118441395rd-w100_h67.jpg",
+       "state_code": "TX"
+      }
+     ],
+     "show_additional": true
+    }
+   },
+   "experience": {
+    "first_year": "2009"
+   },
+   "services": null,
+   "sorting_weight": 60
+  },
+  {
+   "id": "5f6dda7b5ee2280011650e9f",
+   "fulfillment_id": "4148335",
+   "fullname": "Lauren Frank",
+   "is_paid": false,
+   "is_realtor": true,
+   "display_ratings": true,
+   "has_rps": false,
+   "avatar": {
+    "url": "https://ap.rdcpix.com/2077507afcbc6685bb1d7013493cb5d9r-c2369166313rd-w144_h144.jpg",
+    "initials": "LF"
+   },
+   "broker": {
+    "name": "MORELAND PROPERTIES",
+    "fulfillment_id": "711114"
+   },
+   "office": {
+    "name": "MORELAND PROPERTIES"
+   },
+   "ratings_reviews": {
+    "average_rating": 5,
+    "recommendations_count": 5,
+    "reviews_count": 48,
+    "combined_testimonials_and_reviews_count": 53
+   },
+   "listing_stats": {
+    "combined_annual": {
+     "min": 0,
+     "max": 0
+    },
+    "for_sale": {
+     "count": 1,
+     "last_listing_date": "2026-09-01T16:42:45Z",
+     "min": 485000,
+     "max": 485000
+    },
+    "recently_sold_annual": {
+     "count": 14
+    },
+    "recently_sold_listing_details": {
+     "listings": [
+      {
+       "baths": 3,
+       "beds": 4,
+       "city": "Austin",
+       "photo": "https://ap.rdcpix.com/344c145be10a82f0974c0dfb0d35ee8al-m2350180422rd-w100_h67.jpg",
+       "state_code": "TX"
+      },
+      {
+       "baths": 3,
+       "beds": 3,
+       "city": "Austin",
+       "photo": "https://ap.rdcpix.com/5df0f9bf8c174d5d058249f2c1ad3ed9l-m2060385426rd-w100_h67.jpg",
+       "state_code": "TX"
+      },
+      {
+       "baths": 4,
+       "beds": 4,
+       "city": "Austin",
+       "photo": "https://ap.rdcpix.com/b53c108dae2bd34897c001a59ca24a15l-m165174449rd-w100_h67.jpg",
+       "state_code": "TX"
+      }
+     ],
+     "show_additional": true
+    }
+   },
+   "experience": {
+    "first_year": "2019"
+   },
+   "services": null,
+   "sorting_weight": 60
+  },
+  {
+   "id": "56d6738cb5cc660100bd569a",
+   "fulfillment_id": "1923887",
+   "fullname": "Kathi Jesse, J.D.",
+   "is_paid": false,
+   "is_realtor": true,
+   "display_ratings": true,
+   "has_rps": false,
+   "avatar": {
+    "url": "https://ap.rdcpix.com/2bff5c79a1515f7a8b48d2979026ec27r-c2590347997rd-w144_h144.jpg",
+    "initials": "KJJ"
+   },
+   "broker": {
+    "name": "",
+    "fulfillment_id": "0"
+   },
+   "office": {
+    "name": "eXp Realty of Southern California, Inc"
+   },
+   "ratings_reviews": {
+    "average_rating": 5,
+    "recommendations_count": 14,
+    "reviews_count": 28,
+    "combined_testimonials_and_reviews_count": 42
+   },
+   "listing_stats": {
+    "combined_annual": {
+     "min": 270000,
+     "max": 2450000
+    },
+    "for_sale": {
+     "count": 2,
+     "last_listing_date": "2026-09-23T23:24:05Z",
+     "min": 389000,
+     "max": 624000
+    },
+    "recently_sold_annual": {
+     "count": 13
+    },
+    "recently_sold_listing_details": {
+     "listings": [
+      {
+       "baths": 3,
+       "beds": 3,
+       "city": "Cathedral City",
+       "photo": "https://ap.rdcpix.com/bd581081f958509cb4742bde175a2f65l-m3524822702rd-w100_h67.jpg",
+       "state_code": "CA"
+      },
+      {
+       "baths": 2,
+       "beds": 3,
+       "city": "Lake Forest",
+       "photo": "https://ap.rdcpix.com/9b760acef097b909338d6bf783d0b3fel-m3295921463rd-w100_h67.jpg",
+       "state_code": "CA"
+      },
+      {
+       "baths": 3,
+       "beds": 3,
+       "city": "Rancho Santa Margarita",
+       "photo": "https://ap.rdcpix.com/10585e64d8bd0b2d3550ba9efd1f90eal-m3993680248rd-w100_h67.jpg",
+       "state_code": "CA"
+      }
+     ],
+     "show_additional": true
+    }
+   },
+   "experience": {
+    "first_year": "1990"
+   },
+   "services": null,
+   "sorting_weight": 60
+  },
+  {
+   "id": "56bcd34b89a68901006d8bbb",
+   "fulfillment_id": "568714",
+   "fullname": "Roxanne Escobedo",
+   "is_paid": false,
+   "is_realtor": true,
+   "display_ratings": true,
+   "has_rps": false,
+   "avatar": {
+    "url": "https://ap.rdcpix.com/4ca9f9df0cc808ae729613f5931d14b2a-e2709557227rd-w144_h144.jpg",
+    "initials": "RE"
+   },
+   "broker": {
+    "name": "Coldwell Banker Realty",
+    "fulfillment_id": "0"
+   },
+   "office": {
+    "name": "Coldwell Banker Realty"
+   },
+   "ratings_reviews": {
+    "average_rating": 5,
+    "recommendations_count": 10,
+    "reviews_count": 25,
+    "combined_testimonials_and_reviews_count": 35
+   },
+   "listing_stats": {
+    "combined_annual": {
+     "min": 379900,
+     "max": 500000
+    },
+    "for_sale": {
+     "count": 3,
+     "last_listing_date": "2026-10-26T15:43:50Z",
+     "min": 379900,
+     "max": 500000
+    },
+    "recently_sold_annual": {
+     "count": 12
+    },
+    "recently_sold_listing_details": {
+     "listings": [
+      {
+       "baths": 2,
+       "beds": 3,
+       "city": "Round Rock",
+       "photo": "https://ap.rdcpix.com/1f1d5d29f88de40c1191921311fb621el-m2988891074rd-w100_h67.jpg",
+       "state_code": "TX"
+      },
+      {
+       "baths": 3,
+       "beds": 3,
+       "city": "Buda",
+       "photo": "https://ap.rdcpix.com/49b2de9c6a1a7abcefee1388c86fc71al-m1368685435rd-w100_h67.jpg",
+       "state_code": "TX"
+      },
+      {
+       "baths": 4,
+       "beds": 5,
+       "city": "Austin",
+       "photo": "https://ap.rdcpix.com/d4e3f380a04dbb493fd7caf074de8b48l-m4196460692rd-w100_h67.jpg",
+       "state_code": "TX"
+      }
+     ],
+     "show_additional": true
+    }
+   },
+   "experience": {
+    "first_year": "1997"
+   },
+   "services": null,
+   "sorting_weight": 50
+  },
+  {
+   "id": "5c78aad0da4aca0012b92bbb",
+   "fulfillment_id": "3703345",
+   "fullname": "Chris Hernandez",
+   "is_paid": false,
+   "is_realtor": true,
+   "display_ratings": true,
+   "has_rps": false,
+   "avatar": {
+    "url": "https://ap.rdcpix.com/365708e8b55899db1bf80204bb36ca93a-e1638529511rd-w144_h144.jpg",
+    "initials": "CH"
+   },
+   "broker": {
+    "name": "",
+    "fulfillment_id": "0"
+   },
+   "office": {
+    "name": ""
+   },
+   "ratings_reviews": {
+    "average_rating": 5,
+    "recommendations_count": 8,
+    "reviews_count": 24,
+    "combined_testimonials_and_reviews_count": 32
+   },
+   "listing_stats": {
+    "combined_annual": {
+     "min": 375000,
+     "max": 375000
+    },
+    "for_sale": {
+     "count": 1,
+     "last_listing_date": "2026-08-21T14:32:22Z",
+     "min": 375000,
+     "max": 375000
+    },
+    "recently_sold_annual": {
+     "count": 22
+    },
+    "recently_sold_listing_details": {
+     "listings": [
+      {
+       "baths": 3,
+       "beds": 4,
+       "city": "Round Rock",
+       "photo": "https://ap.rdcpix.com/448662cf88a994dbc3fc7f74965c51cdl-m47774906rd-w100_h67.jpg",
+       "state_code": "TX"
+      },
+      {
+       "baths": 3,
+       "beds": 2,
+       "city": "Austin",
+       "photo": "https://ap.rdcpix.com/e21b2fe61b693690f66606ea96a5c33bl-m1863838634rd-w100_h67.jpg",
+       "state_code": "TX"
+      },
+      {
+       "baths": 2,
+       "beds": 3,
+       "city": "Bastrop",
+       "photo": "https://ap.rdcpix.com/11eb8d4b464c87a2ef3214cf34588533l-m745102559rd-w100_h67.jpg",
+       "state_code": "TX"
+      }
+     ],
+     "show_additional": true
+    }
+   },
+   "experience": {
+    "first_year": "2019"
+   },
+   "services": null,
+   "sorting_weight": 50
+  }
+ ],
+ "matching_rows": 167
+}

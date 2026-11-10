@@ -1,0 +1,32 @@
+{
+ "data": {
+  "home": null
+ },
+ "errors": [
+  {
+   "message": "Home not found.",
+   "locations": [
+    {
+     "line": 1,
+     "column": 64
+    }
+   ],
+   "path": [
+    "home"
+   ],
+   "extensions": {
+    "code": "HOME_NOT_FOUND",
+    "message": "Home not found.",
+    "name": "HomeNotFound",
+    "time_thrown": "2026-11-07T10:09:51.247Z",
+    "data": {
+     "code": 404,
+     "error": "No data was returned by Homes API.",
+     "eCode": "HOME_NOT_FOUND",
+     "property_id": "1234567890"
+    },
+    "service": "content-subgraph"
+   }
+  }
+ ]
+}

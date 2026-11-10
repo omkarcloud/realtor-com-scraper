@@ -1,0 +1,1443 @@
+{
+ "count": 3,
+ "total": 3,
+ "results": [
+  {
+   "property_id": "9447422407",
+   "listing_id": "2970801321",
+   "permalink": "5500-Caprock-Summit-Dr_Austin_TX_78738_M94474-22407",
+   "href": "https://www.realtor.com/rentals/details/5500-Caprock-Summit-Dr_Austin_TX_78738_M94474-22407",
+   "status": "for_rent",
+   "mls_status": null,
+   "list_date": "2024-08-16T00:22:51.000000Z",
+   "last_update_date": "2026-11-05T03:15:26Z",
+   "last_status_change_date": null,
+   "pending_date": null,
+   "list_price": null,
+   "list_price_min": 1378,
+   "list_price_max": 4025,
+   "price_per_sqft": null,
+   "last_sold_price": null,
+   "last_sold_date": null,
+   "tags": [
+    "laundry_room",
+    "gated_community",
+    "pets_allowed",
+    "hardwood_floors",
+    "community_no_fee",
+    "swimming_pool",
+    "parking_garage",
+    "views",
+    "medicalcare"
+   ],
+   "flags": {
+    "is_coming_soon": null,
+    "is_contingent": null,
+    "is_garage_present": null,
+    "is_new_construction": null,
+    "is_pending": null,
+    "is_short_sale": null,
+    "is_foreclosure": null,
+    "is_senior_community": null,
+    "is_for_rent": true,
+    "is_deal_available": null,
+    "is_price_reduced": null,
+    "is_new_listing": false,
+    "is_subdivision": null,
+    "is_plan": null
+   },
+   "description": {
+    "type": "apartment",
+    "sub_type": null,
+    "name": "The Artesian at Bee Cave",
+    "beds": null,
+    "baths": null,
+    "baths_full": null,
+    "baths_half": null,
+    "baths_consolidated": null,
+    "sqft": null,
+    "lot_sqft": null,
+    "year_built": null,
+    "garage": null,
+    "stories": null
+   },
+   "location": {
+    "address": {
+     "line": "5500 Caprock Summit Dr",
+     "unit": null,
+     "city": "Bee Cave",
+     "state_code": "TX",
+     "postal_code": "78738",
+     "coordinate": {
+      "lat": 30.323248,
+      "lon": -98.014547
+     }
+    },
+    "county": {
+     "name": "Travis",
+     "fips_code": "48453"
+    },
+    "neighborhoods": null
+   },
+   "hoa": {
+    "fee": null
+   },
+   "source": {
+    "id": "ZILL",
+    "type": "community",
+    "name": "Zillow",
+    "listing_id": "4ve4jvd1qqdxs",
+    "agents": null
+   },
+   "primary_photo": {
+    "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f543643031s.jpg"
+   },
+   "photos": [
+    {
+     "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f543643031s.jpg"
+    },
+    {
+     "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f3665303134s.jpg"
+    },
+    {
+     "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f1326126500s.jpg"
+    },
+    {
+     "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f3294407304s.jpg"
+    },
+    {
+     "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f910613281s.jpg"
+    },
+    {
+     "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f1350073998s.jpg"
+    },
+    {
+     "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f1196444075s.jpg"
+    },
+    {
+     "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f2956140748s.jpg"
+    },
+    {
+     "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f1116148585s.jpg"
+    },
+    {
+     "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f3584469130s.jpg"
+    },
+    {
+     "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f333322965s.jpg"
+    },
+    {
+     "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f2127598843s.jpg"
+    },
+    {
+     "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f1304953161s.jpg"
+    },
+    {
+     "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f2316948924s.jpg"
+    },
+    {
+     "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f3888942978s.jpg"
+    },
+    {
+     "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f578376890s.jpg"
+    },
+    {
+     "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f3530036838s.jpg"
+    },
+    {
+     "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f2530412292s.jpg"
+    },
+    {
+     "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f703081972s.jpg"
+    },
+    {
+     "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f694969399s.jpg"
+    },
+    {
+     "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f1445858547s.jpg"
+    },
+    {
+     "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f2696181143s.jpg"
+    },
+    {
+     "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f2797758449s.jpg"
+    },
+    {
+     "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f3911484534s.jpg"
+    },
+    {
+     "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f326645698s.jpg"
+    },
+    {
+     "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f1705689860s.jpg"
+    },
+    {
+     "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f3273901480s.jpg"
+    },
+    {
+     "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f1366518139s.jpg"
+    },
+    {
+     "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f2484454198s.jpg"
+    },
+    {
+     "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f1920372939s.jpg"
+    },
+    {
+     "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f1619858629s.jpg"
+    },
+    {
+     "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f3289732559s.jpg"
+    },
+    {
+     "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f949284983s.jpg"
+    },
+    {
+     "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f2525042184s.jpg"
+    },
+    {
+     "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f177605777s.jpg"
+    },
+    {
+     "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f1501626839s.jpg"
+    },
+    {
+     "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f3072167899s.jpg"
+    },
+    {
+     "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f3004014905s.jpg"
+    },
+    {
+     "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f3442034808s.jpg"
+    },
+    {
+     "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f3069215331s.jpg"
+    },
+    {
+     "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f1493287399s.jpg"
+    },
+    {
+     "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f3096584958s.jpg"
+    },
+    {
+     "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f3460638256s.jpg"
+    },
+    {
+     "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f1169725818s.jpg"
+    },
+    {
+     "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f2076444915s.jpg"
+    },
+    {
+     "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f1246062438s.jpg"
+    },
+    {
+     "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f3138921144s.jpg"
+    },
+    {
+     "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f33184294s.jpg"
+    },
+    {
+     "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f3774727317s.jpg"
+    },
+    {
+     "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f2178025422s.jpg"
+    },
+    {
+     "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f3545807358s.jpg"
+    },
+    {
+     "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f269076487s.jpg"
+    },
+    {
+     "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f2458185137s.jpg"
+    },
+    {
+     "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f1493105884s.jpg"
+    },
+    {
+     "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f1114855696s.jpg"
+    },
+    {
+     "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f3494090904s.jpg"
+    },
+    {
+     "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f135105179s.jpg"
+    },
+    {
+     "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f2574598637s.jpg"
+    },
+    {
+     "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f202684820s.jpg"
+    },
+    {
+     "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f2790213396s.jpg"
+    },
+    {
+     "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f2857556176s.jpg"
+    },
+    {
+     "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f2342547107s.jpg"
+    },
+    {
+     "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f3696001052s.jpg"
+    },
+    {
+     "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f875686070s.jpg"
+    },
+    {
+     "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f2756991417s.jpg"
+    },
+    {
+     "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f64222656s.jpg"
+    },
+    {
+     "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f9198229s.jpg"
+    },
+    {
+     "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f1151478375s.jpg"
+    },
+    {
+     "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f181233889s.jpg"
+    },
+    {
+     "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f4006405969s.jpg"
+    },
+    {
+     "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f3881533882s.jpg"
+    },
+    {
+     "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f949863895s.jpg"
+    },
+    {
+     "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f1558097396s.jpg"
+    },
+    {
+     "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f1220402235s.jpg"
+    },
+    {
+     "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f3756138089s.jpg"
+    },
+    {
+     "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f1454811643s.jpg"
+    },
+    {
+     "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f2177465597s.jpg"
+    },
+    {
+     "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f2748794919s.jpg"
+    },
+    {
+     "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f1928902385s.jpg"
+    },
+    {
+     "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f2407807654s.jpg"
+    },
+    {
+     "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f616581228s.jpg"
+    },
+    {
+     "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f2402235401s.jpg"
+    },
+    {
+     "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f4267930476s.jpg"
+    },
+    {
+     "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f1273948575s.jpg"
+    },
+    {
+     "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f1328954601s.jpg"
+    },
+    {
+     "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f1760861184s.jpg"
+    },
+    {
+     "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f2298509615s.jpg"
+    },
+    {
+     "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f3054297631s.jpg"
+    },
+    {
+     "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f3736739269s.jpg"
+    },
+    {
+     "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f3388288331s.jpg"
+    },
+    {
+     "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f2337003829s.jpg"
+    },
+    {
+     "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f3156933183s.jpg"
+    },
+    {
+     "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f2527610735s.jpg"
+    },
+    {
+     "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f640584874s.jpg"
+    },
+    {
+     "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f2882796591s.jpg"
+    },
+    {
+     "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f3636624073s.jpg"
+    },
+    {
+     "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f2755712435s.jpg"
+    },
+    {
+     "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f2656267698s.jpg"
+    },
+    {
+     "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f2842370229s.jpg"
+    },
+    {
+     "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f3387989167s.jpg"
+    },
+    {
+     "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f4128447371s.jpg"
+    },
+    {
+     "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f913819374s.jpg"
+    },
+    {
+     "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f2940505075s.jpg"
+    },
+    {
+     "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f1356294575s.jpg"
+    },
+    {
+     "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f3117639290s.jpg"
+    },
+    {
+     "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f1479292454s.jpg"
+    },
+    {
+     "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f592559941s.jpg"
+    },
+    {
+     "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f3309120112s.jpg"
+    },
+    {
+     "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f3760040816s.jpg"
+    },
+    {
+     "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f387239051s.jpg"
+    },
+    {
+     "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f2143190140s.jpg"
+    },
+    {
+     "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f958929497s.jpg"
+    },
+    {
+     "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f2054165908s.jpg"
+    },
+    {
+     "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f345072698s.jpg"
+    },
+    {
+     "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f1302550166s.jpg"
+    },
+    {
+     "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f3511818654s.jpg"
+    },
+    {
+     "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f2469238175s.jpg"
+    },
+    {
+     "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f1855075913s.jpg"
+    },
+    {
+     "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f620182592s.jpg"
+    },
+    {
+     "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f74859796s.jpg"
+    },
+    {
+     "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f2687895927s.jpg"
+    },
+    {
+     "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f547770459s.jpg"
+    },
+    {
+     "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f3609359771s.jpg"
+    },
+    {
+     "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f702115883s.jpg"
+    },
+    {
+     "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f2374446916s.jpg"
+    },
+    {
+     "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f361232854s.jpg"
+    },
+    {
+     "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f86943579s.jpg"
+    },
+    {
+     "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f892483757s.jpg"
+    },
+    {
+     "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f2585754326s.jpg"
+    },
+    {
+     "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f1199138347s.jpg"
+    },
+    {
+     "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f1629344947s.jpg"
+    },
+    {
+     "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f2425486468s.jpg"
+    },
+    {
+     "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f1007994292s.jpg"
+    },
+    {
+     "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f1057427554s.jpg"
+    },
+    {
+     "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f2343749375s.jpg"
+    },
+    {
+     "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f3780061587s.jpg"
+    },
+    {
+     "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f1512393696s.jpg"
+    },
+    {
+     "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f1390015108s.jpg"
+    },
+    {
+     "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f4069254691s.jpg"
+    }
+   ],
+   "open_houses": null,
+   "virtual_tours": null,
+   "advertisers": [
+    {
+     "type": "management",
+     "name": "Zillow",
+     "fulfillment_id": "100463603",
+     "email": null,
+     "nrds_id": null,
+     "state_license": null,
+     "phones": null,
+     "office": {
+      "name": "EMBREY",
+      "email": "rentalservice@move.com",
+      "fulfillment_id": null,
+      "href": null,
+      "phones": [
+       {
+        "number": null,
+        "type": "office"
+       },
+       {
+        "number": "2546154963",
+        "type": "primary"
+       }
+      ]
+     },
+     "broker": null,
+     "builder": null
+    },
+    {
+     "type": "community",
+     "name": "Zillow",
+     "fulfillment_id": "100463603",
+     "email": null,
+     "nrds_id": null,
+     "state_license": null,
+     "phones": null,
+     "office": {
+      "name": "The Artesian at Bee Cave",
+      "email": null,
+      "fulfillment_id": null,
+      "href": "https://www.zillow.com/b/-CkNjcT",
+      "phones": [
+       {
+        "number": "2546154963",
+        "type": "office"
+       }
+      ]
+     },
+     "broker": null,
+     "builder": null
+    }
+   ],
+   "current_estimates": [],
+   "pet_policy": {
+    "cats": true,
+    "dogs": true,
+    "dogs_small": false,
+    "dogs_large": false
+   },
+   "units": [
+    {
+     "list_price": 2410,
+     "availability": {
+      "date": "2026-09-27"
+     },
+     "description": {
+      "beds": 1,
+      "baths": 1,
+      "baths_consolidated": null,
+      "sqft": 885
+     }
+    },
+    {
+     "list_price": 3485,
+     "availability": {
+      "date": "2026-08-19"
+     },
+     "description": {
+      "beds": 3,
+      "baths": 2,
+      "baths_consolidated": null,
+      "sqft": 1519
+     }
+    },
+    {
+     "list_price": 2020,
+     "availability": {
+      "date": "2026-10-14"
+     },
+     "description": {
+      "beds": 1,
+      "baths": 1,
+      "baths_consolidated": null,
+      "sqft": 790
+     }
+    },
+    {
+     "list_price": 2087,
+     "availability": {
+      "date": "2026-09-30"
+     },
+     "description": {
+      "beds": 1,
+      "baths": 1,
+      "baths_consolidated": null,
+      "sqft": 944
+     }
+    },
+    {
+     "list_price": 1875,
+     "availability": {
+      "date": "2026-10-18"
+     },
+     "description": {
+      "beds": 1,
+      "baths": 1,
+      "baths_consolidated": null,
+      "sqft": 854
+     }
+    },
+    {
+     "list_price": 3380,
+     "availability": {
+      "date": "2027-02-06"
+     },
+     "description": {
+      "beds": 3,
+      "baths": 2,
+      "baths_consolidated": null,
+      "sqft": 1652
+     }
+    },
+    {
+     "list_price": 1378,
+     "availability": {
+      "date": "2026-07-07"
+     },
+     "description": {
+      "beds": 1,
+      "baths": 1,
+      "baths_consolidated": null,
+      "sqft": 619
+     }
+    },
+    {
+     "list_price": 1572,
+     "availability": {
+      "date": "2026-06-12"
+     },
+     "description": {
+      "beds": 1,
+      "baths": 1,
+      "baths_consolidated": null,
+      "sqft": 621
+     }
+    },
+    {
+     "list_price": 1625,
+     "availability": {
+      "date": "2025-10-03"
+     },
+     "description": {
+      "beds": 1,
+      "baths": 1,
+      "baths_consolidated": null,
+      "sqft": 765
+     }
+    },
+    {
+     "list_price": 1751,
+     "availability": {
+      "date": "2026-07-04"
+     },
+     "description": {
+      "beds": 1,
+      "baths": 1,
+      "baths_consolidated": null,
+      "sqft": 863
+     }
+    },
+    {
+     "list_price": 2200,
+     "availability": {
+      "date": "2026-06-12"
+     },
+     "description": {
+      "beds": 2,
+      "baths": 2,
+      "baths_consolidated": null,
+      "sqft": 1024
+     }
+    },
+    {
+     "list_price": 2385,
+     "availability": {
+      "date": "2026-07-19"
+     },
+     "description": {
+      "beds": 2,
+      "baths": 2,
+      "baths_consolidated": null,
+      "sqft": 1092
+     }
+    },
+    {
+     "list_price": 2409,
+     "availability": {
+      "date": "2025-08-19"
+     },
+     "description": {
+      "beds": 2,
+      "baths": 2,
+      "baths_consolidated": null,
+      "sqft": 1137
+     }
+    },
+    {
+     "list_price": 3010,
+     "availability": {
+      "date": "2026-09-26"
+     },
+     "description": {
+      "beds": 2,
+      "baths": 2,
+      "baths_consolidated": null,
+      "sqft": 1224
+     }
+    },
+    {
+     "list_price": 3280,
+     "availability": {
+      "date": "2026-12-29"
+     },
+     "description": {
+      "beds": 3,
+      "baths": 2,
+      "baths_consolidated": null,
+      "sqft": 1602
+     }
+    },
+    {
+     "list_price": 2462,
+     "availability": {
+      "date": "2026-09-26"
+     },
+     "description": {
+      "beds": 2,
+      "baths": 2,
+      "baths_consolidated": null,
+      "sqft": 1102
+     }
+    },
+    {
+     "list_price": 2661,
+     "availability": {
+      "date": "2026-07-06"
+     },
+     "description": {
+      "beds": 2,
+      "baths": 2,
+      "baths_consolidated": null,
+      "sqft": 1186
+     }
+    },
+    {
+     "list_price": 4025,
+     "availability": {
+      "date": "2026-12-14"
+     },
+     "description": {
+      "beds": 3,
+      "baths": 2.5,
+      "baths_consolidated": null,
+      "sqft": 1959
+     }
+    },
+    {
+     "list_price": 2209,
+     "availability": {
+      "date": "2025-02-01"
+     },
+     "description": {
+      "beds": 1,
+      "baths": 1,
+      "baths_consolidated": null,
+      "sqft": 1037
+     }
+    }
+   ],
+   "tax_record": {
+    "apn": null,
+    "tax_parcel_id": null
+   }
+  },
+  {
+   "property_id": "8102930727",
+   "listing_id": "2991781467",
+   "permalink": "1704-Shelbourne-Dr_Austin_TX_78752_M81029-30727",
+   "href": "https://www.realtor.com/realestateandhomes-detail/1704-Shelbourne-Dr_Austin_TX_78752_M81029-30727",
+   "status": "for_sale",
+   "mls_status": "Active",
+   "list_date": "2026-02-21T14:21:38.000000Z",
+   "last_update_date": "2026-11-03T13:04:11Z",
+   "last_status_change_date": "2026-02-21T14:21:38Z",
+   "pending_date": null,
+   "list_price": 400000,
+   "list_price_min": null,
+   "list_price_max": null,
+   "price_per_sqft": 257,
+   "last_sold_price": null,
+   "last_sold_date": "2022-10-21",
+   "tags": [
+    "central_air",
+    "central_heat",
+    "community_outdoor_space",
+    "community_security_features",
+    "dishwasher",
+    "fireplace",
+    "hardwood_floors",
+    "laundry_room",
+    "view",
+    "washer_dryer",
+    "swimming_pool",
+    "single_story",
+    "garage_1_or_more",
+    "garage_2_or_more",
+    "open_concept_living",
+    "home_office",
+    "office",
+    "exercise_room"
+   ],
+   "flags": {
+    "is_coming_soon": null,
+    "is_contingent": null,
+    "is_garage_present": true,
+    "is_new_construction": null,
+    "is_pending": null,
+    "is_short_sale": true,
+    "is_foreclosure": null,
+    "is_senior_community": null,
+    "is_for_rent": null,
+    "is_deal_available": null,
+    "is_price_reduced": null,
+    "is_new_listing": false,
+    "is_subdivision": null,
+    "is_plan": null
+   },
+   "description": {
+    "type": "single_family",
+    "sub_type": null,
+    "name": null,
+    "beds": 3,
+    "baths": 2,
+    "baths_full": 2,
+    "baths_half": null,
+    "baths_consolidated": "2",
+    "sqft": 1556,
+    "lot_sqft": 9561,
+    "year_built": 1969,
+    "garage": 2,
+    "stories": 1
+   },
+   "location": {
+    "address": {
+     "line": "1704 Shelbourne Dr",
+     "unit": null,
+     "city": "Austin",
+     "state_code": "TX",
+     "postal_code": "78752",
+     "coordinate": {
+      "lat": 30.327864,
+      "lon": -97.683779
+     }
+    },
+    "county": {
+     "name": "Travis",
+     "fips_code": "48453"
+    },
+    "neighborhoods": null
+   },
+   "hoa": {
+    "fee": 0
+   },
+   "source": {
+    "id": "AUTX",
+    "type": "mls",
+    "name": "UnlockMLS",
+    "listing_id": "3401964",
+    "agents": [
+     {
+      "agent_name": null,
+      "agent_id": "510003",
+      "office_name": "eXp Realty, LLC",
+      "office_id": "702963"
+     }
+    ]
+   },
+   "primary_photo": {
+    "href": "https://ap.rdcpix.com/d35f307687bd662693dfc1958f2a9e63l-m4003346858s.jpg"
+   },
+   "photos": [
+    {
+     "href": "https://ap.rdcpix.com/d35f307687bd662693dfc1958f2a9e63l-m4003346858s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/d35f307687bd662693dfc1958f2a9e63l-m620270851s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/d35f307687bd662693dfc1958f2a9e63l-m3183099925s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/d35f307687bd662693dfc1958f2a9e63l-m1863049190s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/d35f307687bd662693dfc1958f2a9e63l-m2862359800s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/d35f307687bd662693dfc1958f2a9e63l-m3350845468s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/d35f307687bd662693dfc1958f2a9e63l-m1874743239s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/d35f307687bd662693dfc1958f2a9e63l-m932535787s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/d35f307687bd662693dfc1958f2a9e63l-m3427936412s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/d35f307687bd662693dfc1958f2a9e63l-m1940336988s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/d35f307687bd662693dfc1958f2a9e63l-m3831059981s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/d35f307687bd662693dfc1958f2a9e63l-m628135934s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/d35f307687bd662693dfc1958f2a9e63l-m2194611085s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/d35f307687bd662693dfc1958f2a9e63l-m38510867s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/d35f307687bd662693dfc1958f2a9e63l-m1037044971s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/d35f307687bd662693dfc1958f2a9e63l-m4242193620s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/d35f307687bd662693dfc1958f2a9e63l-m2955624456s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/d35f307687bd662693dfc1958f2a9e63l-m860072490s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/d35f307687bd662693dfc1958f2a9e63l-m1591285347s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/d35f307687bd662693dfc1958f2a9e63l-m438036259s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/d35f307687bd662693dfc1958f2a9e63l-m1548132139s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/d35f307687bd662693dfc1958f2a9e63l-m1814913221s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/d35f307687bd662693dfc1958f2a9e63l-m4124081818s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/d35f307687bd662693dfc1958f2a9e63l-m1762727775s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/d35f307687bd662693dfc1958f2a9e63l-m27296118s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/d35f307687bd662693dfc1958f2a9e63l-m2782134172s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/d35f307687bd662693dfc1958f2a9e63l-m88964862s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/d35f307687bd662693dfc1958f2a9e63l-m2116893584s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/d35f307687bd662693dfc1958f2a9e63l-m3094027538s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/d35f307687bd662693dfc1958f2a9e63l-m3833927024s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/d35f307687bd662693dfc1958f2a9e63l-m1340389571s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/d35f307687bd662693dfc1958f2a9e63l-m943391462s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/d35f307687bd662693dfc1958f2a9e63l-m1340389571s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/d35f307687bd662693dfc1958f2a9e63l-m582651802s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/d35f307687bd662693dfc1958f2a9e63l-m292886547s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/d35f307687bd662693dfc1958f2a9e63l-m1377787208s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/d35f307687bd662693dfc1958f2a9e63l-m2821329280s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/d35f307687bd662693dfc1958f2a9e63l-m1077284350s.jpg"
+    }
+   ],
+   "open_houses": null,
+   "virtual_tours": null,
+   "advertisers": [
+    {
+     "type": "seller",
+     "name": "Knolly Williams",
+     "fulfillment_id": "184731",
+     "email": "knolly@knolly.com",
+     "nrds_id": "803000355",
+     "state_license": null,
+     "phones": [
+      {
+       "number": "7372051640",
+       "type": "Mobile",
+       "primary": true,
+       "ext": null
+      }
+     ],
+     "office": {
+      "name": "eXp Realty, LLC",
+      "email": "linda.marcus@exprealty.com",
+      "fulfillment_id": "100250955",
+      "href": null,
+      "phones": [
+       {
+        "number": "8885197431",
+        "type": "Office"
+       }
+      ]
+     },
+     "broker": {
+      "name": "eXp Realty, LLC",
+      "fulfillment_id": "100250952"
+     },
+     "builder": null
+    }
+   ],
+   "current_estimates": [
+    {
+     "estimate": 391000,
+     "estimate_high": 430100,
+     "estimate_low": 351900,
+     "date": "2026-10-14",
+     "isbest_homevalue": true,
+     "source": {
+      "type": "collateral",
+      "name": "Collateral Analytics"
+     }
+    },
+    {
+     "estimate": 380000,
+     "estimate_high": 406400,
+     "estimate_low": 353700,
+     "date": "2026-10-05",
+     "isbest_homevalue": false,
+     "source": {
+      "type": "corelogic",
+      "name": "Cotality™"
+     }
+    },
+    {
+     "estimate": 546437,
+     "estimate_high": 612009,
+     "estimate_low": 480864,
+     "date": "2026-10-28",
+     "isbest_homevalue": false,
+     "source": {
+      "type": "quantarium",
+      "name": "Quantarium"
+     }
+    }
+   ],
+   "pet_policy": null,
+   "units": null,
+   "tax_record": {
+    "apn": null,
+    "tax_parcel_id": null
+   }
+  },
+  {
+   "property_id": "7420506606",
+   "listing_id": "2994348138",
+   "permalink": "14300-Fallen-Timber-Dr_Austin_TX_78734_M74205-06606",
+   "href": "https://www.realtor.com/realestateandhomes-detail/14300-Fallen-Timber-Dr_Austin_TX_78734_M74205-06606",
+   "status": "for_sale",
+   "mls_status": "Active",
+   "list_date": "2026-04-21T16:39:50.000000Z",
+   "last_update_date": "2026-10-30T15:36:11Z",
+   "last_status_change_date": "2026-10-23T19:22:59Z",
+   "pending_date": null,
+   "list_price": 699000,
+   "list_price_min": null,
+   "list_price_max": null,
+   "price_per_sqft": 61,
+   "last_sold_price": null,
+   "last_sold_date": null,
+   "tags": [
+    "cul_de_sac",
+    "dishwasher",
+    "fireplace",
+    "two_or_more_stories",
+    "garage_1_or_more",
+    "garage_2_or_more",
+    "garage_3_or_more",
+    "open_floor_plan",
+    "floor_plan",
+    "views",
+    "open_concept_floor_plan",
+    "den",
+    "patio"
+   ],
+   "flags": {
+    "is_coming_soon": null,
+    "is_contingent": null,
+    "is_garage_present": true,
+    "is_new_construction": null,
+    "is_pending": true,
+    "is_short_sale": null,
+    "is_foreclosure": true,
+    "is_senior_community": null,
+    "is_for_rent": null,
+    "is_deal_available": null,
+    "is_price_reduced": true,
+    "is_new_listing": false,
+    "is_subdivision": null,
+    "is_plan": null
+   },
+   "description": {
+    "type": "single_family",
+    "sub_type": null,
+    "name": null,
+    "beds": 7,
+    "baths": 5,
+    "baths_full": 5,
+    "baths_half": null,
+    "baths_consolidated": "5",
+    "sqft": 11486,
+    "lot_sqft": 129373,
+    "year_built": 2021,
+    "garage": 4,
+    "stories": 2
+   },
+   "location": {
+    "address": {
+     "line": "14300 Fallen Timber Dr",
+     "unit": null,
+     "city": "Austin",
+     "state_code": "TX",
+     "postal_code": "78734",
+     "coordinate": {
+      "lat": 30.39303,
+      "lon": -97.912794
+     }
+    },
+    "county": {
+     "name": "Travis",
+     "fips_code": "48453"
+    },
+    "neighborhoods": null
+   },
+   "hoa": {
+    "fee": 0
+   },
+   "source": {
+    "id": "AUTX",
+    "type": "mls",
+    "name": "UnlockMLS",
+    "listing_id": "6949378",
+    "agents": [
+     {
+      "agent_name": null,
+      "agent_id": "699728",
+      "office_name": "eXp Realty, LLC",
+      "office_id": "702963"
+     },
+     {
+      "agent_name": null,
+      "agent_id": "755467",
+      "office_name": "eXp Realty, LLC",
+      "office_id": "ACT111730170"
+     }
+    ]
+   },
+   "primary_photo": {
+    "href": "https://ap.rdcpix.com/2d85f535a2788bc144d193b7f4ffeb6el-m153670183s.jpg"
+   },
+   "photos": [
+    {
+     "href": "https://ap.rdcpix.com/2d85f535a2788bc144d193b7f4ffeb6el-m153670183s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/2d85f535a2788bc144d193b7f4ffeb6el-m4270389586s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/2d85f535a2788bc144d193b7f4ffeb6el-m56723872s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/2d85f535a2788bc144d193b7f4ffeb6el-m2558044881s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/2d85f535a2788bc144d193b7f4ffeb6el-m1901716992s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/2d85f535a2788bc144d193b7f4ffeb6el-m1297455457s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/2d85f535a2788bc144d193b7f4ffeb6el-m1706952816s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/2d85f535a2788bc144d193b7f4ffeb6el-m1533859874s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/2d85f535a2788bc144d193b7f4ffeb6el-m490587962s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/2d85f535a2788bc144d193b7f4ffeb6el-m3340643734s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/2d85f535a2788bc144d193b7f4ffeb6el-m1621627328s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/2d85f535a2788bc144d193b7f4ffeb6el-m1066014660s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/2d85f535a2788bc144d193b7f4ffeb6el-m3248176413s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/2d85f535a2788bc144d193b7f4ffeb6el-m2089392359s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/2d85f535a2788bc144d193b7f4ffeb6el-m3970075776s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/2d85f535a2788bc144d193b7f4ffeb6el-m2546675128s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/2d85f535a2788bc144d193b7f4ffeb6el-m272833090s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/2d85f535a2788bc144d193b7f4ffeb6el-m1917601357s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/2d85f535a2788bc144d193b7f4ffeb6el-m1483692201s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/2d85f535a2788bc144d193b7f4ffeb6el-m2487859934s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/2d85f535a2788bc144d193b7f4ffeb6el-m2937819859s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/2d85f535a2788bc144d193b7f4ffeb6el-m4248792365s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/2d85f535a2788bc144d193b7f4ffeb6el-m2696578317s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/2d85f535a2788bc144d193b7f4ffeb6el-m2976135445s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/2d85f535a2788bc144d193b7f4ffeb6el-m1856554072s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/2d85f535a2788bc144d193b7f4ffeb6el-m276551585s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/2d85f535a2788bc144d193b7f4ffeb6el-m1447075955s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/2d85f535a2788bc144d193b7f4ffeb6el-m615403734s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/2d85f535a2788bc144d193b7f4ffeb6el-m3670946308s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/2d85f535a2788bc144d193b7f4ffeb6el-m1029845243s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/2d85f535a2788bc144d193b7f4ffeb6el-m3538341688s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/2d85f535a2788bc144d193b7f4ffeb6el-m3455701761s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/2d85f535a2788bc144d193b7f4ffeb6el-m627379099s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/2d85f535a2788bc144d193b7f4ffeb6el-m462863641s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/2d85f535a2788bc144d193b7f4ffeb6el-m630080408s.jpg"
+    }
+   ],
+   "open_houses": null,
+   "virtual_tours": [
+    {
+     "href": "https://www.propertypanorama.com/instaview/aus/6949378",
+     "type": null
+    }
+   ],
+   "advertisers": [
+    {
+     "type": "seller",
+     "name": "Crystal Dominick",
+     "fulfillment_id": "3927260",
+     "email": "cd4homes@gmail.com",
+     "nrds_id": null,
+     "state_license": null,
+     "phones": [
+      {
+       "number": "9155943034",
+       "type": "BUSINESS_PHONE",
+       "primary": true,
+       "ext": null
+      }
+     ],
+     "office": {
+      "name": "eXp Realty, LLC",
+      "email": "linda.marcus@exprealty.com",
+      "fulfillment_id": "100250955",
+      "href": null,
+      "phones": [
+       {
+        "number": "8885197431",
+        "type": "Office"
+       }
+      ]
+     },
+     "broker": {
+      "name": null,
+      "fulfillment_id": "0"
+     },
+     "builder": null
+    },
+    {
+     "type": "co_seller",
+     "name": "Francisco Lopez",
+     "fulfillment_id": "4390928",
+     "email": "jflopezlehman@gmail.com",
+     "nrds_id": null,
+     "state_license": null,
+     "phones": [
+      {
+       "number": "3172895924",
+       "type": "BUSINESS_MOBILE",
+       "primary": true,
+       "ext": null
+      }
+     ],
+     "office": {
+      "name": "eXp Realty, LLC",
+      "email": "linda.marcus@exprealty.com",
+      "fulfillment_id": "100250955",
+      "href": null,
+      "phones": [
+       {
+        "number": "8885197431",
+        "type": "Office"
+       }
+      ]
+     },
+     "broker": {
+      "name": "eXp Realty, LLC",
+      "fulfillment_id": "100250952"
+     },
+     "builder": null
+    }
+   ],
+   "current_estimates": [
+    {
+     "estimate": 3372997,
+     "estimate_high": 4047596,
+     "estimate_low": 2698397,
+     "date": "2026-10-28",
+     "isbest_homevalue": true,
+     "source": {
+      "type": "quantarium",
+      "name": "Quantarium"
+     }
+    },
+    {
+     "estimate": 959200,
+     "estimate_high": 1083400,
+     "estimate_low": 835000,
+     "date": "2026-10-05",
+     "isbest_homevalue": false,
+     "source": {
+      "type": "corelogic",
+      "name": "Cotality™"
+     }
+    },
+    {
+     "estimate": 4404000,
+     "estimate_high": 5240800,
+     "estimate_low": 3567200,
+     "date": "2026-10-14",
+     "isbest_homevalue": false,
+     "source": {
+      "type": "collateral",
+      "name": "Collateral Analytics"
+     }
+    }
+   ],
+   "pet_policy": null,
+   "units": null,
+   "tax_record": {
+    "apn": null,
+    "tax_parcel_id": null
+   }
+  }
+ ]
+}

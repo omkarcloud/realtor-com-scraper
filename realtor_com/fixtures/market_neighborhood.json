@@ -1,0 +1,25 @@
+{
+ "slug_id": "Zilker_Austin_TX",
+ "state_code": "TX",
+ "centroid": {
+  "lat": 30.255589,
+  "lon": -97.768172
+ },
+ "geo_statistics": {
+  "housing_market": {
+   "median_listing_price": 799000,
+   "median_rent_price": 1998,
+   "median_sold_price": null,
+   "median_days_on_market": 91,
+   "median_price_per_sqft": 555,
+   "local_hotness_score": 16.993464052,
+   "national_hotness_score": 13.232195533,
+   "local_temperature": "very_cool",
+   "national_temperature": "very_cool",
+   "hot_market_badge": "Other",
+   "hot_market_rank": 13507,
+   "ratio_of_days_on_market_vs_typical_property_in_county": 5.75,
+   "ratio_of_ldp_views_vs_typical_property_in_county": 0.76135709928
+  }
+ }
+}

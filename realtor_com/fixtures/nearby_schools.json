@@ -1,0 +1,521 @@
+{
+ "property_id": "8102930727",
+ "nearby_schools": {
+  "schools": [
+   {
+    "id": "0768579641",
+    "name": "Northeast Early College High School",
+    "rating": 3,
+    "distance_in_miles": 0.5,
+    "education_levels": [
+     "high"
+    ],
+    "funding_type": "public",
+    "student_count": 972,
+    "grades": [
+     "9",
+     "10",
+     "11",
+     "12"
+    ],
+    "parent_rating": 5,
+    "assigned": true,
+    "coordinate": {
+     "lat": 30.324103,
+     "lon": -97.689995
+    },
+    "district": {
+     "id": "06211430211",
+     "name": "Austin Independent School District"
+    }
+   },
+   {
+    "id": "0768578851",
+    "name": "Andrews Elementary School",
+    "rating": 3,
+    "distance_in_miles": 0.8,
+    "education_levels": [
+     "elementary"
+    ],
+    "funding_type": "public",
+    "student_count": 308,
+    "grades": [
+     "K",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5"
+    ],
+    "parent_rating": 3,
+    "assigned": true,
+    "coordinate": {
+     "lat": 30.317405,
+     "lon": -97.67985
+    },
+    "district": {
+     "id": "06211430211",
+     "name": "Austin Independent School District"
+    }
+   },
+   {
+    "id": "0768579901",
+    "name": "Webb Middle School",
+    "rating": 2,
+    "distance_in_miles": 1.4,
+    "education_levels": [
+     "middle"
+    ],
+    "funding_type": "public",
+    "student_count": 502,
+    "grades": [
+     "6",
+     "7",
+     "8"
+    ],
+    "parent_rating": 4,
+    "assigned": true,
+    "coordinate": {
+     "lat": 30.332714,
+     "lon": -97.706685
+    },
+    "district": {
+     "id": "06211430211",
+     "name": "Austin Independent School District"
+    }
+   },
+   {
+    "id": "0768938761",
+    "name": "Austin Achieve Northeast Campus",
+    "rating": 2,
+    "distance_in_miles": 0.4,
+    "education_levels": [
+     "elementary"
+    ],
+    "funding_type": "public",
+    "student_count": 839,
+    "grades": [
+     "K",
+     "1",
+     "2",
+     "3",
+     "4"
+    ],
+    "parent_rating": null,
+    "assigned": null,
+    "coordinate": {
+     "lat": 30.325217,
+     "lon": -97.678295
+    },
+    "district": {
+     "id": "06211448441",
+     "name": "Austin Achieve Public Schools"
+    }
+   },
+   {
+    "id": "0768945041",
+    "name": "Austin Achieve High School",
+    "rating": 5,
+    "distance_in_miles": 0.4,
+    "education_levels": [
+     "high"
+    ],
+    "funding_type": "public",
+    "student_count": 581,
+    "grades": [
+     "9",
+     "10",
+     "11",
+     "12"
+    ],
+    "parent_rating": null,
+    "assigned": null,
+    "coordinate": {
+     "lat": 30.326178,
+     "lon": -97.676886
+    },
+    "district": {
+     "id": "06211448441",
+     "name": "Austin Achieve Public Schools"
+    }
+   },
+   {
+    "id": "0768724711",
+    "name": "International High School",
+    "rating": 1,
+    "distance_in_miles": 0.5,
+    "education_levels": [
+     "high"
+    ],
+    "funding_type": "public",
+    "student_count": 213,
+    "grades": [
+     "9",
+     "10"
+    ],
+    "parent_rating": 4,
+    "assigned": null,
+    "coordinate": {
+     "lat": 30.324027,
+     "lon": -97.691403
+    },
+    "district": {
+     "id": "06211430211",
+     "name": "Austin Independent School District"
+    }
+   },
+   {
+    "id": "0768724341",
+    "name": "KIPP Austin College Prep",
+    "rating": 4,
+    "distance_in_miles": 0.6,
+    "education_levels": [
+     "elementary",
+     "middle"
+    ],
+    "funding_type": "public",
+    "student_count": 465,
+    "grades": [
+     "5",
+     "6",
+     "7",
+     "8"
+    ],
+    "parent_rating": 3,
+    "assigned": null,
+    "coordinate": {
+     "lat": 30.33579,
+     "lon": -97.686067
+    },
+    "district": {
+     "id": "06211447441",
+     "name": "KIPP Texas Public Schools"
+    }
+   },
+   {
+    "id": "0768862841",
+    "name": "KIPP Austin Comunidad",
+    "rating": 4,
+    "distance_in_miles": 0.6,
+    "education_levels": [
+     "elementary"
+    ],
+    "funding_type": "public",
+    "student_count": 513,
+    "grades": [
+     "K",
+     "1",
+     "2",
+     "3",
+     "4"
+    ],
+    "parent_rating": 5,
+    "assigned": null,
+    "coordinate": {
+     "lat": 30.335809,
+     "lon": -97.686697
+    },
+    "district": {
+     "id": "06211447441",
+     "name": "KIPP Texas Public Schools"
+    }
+   },
+   {
+    "id": "0768744251",
+    "name": "KIPP Austin Collegiate",
+    "rating": 5,
+    "distance_in_miles": 0.6,
+    "education_levels": [
+     "high"
+    ],
+    "funding_type": "public",
+    "student_count": 836,
+    "grades": [
+     "9",
+     "10",
+     "11",
+     "12"
+    ],
+    "parent_rating": 3,
+    "assigned": null,
+    "coordinate": {
+     "lat": 30.336516,
+     "lon": -97.686705
+    },
+    "district": {
+     "id": "06211447441",
+     "name": "KIPP Texas Public Schools"
+    }
+   },
+   {
+    "id": "0768702021",
+    "name": "Pickle Elementary School",
+    "rating": 2,
+    "distance_in_miles": 0.7,
+    "education_levels": [
+     "elementary"
+    ],
+    "funding_type": "public",
+    "student_count": 406,
+    "grades": [
+     "K",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5"
+    ],
+    "parent_rating": 3,
+    "assigned": null,
+    "coordinate": {
+     "lat": 30.333101,
+     "lon": -97.693548
+    },
+    "district": {
+     "id": "06211430211",
+     "name": "Austin Independent School District"
+    }
+   },
+   {
+    "id": "0768919561",
+    "name": "Greater Calvary Academy",
+    "rating": null,
+    "distance_in_miles": 0.7,
+    "education_levels": [
+     "elementary"
+    ],
+    "funding_type": "private",
+    "student_count": 7,
+    "grades": [
+     "K",
+     "2",
+     "4",
+     "5"
+    ],
+    "parent_rating": null,
+    "assigned": null,
+    "coordinate": {
+     "lat": 30.318727,
+     "lon": -97.690094
+    },
+    "district": {
+     "id": "06211428551",
+     "name": null
+    }
+   },
+   {
+    "id": "0768957001",
+    "name": "Cross Creek",
+    "rating": null,
+    "distance_in_miles": 0.8,
+    "education_levels": [
+     "middle",
+     "high"
+    ],
+    "funding_type": "public",
+    "student_count": 4,
+    "grades": [
+     "7",
+     "8",
+     "9",
+     "10",
+     "11"
+    ],
+    "parent_rating": null,
+    "assigned": null,
+    "coordinate": {
+     "lat": 30.338003,
+     "lon": -97.677338
+    },
+    "district": {
+     "id": "06211429551",
+     "name": "University Of Texas University Charter School"
+    }
+   },
+   {
+    "id": "0768572851",
+    "name": "Texas Empowerment Academy",
+    "rating": 4,
+    "distance_in_miles": 0.9,
+    "education_levels": [
+     "elementary",
+     "middle",
+     "high"
+    ],
+    "funding_type": "public",
+    "student_count": 413,
+    "grades": [
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "10",
+     "11",
+     "12"
+    ],
+    "parent_rating": 3,
+    "assigned": null,
+    "coordinate": {
+     "lat": 30.315073,
+     "lon": -97.682434
+    },
+    "district": {
+     "id": "06211429501",
+     "name": "Texas Empowerment Academy"
+    }
+   },
+   {
+    "id": "0768678441",
+    "name": "Hope Lutheran School",
+    "rating": null,
+    "distance_in_miles": 0.9,
+    "education_levels": [
+     "elementary",
+     "middle"
+    ],
+    "funding_type": "private",
+    "student_count": null,
+    "grades": [
+     "K",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7"
+    ],
+    "parent_rating": null,
+    "assigned": null,
+    "coordinate": {
+     "lat": 30.31469,
+     "lon": -97.681099
+    },
+    "district": {
+     "id": "06211428551",
+     "name": null
+    }
+   },
+   {
+    "id": "0768929711",
+    "name": "Sadler Means Young Women's Leadership Academy",
+    "rating": 3,
+    "distance_in_miles": 1,
+    "education_levels": [
+     "middle"
+    ],
+    "funding_type": "public",
+    "student_count": 278,
+    "grades": [
+     "6",
+     "7",
+     "8"
+    ],
+    "parent_rating": 4,
+    "assigned": null,
+    "coordinate": {
+     "lat": 30.313621,
+     "lon": -97.68038
+    },
+    "district": {
+     "id": "06211430211",
+     "name": "Austin Independent School District"
+    }
+   },
+   {
+    "id": "0768921021",
+    "name": "Victory Christian Center School",
+    "rating": null,
+    "distance_in_miles": 1.1,
+    "education_levels": [
+     "elementary",
+     "middle",
+     "high"
+    ],
+    "funding_type": "private",
+    "student_count": 145,
+    "grades": [
+     "K",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "10",
+     "11",
+     "12"
+    ],
+    "parent_rating": null,
+    "assigned": null,
+    "coordinate": {
+     "lat": 30.336903,
+     "lon": -97.698166
+    },
+    "district": {
+     "id": "06211428551",
+     "name": null
+    }
+   },
+   {
+    "id": "0768945651",
+    "name": "Ascent: An Acton Academy",
+    "rating": null,
+    "distance_in_miles": 1.3,
+    "education_levels": [
+     "elementary"
+    ],
+    "funding_type": "private",
+    "student_count": 65,
+    "grades": [
+     "K",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5"
+    ],
+    "parent_rating": 5,
+    "assigned": null,
+    "coordinate": {
+     "lat": 30.315498,
+     "lon": -97.701299
+    },
+    "district": {
+     "id": "06211428551",
+     "name": null
+    }
+   },
+   {
+    "id": "0768715101",
+    "name": "St Francis School",
+    "rating": null,
+    "distance_in_miles": 1.6,
+    "education_levels": [
+     "high"
+    ],
+    "funding_type": "private",
+    "student_count": 376,
+    "grades": [
+     "12"
+    ],
+    "parent_rating": 5,
+    "assigned": null,
+    "coordinate": {
+     "lat": 30.331234,
+     "lon": -97.71006
+    },
+    "district": {
+     "id": "06211428551",
+     "name": null
+    }
+   }
+  ]
+ }
+}

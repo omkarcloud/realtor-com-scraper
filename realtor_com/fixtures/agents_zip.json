@@ -1,0 +1,383 @@
+{
+ "agents": [
+  {
+   "id": "569005bb89a68901006bc9ab",
+   "fulfillment_id": "946768",
+   "fullname": "Matthew Menard",
+   "is_paid": false,
+   "is_realtor": true,
+   "display_ratings": true,
+   "has_rps": false,
+   "avatar": {
+    "url": "https://ap.rdcpix.com/126863509/5b6d64394852cda7806096b4edf4eb82a-c0rd-w144_h144.jpg",
+    "initials": "MM"
+   },
+   "broker": {
+    "name": "Austin Real Estate Experts -  Broker",
+    "fulfillment_id": "2158843"
+   },
+   "office": {
+    "name": "Austin Real Estate Experts"
+   },
+   "ratings_reviews": {
+    "average_rating": null,
+    "recommendations_count": 1,
+    "reviews_count": 0,
+    "combined_testimonials_and_reviews_count": 1
+   },
+   "listing_stats": {
+    "combined_annual": {
+     "min": 0,
+     "max": 0
+    },
+    "for_sale": {
+     "count": 87,
+     "last_listing_date": "2026-10-21T20:22:34Z",
+     "min": 69900,
+     "max": 834862
+    },
+    "recently_sold_annual": {
+     "count": 491
+    },
+    "recently_sold_listing_details": {
+     "listings": [
+      {
+       "baths": 3,
+       "beds": 3,
+       "city": "Liberty Hill",
+       "photo": "https://ap.rdcpix.com/6ee9297f17e4f1cd1d61bd431bc02e4al-m656306432rd-w100_h67.jpg",
+       "state_code": "TX"
+      },
+      {
+       "baths": 2,
+       "beds": 3,
+       "city": "Belton",
+       "photo": "https://ap.rdcpix.com/64765873ac9913034ee93287bfbfa5aal-m1429017856rd-w100_h67.jpg",
+       "state_code": "TX"
+      },
+      {
+       "baths": 2,
+       "beds": 3,
+       "city": "Buda",
+       "photo": "https://ap.rdcpix.com/0522dec7db0da66d0c2a6dc714d95925l-m1228877774rd-w100_h67.jpg",
+       "state_code": "TX"
+      }
+     ],
+     "show_additional": true
+    }
+   },
+   "experience": {
+    "first_year": "1983"
+   },
+   "services": null,
+   "sorting_weight": null
+  },
+  {
+   "id": "56c5b7720fa4170100761a99",
+   "fulfillment_id": "725142",
+   "fullname": "Christopher Watters",
+   "is_paid": false,
+   "is_realtor": true,
+   "display_ratings": true,
+   "has_rps": false,
+   "avatar": {
+    "url": "https://ap.rdcpix.com/1324582335/3b29068ee22f2d7ef60191bdf24c171ca-e0rd-w144_h144.jpg",
+    "initials": "CW"
+   },
+   "broker": {
+    "name": "Watters International Realty",
+    "fulfillment_id": "0"
+   },
+   "office": {
+    "name": "Watters International Realty"
+   },
+   "ratings_reviews": {
+    "average_rating": 4.6,
+    "recommendations_count": 6,
+    "reviews_count": 9,
+    "combined_testimonials_and_reviews_count": 15
+   },
+   "listing_stats": {
+    "combined_annual": {
+     "min": 50000,
+     "max": 18999000
+    },
+    "for_sale": {
+     "count": 212,
+     "last_listing_date": "2026-11-05T21:41:40Z",
+     "min": 50000,
+     "max": 18999000
+    },
+    "recently_sold_annual": {
+     "count": 298
+    },
+    "recently_sold_listing_details": {
+     "listings": [
+      {
+       "baths": 2,
+       "beds": 4,
+       "city": "Liberty Hill",
+       "photo": "https://ap.rdcpix.com/00454615c23f7ef8425fe2872101d882l-m2436135075rd-w100_h67.jpg",
+       "state_code": "TX"
+      },
+      {
+       "baths": 2,
+       "beds": 3,
+       "city": "Converse",
+       "photo": "https://ap.rdcpix.com/779879206a857340db0e3ff8dab689cfl-m3294062874rd-w100_h67.jpg",
+       "state_code": "TX"
+      },
+      {
+       "baths": 5,
+       "beds": 4,
+       "city": "Horseshoe Bay",
+       "photo": "https://ap.rdcpix.com/972343902a8ac7281ff7b3e58f88badal-m3242338895rd-w100_h67.jpg",
+       "state_code": "TX"
+      }
+     ],
+     "show_additional": true
+    }
+   },
+   "experience": {
+    "first_year": "2007"
+   },
+   "services": null,
+   "sorting_weight": 75
+  },
+  {
+   "id": "5b744e51499293001359dea4",
+   "fulfillment_id": "3506116",
+   "fullname": "Tanya Kerr",
+   "is_paid": false,
+   "is_realtor": true,
+   "display_ratings": true,
+   "has_rps": false,
+   "avatar": {
+    "url": "https://ap.rdcpix.com/b9f82fff40d43abfbaa308d45014eba3a-e338502409rd-w144_h144.jpg",
+    "initials": "TK"
+   },
+   "broker": {
+    "name": "KWLS - T. Kerr Property Group - Broker",
+    "fulfillment_id": "100676618"
+   },
+   "office": {
+    "name": "KWLS - T. Kerr Property Group"
+   },
+   "ratings_reviews": {
+    "average_rating": 5,
+    "recommendations_count": 16,
+    "reviews_count": 20,
+    "combined_testimonials_and_reviews_count": 36
+   },
+   "listing_stats": {
+    "combined_annual": {
+     "min": 129900,
+     "max": 1490000
+    },
+    "for_sale": {
+     "count": 64,
+     "last_listing_date": "2026-07-30T15:19:48Z",
+     "min": 99000,
+     "max": 1490000
+    },
+    "recently_sold_annual": {
+     "count": 185
+    },
+    "recently_sold_listing_details": {
+     "listings": [
+      {
+       "baths": 2,
+       "beds": 2,
+       "city": "Georgetown",
+       "photo": "https://ap.rdcpix.com/3651fedf471817cbd798bd41cfec61cal-m3227129192rd-w100_h67.jpg",
+       "state_code": "TX"
+      },
+      {
+       "baths": 3,
+       "beds": 4,
+       "city": "Georgetown",
+       "photo": "https://ap.rdcpix.com/03b1703a6863c458e31a2e8c3bc9f986l-m76148209rd-w100_h67.jpg",
+       "state_code": "TX"
+      },
+      {
+       "baths": 4,
+       "beds": 4,
+       "city": "Pflugerville",
+       "photo": "https://ap.rdcpix.com/57c47233b36391a8e0953e3d8c312691l-m1660625311rd-w100_h67.jpg",
+       "state_code": "TX"
+      }
+     ],
+     "show_additional": true
+    }
+   },
+   "experience": {
+    "first_year": "2017"
+   },
+   "services": null,
+   "sorting_weight": null
+  },
+  {
+   "id": "56ba06b20fa4170100751835",
+   "fulfillment_id": "382059",
+   "fullname": "Gene Arant",
+   "is_paid": false,
+   "is_realtor": true,
+   "display_ratings": true,
+   "has_rps": false,
+   "avatar": {
+    "url": "https://ap.rdcpix.com/9b3e8fc16135a05b536e2cf8cfd422e8a-e1398317533rd-w144_h144.jpg",
+    "initials": "GA"
+   },
+   "broker": {
+    "name": "Keller Williams Realty -  Broker",
+    "fulfillment_id": "4458562"
+   },
+   "office": {
+    "name": "Keller Williams - Lake Travis"
+   },
+   "ratings_reviews": {
+    "average_rating": null,
+    "recommendations_count": 0,
+    "reviews_count": 0,
+    "combined_testimonials_and_reviews_count": 0
+   },
+   "listing_stats": {
+    "combined_annual": {
+     "min": 35000,
+     "max": 3950000
+    },
+    "for_sale": {
+     "count": 79,
+     "last_listing_date": "2026-07-28T18:41:28Z",
+     "min": 35000,
+     "max": 3950000
+    },
+    "recently_sold_annual": {
+     "count": 146
+    },
+    "recently_sold_listing_details": {
+     "listings": [
+      {
+       "baths": 4,
+       "beds": 4,
+       "city": "Austin",
+       "photo": "https://ap.rdcpix.com/4a8539fe7283bbf56ae3a1483db0fc5al-m3449372273rd-w100_h67.jpg",
+       "state_code": "TX"
+      },
+      {
+       "baths": 4,
+       "beds": 4,
+       "city": "Austin",
+       "photo": "https://ap.rdcpix.com/d8d558599401554e3a68b829c2be6e3el-m1325384031rd-w100_h67.jpg",
+       "state_code": "TX"
+      },
+      {
+       "baths": 2,
+       "beds": 3,
+       "city": "Austin",
+       "photo": "https://ap.rdcpix.com/4cfa98e97e20f4a9e480f93ba26454e8l-m2579204467rd-w100_h67.jpg",
+       "state_code": "TX"
+      }
+     ],
+     "show_additional": true
+    }
+   },
+   "experience": {
+    "first_year": "1994"
+   },
+   "services": null,
+   "sorting_weight": 20
+  },
+  {
+   "id": "56a164b80fa417010073ec65",
+   "fulfillment_id": "206621",
+   "fullname": "Laurie Flood",
+   "is_paid": true,
+   "is_realtor": true,
+   "display_ratings": true,
+   "has_rps": false,
+   "avatar": {
+    "url": "https://ap.rdcpix.com/ec19eb8d9248b716e50d204f436990e9r-c3578537570rd-w144_h144.jpg",
+    "initials": "LF"
+   },
+   "broker": {
+    "name": "Keller Williams Realty -  Broker",
+    "fulfillment_id": "4458562"
+   },
+   "office": {
+    "name": "Keller Williams Realty"
+   },
+   "ratings_reviews": {
+    "average_rating": null,
+    "recommendations_count": 17,
+    "reviews_count": 0,
+    "combined_testimonials_and_reviews_count": 17
+   },
+   "listing_stats": {
+    "combined_annual": {
+     "min": 305000,
+     "max": 720000
+    },
+    "for_sale": {
+     "count": 12,
+     "last_listing_date": "2026-09-17T17:54:39Z",
+     "min": 35000,
+     "max": 720000
+    },
+    "recently_sold_annual": {
+     "count": 127
+    },
+    "recently_sold_listing_details": {
+     "listings": [
+      {
+       "baths": 4,
+       "beds": 5,
+       "city": "Austin",
+       "photo": "https://ap.rdcpix.com/04a758fdc309fe7f8ed522c765bea5c8l-m150889500rd-w100_h67.jpg",
+       "state_code": "TX"
+      },
+      {
+       "baths": 2,
+       "beds": 3,
+       "city": "Leander",
+       "photo": "https://ap.rdcpix.com/5f60d082d3b2ebe0d21bef48a678a31bl-m3590586806rd-w100_h67.jpg",
+       "state_code": "TX"
+      },
+      {
+       "baths": 3,
+       "beds": 4,
+       "city": "Austin",
+       "photo": "https://ap.rdcpix.com/729675dd74a5ef23a82df411c0e842eal-m1624363898rd-w100_h67.jpg",
+       "state_code": "TX"
+      }
+     ],
+     "show_additional": true
+    }
+   },
+   "experience": {
+    "first_year": "2004"
+   },
+   "services": {
+    "buyer": [
+     "Personalized neighborhood guidance",
+     "Access to market insights",
+     "Early access to new listings",
+     "Home inspection support",
+     "Pre-approval assistance",
+     "Lender referrals",
+     "Other professional network referrals"
+    ],
+    "seller": [
+     "Open houses",
+     "Professional photography",
+     "Your own website",
+     "Postcards and flyers",
+     "Virtual tour",
+     "Comparative market analysis"
+    ]
+   },
+   "sorting_weight": 40
+  }
+ ],
+ "matching_rows": 4047
+}

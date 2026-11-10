@@ -1,0 +1,10 @@
+services:
+  realtor-com-scraper:
+    build: .
+    restart: unless-stopped
+    ports:
+      - "8000:8000"
+    environment:
+      - PORT=8000
+      # Optional — Realtor.com's gateway answers cloud servers too, so leave this unset.
+      # - REALTOR_COM_PROXY=http://user:pass@host:port

@@ -1,0 +1,1226 @@
+{
+ "count": 20,
+ "total": 51,
+ "results": [
+  {
+   "property_id": "7672804345",
+   "listing_id": "2987212529",
+   "status": "sold",
+   "href": "https://www.realtor.com/realestateandhomes-detail/280-FM-3349_Taylor_TX_76574_M76728-04345",
+   "list_price": null,
+   "description": {
+    "sold_date": "2026-10-22",
+    "sold_price": null,
+    "baths_consolidated": "4.5",
+    "beds": 4,
+    "lot_sqft": 35066,
+    "sqft": 4840,
+    "stories": null
+   },
+   "source": {
+    "agents": [
+     {
+      "id": "AUTX",
+      "agent_id": "510003",
+      "type": "seller"
+     },
+     {
+      "id": "AUTX",
+      "agent_id": "762025",
+      "type": "buyer"
+     }
+    ]
+   },
+   "location": {
+    "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&key=AIzaSyAP_xs30yS0J4xp8O1ZKUrUttIXKklrwaM&location=280%20FM%203349%2C%20Taylor%2C%20TX%2076574&size=640x480&source=outdoor&signature=fXs-1u2PFuKDtwFcklTml2jn9Qg=",
+    "address": {
+     "line": "280 FM 3349",
+     "city": "Taylor",
+     "state_code": "TX",
+     "postal_code": "76574",
+     "coordinate": {
+      "lat": 30.550042,
+      "lon": -97.484843
+     }
+    }
+   },
+   "primary_photo": {
+    "href": "https://ap.rdcpix.com/528d150a28b4fa53d8d6efa0a4687ac3l-m390328704s.jpg"
+   },
+   "photos": null,
+   "advertisers": [
+    {
+     "fulfillment_id": null,
+     "type": "seller"
+    }
+   ],
+   "flags": {
+    "is_new_construction": null,
+    "is_foreclosure": null,
+    "is_short_sale": null
+   }
+  },
+  {
+   "property_id": "8108581669",
+   "listing_id": "2998275519",
+   "status": "sold",
+   "href": "https://www.realtor.com/realestateandhomes-detail/10504-Beard-Ave_Austin_TX_78748_M81085-81669",
+   "list_price": null,
+   "description": {
+    "sold_date": "2026-10-21",
+    "sold_price": null,
+    "baths_consolidated": "2.5",
+    "beds": 4,
+    "lot_sqft": 6273,
+    "sqft": 2443,
+    "stories": null
+   },
+   "source": {
+    "agents": [
+     {
+      "id": "AUTX",
+      "agent_id": "478862",
+      "type": "seller"
+     },
+     {
+      "id": "AUTX",
+      "agent_id": "636170",
+      "type": "co_seller"
+     },
+     {
+      "id": "AUTX",
+      "agent_id": "510003",
+      "type": "buyer"
+     }
+    ]
+   },
+   "location": {
+    "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&key=AIzaSyAP_xs30yS0J4xp8O1ZKUrUttIXKklrwaM&location=10504%20Beard%20Ave%2C%20Austin%2C%20TX%2078748&size=640x480&source=outdoor&signature=aSmD5XCLTUX9sZkG8M-H8nKXbUk=",
+    "address": {
+     "line": "10504 Beard Ave",
+     "city": "Austin",
+     "state_code": "TX",
+     "postal_code": "78748",
+     "coordinate": {
+      "lat": 30.169711,
+      "lon": -97.83632
+     }
+    }
+   },
+   "primary_photo": {
+    "href": "https://ap.rdcpix.com/8ecf7f2df3359d3164d6397bd1dc3bc0l-m1241807209s.jpg"
+   },
+   "photos": null,
+   "advertisers": [
+    {
+     "fulfillment_id": null,
+     "type": "seller"
+    },
+    {
+     "fulfillment_id": null,
+     "type": "co_seller"
+    }
+   ],
+   "flags": {
+    "is_new_construction": null,
+    "is_foreclosure": null,
+    "is_short_sale": null
+   }
+  },
+  {
+   "property_id": "9280649461",
+   "listing_id": "2985745643",
+   "status": "sold",
+   "href": "https://www.realtor.com/realestateandhomes-detail/600-Clear-Sky-Dr_Lockhart_TX_78644_M92806-49461",
+   "list_price": null,
+   "description": {
+    "sold_date": "2026-07-23",
+    "sold_price": null,
+    "baths_consolidated": "2.5",
+    "beds": 4,
+    "lot_sqft": 8080,
+    "sqft": 2119,
+    "stories": null
+   },
+   "source": {
+    "agents": [
+     {
+      "id": "AUTX",
+      "agent_id": "510003",
+      "type": "seller"
+     },
+     {
+      "id": "AUTX",
+      "agent_id": "384210",
+      "type": "buyer"
+     }
+    ]
+   },
+   "location": {
+    "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&key=AIzaSyAP_xs30yS0J4xp8O1ZKUrUttIXKklrwaM&location=600%20Clear%20Sky%20Dr%2C%20Lockhart%2C%20TX%2078644&size=640x480&source=outdoor&signature=tEOuX8NcR5YgKR9FXqytl9WtxHA=",
+    "address": {
+     "line": "600 Clear Sky Dr",
+     "city": "Lockhart",
+     "state_code": "TX",
+     "postal_code": "78644",
+     "coordinate": {
+      "lat": 29.847538,
+      "lon": -97.655957
+     }
+    }
+   },
+   "primary_photo": {
+    "href": "https://ap.rdcpix.com/0ee79538646dea9216b1bd1e00983317l-m3290665501s.jpg"
+   },
+   "photos": null,
+   "advertisers": [
+    {
+     "fulfillment_id": null,
+     "type": "seller"
+    }
+   ],
+   "flags": {
+    "is_new_construction": null,
+    "is_foreclosure": null,
+    "is_short_sale": null
+   }
+  },
+  {
+   "property_id": "9872529121",
+   "listing_id": "2992952284",
+   "status": "sold",
+   "href": "https://www.realtor.com/realestateandhomes-detail/1604-Stokes-Dr-A_San-Marcos_TX_78666_M98725-29121",
+   "list_price": null,
+   "description": {
+    "sold_date": "2026-04-30",
+    "sold_price": null,
+    "baths_consolidated": "1.5",
+    "beds": 2,
+    "lot_sqft": 11199,
+    "sqft": 1011,
+    "stories": null
+   },
+   "source": {
+    "agents": [
+     {
+      "id": "AUTX",
+      "agent_id": "689944",
+      "type": "seller"
+     },
+     {
+      "id": "AUTX",
+      "agent_id": "510003",
+      "type": "buyer"
+     }
+    ]
+   },
+   "location": {
+    "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&key=AIzaSyAP_xs30yS0J4xp8O1ZKUrUttIXKklrwaM&location=1604%20Stokes%20Dr%20Unit%20A%2C%20San%20Marcos%2C%20TX%2078666&size=640x480&source=outdoor&signature=wAZeGnNiLMHcA9KVQWWdS235-Nc=",
+    "address": {
+     "line": "1604 Stokes Dr Unit A",
+     "city": "San Marcos",
+     "state_code": "TX",
+     "postal_code": "78666",
+     "coordinate": {
+      "lat": 29.890974,
+      "lon": -97.960358
+     }
+    }
+   },
+   "primary_photo": {
+    "href": "https://ap.rdcpix.com/6883abbb5b77c6a960aaadb3dcba8b1dl-m2151136558s.jpg"
+   },
+   "photos": null,
+   "advertisers": [
+    {
+     "fulfillment_id": null,
+     "type": "seller"
+    }
+   ],
+   "flags": {
+    "is_new_construction": null,
+    "is_foreclosure": null,
+    "is_short_sale": null
+   }
+  },
+  {
+   "property_id": "8482537328",
+   "listing_id": "2986423084",
+   "status": "sold",
+   "href": "https://www.realtor.com/realestateandhomes-detail/326-Coventry-Rd_Spicewood_TX_78669_M84825-37328",
+   "list_price": null,
+   "description": {
+    "sold_date": "2026-04-27",
+    "sold_price": null,
+    "baths_consolidated": "2",
+    "beds": 3,
+    "lot_sqft": 7218,
+    "sqft": 2001,
+    "stories": null
+   },
+   "source": {
+    "agents": [
+     {
+      "id": "AUTX",
+      "agent_id": "472276",
+      "type": "seller"
+     },
+     {
+      "id": "AUTX",
+      "agent_id": "786976",
+      "type": "co_seller"
+     },
+     {
+      "id": "AUTX",
+      "agent_id": "510003",
+      "type": "buyer"
+     }
+    ]
+   },
+   "location": {
+    "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&key=AIzaSyAP_xs30yS0J4xp8O1ZKUrUttIXKklrwaM&location=326%20Coventry%20Rd%2C%20Spicewood%2C%20TX%2078669&size=640x480&source=outdoor&signature=kan2TQvcPZb0Aw5AHjdBORrxaeg=",
+    "address": {
+     "line": "326 Coventry Rd",
+     "city": "Spicewood",
+     "state_code": "TX",
+     "postal_code": "78669",
+     "coordinate": {
+      "lat": 30.481994,
+      "lon": -98.119111
+     }
+    }
+   },
+   "primary_photo": {
+    "href": "https://ap.rdcpix.com/2d086ea18ab9dc64d43556ac0230078cl-m3056366257s.jpg"
+   },
+   "photos": null,
+   "advertisers": [
+    {
+     "fulfillment_id": null,
+     "type": "seller"
+    },
+    {
+     "fulfillment_id": null,
+     "type": "co_seller"
+    }
+   ],
+   "flags": {
+    "is_new_construction": null,
+    "is_foreclosure": null,
+    "is_short_sale": null
+   }
+  },
+  {
+   "property_id": "9442169343",
+   "listing_id": "2987380153",
+   "status": "sold",
+   "href": "https://www.realtor.com/realestateandhomes-detail/4550-FM-621_San-Marcos_TX_78666_M94421-69343",
+   "list_price": null,
+   "description": {
+    "sold_date": "2026-03-20",
+    "sold_price": null,
+    "baths_consolidated": null,
+    "beds": null,
+    "lot_sqft": 435600,
+    "sqft": null,
+    "stories": null
+   },
+   "source": {
+    "agents": [
+     {
+      "id": "AUTX",
+      "agent_id": "510003",
+      "type": "seller"
+     },
+     {
+      "id": "AUTX",
+      "agent_id": "745222",
+      "type": "buyer"
+     }
+    ]
+   },
+   "location": {
+    "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&key=AIzaSyAP_xs30yS0J4xp8O1ZKUrUttIXKklrwaM&location=4550%20FM%20621%20Rd%2C%20San%20Marcos%2C%20TX%2078666&size=640x480&source=outdoor&signature=nmKtwA1tl_QsnQKHHqURceF266M=",
+    "address": {
+     "line": "4550 FM 621 Rd",
+     "city": "San Marcos",
+     "state_code": "TX",
+     "postal_code": "78666",
+     "coordinate": {
+      "lat": 29.817862,
+      "lon": -97.888138
+     }
+    }
+   },
+   "primary_photo": {
+    "href": "https://ap.rdcpix.com/e30a717e9b2b55ac6edbe6b8d8a09284l-m1449492323s.jpg"
+   },
+   "photos": null,
+   "advertisers": [
+    {
+     "fulfillment_id": null,
+     "type": "seller"
+    }
+   ],
+   "flags": {
+    "is_new_construction": null,
+    "is_foreclosure": null,
+    "is_short_sale": null
+   }
+  },
+  {
+   "property_id": "7634163995",
+   "listing_id": "2979176683",
+   "status": "sold",
+   "href": "https://www.realtor.com/realestateandhomes-detail/3734-Valley-View-Rd-Apt-B_Austin_TX_78704_M76341-63995",
+   "list_price": null,
+   "description": {
+    "sold_date": "2025-11-25",
+    "sold_price": null,
+    "baths_consolidated": "1",
+    "beds": 1,
+    "lot_sqft": 2012,
+    "sqft": 589,
+    "stories": null
+   },
+   "source": {
+    "agents": [
+     {
+      "id": "AUTX",
+      "agent_id": "510003",
+      "type": "seller"
+     },
+     {
+      "id": "AUTX",
+      "agent_id": "505064",
+      "type": "buyer"
+     }
+    ]
+   },
+   "location": {
+    "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&key=AIzaSyAP_xs30yS0J4xp8O1ZKUrUttIXKklrwaM&location=3734%20Valley%20View%20Rd%20Apt%20B%2C%20Austin%2C%20TX%2078704&size=640x480&source=outdoor&signature=8c6Uwrhy0XxaTHC6gbfslSgxSNI=",
+    "address": {
+     "line": "3734 Valley View Rd Apt B",
+     "city": "Austin",
+     "state_code": "TX",
+     "postal_code": "78704",
+     "coordinate": {
+      "lat": 30.235474,
+      "lon": -97.783237
+     }
+    }
+   },
+   "primary_photo": {
+    "href": "https://ap.rdcpix.com/ab28d0dab08c15881a39707d790b4f6el-m2053882584s.jpg"
+   },
+   "photos": null,
+   "advertisers": [
+    {
+     "fulfillment_id": null,
+     "type": "seller"
+    }
+   ],
+   "flags": {
+    "is_new_construction": null,
+    "is_foreclosure": null,
+    "is_short_sale": null
+   }
+  },
+  {
+   "property_id": "9166003067",
+   "listing_id": "2985174216",
+   "status": "sold",
+   "href": "https://www.realtor.com/realestateandhomes-detail/2728-Twilight-Glen-Trl_Uhland_TX_78640_M91660-03067",
+   "list_price": null,
+   "description": {
+    "sold_date": "2025-11-24",
+    "sold_price": null,
+    "baths_consolidated": null,
+    "beds": null,
+    "lot_sqft": 22216,
+    "sqft": null,
+    "stories": null
+   },
+   "source": {
+    "agents": [
+     {
+      "id": "AUTX",
+      "agent_id": "510003",
+      "type": "seller"
+     },
+     {
+      "id": "AUTX",
+      "agent_id": "5961540",
+      "type": "buyer"
+     }
+    ]
+   },
+   "location": {
+    "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&key=AIzaSyAP_xs30yS0J4xp8O1ZKUrUttIXKklrwaM&location=2728%20Twilight%20Glen%20Trl%2C%20Kyle%2C%20TX%2078640&size=640x480&source=outdoor&signature=PSECfu_jMe_1JUXHuJoLqJ-cNWo=",
+    "address": {
+     "line": "2728 Twilight Glen Trl",
+     "city": "Kyle",
+     "state_code": "TX",
+     "postal_code": "78640",
+     "coordinate": {
+      "lat": 29.96983,
+      "lon": -97.804122
+     }
+    }
+   },
+   "primary_photo": {
+    "href": "https://ap.rdcpix.com/2019ba8e46cf01be679d52d1d7ef0987l-m2949387984s.jpg"
+   },
+   "photos": null,
+   "advertisers": [
+    {
+     "fulfillment_id": null,
+     "type": "seller"
+    }
+   ],
+   "flags": {
+    "is_new_construction": null,
+    "is_foreclosure": null,
+    "is_short_sale": null
+   }
+  },
+  {
+   "property_id": "7459070224",
+   "listing_id": "2984390846",
+   "status": "sold",
+   "href": "https://www.realtor.com/realestateandhomes-detail/6802-Lost-Valley_Austin_TX_78745_M74590-70224",
+   "list_price": null,
+   "description": {
+    "sold_date": "2025-10-09",
+    "sold_price": null,
+    "baths_consolidated": "2.5",
+    "beds": 4,
+    "lot_sqft": 16636,
+    "sqft": 1988,
+    "stories": null
+   },
+   "source": {
+    "agents": [
+     {
+      "id": "AUTX",
+      "agent_id": "633332",
+      "type": "seller"
+     },
+     {
+      "id": "AUTX",
+      "agent_id": "510003",
+      "type": "buyer"
+     }
+    ]
+   },
+   "location": {
+    "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&key=AIzaSyAP_xs30yS0J4xp8O1ZKUrUttIXKklrwaM&location=6802%20Lost%20Valley%2C%20Austin%2C%20TX%2078745&size=640x480&source=outdoor&signature=5132rMDZOHoyhXZtM-JXJ0pnbbI=",
+    "address": {
+     "line": "6802 Lost Valley",
+     "city": "Austin",
+     "state_code": "TX",
+     "postal_code": "78745",
+     "coordinate": {
+      "lat": 30.214349,
+      "lon": -97.826846
+     }
+    }
+   },
+   "primary_photo": {
+    "href": "https://ap.rdcpix.com/a4c33334c37da6a630b82515d668505bl-m1699206810s.jpg"
+   },
+   "photos": null,
+   "advertisers": [
+    {
+     "fulfillment_id": null,
+     "type": "seller"
+    }
+   ],
+   "flags": {
+    "is_new_construction": null,
+    "is_foreclosure": null,
+    "is_short_sale": null
+   }
+  },
+  {
+   "property_id": "7319132267",
+   "listing_id": "2981958830",
+   "status": "sold",
+   "href": "https://www.realtor.com/realestateandhomes-detail/2713-Margarita-Ct_Round-Rock_TX_78665_M73191-32267",
+   "list_price": null,
+   "description": {
+    "sold_date": "2025-07-25",
+    "sold_price": null,
+    "baths_consolidated": "3.5",
+    "beds": 4,
+    "lot_sqft": 17955,
+    "sqft": 3274,
+    "stories": null
+   },
+   "source": {
+    "agents": [
+     {
+      "id": "AUTX",
+      "agent_id": "670486",
+      "type": "seller"
+     },
+     {
+      "id": "AUTX",
+      "agent_id": "510003",
+      "type": "buyer"
+     }
+    ]
+   },
+   "location": {
+    "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&key=AIzaSyAP_xs30yS0J4xp8O1ZKUrUttIXKklrwaM&location=2713%20Margarita%20Ct%2C%20Round%20Rock%2C%20TX%2078665&size=640x480&source=outdoor&signature=iJrk3nMjXpmUThEYZlhRypKR5sE=",
+    "address": {
+     "line": "2713 Margarita Ct",
+     "city": "Round Rock",
+     "state_code": "TX",
+     "postal_code": "78665",
+     "coordinate": {
+      "lat": 30.558617,
+      "lon": -97.61613
+     }
+    }
+   },
+   "primary_photo": {
+    "href": "https://ap.rdcpix.com/15cef208e7d45d59fc19639d3dde3f4dl-m3593864262s.jpg"
+   },
+   "photos": null,
+   "advertisers": [
+    {
+     "fulfillment_id": null,
+     "type": "seller"
+    }
+   ],
+   "flags": {
+    "is_new_construction": null,
+    "is_foreclosure": null,
+    "is_short_sale": null
+   }
+  },
+  {
+   "property_id": "9470830850",
+   "listing_id": "2976156455",
+   "status": "sold",
+   "href": "https://www.realtor.com/realestateandhomes-detail/127-Clay-Hill-St_Georgetown_TX_78633_M94708-30850",
+   "list_price": null,
+   "description": {
+    "sold_date": "2025-05-23",
+    "sold_price": null,
+    "baths_consolidated": "2",
+    "beds": 2,
+    "lot_sqft": 5881,
+    "sqft": 1409,
+    "stories": null
+   },
+   "source": {
+    "agents": [
+     {
+      "id": "AUTX",
+      "agent_id": "324930",
+      "type": "seller"
+     },
+     {
+      "id": "AUTX",
+      "agent_id": "510003",
+      "type": "buyer"
+     }
+    ]
+   },
+   "location": {
+    "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&key=AIzaSyAP_xs30yS0J4xp8O1ZKUrUttIXKklrwaM&location=127%20Clay%20Hill%20St%2C%20Georgetown%2C%20TX%2078633&size=640x480&source=outdoor&signature=PxEUdJIDGzhVSH3_Yp8MKOfM2pU=",
+    "address": {
+     "line": "127 Clay Hill St",
+     "city": "Georgetown",
+     "state_code": "TX",
+     "postal_code": "78633",
+     "coordinate": {
+      "lat": 30.723316,
+      "lon": -97.770058
+     }
+    }
+   },
+   "primary_photo": {
+    "href": "https://ap.rdcpix.com/730df9c056c1315ca21aeac3cd96998bl-m3763030975s.jpg"
+   },
+   "photos": null,
+   "advertisers": [
+    {
+     "fulfillment_id": null,
+     "type": "seller"
+    }
+   ],
+   "flags": {
+    "is_new_construction": null,
+    "is_foreclosure": null,
+    "is_short_sale": null
+   }
+  },
+  {
+   "property_id": "8658309621",
+   "listing_id": "2980790772",
+   "status": "sold",
+   "href": "https://www.realtor.com/realestateandhomes-detail/304-Ancient-Oak-Way_San-Marcos_TX_78666_M86583-09621",
+   "list_price": null,
+   "description": {
+    "sold_date": "2025-05-21",
+    "sold_price": null,
+    "baths_consolidated": "3",
+    "beds": 3,
+    "lot_sqft": 16322,
+    "sqft": 3087,
+    "stories": null
+   },
+   "source": {
+    "agents": [
+     {
+      "id": "AUTX",
+      "agent_id": "733698",
+      "type": "seller"
+     },
+     {
+      "id": "AUTX",
+      "agent_id": "510003",
+      "type": "buyer"
+     }
+    ]
+   },
+   "location": {
+    "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&key=AIzaSyAP_xs30yS0J4xp8O1ZKUrUttIXKklrwaM&location=304%20Ancient%20Oak%20Way%2C%20San%20Marcos%2C%20TX%2078666&size=640x480&source=outdoor&signature=Wekh1l3GwEKpeKulb_pBMyjGcSk=",
+    "address": {
+     "line": "304 Ancient Oak Way",
+     "city": "San Marcos",
+     "state_code": "TX",
+     "postal_code": "78666",
+     "coordinate": {
+      "lat": 29.952787,
+      "lon": -97.888206
+     }
+    }
+   },
+   "primary_photo": {
+    "href": "https://ap.rdcpix.com/a467bcda79db09360d4a1f8006cb96acl-m2539255507s.jpg"
+   },
+   "photos": null,
+   "advertisers": [
+    {
+     "fulfillment_id": null,
+     "type": "seller"
+    }
+   ],
+   "flags": {
+    "is_new_construction": null,
+    "is_foreclosure": null,
+    "is_short_sale": null
+   }
+  },
+  {
+   "property_id": "9960460025",
+   "listing_id": "2975207040",
+   "status": "sold",
+   "href": "https://www.realtor.com/realestateandhomes-detail/151-Saddle-Cv_Kyle_TX_78640_M99604-60025",
+   "list_price": null,
+   "description": {
+    "sold_date": "2025-01-10",
+    "sold_price": null,
+    "baths_consolidated": "2",
+    "beds": 4,
+    "lot_sqft": 5998,
+    "sqft": 1779,
+    "stories": null
+   },
+   "source": {
+    "agents": [
+     {
+      "id": "AUTX",
+      "agent_id": "245076",
+      "type": "seller"
+     },
+     {
+      "id": "AUTX",
+      "agent_id": "510003",
+      "type": "buyer"
+     }
+    ]
+   },
+   "location": {
+    "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&key=AIzaSyAP_xs30yS0J4xp8O1ZKUrUttIXKklrwaM&location=151%20Saddle%20Cv%2C%20Kyle%2C%20TX%2078640&size=640x480&source=outdoor&signature=huoM7DvmFZykKXQAf1vZP0mvVM0=",
+    "address": {
+     "line": "151 Saddle Cv",
+     "city": "Kyle",
+     "state_code": "TX",
+     "postal_code": "78640",
+     "coordinate": {
+      "lat": 30.006918,
+      "lon": -97.887772
+     }
+    }
+   },
+   "primary_photo": {
+    "href": "https://ap.rdcpix.com/a1c36b3a5abd0c3a5cc7e1af271b4387l-m4065077924s.jpg"
+   },
+   "photos": null,
+   "advertisers": [
+    {
+     "fulfillment_id": null,
+     "type": "seller"
+    }
+   ],
+   "flags": {
+    "is_new_construction": null,
+    "is_foreclosure": null,
+    "is_short_sale": null
+   }
+  },
+  {
+   "property_id": "8367945995",
+   "listing_id": "2946992658",
+   "status": "sold",
+   "href": "https://www.realtor.com/realestateandhomes-detail/1801-Holly-St_Austin_TX_78702_M83679-45995",
+   "list_price": null,
+   "description": {
+    "sold_date": "2023-03-10",
+    "sold_price": null,
+    "baths_consolidated": "2",
+    "beds": 5,
+    "lot_sqft": 7083,
+    "sqft": 2156,
+    "stories": null
+   },
+   "source": {
+    "agents": [
+     {
+      "id": "AUTX",
+      "agent_id": "510003",
+      "type": "seller"
+     },
+     {
+      "id": "AUTX",
+      "agent_id": "678147",
+      "type": "co_seller"
+     },
+     {
+      "id": "AUTX",
+      "agent_id": "734449",
+      "type": "buyer"
+     }
+    ]
+   },
+   "location": {
+    "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&key=AIzaSyAP_xs30yS0J4xp8O1ZKUrUttIXKklrwaM&location=1801%20Holly%20St%2C%20Austin%2C%20TX%2078702&size=640x480&source=outdoor&signature=apkpJxlSWG3ZERsUONFY9xZOsBQ=",
+    "address": {
+     "line": "1801 Holly St",
+     "city": "Austin",
+     "state_code": "TX",
+     "postal_code": "78702",
+     "coordinate": {
+      "lat": 30.253665,
+      "lon": -97.727289
+     }
+    }
+   },
+   "primary_photo": {
+    "href": "https://ap.rdcpix.com/c73678dfdb23ccd89f210f5cda734c74l-m1289728629s.jpg"
+   },
+   "photos": null,
+   "advertisers": [
+    {
+     "fulfillment_id": null,
+     "type": "seller"
+    },
+    {
+     "fulfillment_id": null,
+     "type": "co_seller"
+    }
+   ],
+   "flags": {
+    "is_new_construction": null,
+    "is_foreclosure": null,
+    "is_short_sale": null
+   }
+  },
+  {
+   "property_id": "9822554599",
+   "listing_id": "2941119246",
+   "status": "sold",
+   "href": "https://www.realtor.com/realestateandhomes-detail/County-229-Rd-Lot-2_Florence_TX_76527_M98225-54599",
+   "list_price": null,
+   "description": {
+    "sold_date": "2022-04-29",
+    "sold_price": null,
+    "baths_consolidated": null,
+    "beds": 0,
+    "lot_sqft": 1265854,
+    "sqft": null,
+    "stories": null
+   },
+   "source": {
+    "agents": [
+     {
+      "id": "AUTX",
+      "agent_id": "510003",
+      "type": "seller"
+     },
+     {
+      "id": "AUTX",
+      "agent_id": "732337",
+      "type": "co_seller"
+     },
+     {
+      "id": "AUTX",
+      "agent_id": "553949",
+      "type": "buyer"
+     }
+    ]
+   },
+   "location": {
+    "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&key=AIzaSyAP_xs30yS0J4xp8O1ZKUrUttIXKklrwaM&location=County%20Road%20229%2C%20Florence%2C%20TX%2076527&size=640x480&source=outdoor&signature=JWyPUH2FwNISn0b_KRyrkBt8-Sk=",
+    "address": {
+     "line": "County Road 229",
+     "city": "Florence",
+     "state_code": "TX",
+     "postal_code": "76527",
+     "coordinate": null
+    }
+   },
+   "primary_photo": {
+    "href": "https://ap.rdcpix.com/12ac086ea68d4936947f66372a9dd103l-m225800839s.jpg"
+   },
+   "photos": null,
+   "advertisers": [
+    {
+     "fulfillment_id": null,
+     "type": "seller"
+    },
+    {
+     "fulfillment_id": null,
+     "type": "co_seller"
+    }
+   ],
+   "flags": {
+    "is_new_construction": null,
+    "is_foreclosure": null,
+    "is_short_sale": null
+   }
+  },
+  {
+   "property_id": "9923365804",
+   "listing_id": "2941037289",
+   "status": "sold",
+   "href": "https://www.realtor.com/realestateandhomes-detail/1183-County-Road-229_Florence_TX_76527_M99233-65804",
+   "list_price": null,
+   "description": {
+    "sold_date": "2022-04-29",
+    "sold_price": null,
+    "baths_consolidated": "1",
+    "beds": 1,
+    "lot_sqft": 1265854,
+    "sqft": null,
+    "stories": null
+   },
+   "source": {
+    "agents": [
+     {
+      "id": "AUTX",
+      "agent_id": "510003",
+      "type": "seller"
+     },
+     {
+      "id": "AUTX",
+      "agent_id": "732337",
+      "type": "co_seller"
+     },
+     {
+      "id": "AUTX",
+      "agent_id": "553949",
+      "type": "buyer"
+     }
+    ]
+   },
+   "location": {
+    "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&key=AIzaSyAP_xs30yS0J4xp8O1ZKUrUttIXKklrwaM&location=1183%20County%20Road%20229%2C%20Florence%2C%20TX%2076527&size=640x480&source=outdoor&signature=jeErk53degIzpqYMtKsGREKkRXM=",
+    "address": {
+     "line": "1183 County Road 229",
+     "city": "Florence",
+     "state_code": "TX",
+     "postal_code": "76527",
+     "coordinate": {
+      "lat": 30.856216,
+      "lon": -97.765755
+     }
+    }
+   },
+   "primary_photo": {
+    "href": "https://ap.rdcpix.com/530b63670fc691b32a3cfba4d820a9a1l-m2962113196s.jpg"
+   },
+   "photos": null,
+   "advertisers": [
+    {
+     "fulfillment_id": null,
+     "type": "seller"
+    },
+    {
+     "fulfillment_id": null,
+     "type": "co_seller"
+    }
+   ],
+   "flags": {
+    "is_new_construction": null,
+    "is_foreclosure": null,
+    "is_short_sale": null
+   }
+  },
+  {
+   "property_id": "9200105451",
+   "listing_id": "2928731957",
+   "status": "sold",
+   "href": "https://www.realtor.com/realestateandhomes-detail/106-Big-Sandy-Creek-Dr_Hutto_TX_78634_M92001-05451",
+   "list_price": null,
+   "description": {
+    "sold_date": "2022-02-14",
+    "sold_price": null,
+    "baths_consolidated": "3",
+    "beds": 4,
+    "lot_sqft": 6250,
+    "sqft": 2282,
+    "stories": null
+   },
+   "source": {
+    "agents": [
+     {
+      "id": "AUTX",
+      "agent_id": "245076",
+      "type": "seller"
+     },
+     {
+      "id": "AUTX",
+      "agent_id": "510003",
+      "type": "buyer"
+     }
+    ]
+   },
+   "location": {
+    "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&key=AIzaSyAP_xs30yS0J4xp8O1ZKUrUttIXKklrwaM&location=106%20Big%20Sandy%20Creek%20Dr%2C%20Hutto%2C%20TX%2078634&size=640x480&source=outdoor&signature=5LNsdHqRpwNqnTRupeppy7ONz8c=",
+    "address": {
+     "line": "106 Big Sandy Creek Dr",
+     "city": "Hutto",
+     "state_code": "TX",
+     "postal_code": "78634",
+     "coordinate": {
+      "lat": 30.57211,
+      "lon": -97.542634
+     }
+    }
+   },
+   "primary_photo": {
+    "href": "https://ap.rdcpix.com/c9416f400317b9470391617472ea1d63l-m1946582448s.jpg"
+   },
+   "photos": null,
+   "advertisers": [
+    {
+     "fulfillment_id": null,
+     "type": "seller"
+    }
+   ],
+   "flags": {
+    "is_new_construction": null,
+    "is_foreclosure": null,
+    "is_short_sale": null
+   }
+  },
+  {
+   "property_id": "8347661583",
+   "listing_id": "2937154451",
+   "status": "sold",
+   "href": "https://www.realtor.com/realestateandhomes-detail/2020-Petrified-Forest-Dr_Austin_TX_78747_M83476-61583",
+   "list_price": null,
+   "description": {
+    "sold_date": "2022-01-28",
+    "sold_price": null,
+    "baths_consolidated": "2.5",
+    "beds": 4,
+    "lot_sqft": 5750,
+    "sqft": 2694,
+    "stories": null
+   },
+   "source": {
+    "agents": [
+     {
+      "id": "AUTX",
+      "agent_id": "510003",
+      "type": "seller"
+     },
+     {
+      "id": "AUTX",
+      "agent_id": "732337",
+      "type": "co_seller"
+     },
+     {
+      "id": "AUTX",
+      "agent_id": "704456",
+      "type": "buyer"
+     }
+    ]
+   },
+   "location": {
+    "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&key=AIzaSyAP_xs30yS0J4xp8O1ZKUrUttIXKklrwaM&location=2020%20Petrified%20Forest%20Dr%2C%20Austin%2C%20TX%2078747&size=640x480&source=outdoor&signature=Rhkq7890RBI3cBFD13gW1Z2-1tg=",
+    "address": {
+     "line": "2020 Petrified Forest Dr",
+     "city": "Austin",
+     "state_code": "TX",
+     "postal_code": "78747",
+     "coordinate": {
+      "lat": 30.155501,
+      "lon": -97.786091
+     }
+    }
+   },
+   "primary_photo": {
+    "href": "https://ap.rdcpix.com/94ed220f36976848a3fb5c83857d528dl-m2040156851s.jpg"
+   },
+   "photos": null,
+   "advertisers": [
+    {
+     "fulfillment_id": null,
+     "type": "seller"
+    },
+    {
+     "fulfillment_id": null,
+     "type": "co_seller"
+    }
+   ],
+   "flags": {
+    "is_new_construction": null,
+    "is_foreclosure": null,
+    "is_short_sale": null
+   }
+  },
+  {
+   "property_id": "7009618317",
+   "listing_id": "2930835509",
+   "status": "sold",
+   "href": "https://www.realtor.com/realestateandhomes-detail/11700-Three-Oaks-Trl_Austin_TX_78759_M70096-18317",
+   "list_price": null,
+   "description": {
+    "sold_date": "2021-09-29",
+    "sold_price": null,
+    "baths_consolidated": "2",
+    "beds": 3,
+    "lot_sqft": 9104,
+    "sqft": 2315,
+    "stories": null
+   },
+   "source": {
+    "agents": [
+     {
+      "id": "AUTX",
+      "agent_id": "510003",
+      "type": "seller"
+     },
+     {
+      "id": "AUTX",
+      "agent_id": "732337",
+      "type": "co_seller"
+     },
+     {
+      "id": "AUTX",
+      "agent_id": "595956",
+      "type": "buyer"
+     }
+    ]
+   },
+   "location": {
+    "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&key=AIzaSyAP_xs30yS0J4xp8O1ZKUrUttIXKklrwaM&location=11700%20Three%20Oaks%20Trl%2C%20Austin%2C%20TX%2078759&size=640x480&source=outdoor&signature=EFvmViW9TUDRCa2y6hdDcc_hLq0=",
+    "address": {
+     "line": "11700 Three Oaks Trl",
+     "city": "Austin",
+     "state_code": "TX",
+     "postal_code": "78759",
+     "coordinate": {
+      "lat": 30.423876,
+      "lon": -97.761613
+     }
+    }
+   },
+   "primary_photo": {
+    "href": "https://ap.rdcpix.com/00f6d9f5fb158fceadc2b7fb92a1ee2al-m230101536s.jpg"
+   },
+   "photos": null,
+   "advertisers": [
+    {
+     "fulfillment_id": null,
+     "type": "seller"
+    },
+    {
+     "fulfillment_id": null,
+     "type": "co_seller"
+    }
+   ],
+   "flags": {
+    "is_new_construction": null,
+    "is_foreclosure": null,
+    "is_short_sale": null
+   }
+  },
+  {
+   "property_id": "7108557987",
+   "listing_id": "2932631061",
+   "status": "sold",
+   "href": "https://www.realtor.com/realestateandhomes-detail/311-Epiphany-Ln_Pflugerville_TX_78660_M71085-57987",
+   "list_price": null,
+   "description": {
+    "sold_date": "2021-09-10",
+    "sold_price": null,
+    "baths_consolidated": "2.5",
+    "beds": 3,
+    "lot_sqft": null,
+    "sqft": 1658,
+    "stories": null
+   },
+   "source": {
+    "agents": [
+     {
+      "id": "AUTX",
+      "agent_id": "510003",
+      "type": "seller"
+     },
+     {
+      "id": "AUTX",
+      "agent_id": "684874",
+      "type": "buyer"
+     }
+    ]
+   },
+   "location": {
+    "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&key=AIzaSyAP_xs30yS0J4xp8O1ZKUrUttIXKklrwaM&location=311%20Epiphany%20Ln%2C%20Pflugerville%2C%20TX%2078660&size=640x480&source=outdoor&signature=mV6bdMQHZ8CsgEJcMxJT1Y0zZWY=",
+    "address": {
+     "line": "311 Epiphany Ln",
+     "city": "Pflugerville",
+     "state_code": "TX",
+     "postal_code": "78660",
+     "coordinate": {
+      "lat": 30.449319,
+      "lon": -97.636007
+     }
+    }
+   },
+   "primary_photo": {
+    "href": "https://ap.rdcpix.com/fad68da5c685683bf72a8b57e2d2eb87l-m1806995537s.jpg"
+   },
+   "photos": null,
+   "advertisers": [
+    {
+     "fulfillment_id": null,
+     "type": "seller"
+    }
+   ],
+   "flags": {
+    "is_new_construction": null,
+    "is_foreclosure": null,
+    "is_short_sale": null
+   }
+  }
+ ]
+}

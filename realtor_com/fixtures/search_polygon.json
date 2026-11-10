@@ -1,0 +1,1424 @@
+{
+ "count": 5,
+ "total": 1602,
+ "results": [
+  {
+   "property_id": "7274173584",
+   "listing_id": "2992909151",
+   "permalink": "1714-Timber-Brush-Trl_Austin_TX_78741_M72741-73584",
+   "href": "https://www.realtor.com/realestateandhomes-detail/1714-Timber-Brush-Trl_Austin_TX_78741_M72741-73584",
+   "status": "for_sale",
+   "mls_status": "Active",
+   "list_date": "2026-03-25T14:44:26.000000Z",
+   "last_update_date": "2026-10-28T16:51:10Z",
+   "last_status_change_date": "2026-03-25T14:44:26Z",
+   "pending_date": null,
+   "list_price": 180000,
+   "list_price_min": null,
+   "list_price_max": null,
+   "price_per_sqft": 151,
+   "last_sold_price": null,
+   "last_sold_date": null,
+   "tags": [
+    "central_heat",
+    "community_outdoor_space",
+    "community_security_features",
+    "community_tennis_court",
+    "fireplace",
+    "recreation_facilities",
+    "tennis_court",
+    "view",
+    "washer_dryer",
+    "community_swimming_pool",
+    "single_story",
+    "garage_1_or_more",
+    "garage_2_or_more",
+    "high_ceiling",
+    "rental_property",
+    "trails",
+    "tennis",
+    "den",
+    "patio"
+   ],
+   "flags": {
+    "is_coming_soon": null,
+    "is_contingent": null,
+    "is_garage_present": true,
+    "is_new_construction": null,
+    "is_pending": null,
+    "is_short_sale": null,
+    "is_foreclosure": null,
+    "is_senior_community": null,
+    "is_for_rent": null,
+    "is_deal_available": null,
+    "is_price_reduced": true,
+    "is_new_listing": false,
+    "is_subdivision": null,
+    "is_plan": null
+   },
+   "description": {
+    "type": "townhomes",
+    "sub_type": "townhouse",
+    "name": null,
+    "beds": 2,
+    "baths": 2,
+    "baths_full": 2,
+    "baths_half": null,
+    "baths_consolidated": "2",
+    "sqft": 1194,
+    "lot_sqft": 2370,
+    "year_built": 1982,
+    "garage": 2,
+    "stories": 1
+   },
+   "location": {
+    "address": {
+     "line": "1714 Timber Brush Trl",
+     "unit": null,
+     "city": "Austin",
+     "state_code": "TX",
+     "postal_code": "78741",
+     "coordinate": {
+      "lat": 30.226112,
+      "lon": -97.74302
+     }
+    },
+    "county": {
+     "name": "Travis",
+     "fips_code": "48453"
+    },
+    "neighborhoods": null
+   },
+   "hoa": {
+    "fee": 390
+   },
+   "source": {
+    "id": "AUTX",
+    "type": "mls",
+    "name": "UnlockMLS",
+    "listing_id": "1598480",
+    "agents": [
+     {
+      "agent_name": null,
+      "agent_id": "810292",
+      "office_name": "Keller Williams Realty",
+      "office_id": "0991"
+     }
+    ]
+   },
+   "primary_photo": {
+    "href": "https://ap.rdcpix.com/3f44a3aef6d60d802ab6506cc320877cl-m2828305830s.jpg"
+   },
+   "photos": [
+    {
+     "href": "https://ap.rdcpix.com/3f44a3aef6d60d802ab6506cc320877cl-m2828305830s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/3f44a3aef6d60d802ab6506cc320877cl-m681246272s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/3f44a3aef6d60d802ab6506cc320877cl-m3726511744s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/3f44a3aef6d60d802ab6506cc320877cl-m2878686797s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/3f44a3aef6d60d802ab6506cc320877cl-m1805846681s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/3f44a3aef6d60d802ab6506cc320877cl-m3196662299s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/3f44a3aef6d60d802ab6506cc320877cl-m482516704s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/3f44a3aef6d60d802ab6506cc320877cl-m674653587s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/3f44a3aef6d60d802ab6506cc320877cl-m1828966409s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/3f44a3aef6d60d802ab6506cc320877cl-m4058714988s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/3f44a3aef6d60d802ab6506cc320877cl-m3169307508s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/3f44a3aef6d60d802ab6506cc320877cl-m1086177344s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/3f44a3aef6d60d802ab6506cc320877cl-m973336828s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/3f44a3aef6d60d802ab6506cc320877cl-m3088681166s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/3f44a3aef6d60d802ab6506cc320877cl-m1007704761s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/3f44a3aef6d60d802ab6506cc320877cl-m2548650839s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/3f44a3aef6d60d802ab6506cc320877cl-m2745295105s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/3f44a3aef6d60d802ab6506cc320877cl-m3469967071s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/3f44a3aef6d60d802ab6506cc320877cl-m2345301114s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/3f44a3aef6d60d802ab6506cc320877cl-m1762629180s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/3f44a3aef6d60d802ab6506cc320877cl-m991712910s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/3f44a3aef6d60d802ab6506cc320877cl-m3214357882s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/3f44a3aef6d60d802ab6506cc320877cl-m619702710s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/3f44a3aef6d60d802ab6506cc320877cl-m3920132454s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/3f44a3aef6d60d802ab6506cc320877cl-m3326094383s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/3f44a3aef6d60d802ab6506cc320877cl-m4131542663s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/3f44a3aef6d60d802ab6506cc320877cl-m102307151s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/3f44a3aef6d60d802ab6506cc320877cl-m3807527311s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/3f44a3aef6d60d802ab6506cc320877cl-m864400674s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/3f44a3aef6d60d802ab6506cc320877cl-m3634267252s.jpg"
+    }
+   ],
+   "open_houses": null,
+   "virtual_tours": [
+    {
+     "href": "https://mls.homejab.com/property/1714-timber-brush-trail-austin-tx-78741",
+     "type": null
+    }
+   ],
+   "advertisers": [
+    {
+     "type": "seller",
+     "name": "Cavin Winfrey",
+     "fulfillment_id": "100281717",
+     "email": "cavinwinfrey@gmail.com",
+     "nrds_id": null,
+     "state_license": null,
+     "phones": [
+      {
+       "number": "(703) 801-8714",
+       "type": "PERSONAL_PHONE",
+       "primary": true,
+       "ext": null
+      }
+     ],
+     "office": {
+      "name": "Keller Williams Realty",
+      "email": "jdgrubb@kw.com",
+      "fulfillment_id": "612963",
+      "href": "WWW.KELLERWILLIAMS.COM",
+      "phones": [
+       {
+        "number": "(512) 448-4111",
+        "type": "Home"
+       }
+      ]
+     },
+     "broker": {
+      "name": "Keller Williams Realty -  Broker",
+      "fulfillment_id": "4458562"
+     },
+     "builder": null
+    }
+   ],
+   "current_estimates": [
+    {
+     "estimate": 196378,
+     "estimate_high": 217979,
+     "estimate_low": 174776,
+     "date": "2026-10-28",
+     "isbest_homevalue": true,
+     "source": {
+      "type": "quantarium",
+      "name": "Quantarium"
+     }
+    },
+    {
+     "estimate": 198000,
+     "estimate_high": 217800,
+     "estimate_low": 178200,
+     "date": "2026-10-14",
+     "isbest_homevalue": false,
+     "source": {
+      "type": "collateral",
+      "name": "Collateral Analytics"
+     }
+    },
+    {
+     "estimate": 185600,
+     "estimate_high": 209700,
+     "estimate_low": 161500,
+     "date": "2026-10-05",
+     "isbest_homevalue": false,
+     "source": {
+      "type": "corelogic",
+      "name": "Cotality™"
+     }
+    }
+   ],
+   "pet_policy": null,
+   "units": null,
+   "tax_record": {
+    "apn": null,
+    "tax_parcel_id": null
+   }
+  },
+  {
+   "property_id": "8068478287",
+   "listing_id": "3001364949",
+   "permalink": "2410-Dormarion-Ln_Austin_TX_78703_M80684-78287",
+   "href": "https://www.realtor.com/realestateandhomes-detail/2410-Dormarion-Ln_Austin_TX_78703_M80684-78287",
+   "status": "for_sale",
+   "mls_status": "Active",
+   "list_date": "2026-09-30T12:45:59.000000Z",
+   "last_update_date": "2026-11-03T23:38:09Z",
+   "last_status_change_date": "2026-09-30T12:45:59Z",
+   "pending_date": null,
+   "list_price": 849000,
+   "list_price_min": null,
+   "list_price_max": null,
+   "price_per_sqft": 561,
+   "last_sold_price": null,
+   "last_sold_date": null,
+   "tags": [
+    "community_outdoor_space",
+    "hardwood_floors",
+    "washer_dryer",
+    "single_story",
+    "garage_1_or_more",
+    "big_lot",
+    "golf_course"
+   ],
+   "flags": {
+    "is_coming_soon": null,
+    "is_contingent": true,
+    "is_garage_present": true,
+    "is_new_construction": null,
+    "is_pending": null,
+    "is_short_sale": null,
+    "is_foreclosure": null,
+    "is_senior_community": null,
+    "is_for_rent": null,
+    "is_deal_available": null,
+    "is_price_reduced": true,
+    "is_new_listing": false,
+    "is_subdivision": null,
+    "is_plan": null
+   },
+   "description": {
+    "type": "single_family",
+    "sub_type": null,
+    "name": null,
+    "beds": 2,
+    "baths": 2,
+    "baths_full": 2,
+    "baths_half": null,
+    "baths_consolidated": "2",
+    "sqft": 1513,
+    "lot_sqft": 6447,
+    "year_built": 1949,
+    "garage": 1,
+    "stories": 1
+   },
+   "location": {
+    "address": {
+     "line": "2410 Dormarion Ln",
+     "unit": null,
+     "city": "Austin",
+     "state_code": "TX",
+     "postal_code": "78703",
+     "coordinate": {
+      "lat": 30.294043,
+      "lon": -97.762968
+     }
+    },
+    "county": {
+     "name": "Travis",
+     "fips_code": "48453"
+    },
+    "neighborhoods": null
+   },
+   "hoa": {
+    "fee": 0
+   },
+   "source": {
+    "id": "AUTX",
+    "type": "mls",
+    "name": "UnlockMLS",
+    "listing_id": "2766611",
+    "agents": [
+     {
+      "agent_name": null,
+      "agent_id": "689078",
+      "office_name": "Compass RE Texas, LLC",
+      "office_id": "700459"
+     }
+    ]
+   },
+   "primary_photo": {
+    "href": "https://ap.rdcpix.com/f1641115587873ff2ea16bdccb0822c1l-m2833943829s.jpg"
+   },
+   "photos": [
+    {
+     "href": "https://ap.rdcpix.com/f1641115587873ff2ea16bdccb0822c1l-m2833943829s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/f1641115587873ff2ea16bdccb0822c1l-m3248941958s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/f1641115587873ff2ea16bdccb0822c1l-m3785373493s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/f1641115587873ff2ea16bdccb0822c1l-m3297196600s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/f1641115587873ff2ea16bdccb0822c1l-m2891036100s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/f1641115587873ff2ea16bdccb0822c1l-m2619423717s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/f1641115587873ff2ea16bdccb0822c1l-m4247820384s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/f1641115587873ff2ea16bdccb0822c1l-m3401786649s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/f1641115587873ff2ea16bdccb0822c1l-m1846514028s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/f1641115587873ff2ea16bdccb0822c1l-m2942144122s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/f1641115587873ff2ea16bdccb0822c1l-m1743931370s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/f1641115587873ff2ea16bdccb0822c1l-m4258282264s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/f1641115587873ff2ea16bdccb0822c1l-m3143460459s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/f1641115587873ff2ea16bdccb0822c1l-m4078246666s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/f1641115587873ff2ea16bdccb0822c1l-m2987803041s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/f1641115587873ff2ea16bdccb0822c1l-m2695012769s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/f1641115587873ff2ea16bdccb0822c1l-m2138824057s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/f1641115587873ff2ea16bdccb0822c1l-m345325601s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/f1641115587873ff2ea16bdccb0822c1l-m1715369925s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/f1641115587873ff2ea16bdccb0822c1l-m3465455244s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/f1641115587873ff2ea16bdccb0822c1l-m2771134644s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/f1641115587873ff2ea16bdccb0822c1l-m2318324328s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/f1641115587873ff2ea16bdccb0822c1l-m206214508s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/f1641115587873ff2ea16bdccb0822c1l-m3312516284s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/f1641115587873ff2ea16bdccb0822c1l-m1243919500s.jpg"
+    }
+   ],
+   "open_houses": null,
+   "virtual_tours": [
+    {
+     "href": "https://view.ramblrmedia.com/sites/rwngxbmm/unbranded",
+     "type": null
+    }
+   ],
+   "advertisers": [
+    {
+     "type": "seller",
+     "name": "Heather Powell",
+     "fulfillment_id": "3436417",
+     "email": "heather@heatherpowellgroup.com",
+     "nrds_id": "785044152",
+     "state_license": null,
+     "phones": [
+      {
+       "number": "5129213417",
+       "type": "office",
+       "primary": true,
+       "ext": null
+      }
+     ],
+     "office": {
+      "name": "Compass RE Texas LLC - Austin",
+      "email": "txbroker@compass.com",
+      "fulfillment_id": "3723202",
+      "href": "http://www.compass.com",
+      "phones": [
+       {
+        "number": "5125753644",
+        "type": "Office"
+       }
+      ]
+     },
+     "broker": {
+      "name": "Compass RE Texas, LLC. - Broker",
+      "fulfillment_id": "100456589"
+     },
+     "builder": null
+    }
+   ],
+   "current_estimates": [
+    {
+     "estimate": 838600,
+     "estimate_high": 920400,
+     "estimate_low": 756800,
+     "date": "2026-10-05",
+     "isbest_homevalue": true,
+     "source": {
+      "type": "corelogic",
+      "name": "Cotality™"
+     }
+    },
+    {
+     "estimate": 750000,
+     "estimate_high": 892500,
+     "estimate_low": 607500,
+     "date": "2026-10-14",
+     "isbest_homevalue": false,
+     "source": {
+      "type": "collateral",
+      "name": "Collateral Analytics"
+     }
+    },
+    {
+     "estimate": 881622,
+     "estimate_high": 969784,
+     "estimate_low": 793459,
+     "date": "2026-10-28",
+     "isbest_homevalue": false,
+     "source": {
+      "type": "quantarium",
+      "name": "Quantarium"
+     }
+    }
+   ],
+   "pet_policy": null,
+   "units": null,
+   "tax_record": {
+    "apn": null,
+    "tax_parcel_id": null
+   }
+  },
+  {
+   "property_id": "9747716856",
+   "listing_id": "3001924241",
+   "permalink": "2702-S-2nd-St-Unit-1_Austin_TX_78704_M97477-16856",
+   "href": "https://www.realtor.com/realestateandhomes-detail/2702-S-2nd-St-Unit-1_Austin_TX_78704_M97477-16856",
+   "status": "for_sale",
+   "mls_status": "Active",
+   "list_date": "2026-10-16T19:57:54.000000Z",
+   "last_update_date": "2026-10-17T09:04:09Z",
+   "last_status_change_date": "2026-10-16T19:57:54Z",
+   "pending_date": null,
+   "list_price": 300000,
+   "list_price_min": null,
+   "list_price_max": null,
+   "price_per_sqft": 120,
+   "last_sold_price": null,
+   "last_sold_date": "2025-09-04",
+   "tags": [
+    "central_air",
+    "central_heat",
+    "community_outdoor_space",
+    "dishwasher",
+    "hardwood_floors",
+    "laundry_room",
+    "view",
+    "single_story"
+   ],
+   "flags": {
+    "is_coming_soon": null,
+    "is_contingent": null,
+    "is_garage_present": null,
+    "is_new_construction": null,
+    "is_pending": null,
+    "is_short_sale": null,
+    "is_foreclosure": null,
+    "is_senior_community": null,
+    "is_for_rent": null,
+    "is_deal_available": null,
+    "is_price_reduced": null,
+    "is_new_listing": false,
+    "is_subdivision": null,
+    "is_plan": null
+   },
+   "description": {
+    "type": "single_family",
+    "sub_type": null,
+    "name": null,
+    "beds": 5,
+    "baths": 6,
+    "baths_full": 4,
+    "baths_half": 2,
+    "baths_consolidated": "4.5+",
+    "sqft": 2496,
+    "lot_sqft": 6190,
+    "year_built": 1948,
+    "garage": null,
+    "stories": 1
+   },
+   "location": {
+    "address": {
+     "line": "2702 S 2nd St Units 1 & 2",
+     "unit": "Units 1 & 2",
+     "city": "Austin",
+     "state_code": "TX",
+     "postal_code": "78704",
+     "coordinate": {
+      "lat": 30.238212,
+      "lon": -97.763384
+     }
+    },
+    "county": {
+     "name": "Travis",
+     "fips_code": "48453"
+    },
+    "neighborhoods": null
+   },
+   "hoa": {
+    "fee": 0
+   },
+   "source": {
+    "id": "AUTX",
+    "type": "mls",
+    "name": "UnlockMLS",
+    "listing_id": "7515221",
+    "agents": [
+     {
+      "agent_name": null,
+      "agent_id": "4218090",
+      "office_name": "Tranzon Asset Advisors of Texa",
+      "office_id": "705105"
+     },
+     {
+      "agent_name": null,
+      "agent_id": "660107",
+      "office_name": "Keller Williams Realty",
+      "office_id": "ACT1514258"
+     }
+    ]
+   },
+   "primary_photo": {
+    "href": "https://ap.rdcpix.com/f96a2396cbece1bbf95ea4a9f7f3b727l-m1533097095s.jpg"
+   },
+   "photos": [
+    {
+     "href": "https://ap.rdcpix.com/f96a2396cbece1bbf95ea4a9f7f3b727l-m1533097095s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/f96a2396cbece1bbf95ea4a9f7f3b727l-m1315189450s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/f96a2396cbece1bbf95ea4a9f7f3b727l-m2448016485s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/f96a2396cbece1bbf95ea4a9f7f3b727l-m1424757787s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/f96a2396cbece1bbf95ea4a9f7f3b727l-m2406775056s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/f96a2396cbece1bbf95ea4a9f7f3b727l-m2872135270s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/f96a2396cbece1bbf95ea4a9f7f3b727l-m1780135446s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/f96a2396cbece1bbf95ea4a9f7f3b727l-m1133424909s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/f96a2396cbece1bbf95ea4a9f7f3b727l-m2753104625s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/f96a2396cbece1bbf95ea4a9f7f3b727l-m448383691s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/f96a2396cbece1bbf95ea4a9f7f3b727l-m891583313s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/f96a2396cbece1bbf95ea4a9f7f3b727l-m1814530385s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/f96a2396cbece1bbf95ea4a9f7f3b727l-m2764922318s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/f96a2396cbece1bbf95ea4a9f7f3b727l-m3275538934s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/f96a2396cbece1bbf95ea4a9f7f3b727l-m1299452745s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/f96a2396cbece1bbf95ea4a9f7f3b727l-m11905218s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/f96a2396cbece1bbf95ea4a9f7f3b727l-m3285488839s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/f96a2396cbece1bbf95ea4a9f7f3b727l-m1070953255s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/f96a2396cbece1bbf95ea4a9f7f3b727l-m3689476255s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/f96a2396cbece1bbf95ea4a9f7f3b727l-m2588465394s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/f96a2396cbece1bbf95ea4a9f7f3b727l-m3198508591s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/f96a2396cbece1bbf95ea4a9f7f3b727l-m2483382021s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/f96a2396cbece1bbf95ea4a9f7f3b727l-m1827357697s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/f96a2396cbece1bbf95ea4a9f7f3b727l-m1169983665s.jpg"
+    }
+   ],
+   "open_houses": [
+    {
+     "start_date": "2026-11-10T11:00:00",
+     "end_date": "2026-11-10T12:00:00",
+     "description": null,
+     "methods": [
+      "in_person"
+     ]
+    }
+   ],
+   "virtual_tours": null,
+   "advertisers": [
+    {
+     "type": "seller",
+     "name": "Kelly Toney",
+     "fulfillment_id": "1676177",
+     "email": "kellytoney@me.com",
+     "nrds_id": null,
+     "state_license": null,
+     "phones": [
+      {
+       "number": "7138161123",
+       "type": "Office",
+       "primary": true,
+       "ext": null
+      }
+     ],
+     "office": {
+      "name": "Tranzon Asset Advisors of Texa",
+      "email": null,
+      "fulfillment_id": "0",
+      "href": null,
+      "phones": [
+       {
+        "number": "7138161123",
+        "type": "Mobile"
+       }
+      ]
+     },
+     "broker": {
+      "name": null,
+      "fulfillment_id": "0"
+     },
+     "builder": null
+    },
+    {
+     "type": "co_seller",
+     "name": "Ryan Jamison",
+     "fulfillment_id": "3244359",
+     "email": null,
+     "nrds_id": null,
+     "state_license": null,
+     "phones": [
+      {
+       "number": "(254) 733-9458",
+       "type": "Office",
+       "primary": true,
+       "ext": null
+      }
+     ],
+     "office": {
+      "name": "Keller Williams Realty",
+      "email": "jdgrubb@kw.com",
+      "fulfillment_id": "612963",
+      "href": "WWW.KELLERWILLIAMS.COM",
+      "phones": [
+       {
+        "number": "(512) 448-4111",
+        "type": "Home"
+       }
+      ]
+     },
+     "broker": {
+      "name": "Keller Williams Realty -  Broker",
+      "fulfillment_id": "4458562"
+     },
+     "builder": null
+    }
+   ],
+   "current_estimates": [
+    {
+     "estimate": 373281,
+     "estimate_high": 429273,
+     "estimate_low": 317288,
+     "date": "2026-10-28",
+     "isbest_homevalue": true,
+     "source": {
+      "type": "quantarium",
+      "name": "Quantarium"
+     }
+    }
+   ],
+   "pet_policy": null,
+   "units": null,
+   "tax_record": {
+    "apn": null,
+    "tax_parcel_id": null
+   }
+  },
+  {
+   "property_id": "7549462207",
+   "listing_id": "3002527416",
+   "permalink": "1311-Newning-Ave_Austin_TX_78704_M75494-62207",
+   "href": "https://www.realtor.com/realestateandhomes-detail/1311-Newning-Ave_Austin_TX_78704_M75494-62207",
+   "status": "for_sale",
+   "mls_status": "Active",
+   "list_date": "2026-10-27T12:35:31.000000Z",
+   "last_update_date": "2026-11-03T13:38:12Z",
+   "last_status_change_date": "2026-10-27T12:35:31Z",
+   "pending_date": null,
+   "list_price": 899000,
+   "list_price_min": null,
+   "list_price_max": null,
+   "price_per_sqft": 806,
+   "last_sold_price": null,
+   "last_sold_date": "1998-06-16",
+   "tags": [
+    "central_air",
+    "central_heat",
+    "community_outdoor_space",
+    "fireplace",
+    "hardwood_floors",
+    "single_story",
+    "basement",
+    "big_lot",
+    "oversized_lot",
+    "den",
+    "park",
+    "lake",
+    "groundscare"
+   ],
+   "flags": {
+    "is_coming_soon": null,
+    "is_contingent": null,
+    "is_garage_present": null,
+    "is_new_construction": null,
+    "is_pending": null,
+    "is_short_sale": null,
+    "is_foreclosure": null,
+    "is_senior_community": null,
+    "is_for_rent": null,
+    "is_deal_available": null,
+    "is_price_reduced": null,
+    "is_new_listing": true,
+    "is_subdivision": null,
+    "is_plan": null
+   },
+   "description": {
+    "type": "single_family",
+    "sub_type": null,
+    "name": null,
+    "beds": 2,
+    "baths": 1,
+    "baths_full": 1,
+    "baths_half": null,
+    "baths_consolidated": "1",
+    "sqft": 1116,
+    "lot_sqft": 6286,
+    "year_built": 1936,
+    "garage": null,
+    "stories": 1
+   },
+   "location": {
+    "address": {
+     "line": "1311 Newning Ave",
+     "unit": null,
+     "city": "Austin",
+     "state_code": "TX",
+     "postal_code": "78704",
+     "coordinate": {
+      "lat": 30.249514,
+      "lon": -97.743914
+     }
+    },
+    "county": {
+     "name": "Travis",
+     "fips_code": "48453"
+    },
+    "neighborhoods": null
+   },
+   "hoa": {
+    "fee": 0
+   },
+   "source": {
+    "id": "AUTX",
+    "type": "mls",
+    "name": "UnlockMLS",
+    "listing_id": "3185147",
+    "agents": [
+     {
+      "agent_name": null,
+      "agent_id": "844906",
+      "office_name": "Engel & Volkers Austin",
+      "office_id": "1372"
+     },
+     {
+      "agent_name": null,
+      "agent_id": "483433",
+      "office_name": "Engel & Volkers Austin",
+      "office_id": "ACT1514733"
+     }
+    ]
+   },
+   "primary_photo": {
+    "href": "https://ap.rdcpix.com/7b06c4bf4d6d414b1e1e325524dbe46al-m2073170254s.jpg"
+   },
+   "photos": [
+    {
+     "href": "https://ap.rdcpix.com/7b06c4bf4d6d414b1e1e325524dbe46al-m2073170254s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/7b06c4bf4d6d414b1e1e325524dbe46al-m1360869994s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/7b06c4bf4d6d414b1e1e325524dbe46al-m178788205s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/7b06c4bf4d6d414b1e1e325524dbe46al-m2373075997s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/7b06c4bf4d6d414b1e1e325524dbe46al-m140888490s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/7b06c4bf4d6d414b1e1e325524dbe46al-m2262164581s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/7b06c4bf4d6d414b1e1e325524dbe46al-m350737751s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/7b06c4bf4d6d414b1e1e325524dbe46al-m1747135104s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/7b06c4bf4d6d414b1e1e325524dbe46al-m2265816958s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/7b06c4bf4d6d414b1e1e325524dbe46al-m160919388s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/7b06c4bf4d6d414b1e1e325524dbe46al-m2114522620s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/7b06c4bf4d6d414b1e1e325524dbe46al-m3999964164s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/7b06c4bf4d6d414b1e1e325524dbe46al-m1236518055s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/7b06c4bf4d6d414b1e1e325524dbe46al-m1453945643s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/7b06c4bf4d6d414b1e1e325524dbe46al-m1101974352s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/7b06c4bf4d6d414b1e1e325524dbe46al-m3988882137s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/7b06c4bf4d6d414b1e1e325524dbe46al-m943160036s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/7b06c4bf4d6d414b1e1e325524dbe46al-m1934198762s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/7b06c4bf4d6d414b1e1e325524dbe46al-m1123972208s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/7b06c4bf4d6d414b1e1e325524dbe46al-m3039562569s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/7b06c4bf4d6d414b1e1e325524dbe46al-m1343394686s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/7b06c4bf4d6d414b1e1e325524dbe46al-m1056344118s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/7b06c4bf4d6d414b1e1e325524dbe46al-m387526091s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/7b06c4bf4d6d414b1e1e325524dbe46al-m1130469685s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/7b06c4bf4d6d414b1e1e325524dbe46al-m236618847s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/7b06c4bf4d6d414b1e1e325524dbe46al-m1603684203s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/7b06c4bf4d6d414b1e1e325524dbe46al-m86230268s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/7b06c4bf4d6d414b1e1e325524dbe46al-m3643702084s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/7b06c4bf4d6d414b1e1e325524dbe46al-m3730320377s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/7b06c4bf4d6d414b1e1e325524dbe46al-m3266016937s.jpg"
+    }
+   ],
+   "open_houses": null,
+   "virtual_tours": null,
+   "advertisers": [
+    {
+     "type": "seller",
+     "name": "Liza Richardson",
+     "fulfillment_id": "100759652",
+     "email": "liza.richardson@evrealestate.com",
+     "nrds_id": null,
+     "state_license": null,
+     "phones": [
+      {
+       "number": "(512) 733-3041",
+       "type": "BUSINESS_PHONE",
+       "primary": true,
+       "ext": null
+      }
+     ],
+     "office": {
+      "name": "Engel & Völkers Austin",
+      "email": "austin@evrealestate.com",
+      "fulfillment_id": "21393",
+      "href": "https://austin.evrealestate.com",
+      "phones": [
+       {
+        "number": "5123283939",
+        "type": "Office"
+       },
+       {
+        "number": "512-328-3922",
+        "type": "Fax"
+       },
+       {
+        "number": "5122637997",
+        "type": "Office"
+       }
+      ]
+     },
+     "broker": {
+      "name": null,
+      "fulfillment_id": "0"
+     },
+     "builder": null
+    },
+    {
+     "type": "co_seller",
+     "name": "Kathryn Scarborough",
+     "fulfillment_id": "1174101",
+     "email": "kathryn.scarborough@evrealestate.com",
+     "nrds_id": "785011315",
+     "state_license": null,
+     "phones": [
+      {
+       "number": "5129701355",
+       "type": "Mobile",
+       "primary": true,
+       "ext": null
+      }
+     ],
+     "office": {
+      "name": "Engel & Volkers Austin",
+      "email": "michele.turnquist@evusa.com",
+      "fulfillment_id": "0",
+      "href": "http://turnquistpartners.com",
+      "phones": [
+       {
+        "number": "5127504299",
+        "type": "Mobile"
+       },
+       {
+        "number": "(512) 263-1851",
+        "type": "Fax"
+       }
+      ]
+     },
+     "broker": {
+      "name": "Engel & Volkers Austin - Broker",
+      "fulfillment_id": "0"
+     },
+     "builder": null
+    }
+   ],
+   "current_estimates": [
+    {
+     "estimate": 826400,
+     "estimate_high": 933400,
+     "estimate_low": 719500,
+     "date": "2026-10-05",
+     "isbest_homevalue": true,
+     "source": {
+      "type": "corelogic",
+      "name": "Cotality™"
+     }
+    },
+    {
+     "estimate": 799000,
+     "estimate_high": 1062700,
+     "estimate_low": 535300,
+     "date": "2026-10-14",
+     "isbest_homevalue": false,
+     "source": {
+      "type": "collateral",
+      "name": "Collateral Analytics"
+     }
+    },
+    {
+     "estimate": 840100,
+     "estimate_high": 982917,
+     "estimate_low": 697283,
+     "date": "2026-10-28",
+     "isbest_homevalue": false,
+     "source": {
+      "type": "quantarium",
+      "name": "Quantarium"
+     }
+    }
+   ],
+   "pet_policy": null,
+   "units": null,
+   "tax_record": {
+    "apn": null,
+    "tax_parcel_id": null
+   }
+  },
+  {
+   "property_id": "8079531751",
+   "listing_id": "3002707390",
+   "permalink": "4918-Rollingwood-Dr_Rollingwood_TX_78746_M80795-31751",
+   "href": "https://www.realtor.com/realestateandhomes-detail/4918-Rollingwood-Dr_Rollingwood_TX_78746_M80795-31751",
+   "status": "for_sale",
+   "mls_status": "Active",
+   "list_date": "2026-10-30T15:37:30.000000Z",
+   "last_update_date": "2026-11-03T13:40:14Z",
+   "last_status_change_date": "2026-10-30T15:37:30Z",
+   "pending_date": null,
+   "list_price": 5795000,
+   "list_price_min": null,
+   "list_price_max": null,
+   "price_per_sqft": 981,
+   "last_sold_price": null,
+   "last_sold_date": "2012-06-11",
+   "tags": [
+    "central_air",
+    "central_heat",
+    "community_outdoor_space",
+    "community_security_features",
+    "corner_lot",
+    "dining_room",
+    "dishwasher",
+    "fireplace",
+    "hardwood_floors",
+    "laundry_room",
+    "recreation_facilities",
+    "view",
+    "community_swimming_pool",
+    "swimming_pool",
+    "two_or_more_stories",
+    "garage_1_or_more",
+    "garage_2_or_more",
+    "garage_3_or_more",
+    "media_room",
+    "porch",
+    "office",
+    "game_room"
+   ],
+   "flags": {
+    "is_coming_soon": null,
+    "is_contingent": null,
+    "is_garage_present": true,
+    "is_new_construction": null,
+    "is_pending": null,
+    "is_short_sale": null,
+    "is_foreclosure": null,
+    "is_senior_community": null,
+    "is_for_rent": null,
+    "is_deal_available": null,
+    "is_price_reduced": null,
+    "is_new_listing": true,
+    "is_subdivision": null,
+    "is_plan": null
+   },
+   "description": {
+    "type": "single_family",
+    "sub_type": null,
+    "name": null,
+    "beds": 5,
+    "baths": 6,
+    "baths_full": 4,
+    "baths_half": 2,
+    "baths_consolidated": "4.5+",
+    "sqft": 5908,
+    "lot_sqft": 18260,
+    "year_built": 2008,
+    "garage": 3,
+    "stories": 2
+   },
+   "location": {
+    "address": {
+     "line": "4918 Rollingwood Dr",
+     "unit": null,
+     "city": "West Lake Hills",
+     "state_code": "TX",
+     "postal_code": "78746",
+     "coordinate": {
+      "lat": 30.273352,
+      "lon": -97.79239
+     }
+    },
+    "county": {
+     "name": "Travis",
+     "fips_code": "48453"
+    },
+    "neighborhoods": null
+   },
+   "hoa": {
+    "fee": 0
+   },
+   "source": {
+    "id": "AUTX",
+    "type": "mls",
+    "name": "UnlockMLS",
+    "listing_id": "3143361",
+    "agents": [
+     {
+      "agent_name": null,
+      "agent_id": "456793",
+      "office_name": "Moreland Properties",
+      "office_id": "017J"
+     }
+    ]
+   },
+   "primary_photo": {
+    "href": "https://ap.rdcpix.com/3c69174376a1b14e306591e294326755l-m513626952s.jpg"
+   },
+   "photos": [
+    {
+     "href": "https://ap.rdcpix.com/3c69174376a1b14e306591e294326755l-m513626952s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/3c69174376a1b14e306591e294326755l-m609552130s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/3c69174376a1b14e306591e294326755l-m1487328474s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/3c69174376a1b14e306591e294326755l-m307358728s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/3c69174376a1b14e306591e294326755l-m253369566s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/3c69174376a1b14e306591e294326755l-m347056731s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/3c69174376a1b14e306591e294326755l-m2476499316s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/3c69174376a1b14e306591e294326755l-m960702295s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/3c69174376a1b14e306591e294326755l-m3744726808s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/3c69174376a1b14e306591e294326755l-m3029525215s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/3c69174376a1b14e306591e294326755l-m441148795s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/3c69174376a1b14e306591e294326755l-m4188675312s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/3c69174376a1b14e306591e294326755l-m345548057s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/3c69174376a1b14e306591e294326755l-m353374373s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/3c69174376a1b14e306591e294326755l-m262974665s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/3c69174376a1b14e306591e294326755l-m310395901s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/3c69174376a1b14e306591e294326755l-m290427963s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/3c69174376a1b14e306591e294326755l-m2080489201s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/3c69174376a1b14e306591e294326755l-m3270850213s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/3c69174376a1b14e306591e294326755l-m112178480s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/3c69174376a1b14e306591e294326755l-m3794505899s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/3c69174376a1b14e306591e294326755l-m98182880s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/3c69174376a1b14e306591e294326755l-m639949726s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/3c69174376a1b14e306591e294326755l-m1703333986s.jpg"
+    }
+   ],
+   "open_houses": null,
+   "virtual_tours": null,
+   "advertisers": [
+    {
+     "type": "seller",
+     "name": "Cord Shiflet",
+     "fulfillment_id": "142001",
+     "email": "cord@moreland.com",
+     "nrds_id": null,
+     "state_license": null,
+     "phones": [
+      {
+       "number": "5127512673",
+       "type": "Mobile",
+       "primary": true,
+       "ext": null
+      },
+      {
+       "number": "5124800848",
+       "type": "Office",
+       "primary": true,
+       "ext": null
+      },
+      {
+       "number": "5124800848",
+       "type": "Office",
+       "primary": true,
+       "ext": "164"
+      },
+      {
+       "number": "5104800848",
+       "type": "Home",
+       "primary": true,
+       "ext": null
+      }
+     ],
+     "office": {
+      "name": "MORELAND PROPERTIES",
+      "email": "sales@moreland.com",
+      "fulfillment_id": "16846",
+      "href": "WWW.MORELAND.COM",
+      "phones": [
+       {
+        "number": "5124800848",
+        "type": "Office"
+       }
+      ]
+     },
+     "broker": {
+      "name": "MORELAND PROPERTIES",
+      "fulfillment_id": "711114"
+     },
+     "builder": null
+    }
+   ],
+   "current_estimates": [
+    {
+     "estimate": 5263745,
+     "estimate_high": 6316494,
+     "estimate_low": 4210996,
+     "date": "2026-10-28",
+     "isbest_homevalue": true,
+     "source": {
+      "type": "quantarium",
+      "name": "Quantarium"
+     }
+    },
+    {
+     "estimate": 5437000,
+     "estimate_high": 5763200,
+     "estimate_low": 5110800,
+     "date": "2026-10-14",
+     "isbest_homevalue": false,
+     "source": {
+      "type": "collateral",
+      "name": "Collateral Analytics"
+     }
+    },
+    {
+     "estimate": 4786300,
+     "estimate_high": 5257000,
+     "estimate_low": 4315700,
+     "date": "2026-10-05",
+     "isbest_homevalue": false,
+     "source": {
+      "type": "corelogic",
+      "name": "Cotality™"
+     }
+    }
+   ],
+   "pet_policy": null,
+   "units": null,
+   "tax_record": {
+    "apn": null,
+    "tax_parcel_id": null
+   }
+  }
+ ]
+}

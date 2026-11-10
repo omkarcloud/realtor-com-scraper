@@ -1,0 +1,3081 @@
+{
+ "property_id": "9447422407",
+ "listing_id": "2970801321",
+ "href": "https://www.realtor.com/rentals/details/5500-Caprock-Summit-Dr_Austin_TX_78738_M94474-22407",
+ "permalink": "5500-Caprock-Summit-Dr_Austin_TX_78738_M94474-22407",
+ "status": "for_rent",
+ "mls_status": null,
+ "list_date": "2024-08-16T00:22:51Z",
+ "list_price": null,
+ "list_price_min": 1378,
+ "list_price_max": 4025,
+ "price_per_sqft": null,
+ "last_sold_price": null,
+ "last_sold_date": null,
+ "last_status_change_date": null,
+ "last_update_date": "2026-11-05T03:15:26Z",
+ "last_price_change_amount": null,
+ "last_price_change_date": null,
+ "pending_date": null,
+ "tags": [
+  "laundry_room",
+  "gated_community",
+  "pets_allowed",
+  "hardwood_floors",
+  "community_no_fee",
+  "swimming_pool",
+  "parking_garage",
+  "views",
+  "medicalcare"
+ ],
+ "days_on_market": null,
+ "photo_count": 139,
+ "description": {
+  "name": "The Artesian at Bee Cave",
+  "type": "apartment",
+  "sub_type": null,
+  "beds": null,
+  "baths": null,
+  "baths_full": null,
+  "baths_half": null,
+  "baths_consolidated": null,
+  "beds_min": 1,
+  "beds_max": 3,
+  "baths_min": 1,
+  "baths_max": 2.5,
+  "sqft": null,
+  "sqft_min": 619,
+  "sqft_max": 1959,
+  "lot_sqft": null,
+  "year_built": null,
+  "garage": null,
+  "stories": null,
+  "text": "Welcome every day with an endless Hill Country sky. A landscape woven with bluebonnets, rivers, rolling hills, and abundant natural springs. Designed to recharge and renew, The Artesian combines the allure of resort-style living with artful Texan hospitality. A breath of fresh Hill Country air and the panoramic views that go with it."
+ },
+ "details": [
+  {
+   "category": "Community Features",
+   "text": [
+    "9 Foot Ceilings",
+    "Abundant Natural Light Throughout",
+    "Availability 24 Hours",
+    "Bulk Resident Ice Maker",
+    "Close Shopping & Dining Experiences",
+    "Close to Lake Travis",
+    "Co-Working Spaces with Discussion & Board Rooms",
+    "Concierge",
+    "Contemporary Custom Iron Railings in Townhomes*",
+    "Curated Social Events",
+    "Custom Closet System*",
+    "Custom Solid Wood Cabinetry",
+    "Daybeds with Multiple Congregation Zones",
+    "Deck",
+    "Double Ovens*",
+    "EV Site Charging Stations",
+    "Fenced Yards*",
+    "Floating Sinks*",
+    "Framed Vanity Mirrors",
+    "Fully Furnished Guest Accommodations Available",
+    "Garment Steam Cabinet*",
+    "Gated Entry",
+    "Hammock Grove & Band Stand",
+    "Laundry",
+    "Lawn",
+    "Minutes from The Hill Country Galleria",
+    "Modern Designer Lighting",
+    "Outdoor Games Shuffleboard & Corn Hole",
+    "Outdoor Kitchen with Prep Areas",
+    "Package Receiving",
+    "Parking Available",
+    "Penthouse Suites",
+    "Pet Park",
+    "Pool",
+    "Poolside Pavilion with WiFi & TV",
+    "Poolside Pergolas",
+    "Porcelain Backsplash",
+    "Premium Vent Hoods*",
+    "Premium Window Shades*",
+    "Quartz Countertops",
+    "Rainfall Shower Heads",
+    "Reserved Storages Available",
+    "Semi-Frameless Glass Showers*",
+    "Short Term Rentals",
+    "Sliding Barn Doors*",
+    "Smart Home Technology - Dwelo System",
+    "Soft Close Cabinetry",
+    "Stainless Steel Appliances in all Homes",
+    "Starbucks Coffee Cafe",
+    "TV Lounge",
+    "USB Outlets in Kitchen & Bedrooms",
+    "Undermount Sinks",
+    "Dogs Allowed",
+    "Cats Allowed"
+   ],
+   "parent_category": "Community"
+  }
+ ],
+ "flags": {
+  "is_coming_soon": null,
+  "is_contingent": null,
+  "is_garage_present": null,
+  "is_new_construction": null,
+  "is_pending": null,
+  "is_short_sale": null,
+  "is_foreclosure": null,
+  "is_senior_community": null,
+  "is_for_rent": true,
+  "is_deal_available": null,
+  "is_price_reduced": null,
+  "is_new_listing": false,
+  "is_subdivision": null,
+  "is_plan": null
+ },
+ "location": {
+  "address": {
+   "line": "5500 Caprock Summit Dr",
+   "unit": null,
+   "city": "Bee Cave",
+   "state_code": "TX",
+   "state": "Texas",
+   "postal_code": "78738",
+   "coordinate": {
+    "lat": 30.323248,
+    "lon": -98.014547
+   }
+  },
+  "county": {
+   "name": "Travis",
+   "fips_code": "48453"
+  },
+  "neighborhoods": null,
+  "parcel": null,
+  "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&key=AIzaSyAP_xs30yS0J4xp8O1ZKUrUttIXKklrwaM&location=5500%20Caprock%20Summit%20Dr%2C%20Bee%20Cave%2C%20TX%2078738&size=640x480&source=outdoor&signature=knUSRo0Am7m-Rh85ZF182V21n3U="
+ },
+ "hoa": null,
+ "source": {
+  "id": "ZILL",
+  "type": "community",
+  "name": "Zillow",
+  "listing_id": "4ve4jvd1qqdxs",
+  "disclaimer": null,
+  "agents": null,
+  "raw": null
+ },
+ "primary_photo": {
+  "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f543643031s.jpg"
+ },
+ "photos": [
+  {
+   "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f543643031s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "exterior",
+     "probability": 0.781288743019104
+    },
+    {
+     "label": "swimming_pool",
+     "probability": 0.9631261229515076
+    }
+   ]
+  },
+  {
+   "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f3665303134s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "kitchen",
+     "probability": 0.9997995495796204
+    }
+   ]
+  },
+  {
+   "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f1326126500s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "kitchen",
+     "probability": 0.9995914101600647
+    }
+   ]
+  },
+  {
+   "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f3294407304s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "living_room",
+     "probability": 0.9999909400939941
+    }
+   ]
+  },
+  {
+   "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f910613281s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "bedroom",
+     "probability": 1
+    }
+   ]
+  },
+  {
+   "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f1350073998s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "bathroom",
+     "probability": 0.8121784925460815
+    }
+   ]
+  },
+  {
+   "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f1196444075s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "kitchen",
+     "probability": 0.9990524649620056
+    }
+   ]
+  },
+  {
+   "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f2956140748s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "living_room",
+     "probability": 0.9812229871749878
+    }
+   ]
+  },
+  {
+   "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f1116148585s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "living_room",
+     "probability": 0.9995951056480408
+    }
+   ]
+  },
+  {
+   "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f3584469130s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "bedroom",
+     "probability": 0.9999996423721313
+    }
+   ]
+  },
+  {
+   "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f333322965s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "bedroom",
+     "probability": 1
+    }
+   ]
+  },
+  {
+   "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f2127598843s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "bedroom",
+     "probability": 0.9986432194709778
+    }
+   ]
+  },
+  {
+   "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f1304953161s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "bedroom",
+     "probability": 0.9999971389770508
+    }
+   ]
+  },
+  {
+   "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f2316948924s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "bedroom",
+     "probability": 0.9914863109588623
+    }
+   ]
+  },
+  {
+   "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f3888942978s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "bedroom",
+     "probability": 0.9974918365478516
+    }
+   ]
+  },
+  {
+   "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f578376890s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "bathroom",
+     "probability": 0.9999992847442627
+    }
+   ]
+  },
+  {
+   "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f3530036838s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "bathroom",
+     "probability": 0.971143364906311
+    }
+   ]
+  },
+  {
+   "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f2530412292s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "unknown",
+     "probability": 0.9999998807907104
+    }
+   ]
+  },
+  {
+   "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f703081972s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "unknown",
+     "probability": 0.9999866485595703
+    }
+   ]
+  },
+  {
+   "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f694969399s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "exterior",
+     "probability": 0.9926016926765442
+    },
+    {
+     "label": "exterior",
+     "probability": 0.9278779029846191
+    },
+    {
+     "label": "exterior",
+     "probability": 0.9996084570884705
+    }
+   ]
+  },
+  {
+   "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f1445858547s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "bathroom",
+     "probability": 0.8752296566963196
+    }
+   ]
+  },
+  {
+   "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f2696181143s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "kitchen",
+     "probability": 0.8740449547767639
+    }
+   ]
+  },
+  {
+   "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f2797758449s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "unknown",
+     "probability": 0.7929157018661499
+    }
+   ]
+  },
+  {
+   "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f3911484534s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "living_room",
+     "probability": 0.9999984502792358
+    }
+   ]
+  },
+  {
+   "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f326645698s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "living_room",
+     "probability": 0.9998358488082886
+    }
+   ]
+  },
+  {
+   "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f1705689860s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "bedroom",
+     "probability": 0.9999988079071045
+    }
+   ]
+  },
+  {
+   "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f3273901480s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "unknown",
+     "probability": 0.9975159168243408
+    }
+   ]
+  },
+  {
+   "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f1366518139s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "unknown",
+     "probability": 0.9999973773956299
+    }
+   ]
+  },
+  {
+   "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f2484454198s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "bathroom",
+     "probability": 0.9999977350234985
+    }
+   ]
+  },
+  {
+   "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f1920372939s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "exterior",
+     "probability": 0.9764692187309265
+    },
+    {
+     "label": "exterior",
+     "probability": 0.9997760653495789
+    },
+    {
+     "label": "exterior",
+     "probability": 0.999679446220398
+    }
+   ]
+  },
+  {
+   "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f1619858629s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "living_room",
+     "probability": 0.9999843835830688
+    }
+   ]
+  },
+  {
+   "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f3289732559s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "living_room",
+     "probability": 0.9999761581420898
+    }
+   ]
+  },
+  {
+   "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f949284983s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "living_room",
+     "probability": 0.999991774559021
+    }
+   ]
+  },
+  {
+   "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f2525042184s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "kitchen",
+     "probability": 0.9793710708618164
+    }
+   ]
+  },
+  {
+   "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f177605777s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "kitchen",
+     "probability": 0.9999743700027466
+    }
+   ]
+  },
+  {
+   "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f1501626839s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "kitchen",
+     "probability": 0.9999711513519287
+    }
+   ]
+  },
+  {
+   "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f3072167899s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "kitchen",
+     "probability": 0.9481310844421387
+    }
+   ]
+  },
+  {
+   "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f3004014905s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "unknown",
+     "probability": 0.9062285423278809
+    }
+   ]
+  },
+  {
+   "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f3442034808s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "bathroom",
+     "probability": 0.9308992028236389
+    }
+   ]
+  },
+  {
+   "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f3069215331s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "bathroom",
+     "probability": 0.9999926090240479
+    }
+   ]
+  },
+  {
+   "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f1493287399s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "bathroom",
+     "probability": 0.9989343285560608
+    }
+   ]
+  },
+  {
+   "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f3096584958s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "bedroom",
+     "probability": 0.9999891519546509
+    }
+   ]
+  },
+  {
+   "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f3460638256s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "bedroom",
+     "probability": 0.9999979734420776
+    }
+   ]
+  },
+  {
+   "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f1169725818s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "bedroom",
+     "probability": 0.9990414977073669
+    }
+   ]
+  },
+  {
+   "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f2076444915s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "bedroom",
+     "probability": 0.99847811460495
+    }
+   ]
+  },
+  {
+   "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f1246062438s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "unknown",
+     "probability": 0.9992550015449524
+    }
+   ]
+  },
+  {
+   "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f3138921144s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "unknown",
+     "probability": 0.993915855884552
+    }
+   ]
+  },
+  {
+   "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f33184294s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "unknown",
+     "probability": 0.999950647354126
+    }
+   ]
+  },
+  {
+   "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f3774727317s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "living_room",
+     "probability": 0.8296595215797424
+    }
+   ]
+  },
+  {
+   "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f2178025422s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "unknown",
+     "probability": 1
+    }
+   ]
+  },
+  {
+   "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f3545807358s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "exterior",
+     "probability": 0.6605116128921509
+    },
+    {
+     "label": "exterior",
+     "probability": 0.9991139769554138
+    },
+    {
+     "label": "exterior",
+     "probability": 0.9994341731071472
+    }
+   ]
+  },
+  {
+   "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f269076487s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "exterior",
+     "probability": 0.9981111288070679
+    },
+    {
+     "label": "exterior",
+     "probability": 0.9992228746414185
+    },
+    {
+     "label": "exterior",
+     "probability": 0.9999626874923706
+    }
+   ]
+  },
+  {
+   "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f2458185137s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "unknown",
+     "probability": 0.9077319502830505
+    }
+   ]
+  },
+  {
+   "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f1493105884s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "kitchen",
+     "probability": 0.928492546081543
+    }
+   ]
+  },
+  {
+   "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f1114855696s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "unknown",
+     "probability": 0.9999970197677612
+    }
+   ]
+  },
+  {
+   "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f3494090904s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "bathroom",
+     "probability": 0.9998735189437866
+    }
+   ]
+  },
+  {
+   "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f135105179s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "unknown",
+     "probability": 0.9999797344207764
+    }
+   ]
+  },
+  {
+   "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f2574598637s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "unknown",
+     "probability": 0.9985937476158142
+    }
+   ]
+  },
+  {
+   "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f202684820s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "exterior",
+     "probability": 0.9724785685539246
+    },
+    {
+     "label": "exterior",
+     "probability": 0.9309612512588501
+    },
+    {
+     "label": "exterior",
+     "probability": 0.9998165965080261
+    }
+   ]
+  },
+  {
+   "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f2790213396s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "unknown",
+     "probability": 0.9993909597396851
+    }
+   ]
+  },
+  {
+   "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f2857556176s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "living_room",
+     "probability": 0.7287793755531311
+    }
+   ]
+  },
+  {
+   "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f2342547107s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "dining_room",
+     "probability": 0.9846156239509583
+    }
+   ]
+  },
+  {
+   "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f3696001052s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "unknown",
+     "probability": 0
+    }
+   ]
+  },
+  {
+   "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f875686070s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "exterior",
+     "probability": 0.7097914218902588
+    },
+    {
+     "label": "exterior",
+     "probability": 0.9986377358436584
+    },
+    {
+     "label": "exterior",
+     "probability": 0.9999951124191284
+    }
+   ]
+  },
+  {
+   "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f2756991417s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "unknown",
+     "probability": 0.5903513431549072
+    }
+   ]
+  },
+  {
+   "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f64222656s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "kitchen",
+     "probability": 0.9973666071891785
+    }
+   ]
+  },
+  {
+   "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f9198229s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "living_room",
+     "probability": 0.9999995231628418
+    }
+   ]
+  },
+  {
+   "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f1151478375s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "living_room",
+     "probability": 1
+    }
+   ]
+  },
+  {
+   "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f181233889s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "unknown",
+     "probability": 0.7225427031517029
+    }
+   ]
+  },
+  {
+   "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f4006405969s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "unknown",
+     "probability": 0.9974068999290466
+    }
+   ]
+  },
+  {
+   "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f3881533882s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "unknown",
+     "probability": 0.9830363392829895
+    }
+   ]
+  },
+  {
+   "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f949863895s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "living_room",
+     "probability": 0.9999992847442627
+    }
+   ]
+  },
+  {
+   "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f1558097396s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "exterior",
+     "probability": 0.5193418264389038
+    },
+    {
+     "label": "exterior",
+     "probability": 0.9084018468856812
+    },
+    {
+     "label": "swimming_pool",
+     "probability": 0.9966541528701782
+    }
+   ]
+  },
+  {
+   "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f1220402235s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "exterior",
+     "probability": 0.9999691247940063
+    },
+    {
+     "label": "exterior",
+     "probability": 0.6365720629692078
+    },
+    {
+     "label": "swimming_pool",
+     "probability": 0.790186882019043
+    }
+   ]
+  },
+  {
+   "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f3756138089s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "exterior",
+     "probability": 0.7944058775901794
+    },
+    {
+     "label": "exterior",
+     "probability": 0.8658508658409119
+    },
+    {
+     "label": "swimming_pool",
+     "probability": 0.9995385408401489
+    },
+    {
+     "label": "exterior",
+     "probability": 0.9929209351539612
+    },
+    {
+     "label": "exterior",
+     "probability": 0.4428606927394867
+    }
+   ]
+  },
+  {
+   "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f1454811643s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "swimming_pool",
+     "probability": 0.9997400641441345
+    }
+   ]
+  },
+  {
+   "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f2177465597s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "exterior",
+     "probability": 0.9507586359977722
+    },
+    {
+     "label": "swimming_pool",
+     "probability": 0.9617149829864502
+    }
+   ]
+  },
+  {
+   "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f2748794919s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "exterior",
+     "probability": 0.953534722328186
+    },
+    {
+     "label": "exterior",
+     "probability": 0.626765787601471
+    },
+    {
+     "label": "swimming_pool",
+     "probability": 0.9998382329940796
+    }
+   ]
+  },
+  {
+   "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f1928902385s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "exterior",
+     "probability": 0.8967318534851074
+    },
+    {
+     "label": "swimming_pool",
+     "probability": 0.9974096417427063
+    }
+   ]
+  },
+  {
+   "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f2407807654s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "exterior",
+     "probability": 0.9385272264480591
+    },
+    {
+     "label": "exterior",
+     "probability": 0.970910906791687
+    },
+    {
+     "label": "exterior",
+     "probability": 0.9868832230567932
+    },
+    {
+     "label": "swimming_pool",
+     "probability": 0.9977726340293884
+    },
+    {
+     "label": "exterior",
+     "probability": 0.9997033476829529
+    },
+    {
+     "label": "exterior",
+     "probability": 0.9945932030677795
+    }
+   ]
+  },
+  {
+   "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f616581228s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "exterior",
+     "probability": 0.990494966506958
+    },
+    {
+     "label": "swimming_pool",
+     "probability": 0.9999499320983887
+    }
+   ]
+  },
+  {
+   "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f2402235401s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "swimming_pool",
+     "probability": 0.9996519088745117
+    }
+   ]
+  },
+  {
+   "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f4267930476s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "swimming_pool",
+     "probability": 0.9988766312599182
+    }
+   ]
+  },
+  {
+   "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f1273948575s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "exterior",
+     "probability": 0.9707895517349243
+    },
+    {
+     "label": "exterior",
+     "probability": 0.9989871382713318
+    }
+   ]
+  },
+  {
+   "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f1328954601s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "unknown",
+     "probability": 1
+    }
+   ]
+  },
+  {
+   "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f1760861184s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "unknown",
+     "probability": 0.9999998807907104
+    }
+   ]
+  },
+  {
+   "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f2298509615s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "unknown",
+     "probability": 1
+    }
+   ]
+  },
+  {
+   "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f3054297631s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "unknown",
+     "probability": 1
+    }
+   ]
+  },
+  {
+   "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f3736739269s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "unknown",
+     "probability": 1
+    }
+   ]
+  },
+  {
+   "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f3388288331s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "unknown",
+     "probability": 0.9999889135360718
+    }
+   ]
+  },
+  {
+   "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f2337003829s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "unknown",
+     "probability": 0.9998987913131714
+    }
+   ]
+  },
+  {
+   "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f3156933183s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "exterior",
+     "probability": 0.481087327003479
+    },
+    {
+     "label": "exterior",
+     "probability": 0.9945234060287476
+    },
+    {
+     "label": "exterior",
+     "probability": 0.9993366599082947
+    },
+    {
+     "label": "exterior",
+     "probability": 0.9515087604522705
+    }
+   ]
+  },
+  {
+   "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f2527610735s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "exterior",
+     "probability": 0.6639155745506287
+    },
+    {
+     "label": "exterior",
+     "probability": 0.8482470512390137
+    },
+    {
+     "label": "exterior",
+     "probability": 0.9890002608299255
+    }
+   ]
+  },
+  {
+   "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f640584874s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "exterior",
+     "probability": 0.5360096096992493
+    },
+    {
+     "label": "exterior",
+     "probability": 0.9994269609451294
+    },
+    {
+     "label": "exterior",
+     "probability": 0.9999239444732666
+    },
+    {
+     "label": "exterior",
+     "probability": 0.969264566898346
+    }
+   ]
+  },
+  {
+   "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f2882796591s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "exterior",
+     "probability": 0.6282228231430054
+    },
+    {
+     "label": "exterior",
+     "probability": 0.992271900177002
+    },
+    {
+     "label": "exterior",
+     "probability": 0.6756463050842285
+    }
+   ]
+  },
+  {
+   "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f3636624073s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "exterior",
+     "probability": 0.99957674741745
+    },
+    {
+     "label": "exterior",
+     "probability": 0.9998998641967773
+    }
+   ]
+  },
+  {
+   "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f2755712435s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "exterior",
+     "probability": 0.9991762042045593
+    },
+    {
+     "label": "exterior",
+     "probability": 0.9998376369476318
+    },
+    {
+     "label": "swimming_pool",
+     "probability": 0.4304712414741516
+    }
+   ]
+  },
+  {
+   "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f2656267698s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "exterior",
+     "probability": 0.9485254287719727
+    },
+    {
+     "label": "exterior",
+     "probability": 0.8308315873146057
+    }
+   ]
+  },
+  {
+   "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f2842370229s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "exterior",
+     "probability": 0.9945205450057983
+    }
+   ]
+  },
+  {
+   "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f3387989167s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "exterior",
+     "probability": 0.6772355437278748
+    },
+    {
+     "label": "exterior",
+     "probability": 0.9918224215507507
+    },
+    {
+     "label": "exterior",
+     "probability": 0.9996991157531738
+    }
+   ]
+  },
+  {
+   "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f4128447371s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "exterior",
+     "probability": 0.9926943778991699
+    },
+    {
+     "label": "exterior",
+     "probability": 0.9490163326263428
+    },
+    {
+     "label": "exterior",
+     "probability": 0.9997820258140564
+    }
+   ]
+  },
+  {
+   "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f913819374s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "exterior",
+     "probability": 0.9989001750946045
+    },
+    {
+     "label": "exterior",
+     "probability": 0.9997438788414001
+    }
+   ]
+  },
+  {
+   "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f2940505075s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "exterior",
+     "probability": 0.9995347261428833
+    },
+    {
+     "label": "exterior",
+     "probability": 0.9999599456787109
+    }
+   ]
+  },
+  {
+   "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f1356294575s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "living_room",
+     "probability": 0.9999879598617554
+    }
+   ]
+  },
+  {
+   "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f3117639290s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "unknown",
+     "probability": 0.8250274062156677
+    }
+   ]
+  },
+  {
+   "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f1479292454s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "unknown",
+     "probability": 0.4696897268295288
+    }
+   ]
+  },
+  {
+   "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f592559941s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "exterior",
+     "probability": 0.9921355247497559
+    },
+    {
+     "label": "exterior",
+     "probability": 0.9972403049468994
+    },
+    {
+     "label": "exterior",
+     "probability": 0.5024679899215698
+    },
+    {
+     "label": "exterior",
+     "probability": 0.8470323085784912
+    },
+    {
+     "label": "exterior",
+     "probability": 0.5499140024185181
+    }
+   ]
+  },
+  {
+   "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f3309120112s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "exterior",
+     "probability": 0.998087465763092
+    },
+    {
+     "label": "exterior",
+     "probability": 0.9847292304039001
+    },
+    {
+     "label": "exterior",
+     "probability": 0.9746764302253723
+    },
+    {
+     "label": "exterior",
+     "probability": 0.9734330773353577
+    },
+    {
+     "label": "exterior",
+     "probability": 0.9799584746360779
+    }
+   ]
+  },
+  {
+   "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f3760040816s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "exterior",
+     "probability": 0.9997010827064514
+    },
+    {
+     "label": "exterior",
+     "probability": 0.7837384343147278
+    },
+    {
+     "label": "exterior",
+     "probability": 0.8678873777389526
+    },
+    {
+     "label": "exterior",
+     "probability": 0.8692175149917603
+    }
+   ]
+  },
+  {
+   "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f387239051s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "unknown",
+     "probability": 0
+    }
+   ]
+  },
+  {
+   "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f2143190140s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "exterior",
+     "probability": 0.9720697402954102
+    },
+    {
+     "label": "swimming_pool",
+     "probability": 0.9981244206428528
+    }
+   ]
+  },
+  {
+   "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f958929497s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "exterior",
+     "probability": 0.687566339969635
+    },
+    {
+     "label": "swimming_pool",
+     "probability": 0.9634111523628235
+    }
+   ]
+  },
+  {
+   "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f2054165908s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "exterior",
+     "probability": 0.6690302491188049
+    },
+    {
+     "label": "exterior",
+     "probability": 0.9790359139442444
+    },
+    {
+     "label": "swimming_pool",
+     "probability": 0.9904734492301941
+    }
+   ]
+  },
+  {
+   "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f345072698s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "swimming_pool",
+     "probability": 0.9905741810798645
+    }
+   ]
+  },
+  {
+   "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f1302550166s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "exterior",
+     "probability": 0.8943038582801819
+    },
+    {
+     "label": "exterior",
+     "probability": 0.7437243461608887
+    },
+    {
+     "label": "swimming_pool",
+     "probability": 0.9989396929740906
+    }
+   ]
+  },
+  {
+   "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f3511818654s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "swimming_pool",
+     "probability": 0.9999016523361206
+    }
+   ]
+  },
+  {
+   "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f2469238175s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "exterior",
+     "probability": 0.843726634979248
+    },
+    {
+     "label": "swimming_pool",
+     "probability": 0.8276808261871338
+    }
+   ]
+  },
+  {
+   "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f1855075913s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "exterior",
+     "probability": 0.9936297535896301
+    },
+    {
+     "label": "swimming_pool",
+     "probability": 0.9412065744400024
+    }
+   ]
+  },
+  {
+   "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f620182592s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "exterior",
+     "probability": 0.4768027365207672
+    },
+    {
+     "label": "swimming_pool",
+     "probability": 0.9998501539230347
+    }
+   ]
+  },
+  {
+   "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f74859796s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "exterior",
+     "probability": 0.9973408579826355
+    },
+    {
+     "label": "exterior",
+     "probability": 0.9996334314346313
+    }
+   ]
+  },
+  {
+   "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f2687895927s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "exterior",
+     "probability": 0.7114002704620361
+    },
+    {
+     "label": "swimming_pool",
+     "probability": 0.7482840418815613
+    }
+   ]
+  },
+  {
+   "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f547770459s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "exterior",
+     "probability": 0.9999046325683594
+    }
+   ]
+  },
+  {
+   "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f3609359771s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "exterior",
+     "probability": 0.5706427097320557
+    },
+    {
+     "label": "exterior",
+     "probability": 0.9334874749183655
+    }
+   ]
+  },
+  {
+   "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f702115883s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "exterior",
+     "probability": 0.7512219548225403
+    },
+    {
+     "label": "exterior",
+     "probability": 0.9494341611862183
+    }
+   ]
+  },
+  {
+   "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f2374446916s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "exterior",
+     "probability": 0.9988872408866882
+    }
+   ]
+  },
+  {
+   "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f361232854s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "exterior",
+     "probability": 0.929722785949707
+    },
+    {
+     "label": "exterior",
+     "probability": 0.7555080056190491
+    }
+   ]
+  },
+  {
+   "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f86943579s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "unknown",
+     "probability": 0.6770505905151367
+    }
+   ]
+  },
+  {
+   "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f892483757s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "exterior",
+     "probability": 0.5734562873840332
+    }
+   ]
+  },
+  {
+   "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f2585754326s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "kitchen",
+     "probability": 0.981411874294281
+    }
+   ]
+  },
+  {
+   "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f1199138347s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "dining_room",
+     "probability": 0.5846254229545593
+    }
+   ]
+  },
+  {
+   "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f1629344947s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "living_room",
+     "probability": 0.9375646114349365
+    }
+   ]
+  },
+  {
+   "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f2425486468s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "living_room",
+     "probability": 0.9641578197479248
+    }
+   ]
+  },
+  {
+   "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f1007994292s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "dining_room",
+     "probability": 0.5255311727523804
+    }
+   ]
+  },
+  {
+   "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f1057427554s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "kitchen",
+     "probability": 0.9999986886978149
+    }
+   ]
+  },
+  {
+   "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f2343749375s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "kitchen",
+     "probability": 0.9171236157417297
+    }
+   ]
+  },
+  {
+   "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f3780061587s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "unknown",
+     "probability": 0.9542665481567383
+    }
+   ]
+  },
+  {
+   "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f1512393696s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "living_room",
+     "probability": 0.9999632835388184
+    }
+   ]
+  },
+  {
+   "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f1390015108s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "kitchen",
+     "probability": 0.8759516477584839
+    }
+   ]
+  },
+  {
+   "href": "https://ar.rdcpix.com/ca4cdc021a3b55bbf4757b367fc334f6c-f4069254691s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "unknown",
+     "probability": 0.9988852143287659
+    }
+   ]
+  }
+ ],
+ "virtual_tours": null,
+ "matterport": {
+  "videos": [
+   {
+    "href": "https://my.matterport.com/show/?play=1&mls=1&m=FRo8SLW21wV"
+   }
+  ]
+ },
+ "advertisers": [
+  {
+   "fulfillment_id": "100463603",
+   "name": "Zillow",
+   "email": null,
+   "type": "management",
+   "href": null,
+   "slogan": null,
+   "state_license": null,
+   "nrds_id": null,
+   "mls_set": null,
+   "phones": null,
+   "photo": null,
+   "office": {
+    "name": "EMBREY",
+    "email": "rentalservice@move.com",
+    "href": null,
+    "phones": [
+     {
+      "number": null,
+      "type": "office"
+     },
+     {
+      "number": "2546154963",
+      "type": "primary"
+     }
+    ],
+    "address": null
+   },
+   "broker": null,
+   "builder": null
+  },
+  {
+   "fulfillment_id": "100463603",
+   "name": "Zillow",
+   "email": null,
+   "type": "community",
+   "href": null,
+   "slogan": null,
+   "state_license": null,
+   "nrds_id": null,
+   "mls_set": null,
+   "phones": null,
+   "photo": null,
+   "office": {
+    "name": "The Artesian at Bee Cave",
+    "email": null,
+    "href": "https://www.zillow.com/b/-CkNjcT",
+    "phones": [
+     {
+      "number": "2546154963",
+      "type": "office"
+     }
+    ],
+    "address": null
+   },
+   "broker": null,
+   "builder": null
+  }
+ ],
+ "consumer_advertisers": [
+  {
+   "type": "Office",
+   "name": null,
+   "href": null,
+   "agent_id": null,
+   "office_id": null,
+   "phone": null
+  }
+ ],
+ "property_history": null,
+ "tax_history": [
+  {
+   "year": 2026,
+   "tax": 136046,
+   "assessment": {
+    "building": 856643,
+    "land": 4328122,
+    "total": 5184765
+   },
+   "market": {
+    "building": 856643,
+    "land": 4328122,
+    "total": 5184765
+   }
+  },
+  {
+   "year": 2025,
+   "tax": 134188,
+   "assessment": {
+    "building": 821855,
+    "land": 4328122,
+    "total": 5149977
+   },
+   "market": {
+    "building": 821855,
+    "land": 4328122,
+    "total": 5149977
+   }
+  },
+  {
+   "year": 2024,
+   "tax": 110910,
+   "assessment": {
+    "building": null,
+    "land": 4328122,
+    "total": 4328122
+   },
+   "market": {
+    "building": null,
+    "land": 4328122,
+    "total": 4328122
+   }
+  },
+  {
+   "year": 2023,
+   "tax": 117539,
+   "assessment": {
+    "building": null,
+    "land": 4328122,
+    "total": 4328122
+   },
+   "market": {
+    "building": null,
+    "land": 4328122,
+    "total": 4328122
+   }
+  },
+  {
+   "year": 2022,
+   "tax": 121156,
+   "assessment": {
+    "building": null,
+    "land": 4328122,
+    "total": 4328122
+   },
+   "market": {
+    "building": null,
+    "land": 4328122,
+    "total": 4328122
+   }
+  },
+  {
+   "year": 2021,
+   "tax": 125886,
+   "assessment": {
+    "building": null,
+    "land": 4328122,
+    "total": 4328122
+   },
+   "market": {
+    "building": null,
+    "land": 4328122,
+    "total": 4328122
+   }
+  },
+  {
+   "year": 2020,
+   "tax": 126050,
+   "assessment": {
+    "building": null,
+    "land": 4328122,
+    "total": 4328122
+   },
+   "market": {
+    "building": null,
+    "land": 4328122,
+    "total": 4328122
+   }
+  },
+  {
+   "year": 2019,
+   "tax": 129277,
+   "assessment": {
+    "building": null,
+    "land": 4328122,
+    "total": 4328122
+   },
+   "market": {
+    "building": null,
+    "land": 4328122,
+    "total": 4328122
+   }
+  }
+ ],
+ "tax_record": {
+  "apn": null,
+  "tax_parcel_id": "6cb18cf5-617d-4f37-b85e-3fc9a3541102"
+ },
+ "estimates": {
+  "current_values": null,
+  "forecast_values": null,
+  "historical_values": null
+ },
+ "schools": {
+  "schools": [
+   {
+    "id": "0768939061",
+    "name": "Bee Cave Middle",
+    "rating": 10,
+    "distance_in_miles": 1.2,
+    "education_levels": [
+     "middle"
+    ],
+    "funding_type": "public",
+    "student_count": 860,
+    "grades": [
+     "6",
+     "7",
+     "8"
+    ],
+    "parent_rating": 3,
+    "assigned": true,
+    "coordinate": {
+     "lat": 30.312335,
+     "lon": -97.999804
+    },
+    "district": {
+     "id": "06211436901",
+     "name": "Lake Travis Independent School District"
+    }
+   },
+   {
+    "id": "0768630821",
+    "name": "Lake Travis High School",
+    "rating": 8,
+    "distance_in_miles": 2.8,
+    "education_levels": [
+     "high"
+    ],
+    "funding_type": "public",
+    "student_count": 3565,
+    "grades": [
+     "9",
+     "10",
+     "11",
+     "12"
+    ],
+    "parent_rating": 3,
+    "assigned": true,
+    "coordinate": {
+     "lat": 30.327594,
+     "lon": -97.968759
+    },
+    "district": {
+     "id": "06211436901",
+     "name": "Lake Travis Independent School District"
+    }
+   },
+   {
+    "id": "0768695941",
+    "name": "Bee Cave Elementary School",
+    "rating": 8,
+    "distance_in_miles": 2.9,
+    "education_levels": [
+     "elementary"
+    ],
+    "funding_type": "public",
+    "student_count": 779,
+    "grades": [
+     "K",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5"
+    ],
+    "parent_rating": 4,
+    "assigned": true,
+    "coordinate": {
+     "lat": 30.30916,
+     "lon": -97.968259
+    },
+    "district": {
+     "id": "06211436901",
+     "name": "Lake Travis Independent School District"
+    }
+   },
+   {
+    "id": "0768869331",
+    "name": "International School of Texas",
+    "rating": null,
+    "distance_in_miles": 1.7,
+    "education_levels": [
+     "elementary"
+    ],
+    "funding_type": "private",
+    "student_count": null,
+    "grades": [
+     "K",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6"
+    ],
+    "parent_rating": 4,
+    "assigned": null,
+    "coordinate": {
+     "lat": 30.318844,
+     "lon": -97.986221
+    },
+    "district": {
+     "id": "06211428551",
+     "name": null
+    }
+   }
+  ]
+ },
+ "nearby_schools": {
+  "schools": [
+   {
+    "id": "0768939061",
+    "name": "Bee Cave Middle",
+    "rating": 10,
+    "distance_in_miles": 1.2,
+    "education_levels": [
+     "middle"
+    ],
+    "funding_type": "public",
+    "student_count": 860,
+    "grades": [
+     "6",
+     "7",
+     "8"
+    ],
+    "parent_rating": 3,
+    "assigned": true,
+    "coordinate": {
+     "lat": 30.312335,
+     "lon": -97.999804
+    },
+    "district": {
+     "id": "06211436901",
+     "name": "Lake Travis Independent School District"
+    }
+   },
+   {
+    "id": "0768630821",
+    "name": "Lake Travis High School",
+    "rating": 8,
+    "distance_in_miles": 2.8,
+    "education_levels": [
+     "high"
+    ],
+    "funding_type": "public",
+    "student_count": 3565,
+    "grades": [
+     "9",
+     "10",
+     "11",
+     "12"
+    ],
+    "parent_rating": 3,
+    "assigned": true,
+    "coordinate": {
+     "lat": 30.327594,
+     "lon": -97.968759
+    },
+    "district": {
+     "id": "06211436901",
+     "name": "Lake Travis Independent School District"
+    }
+   },
+   {
+    "id": "0768695941",
+    "name": "Bee Cave Elementary School",
+    "rating": 8,
+    "distance_in_miles": 2.9,
+    "education_levels": [
+     "elementary"
+    ],
+    "funding_type": "public",
+    "student_count": 779,
+    "grades": [
+     "K",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5"
+    ],
+    "parent_rating": 4,
+    "assigned": true,
+    "coordinate": {
+     "lat": 30.30916,
+     "lon": -97.968259
+    },
+    "district": {
+     "id": "06211436901",
+     "name": "Lake Travis Independent School District"
+    }
+   },
+   {
+    "id": "0768630831",
+    "name": "Lake Travis Middle School",
+    "rating": 10,
+    "distance_in_miles": 1.4,
+    "education_levels": [
+     "middle"
+    ],
+    "funding_type": "public",
+    "student_count": 968,
+    "grades": [
+     "6",
+     "7",
+     "8"
+    ],
+    "parent_rating": 4,
+    "assigned": null,
+    "coordinate": {
+     "lat": 30.338082,
+     "lon": -98.031273
+    },
+    "district": {
+     "id": "06211436901",
+     "name": "Lake Travis Independent School District"
+    }
+   },
+   {
+    "id": "0768869331",
+    "name": "International School of Texas",
+    "rating": null,
+    "distance_in_miles": 1.7,
+    "education_levels": [
+     "elementary"
+    ],
+    "funding_type": "private",
+    "student_count": null,
+    "grades": [
+     "K",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6"
+    ],
+    "parent_rating": 4,
+    "assigned": null,
+    "coordinate": {
+     "lat": 30.318844,
+     "lon": -97.986221
+    },
+    "district": {
+     "id": "06211428551",
+     "name": null
+    }
+   },
+   {
+    "id": "0768947231",
+    "name": "Lupine Lane",
+    "rating": null,
+    "distance_in_miles": 1.8,
+    "education_levels": [
+     "elementary"
+    ],
+    "funding_type": "private",
+    "student_count": 139,
+    "grades": [
+     "PK",
+     "K"
+    ],
+    "parent_rating": 4,
+    "assigned": null,
+    "coordinate": {
+     "lat": 30.349625,
+     "lon": -98.012009
+    },
+    "district": {
+     "id": "06211428551",
+     "name": null
+    }
+   },
+   {
+    "id": "0768742221",
+    "name": "Serene Hills Elementary School",
+    "rating": 9,
+    "distance_in_miles": 2,
+    "education_levels": [
+     "elementary"
+    ],
+    "funding_type": "public",
+    "student_count": 729,
+    "grades": [
+     "K",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5"
+    ],
+    "parent_rating": 4,
+    "assigned": null,
+    "coordinate": {
+     "lat": 30.3482,
+     "lon": -97.996622
+    },
+    "district": {
+     "id": "06211436901",
+     "name": "Lake Travis Independent School District"
+    }
+   },
+   {
+    "id": "0768940161",
+    "name": "Rough Hollow Elementary School",
+    "rating": 9,
+    "distance_in_miles": 2.3,
+    "education_levels": [
+     "elementary"
+    ],
+    "funding_type": "public",
+    "student_count": 702,
+    "grades": [
+     "K",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5"
+    ],
+    "parent_rating": null,
+    "assigned": null,
+    "coordinate": {
+     "lat": 30.354623,
+     "lon": -98.028051
+    },
+    "district": {
+     "id": "06211436901",
+     "name": "Lake Travis Independent School District"
+    }
+   },
+   {
+    "id": "0768630801",
+    "name": "Lakeway Elementary School",
+    "rating": 8,
+    "distance_in_miles": 3.1,
+    "education_levels": [
+     "elementary"
+    ],
+    "funding_type": "public",
+    "student_count": 521,
+    "grades": [
+     "K",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5"
+    ],
+    "parent_rating": 4,
+    "assigned": null,
+    "coordinate": {
+     "lat": 30.352975,
+     "lon": -97.976006
+    },
+    "district": {
+     "id": "06211436901",
+     "name": "Lake Travis Independent School District"
+    }
+   },
+   {
+    "id": "0768948621",
+    "name": "The Prep School of Bee Cave",
+    "rating": null,
+    "distance_in_miles": 3.2,
+    "education_levels": [
+     "elementary"
+    ],
+    "funding_type": "private",
+    "student_count": 46,
+    "grades": [
+     "K"
+    ],
+    "parent_rating": null,
+    "assigned": null,
+    "coordinate": {
+     "lat": 30.296602,
+     "lon": -97.970184
+    },
+    "district": {
+     "id": "06211428551",
+     "name": null
+    }
+   },
+   {
+    "id": "0768859101",
+    "name": "The Magnolia School",
+    "rating": null,
+    "distance_in_miles": 3.4,
+    "education_levels": [
+     "elementary",
+     "middle"
+    ],
+    "funding_type": "private",
+    "student_count": null,
+    "grades": [
+     "K",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8"
+    ],
+    "parent_rating": 5,
+    "assigned": null,
+    "coordinate": {
+     "lat": 30.323313,
+     "lon": -97.957932
+    },
+    "district": {
+     "id": "06211428551",
+     "name": null
+    }
+   },
+   {
+    "id": "0768944761",
+    "name": "The Magnolia School",
+    "rating": null,
+    "distance_in_miles": 3.4,
+    "education_levels": [
+     "elementary",
+     "middle"
+    ],
+    "funding_type": "private",
+    "student_count": 156,
+    "grades": [
+     "PK",
+     "K",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8"
+    ],
+    "parent_rating": null,
+    "assigned": null,
+    "coordinate": {
+     "lat": 30.322792,
+     "lon": -97.957581
+    },
+    "district": {
+     "id": "06211428551",
+     "name": null
+    }
+   },
+   {
+    "id": "0768930751",
+    "name": "West Cypress Hills Elementary School",
+    "rating": 8,
+    "distance_in_miles": 4.6,
+    "education_levels": [
+     "elementary"
+    ],
+    "funding_type": "public",
+    "student_count": 590,
+    "grades": [
+     "K",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5"
+    ],
+    "parent_rating": 4,
+    "assigned": null,
+    "coordinate": {
+     "lat": 30.350139,
+     "lon": -98.08472
+    },
+    "district": {
+     "id": "06211436901",
+     "name": "Lake Travis Independent School District"
+    }
+   },
+   {
+    "id": "0768706721",
+    "name": "Hudson Bend Middle School",
+    "rating": 8,
+    "distance_in_miles": 6.7,
+    "education_levels": [
+     "middle"
+    ],
+    "funding_type": "public",
+    "student_count": 806,
+    "grades": [
+     "6",
+     "7",
+     "8"
+    ],
+    "parent_rating": 4,
+    "assigned": null,
+    "coordinate": {
+     "lat": 30.391127,
+     "lon": -97.934857
+    },
+    "district": {
+     "id": "06211436901",
+     "name": "Lake Travis Independent School District"
+    }
+   }
+  ]
+ },
+ "local": {
+  "noise": {
+   "score": null,
+   "noise_categories": [
+    {
+     "type": "airport",
+     "text": null
+    },
+    {
+     "type": "traffic",
+     "text": null
+    },
+    {
+     "type": "local",
+     "text": null
+    },
+    {
+     "type": "score",
+     "text": null
+    }
+   ]
+  },
+  "flood": {
+   "fema_zone": [
+    "X (unshaded)"
+   ],
+   "flood_factor_score": 1,
+   "flood_factor_severity": "minimal",
+   "flood_trend": "This property’s flood risk is not changing.",
+   "flood_insurance_text": null
+  },
+  "wildfire": {
+   "fire_factor_score": 6,
+   "fire_factor_severity": "Major"
+  },
+  "heat": {
+   "heat_factor_score": 7,
+   "heat_factor_severity": "Severe"
+  },
+  "wind": {
+   "wind_factor_score": 6
+  },
+  "air": {
+   "air_factor_score": 2
+  }
+ },
+ "popularity": {
+  "periods": [
+   {
+    "last_n_days": 1,
+    "views_total": 1314,
+    "saves_total": 0,
+    "clicks_total": 7,
+    "shares_total": 0,
+    "leads_total": 0
+   },
+   {
+    "last_n_days": 7,
+    "views_total": 8107,
+    "saves_total": 4,
+    "clicks_total": 44,
+    "shares_total": 0,
+    "leads_total": 34
+   },
+   {
+    "last_n_days": 14,
+    "views_total": 8909,
+    "saves_total": 5,
+    "clicks_total": 45,
+    "shares_total": 0,
+    "leads_total": 36
+   },
+   {
+    "last_n_days": 21,
+    "views_total": 9279,
+    "saves_total": 6,
+    "clicks_total": 49,
+    "shares_total": 0,
+    "leads_total": 36
+   },
+   {
+    "last_n_days": 28,
+    "views_total": 10013,
+    "saves_total": 6,
+    "clicks_total": 50,
+    "shares_total": 0,
+    "leads_total": 36
+   },
+   {
+    "last_n_days": 30,
+    "views_total": null,
+    "saves_total": null,
+    "clicks_total": null,
+    "shares_total": null,
+    "leads_total": null
+   }
+  ]
+ },
+ "open_houses": null,
+ "mortgage": {
+  "estimate": {
+   "monthly_payment": 11345,
+   "total_payment": 2642,
+   "loan_amount": 1102,
+   "down_payment": 276,
+   "monthly_payment_details": [
+    {
+     "type": "principal_and_interest",
+     "amount": 7,
+     "display_name": "Principal & interest"
+    },
+    {
+     "type": "home_insurance",
+     "amount": 1,
+     "display_name": "Home insurance"
+    },
+    {
+     "type": "hoa_fees",
+     "amount": 0,
+     "display_name": "HOA fees"
+    },
+    {
+     "type": "mortgage_insurance",
+     "amount": 0,
+     "display_name": "Mortgage insurance"
+    },
+    {
+     "type": "property_tax",
+     "amount": 11337,
+     "display_name": "Property tax"
+    }
+   ]
+  },
+  "rates_url": "https://www.realtor.com/mortgage/rates/?from=mobile#zip=78738&property_price=1378&mlid=9447422407",
+  "property_tax_rate": 98.72714078,
+  "insurance_rate": 0.0065
+ },
+ "monthly_fees": null,
+ "one_time_fees": null,
+ "pet_policy": {
+  "cats": true,
+  "dogs": true,
+  "dogs_small": false,
+  "dogs_large": false
+ },
+ "units": [
+  {
+   "list_price": 2410,
+   "availability": {
+    "date": "2026-09-27"
+   },
+   "description": {
+    "beds": 1,
+    "baths": 1,
+    "baths_consolidated": null,
+    "sqft": 885
+   },
+   "photos": [
+    {
+     "href": "https://ar.rdcpix.com/396434773d297a8b8751da4b0eaddc8dp-f2106719390o.jpg"
+    }
+   ]
+  },
+  {
+   "list_price": 3485,
+   "availability": {
+    "date": "2026-08-19"
+   },
+   "description": {
+    "beds": 3,
+    "baths": 2,
+    "baths_consolidated": null,
+    "sqft": 1519
+   },
+   "photos": [
+    {
+     "href": "https://ar.rdcpix.com/a839bedf783d749e58827ea8a6ef2799p-f1379275815o.jpg"
+    }
+   ]
+  },
+  {
+   "list_price": 2020,
+   "availability": {
+    "date": "2026-10-14"
+   },
+   "description": {
+    "beds": 1,
+    "baths": 1,
+    "baths_consolidated": null,
+    "sqft": 790
+   },
+   "photos": [
+    {
+     "href": "https://ar.rdcpix.com/c3a929cf3f5aa60e9a06cbb28240794ap-f667275489o.jpg"
+    }
+   ]
+  },
+  {
+   "list_price": 2087,
+   "availability": {
+    "date": "2026-09-30"
+   },
+   "description": {
+    "beds": 1,
+    "baths": 1,
+    "baths_consolidated": null,
+    "sqft": 944
+   },
+   "photos": [
+    {
+     "href": "https://ar.rdcpix.com/082566a2252b4b72880e37e963778b65p-f1738574450o.jpg"
+    }
+   ]
+  },
+  {
+   "list_price": 1875,
+   "availability": {
+    "date": "2026-10-18"
+   },
+   "description": {
+    "beds": 1,
+    "baths": 1,
+    "baths_consolidated": null,
+    "sqft": 854
+   },
+   "photos": [
+    {
+     "href": "https://ar.rdcpix.com/83ee4e1363b777e44266dde41a6b27d2p-f3096909385o.jpg"
+    }
+   ]
+  },
+  {
+   "list_price": 3380,
+   "availability": {
+    "date": "2027-02-06"
+   },
+   "description": {
+    "beds": 3,
+    "baths": 2,
+    "baths_consolidated": null,
+    "sqft": 1652
+   },
+   "photos": [
+    {
+     "href": "https://ar.rdcpix.com/6c74465534e1e1c5b18f42e75706e9f7p-f4204987884o.jpg"
+    }
+   ]
+  },
+  {
+   "list_price": 1378,
+   "availability": {
+    "date": "2026-07-07"
+   },
+   "description": {
+    "beds": 1,
+    "baths": 1,
+    "baths_consolidated": null,
+    "sqft": 619
+   },
+   "photos": [
+    {
+     "href": "https://ar.rdcpix.com/2f374de04ee3cf4fc9f7762f0216d569p-f2130396597o.jpg"
+    }
+   ]
+  },
+  {
+   "list_price": 1572,
+   "availability": {
+    "date": "2026-06-12"
+   },
+   "description": {
+    "beds": 1,
+    "baths": 1,
+    "baths_consolidated": null,
+    "sqft": 621
+   },
+   "photos": [
+    {
+     "href": "https://ar.rdcpix.com/0418abcb52badfd4b71a04904429f0ebp-f1231761582o.jpg"
+    }
+   ]
+  },
+  {
+   "list_price": 1625,
+   "availability": {
+    "date": "2025-10-03"
+   },
+   "description": {
+    "beds": 1,
+    "baths": 1,
+    "baths_consolidated": null,
+    "sqft": 765
+   },
+   "photos": [
+    {
+     "href": "https://ar.rdcpix.com/5e70611a47a11a369a3ebedfd7d2759cp-f2212951901o.jpg"
+    }
+   ]
+  },
+  {
+   "list_price": 1751,
+   "availability": {
+    "date": "2026-07-04"
+   },
+   "description": {
+    "beds": 1,
+    "baths": 1,
+    "baths_consolidated": null,
+    "sqft": 863
+   },
+   "photos": [
+    {
+     "href": "https://ar.rdcpix.com/8136290b36bce6fbdb6f3004ee38d8eap-f1972342226o.jpg"
+    }
+   ]
+  },
+  {
+   "list_price": 2200,
+   "availability": {
+    "date": "2026-06-12"
+   },
+   "description": {
+    "beds": 2,
+    "baths": 2,
+    "baths_consolidated": null,
+    "sqft": 1024
+   },
+   "photos": [
+    {
+     "href": "https://ar.rdcpix.com/b3c4389a3c73005c54d5d99062d075fcp-f3693683304o.jpg"
+    }
+   ]
+  },
+  {
+   "list_price": 2385,
+   "availability": {
+    "date": "2026-07-19"
+   },
+   "description": {
+    "beds": 2,
+    "baths": 2,
+    "baths_consolidated": null,
+    "sqft": 1092
+   },
+   "photos": [
+    {
+     "href": "https://ar.rdcpix.com/4974106f07b73d953a2c09ac8bcc8896p-f90999392o.jpg"
+    }
+   ]
+  },
+  {
+   "list_price": 2409,
+   "availability": {
+    "date": "2025-08-19"
+   },
+   "description": {
+    "beds": 2,
+    "baths": 2,
+    "baths_consolidated": null,
+    "sqft": 1137
+   },
+   "photos": [
+    {
+     "href": "https://ar.rdcpix.com/17ad129ac2583db7d7d0c133a2e6b995p-f924581798o.jpg"
+    }
+   ]
+  },
+  {
+   "list_price": 3010,
+   "availability": {
+    "date": "2026-09-26"
+   },
+   "description": {
+    "beds": 2,
+    "baths": 2,
+    "baths_consolidated": null,
+    "sqft": 1224
+   },
+   "photos": [
+    {
+     "href": "https://ar.rdcpix.com/5a7fe40868dfb41535bc0b06212f8801p-f2025359744o.jpg"
+    }
+   ]
+  },
+  {
+   "list_price": 3280,
+   "availability": {
+    "date": "2026-12-29"
+   },
+   "description": {
+    "beds": 3,
+    "baths": 2,
+    "baths_consolidated": null,
+    "sqft": 1602
+   },
+   "photos": [
+    {
+     "href": "https://ar.rdcpix.com/92570550664da9fee1d37f726f239d68p-f3003238775o.jpg"
+    }
+   ]
+  },
+  {
+   "list_price": 2462,
+   "availability": {
+    "date": "2026-09-26"
+   },
+   "description": {
+    "beds": 2,
+    "baths": 2,
+    "baths_consolidated": null,
+    "sqft": 1102
+   },
+   "photos": [
+    {
+     "href": "https://ar.rdcpix.com/dc2e8865d940cc3f19412a68b6c5508dp-f3182897964o.jpg"
+    }
+   ]
+  },
+  {
+   "list_price": 2661,
+   "availability": {
+    "date": "2026-07-06"
+   },
+   "description": {
+    "beds": 2,
+    "baths": 2,
+    "baths_consolidated": null,
+    "sqft": 1186
+   },
+   "photos": [
+    {
+     "href": "https://ar.rdcpix.com/792e759d8a07912972f6425d59bcd2d4p-f2846432552o.jpg"
+    }
+   ]
+  },
+  {
+   "list_price": 4025,
+   "availability": {
+    "date": "2026-12-14"
+   },
+   "description": {
+    "beds": 3,
+    "baths": 2.5,
+    "baths_consolidated": null,
+    "sqft": 1959
+   },
+   "photos": [
+    {
+     "href": "https://ar.rdcpix.com/eb15ef322f5c8b82cea8c3446187178cp-f746762272o.jpg"
+    }
+   ]
+  },
+  {
+   "list_price": 2209,
+   "availability": {
+    "date": "2025-02-01"
+   },
+   "description": {
+    "beds": 1,
+    "baths": 1,
+    "baths_consolidated": null,
+    "sqft": 1037
+   },
+   "photos": [
+    {
+     "href": "https://ar.rdcpix.com/6b980f82ca5a79be4922b72edaf25cf4p-f1927265058o.jpg"
+    }
+   ]
+  }
+ ],
+ "terms": [
+  {
+   "text": [
+    "3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15"
+   ],
+   "category": "lease"
+  },
+  {
+   "text": [
+    "Utility Gas: No",
+    "Utility Hot Water: No",
+    "Utility Trash: No",
+    "Utility Water: No",
+    "Utility Air Conditioning: No",
+    "Utility Broadband Internet: No",
+    "Utility Cable: No",
+    "Utility Electric: No",
+    "Utility Heat: No",
+    "Utility Sewer: No",
+    "Utility Telephone: No",
+    "Amenity Satellite: No"
+   ],
+   "category": "utilities"
+  }
+ ],
+ "community": null
+}

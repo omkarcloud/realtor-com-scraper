@@ -1,0 +1,56 @@
+{
+ "geo_results": [
+  {
+   "type": "location",
+   "text": "78704, Austin, TX",
+   "geo": {
+    "_id": "ps:tx_78704",
+    "mpr_id": null,
+    "area_type": "postal_code",
+    "city": "Austin",
+    "state_code": "TX",
+    "postal_code": "78704",
+    "county": null,
+    "slug_id": "78704",
+    "geo_id": "804e35f5-d3b3-50b8-9ffa-18c6424c02a7",
+    "city_slug_id": null,
+    "centroid": {
+     "lat": 30.24314,
+     "lon": -97.765757
+    },
+    "street": null,
+    "line": null,
+    "school": null,
+    "school_district": null,
+    "neighborhood": null
+   }
+  },
+  {
+   "type": "location",
+   "text": "78-7043 Mololani St, Kailua Kona, HI",
+   "geo": {
+    "_id": "addr:7056385087",
+    "mpr_id": "7056385087",
+    "area_type": "address",
+    "city": "Kailua Kona",
+    "state_code": "HI",
+    "postal_code": "96740",
+    "county": null,
+    "slug_id": null,
+    "geo_id": null,
+    "city_slug_id": null,
+    "centroid": {
+     "lat": 19.566287,
+     "lon": -155.953812
+    },
+    "street": null,
+    "line": "78-7043 Mololani St",
+    "school": null,
+    "school_district": null,
+    "neighborhood": null
+   }
+  }
+ ],
+ "typeahead_results": [],
+ "has_results": true
+}

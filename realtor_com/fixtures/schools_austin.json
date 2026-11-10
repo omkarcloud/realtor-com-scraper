@@ -1,0 +1,607 @@
+{
+ "total": 374,
+ "schools": [
+  {
+   "id": "0768579161",
+   "name": "Govalle Elementary School",
+   "rating": 2,
+   "funding_type": "public",
+   "education_levels": [
+    "elementary"
+   ],
+   "student_count": 384,
+   "grades": [
+    "K",
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6"
+   ],
+   "parent_rating": 5,
+   "coordinate": {
+    "lat": 30.26378,
+    "lon": -97.698404
+   },
+   "district": {
+    "id": "06211430211",
+    "name": "Austin Independent School District"
+   },
+   "location": {
+    "city": "Austin"
+   }
+  },
+  {
+   "id": "0768655621",
+   "name": "Deerpark Middle School",
+   "rating": 5,
+   "funding_type": "public",
+   "education_levels": [
+    "middle"
+   ],
+   "student_count": 916,
+   "grades": [
+    "6",
+    "7",
+    "8"
+   ],
+   "parent_rating": 3,
+   "coordinate": {
+    "lat": 30.452478,
+    "lon": -97.772849
+   },
+   "district": {
+    "id": "06211441001",
+    "name": "Round Rock Independent School District"
+   },
+   "location": {
+    "city": "Austin"
+   }
+  },
+  {
+   "id": "0768731631",
+   "name": "Rutledge Elementary School",
+   "rating": 10,
+   "funding_type": "public",
+   "education_levels": [
+    "elementary"
+   ],
+   "student_count": 852,
+   "grades": [
+    "K",
+    "1",
+    "2",
+    "3",
+    "4",
+    "5"
+   ],
+   "parent_rating": 4,
+   "coordinate": {
+    "lat": 30.497917,
+    "lon": -97.793178
+   },
+   "district": {
+    "id": "06211437061",
+    "name": "Leander Independent School District"
+   },
+   "location": {
+    "city": "Austin"
+   }
+  },
+  {
+   "id": "0768579431",
+   "name": "Menchaca Elementary School",
+   "rating": 4,
+   "funding_type": "public",
+   "education_levels": [
+    "elementary"
+   ],
+   "student_count": 699,
+   "grades": [
+    "K",
+    "1",
+    "2",
+    "3",
+    "4",
+    "5"
+   ],
+   "parent_rating": 4,
+   "coordinate": {
+    "lat": 30.141461,
+    "lon": -97.833749
+   },
+   "district": {
+    "id": "06211430211",
+    "name": "Austin Independent School District"
+   },
+   "location": {
+    "city": "Manchaca"
+   }
+  },
+  {
+   "id": "0768747241",
+   "name": "Boys Menachem Hebrew Academy",
+   "rating": null,
+   "funding_type": "private",
+   "education_levels": [
+    "elementary",
+    "middle"
+   ],
+   "student_count": null,
+   "grades": [
+    "K",
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8"
+   ],
+   "parent_rating": null,
+   "coordinate": {
+    "lat": 30.352421,
+    "lon": -97.756798
+   },
+   "district": {
+    "id": "06211428551",
+    "name": null
+   },
+   "location": {
+    "city": "Austin"
+   }
+  },
+  {
+   "id": "0768921021",
+   "name": "Victory Christian Center School",
+   "rating": null,
+   "funding_type": "private",
+   "education_levels": [
+    "elementary",
+    "middle",
+    "high"
+   ],
+   "student_count": 145,
+   "grades": [
+    "K",
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "parent_rating": null,
+   "coordinate": {
+    "lat": 30.336903,
+    "lon": -97.698166
+   },
+   "district": {
+    "id": "06211428551",
+    "name": null
+   },
+   "location": {
+    "city": "Austin"
+   }
+  },
+  {
+   "id": "0768701651",
+   "name": "John P Ojeda Junior High School",
+   "rating": 3,
+   "funding_type": "public",
+   "education_levels": [
+    "middle"
+   ],
+   "student_count": 759,
+   "grades": [
+    "6",
+    "7",
+    "8"
+   ],
+   "parent_rating": 3,
+   "coordinate": {
+    "lat": 30.190356,
+    "lon": -97.712413
+   },
+   "district": {
+    "id": "06211433051",
+    "name": "Del Valle Independent School District"
+   },
+   "location": {
+    "city": "Austin"
+   }
+  },
+  {
+   "id": "0768954961",
+   "name": "Sunfield Elementary School",
+   "rating": 6,
+   "funding_type": "public",
+   "education_levels": [
+    "elementary"
+   ],
+   "student_count": 903,
+   "grades": [
+    "K",
+    "1",
+    "2",
+    "3",
+    "4",
+    "5"
+   ],
+   "parent_rating": null,
+   "coordinate": {
+    "lat": 30.081119,
+    "lon": -97.809065
+   },
+   "district": {
+    "id": "06211428711",
+    "name": "Hays Consolidated Independent School District"
+   },
+   "location": {
+    "city": "Buda"
+   }
+  },
+  {
+   "id": "0768945651",
+   "name": "Ascent: An Acton Academy",
+   "rating": null,
+   "funding_type": "private",
+   "education_levels": [
+    "elementary"
+   ],
+   "student_count": 65,
+   "grades": [
+    "K",
+    "1",
+    "2",
+    "3",
+    "4",
+    "5"
+   ],
+   "parent_rating": 5,
+   "coordinate": {
+    "lat": 30.315498,
+    "lon": -97.701299
+   },
+   "district": {
+    "id": "06211428551",
+    "name": null
+   },
+   "location": {
+    "city": "Austin"
+   }
+  },
+  {
+   "id": "0768579651",
+   "name": "Reilly Elementary School",
+   "rating": 8,
+   "funding_type": "public",
+   "education_levels": [
+    "elementary"
+   ],
+   "student_count": 349,
+   "grades": [
+    "K",
+    "1",
+    "2",
+    "3",
+    "4",
+    "5"
+   ],
+   "parent_rating": 4,
+   "coordinate": {
+    "lat": 30.328118,
+    "lon": -97.719907
+   },
+   "district": {
+    "id": "06211430211",
+    "name": "Austin Independent School District"
+   },
+   "location": {
+    "city": "Austin"
+   }
+  },
+  {
+   "id": "0768862901",
+   "name": "Austin Achieve Public Schools",
+   "rating": 3,
+   "funding_type": "public",
+   "education_levels": [
+    "elementary",
+    "middle"
+   ],
+   "student_count": 669,
+   "grades": [
+    "5",
+    "6",
+    "7",
+    "8"
+   ],
+   "parent_rating": 4,
+   "coordinate": {
+    "lat": 30.307968,
+    "lon": -97.680916
+   },
+   "district": {
+    "id": "06211448441",
+    "name": "Austin Achieve Public Schools"
+   },
+   "location": {
+    "city": "Austin"
+   }
+  },
+  {
+   "id": "0768579231",
+   "name": "Highland Park Elementary School",
+   "rating": 10,
+   "funding_type": "public",
+   "education_levels": [
+    "elementary"
+   ],
+   "student_count": 648,
+   "grades": [
+    "K",
+    "1",
+    "2",
+    "3",
+    "4",
+    "5"
+   ],
+   "parent_rating": 4,
+   "coordinate": {
+    "lat": 30.330792,
+    "lon": -97.760045
+   },
+   "district": {
+    "id": "06211430211",
+    "name": "Austin Independent School District"
+   },
+   "location": {
+    "city": "Austin"
+   }
+  },
+  {
+   "id": "0768934941",
+   "name": "Excel Center Lockhart",
+   "rating": null,
+   "funding_type": "public",
+   "education_levels": [
+    "high"
+   ],
+   "student_count": 13,
+   "grades": [
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "parent_rating": null,
+   "coordinate": {
+    "lat": 30.339088,
+    "lon": -97.694077
+   },
+   "district": {
+    "id": "06211449231",
+    "name": "The Excel Center"
+   },
+   "location": {
+    "city": "Austin"
+   }
+  },
+  {
+   "id": "0768923521",
+   "name": "Texas Preparatory School - Austin Campus",
+   "rating": 1,
+   "funding_type": "public",
+   "education_levels": [
+    "elementary"
+   ],
+   "student_count": 59,
+   "grades": [
+    "K",
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6"
+   ],
+   "parent_rating": 3,
+   "coordinate": {
+    "lat": 30.323732,
+    "lon": -97.672643
+   },
+   "district": {
+    "id": "06211446731",
+    "name": "Texas Preparatory School"
+   },
+   "location": {
+    "city": "Austin"
+   }
+  },
+  {
+   "id": "0768579111",
+   "name": "Cunningham Elementary School",
+   "rating": 7,
+   "funding_type": "public",
+   "education_levels": [
+    "elementary"
+   ],
+   "student_count": 345,
+   "grades": [
+    "K",
+    "1",
+    "2",
+    "3",
+    "4",
+    "5"
+   ],
+   "parent_rating": 4,
+   "coordinate": {
+    "lat": 30.210355,
+    "lon": -97.806027
+   },
+   "district": {
+    "id": "06211430211",
+    "name": "Austin Independent School District"
+   },
+   "location": {
+    "city": "Austin"
+   }
+  },
+  {
+   "id": "0768947211",
+   "name": "Long-View Micro School",
+   "rating": null,
+   "funding_type": "private",
+   "education_levels": [
+    "elementary",
+    "middle"
+   ],
+   "student_count": 75,
+   "grades": [
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8"
+   ],
+   "parent_rating": null,
+   "coordinate": {
+    "lat": 30.288176,
+    "lon": -97.750732
+   },
+   "district": {
+    "id": "06211428551",
+    "name": null
+   },
+   "location": {
+    "city": "Austin"
+   }
+  },
+  {
+   "id": "0768746301",
+   "name": "Capitol School Of Austin",
+   "rating": null,
+   "funding_type": "private",
+   "education_levels": [
+    "elementary"
+   ],
+   "student_count": 64,
+   "grades": [
+    "K",
+    "1",
+    "2",
+    "3",
+    "4",
+    "5"
+   ],
+   "parent_rating": 5,
+   "coordinate": {
+    "lat": 30.334154,
+    "lon": -97.739434
+   },
+   "district": {
+    "id": "06211428551",
+    "name": null
+   },
+   "location": {
+    "city": "Austin"
+   }
+  },
+  {
+   "id": "0768716151",
+   "name": "Canyon Ridge Middle School",
+   "rating": 10,
+   "funding_type": "public",
+   "education_levels": [
+    "middle"
+   ],
+   "student_count": 963,
+   "grades": [
+    "6",
+    "7",
+    "8"
+   ],
+   "parent_rating": 4,
+   "coordinate": {
+    "lat": 30.365251,
+    "lon": -97.903159
+   },
+   "district": {
+    "id": "06211437061",
+    "name": "Leander Independent School District"
+   },
+   "location": {
+    "city": "Austin"
+   }
+  },
+  {
+   "id": "0768926331",
+   "name": "Adult Transition Services",
+   "rating": null,
+   "funding_type": "public",
+   "education_levels": [
+    "high"
+   ],
+   "student_count": 19,
+   "grades": [
+    "12"
+   ],
+   "parent_rating": null,
+   "coordinate": {
+    "lat": 30.272949,
+    "lon": -97.801918
+   },
+   "district": {
+    "id": "06211433441",
+    "name": "Eanes Independent School District"
+   },
+   "location": {
+    "city": "Austin"
+   }
+  },
+  {
+   "id": "0768940941",
+   "name": "The Refuge",
+   "rating": null,
+   "funding_type": "public",
+   "education_levels": [
+    "middle",
+    "high"
+   ],
+   "student_count": 0,
+   "grades": [
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "parent_rating": null,
+   "coordinate": {
+    "lat": 30.260527,
+    "lon": -97.717789
+   },
+   "district": {
+    "id": "06211429551",
+    "name": "University Of Texas University Charter School"
+   },
+   "location": {
+    "city": "Austin"
+   }
+  }
+ ]
+}

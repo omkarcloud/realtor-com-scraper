@@ -1,0 +1,2259 @@
+{
+ "count": 20,
+ "total": 46,
+ "results": [
+  {
+   "property_id": "717000097677",
+   "href": "https://www.realtor.com/realestateandhomes-detail/Parten-7585_305-Bird-Hollow_Austin_TX_78737_Q717000097677",
+   "status": "active",
+   "list_price_min": 1044900,
+   "list_price_max": 1254900,
+   "photo_count": 13,
+   "description": {
+    "name": "Parten 75'/85'",
+    "text": null,
+    "beds_min": 4,
+    "beds_max": 5,
+    "baths_min": 3,
+    "baths_max": 6,
+    "sqft_min": null,
+    "sqft_max": null,
+    "type": null
+   },
+   "location": {
+    "address": {
+     "line": "305 Bird Hollow",
+     "city": "Austin",
+     "state_code": "TX",
+     "postal_code": "78737",
+     "coordinate": {
+      "lat": 30.16074,
+      "lon": -97.981736
+     }
+    }
+   },
+   "primary_photo": {
+    "href": "https://nh.rdcpix.com/08b6d7f32fdebd35a6c484dd965bb517c-f522910987s.jpg"
+   },
+   "photos": [
+    {
+     "href": "https://nh.rdcpix.com/08b6d7f32fdebd35a6c484dd965bb517c-f522910987s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/08b6d7f32fdebd35a6c484dd965bb517c-f2987575369s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/08b6d7f32fdebd35a6c484dd965bb517c-f4216440330s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/08b6d7f32fdebd35a6c484dd965bb517c-f1444637748s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/08b6d7f32fdebd35a6c484dd965bb517c-f2816545662s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/08b6d7f32fdebd35a6c484dd965bb517c-f2264611650s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/08b6d7f32fdebd35a6c484dd965bb517c-f1888656721s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/08b6d7f32fdebd35a6c484dd965bb517c-f455943108s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/08b6d7f32fdebd35a6c484dd965bb517c-f1939167801s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/08b6d7f32fdebd35a6c484dd965bb517c-f3859458052s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/08b6d7f32fdebd35a6c484dd965bb517c-f4052900364s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/08b6d7f32fdebd35a6c484dd965bb517c-f3206591982s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/08b6d7f32fdebd35a6c484dd965bb517c-f2413050320s.jpg"
+    }
+   ],
+   "advertisers": [
+    {
+     "name": "Parten 75'/85'",
+     "type": "community",
+     "href": null,
+     "phones": null,
+     "builder": {
+      "name": "PERRY HOMES",
+      "href": "https://www.perryhomes.com"
+     }
+    }
+   ],
+   "flags": {
+    "is_new_construction": true
+   }
+  },
+  {
+   "property_id": "717000093443",
+   "href": "https://www.realtor.com/realestateandhomes-detail/Parten-65_361-Bird-Hollow_Austin_TX_78737_Q717000093443",
+   "status": "active",
+   "list_price_min": 899900,
+   "list_price_max": 1124900,
+   "photo_count": 13,
+   "description": {
+    "name": "Parten 65'",
+    "text": null,
+    "beds_min": 4,
+    "beds_max": 5,
+    "baths_min": 3,
+    "baths_max": 4.5,
+    "sqft_min": null,
+    "sqft_max": null,
+    "type": null
+   },
+   "location": {
+    "address": {
+     "line": "361 Bird Hollow",
+     "city": "Austin",
+     "state_code": "TX",
+     "postal_code": "78737",
+     "coordinate": {
+      "lat": 30.161156,
+      "lon": -97.98212
+     }
+    }
+   },
+   "primary_photo": {
+    "href": "https://nh.rdcpix.com/a19954be6132202f41faddcbe7240fe6c-f522910987s.jpg"
+   },
+   "photos": [
+    {
+     "href": "https://nh.rdcpix.com/a19954be6132202f41faddcbe7240fe6c-f522910987s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/a19954be6132202f41faddcbe7240fe6c-f2987575369s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/a19954be6132202f41faddcbe7240fe6c-f4216440330s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/a19954be6132202f41faddcbe7240fe6c-f1444637748s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/a19954be6132202f41faddcbe7240fe6c-f2816545662s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/a19954be6132202f41faddcbe7240fe6c-f2264611650s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/a19954be6132202f41faddcbe7240fe6c-f1888656721s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/a19954be6132202f41faddcbe7240fe6c-f455943108s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/a19954be6132202f41faddcbe7240fe6c-f1939167801s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/a19954be6132202f41faddcbe7240fe6c-f3859458052s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/a19954be6132202f41faddcbe7240fe6c-f4052900364s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/a19954be6132202f41faddcbe7240fe6c-f3206591982s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/a19954be6132202f41faddcbe7240fe6c-f2413050320s.jpg"
+    }
+   ],
+   "advertisers": [
+    {
+     "name": "Parten 65'",
+     "type": "community",
+     "href": null,
+     "phones": null,
+     "builder": {
+      "name": "PERRY HOMES",
+      "href": "https://www.perryhomes.com"
+     }
+    }
+   ],
+   "flags": {
+    "is_new_construction": true
+   }
+  },
+  {
+   "property_id": "717000073897",
+   "href": "https://www.realtor.com/realestateandhomes-detail/Parten-65ft-lots_353-Bird-Hollow_Austin_TX_78737_Q717000073897",
+   "status": "active",
+   "list_price_min": 901990,
+   "list_price_max": 1165053,
+   "photo_count": 11,
+   "description": {
+    "name": "Parten: 65ft. lots",
+    "text": null,
+    "beds_min": 3,
+    "beds_max": 4,
+    "baths_min": 2.5,
+    "baths_max": 4.5,
+    "sqft_min": null,
+    "sqft_max": null,
+    "type": null
+   },
+   "location": {
+    "address": {
+     "line": "353 Bird Hollow",
+     "city": "Austin",
+     "state_code": "TX",
+     "postal_code": "78737",
+     "coordinate": {
+      "lat": 30.161083755138,
+      "lon": -97.981781959534
+     }
+    }
+   },
+   "primary_photo": {
+    "href": "https://nh.rdcpix.com/7d06ccbe7f761863249239079e778fa0c-f586483295s.jpg"
+   },
+   "photos": [
+    {
+     "href": "https://nh.rdcpix.com/7d06ccbe7f761863249239079e778fa0c-f586483295s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/7d06ccbe7f761863249239079e778fa0c-f3455087176s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/7d06ccbe7f761863249239079e778fa0c-f1011637153s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/7d06ccbe7f761863249239079e778fa0c-f1493755080s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/7d06ccbe7f761863249239079e778fa0c-f3114867558s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/7d06ccbe7f761863249239079e778fa0c-f2183830162s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/7d06ccbe7f761863249239079e778fa0c-f1788486394s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/7d06ccbe7f761863249239079e778fa0c-f3559740461s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/7d06ccbe7f761863249239079e778fa0c-f3324999419s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/7d06ccbe7f761863249239079e778fa0c-f3205995386s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/7d06ccbe7f761863249239079e778fa0c-f1394636585s.jpg"
+    }
+   ],
+   "advertisers": [
+    {
+     "name": "Parten: 65ft. lots",
+     "type": "community",
+     "href": null,
+     "phones": null,
+     "builder": {
+      "name": "Highland Homes",
+      "href": "https://www.highlandhomes.com"
+     }
+    }
+   ],
+   "flags": {
+    "is_new_construction": true
+   }
+  },
+  {
+   "property_id": "717000111166",
+   "href": "https://www.realtor.com/realestateandhomes-detail/Parten-75ft-lots_353-Bird-Hollow_Austin_TX_78737_Q717000111166",
+   "status": "active",
+   "list_price_min": 1015990,
+   "list_price_max": 1343716,
+   "photo_count": 11,
+   "description": {
+    "name": "Parten: 75ft. lots",
+    "text": null,
+    "beds_min": 4,
+    "beds_max": 5,
+    "baths_min": 3,
+    "baths_max": 6.5,
+    "sqft_min": null,
+    "sqft_max": null,
+    "type": null
+   },
+   "location": {
+    "address": {
+     "line": "353 Bird Hollow",
+     "city": "Austin",
+     "state_code": "TX",
+     "postal_code": "78737",
+     "coordinate": {
+      "lat": 30.161083755138,
+      "lon": -97.981781959534
+     }
+    }
+   },
+   "primary_photo": {
+    "href": "https://nh.rdcpix.com/3109464cf505be87987ec61c73dbc0f7c-f586483295s.jpg"
+   },
+   "photos": [
+    {
+     "href": "https://nh.rdcpix.com/3109464cf505be87987ec61c73dbc0f7c-f586483295s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/3109464cf505be87987ec61c73dbc0f7c-f3455087176s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/3109464cf505be87987ec61c73dbc0f7c-f1011637153s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/3109464cf505be87987ec61c73dbc0f7c-f1493755080s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/3109464cf505be87987ec61c73dbc0f7c-f3114867558s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/3109464cf505be87987ec61c73dbc0f7c-f2183830162s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/3109464cf505be87987ec61c73dbc0f7c-f1788486394s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/3109464cf505be87987ec61c73dbc0f7c-f3559740461s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/3109464cf505be87987ec61c73dbc0f7c-f3324999419s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/3109464cf505be87987ec61c73dbc0f7c-f3205995386s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/3109464cf505be87987ec61c73dbc0f7c-f1394636585s.jpg"
+    }
+   ],
+   "advertisers": [
+    {
+     "name": "Parten: 75ft. lots",
+     "type": "community",
+     "href": null,
+     "phones": null,
+     "builder": {
+      "name": "Highland Homes",
+      "href": "https://www.highlandhomes.com"
+     }
+    }
+   ],
+   "flags": {
+    "is_new_construction": true
+   }
+  },
+  {
+   "property_id": "717000111167",
+   "href": "https://www.realtor.com/realestateandhomes-detail/Parten-85ft-lots_353-Bird-Hollow_Austin_TX_78737_Q717000111167",
+   "status": "active",
+   "list_price_min": 1136990,
+   "list_price_max": 1330990,
+   "photo_count": 11,
+   "description": {
+    "name": "Parten: 85ft. lots",
+    "text": null,
+    "beds_min": 4,
+    "beds_max": 5,
+    "baths_min": 3,
+    "baths_max": 6.5,
+    "sqft_min": null,
+    "sqft_max": null,
+    "type": null
+   },
+   "location": {
+    "address": {
+     "line": "353 Bird Hollow",
+     "city": "Austin",
+     "state_code": "TX",
+     "postal_code": "78737",
+     "coordinate": {
+      "lat": 30.161083755138,
+      "lon": -97.981781959534
+     }
+    }
+   },
+   "primary_photo": {
+    "href": "https://nh.rdcpix.com/d48d2af8a67fd0e72e4faa0a48597e44c-f586483295s.jpg"
+   },
+   "photos": [
+    {
+     "href": "https://nh.rdcpix.com/d48d2af8a67fd0e72e4faa0a48597e44c-f586483295s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/d48d2af8a67fd0e72e4faa0a48597e44c-f3455087176s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/d48d2af8a67fd0e72e4faa0a48597e44c-f1011637153s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/d48d2af8a67fd0e72e4faa0a48597e44c-f1493755080s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/d48d2af8a67fd0e72e4faa0a48597e44c-f3114867558s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/d48d2af8a67fd0e72e4faa0a48597e44c-f2183830162s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/d48d2af8a67fd0e72e4faa0a48597e44c-f1788486394s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/d48d2af8a67fd0e72e4faa0a48597e44c-f3559740461s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/d48d2af8a67fd0e72e4faa0a48597e44c-f3324999419s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/d48d2af8a67fd0e72e4faa0a48597e44c-f3205995386s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/d48d2af8a67fd0e72e4faa0a48597e44c-f1394636585s.jpg"
+    }
+   ],
+   "advertisers": [
+    {
+     "name": "Parten: 85ft. lots",
+     "type": "community",
+     "href": null,
+     "phones": null,
+     "builder": {
+      "name": "Highland Homes",
+      "href": "https://www.highlandhomes.com"
+     }
+    }
+   ],
+   "flags": {
+    "is_new_construction": true
+   }
+  },
+  {
+   "property_id": "717000092328",
+   "href": "https://www.realtor.com/realestateandhomes-detail/Easton-Park-Nelson-Village-Jewel-Series_1048-Brickell-Loop_Austin_TX_78744_Q717000092328",
+   "status": "active",
+   "list_price_min": 319990,
+   "list_price_max": 389990,
+   "photo_count": 20,
+   "description": {
+    "name": "Easton Park - Nelson Village - Jewel Series",
+    "text": null,
+    "beds_min": 2,
+    "beds_max": 3,
+    "baths_min": 2.5,
+    "baths_max": 2.5,
+    "sqft_min": 1382,
+    "sqft_max": 2116,
+    "type": null
+   },
+   "location": {
+    "address": {
+     "line": "1048 Brickell Loop",
+     "city": "Austin",
+     "state_code": "TX",
+     "postal_code": "78744",
+     "coordinate": {
+      "lat": 30.149932308977,
+      "lon": -97.7033242423279
+     }
+    }
+   },
+   "primary_photo": {
+    "href": "https://nh.rdcpix.com/e616cd26284f2dbfdee4c304ad59ef67c-f145522437s.jpg"
+   },
+   "photos": [
+    {
+     "href": "https://nh.rdcpix.com/e616cd26284f2dbfdee4c304ad59ef67c-f145522437s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/e616cd26284f2dbfdee4c304ad59ef67c-f1041053481s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/e616cd26284f2dbfdee4c304ad59ef67c-f2668977402s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/e616cd26284f2dbfdee4c304ad59ef67c-f766703808s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/e616cd26284f2dbfdee4c304ad59ef67c-f3400299182s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/e616cd26284f2dbfdee4c304ad59ef67c-f2274695473s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/e616cd26284f2dbfdee4c304ad59ef67c-f365899082s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/e616cd26284f2dbfdee4c304ad59ef67c-f2406834921s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/e616cd26284f2dbfdee4c304ad59ef67c-f214195318s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/e616cd26284f2dbfdee4c304ad59ef67c-f3605067672s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/e616cd26284f2dbfdee4c304ad59ef67c-f2831129038s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/e616cd26284f2dbfdee4c304ad59ef67c-f2390147638s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/e616cd26284f2dbfdee4c304ad59ef67c-f881134322s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/e616cd26284f2dbfdee4c304ad59ef67c-f3039544045s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/e616cd26284f2dbfdee4c304ad59ef67c-f2543254846s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/e616cd26284f2dbfdee4c304ad59ef67c-f46106718s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/e616cd26284f2dbfdee4c304ad59ef67c-f3854150019s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/e616cd26284f2dbfdee4c304ad59ef67c-f2091412484s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/e616cd26284f2dbfdee4c304ad59ef67c-f3746686655s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/e616cd26284f2dbfdee4c304ad59ef67c-f640393217s.jpg"
+    }
+   ],
+   "advertisers": [
+    {
+     "name": "Nelson Village at Easton Park 29'",
+     "type": "community",
+     "href": null,
+     "phones": null,
+     "builder": {
+      "name": "David Weekley Homes",
+      "href": "https://www.davidweekleyhomes.com?CMP=bdx"
+     }
+    }
+   ],
+   "flags": {
+    "is_new_construction": true
+   }
+  },
+  {
+   "property_id": "717000092327",
+   "href": "https://www.realtor.com/realestateandhomes-detail/Easton-Park-Nelson-Village-Haven-Series_1048-Brickell-Loop_Austin_TX_78744_Q717000092327",
+   "status": "active",
+   "list_price_min": 344990,
+   "list_price_max": 424990,
+   "photo_count": 19,
+   "description": {
+    "name": "Easton Park - Nelson Village - Haven Series",
+    "text": null,
+    "beds_min": 2,
+    "beds_max": 3,
+    "baths_min": 2.5,
+    "baths_max": 2.5,
+    "sqft_min": 1560,
+    "sqft_max": 2828,
+    "type": null
+   },
+   "location": {
+    "address": {
+     "line": "1048 Brickell Loop",
+     "city": "Austin",
+     "state_code": "TX",
+     "postal_code": "78744",
+     "coordinate": {
+      "lat": 30.149932308977,
+      "lon": -97.7033242423279
+     }
+    }
+   },
+   "primary_photo": {
+    "href": "https://nh.rdcpix.com/9f0ab9ccd881455a234c9bb492b64e43c-f1607712470s.jpg"
+   },
+   "photos": [
+    {
+     "href": "https://nh.rdcpix.com/9f0ab9ccd881455a234c9bb492b64e43c-f1607712470s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/9f0ab9ccd881455a234c9bb492b64e43c-f2397695729s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/9f0ab9ccd881455a234c9bb492b64e43c-f3986211846s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/9f0ab9ccd881455a234c9bb492b64e43c-f2563461231s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/9f0ab9ccd881455a234c9bb492b64e43c-f2600076205s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/9f0ab9ccd881455a234c9bb492b64e43c-f899438596s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/9f0ab9ccd881455a234c9bb492b64e43c-f386074194s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/9f0ab9ccd881455a234c9bb492b64e43c-f214195318s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/9f0ab9ccd881455a234c9bb492b64e43c-f3605067672s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/9f0ab9ccd881455a234c9bb492b64e43c-f1208056723s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/9f0ab9ccd881455a234c9bb492b64e43c-f2831129038s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/9f0ab9ccd881455a234c9bb492b64e43c-f2390147638s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/9f0ab9ccd881455a234c9bb492b64e43c-f881134322s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/9f0ab9ccd881455a234c9bb492b64e43c-f3039544045s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/9f0ab9ccd881455a234c9bb492b64e43c-f46106718s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/9f0ab9ccd881455a234c9bb492b64e43c-f3854150019s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/9f0ab9ccd881455a234c9bb492b64e43c-f2091412484s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/9f0ab9ccd881455a234c9bb492b64e43c-f3746686655s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/9f0ab9ccd881455a234c9bb492b64e43c-f640393217s.jpg"
+    }
+   ],
+   "advertisers": [
+    {
+     "name": "Nelson Village at Easton Park 34'",
+     "type": "community",
+     "href": null,
+     "phones": null,
+     "builder": {
+      "name": "David Weekley Homes",
+      "href": "https://www.davidweekleyhomes.com?CMP=bdx"
+     }
+    }
+   ],
+   "flags": {
+    "is_new_construction": true
+   }
+  },
+  {
+   "property_id": "717000114972",
+   "href": "https://www.realtor.com/realestateandhomes-detail/The-Overlook-at-Westlake_6205-Marshall-Ranch-Road_Austin_TX_78746_Q717000114972",
+   "status": "active",
+   "list_price_min": 2905990,
+   "list_price_max": 3748990,
+   "photo_count": 12,
+   "description": {
+    "name": "The Overlook at Westlake",
+    "text": null,
+    "beds_min": 4,
+    "beds_max": 6,
+    "baths_min": 4.5,
+    "baths_max": 5.5,
+    "sqft_min": 3326,
+    "sqft_max": 5257,
+    "type": null
+   },
+   "location": {
+    "address": {
+     "line": "6205 Marshall Ranch Road",
+     "city": "Austin",
+     "state_code": "TX",
+     "postal_code": "78746",
+     "coordinate": {
+      "lat": 30.2852028,
+      "lon": -97.8309231
+     }
+    }
+   },
+   "primary_photo": {
+    "href": "https://nh.rdcpix.com/e045ccf7a9c9b434dad3bc325891af6cc-f688804989s.jpg"
+   },
+   "photos": [
+    {
+     "href": "https://nh.rdcpix.com/e045ccf7a9c9b434dad3bc325891af6cc-f688804989s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/e045ccf7a9c9b434dad3bc325891af6cc-f2981582066s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/e045ccf7a9c9b434dad3bc325891af6cc-f3370176793s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/e045ccf7a9c9b434dad3bc325891af6cc-f2246652530s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/e045ccf7a9c9b434dad3bc325891af6cc-f3266860914s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/e045ccf7a9c9b434dad3bc325891af6cc-f3711091370s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/e045ccf7a9c9b434dad3bc325891af6cc-f3189291640s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/e045ccf7a9c9b434dad3bc325891af6cc-f3680921179s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/e045ccf7a9c9b434dad3bc325891af6cc-f617303848s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/e045ccf7a9c9b434dad3bc325891af6cc-f4037249613s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/e045ccf7a9c9b434dad3bc325891af6cc-f3858638226s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/e045ccf7a9c9b434dad3bc325891af6cc-f1725588776s.jpg"
+    }
+   ],
+   "advertisers": [
+    {
+     "name": null,
+     "type": "community",
+     "href": null,
+     "phones": null,
+     "builder": {
+      "name": "MileStone Community Builders",
+      "href": "https://www.mymilestone.com"
+     }
+    }
+   ],
+   "flags": {
+    "is_new_construction": true
+   }
+  },
+  {
+   "property_id": "717000097300",
+   "href": "https://www.realtor.com/realestateandhomes-detail/Cameron-Place_12002-Dry-Cattail-Drive_Austin_TX_78754_Q717000097300",
+   "status": "active",
+   "list_price_min": 388792,
+   "list_price_max": 473590,
+   "photo_count": 16,
+   "description": {
+    "name": "Cameron Place",
+    "text": null,
+    "beds_min": 3,
+    "beds_max": 5,
+    "baths_min": 2,
+    "baths_max": 3.5,
+    "sqft_min": null,
+    "sqft_max": null,
+    "type": null
+   },
+   "location": {
+    "address": {
+     "line": "12002 Dry Cattail Drive",
+     "city": "Austin",
+     "state_code": "TX",
+     "postal_code": "78754",
+     "coordinate": {
+      "lat": 30.365527,
+      "lon": -97.622395
+     }
+    }
+   },
+   "primary_photo": {
+    "href": "https://nh.rdcpix.com/3df85c639f87a14defe07175da973cc7c-f143402509s.jpg"
+   },
+   "photos": [
+    {
+     "href": "https://nh.rdcpix.com/3df85c639f87a14defe07175da973cc7c-f143402509s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/3df85c639f87a14defe07175da973cc7c-f2249886445s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/3df85c639f87a14defe07175da973cc7c-f2647949016s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/3df85c639f87a14defe07175da973cc7c-f1816523467s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/3df85c639f87a14defe07175da973cc7c-f2041397341s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/3df85c639f87a14defe07175da973cc7c-f3974660475s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/3df85c639f87a14defe07175da973cc7c-f2319003428s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/3df85c639f87a14defe07175da973cc7c-f269601886s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/3df85c639f87a14defe07175da973cc7c-f2222949527s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/3df85c639f87a14defe07175da973cc7c-f3353710131s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/3df85c639f87a14defe07175da973cc7c-f1489859524s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/3df85c639f87a14defe07175da973cc7c-f2414082270s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/3df85c639f87a14defe07175da973cc7c-f1556472452s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/3df85c639f87a14defe07175da973cc7c-f4291556699s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/3df85c639f87a14defe07175da973cc7c-f3553276628s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/3df85c639f87a14defe07175da973cc7c-f1612463092s.jpg"
+    }
+   ],
+   "advertisers": [
+    {
+     "name": "Cameron Place",
+     "type": "community",
+     "href": null,
+     "phones": null,
+     "builder": {
+      "name": "Pulte Homes",
+      "href": "https://www.pulte.com/homes/texas/austin"
+     }
+    }
+   ],
+   "flags": {
+    "is_new_construction": true
+   }
+  },
+  {
+   "property_id": "717000092671",
+   "href": "https://www.realtor.com/realestateandhomes-detail/Easton-Park-40_7006-Ezra-Brooks-Bend_Austin_TX_78744_Q717000092671",
+   "status": "active",
+   "list_price_min": 399900,
+   "list_price_max": 589900,
+   "photo_count": 12,
+   "description": {
+    "name": "Easton Park 40'",
+    "text": null,
+    "beds_min": 3,
+    "beds_max": 5,
+    "baths_min": 2,
+    "baths_max": 4.5,
+    "sqft_min": null,
+    "sqft_max": null,
+    "type": null
+   },
+   "location": {
+    "address": {
+     "line": "7006 Ezra Brooks Bend",
+     "city": "Austin",
+     "state_code": "TX",
+     "postal_code": "78744",
+     "coordinate": {
+      "lat": 30.148873,
+      "lon": -97.730091
+     }
+    }
+   },
+   "primary_photo": {
+    "href": "https://nh.rdcpix.com/fae7d35b80e5773b41dd628f7aec8144c-f1504174322s.jpg"
+   },
+   "photos": [
+    {
+     "href": "https://nh.rdcpix.com/fae7d35b80e5773b41dd628f7aec8144c-f1504174322s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/fae7d35b80e5773b41dd628f7aec8144c-f893884114s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/fae7d35b80e5773b41dd628f7aec8144c-f1856939253s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/fae7d35b80e5773b41dd628f7aec8144c-f3268205018s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/fae7d35b80e5773b41dd628f7aec8144c-f909387531s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/fae7d35b80e5773b41dd628f7aec8144c-f3448962112s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/fae7d35b80e5773b41dd628f7aec8144c-f807096214s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/fae7d35b80e5773b41dd628f7aec8144c-f714203168s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/fae7d35b80e5773b41dd628f7aec8144c-f188300062s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/fae7d35b80e5773b41dd628f7aec8144c-f1576219170s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/fae7d35b80e5773b41dd628f7aec8144c-f3710306520s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/fae7d35b80e5773b41dd628f7aec8144c-f527278047s.jpg"
+    }
+   ],
+   "advertisers": [
+    {
+     "name": "Easton Park 40'",
+     "type": "community",
+     "href": null,
+     "phones": null,
+     "builder": {
+      "name": "PERRY HOMES",
+      "href": "https://www.perryhomes.com"
+     }
+    }
+   ],
+   "flags": {
+    "is_new_construction": true
+   }
+  },
+  {
+   "property_id": "717000115602",
+   "href": "https://www.realtor.com/realestateandhomes-detail/Easton-Park_7900-Skytree-Drive_Austin_TX_78744_Q717000115602",
+   "status": "active",
+   "list_price_min": 465900,
+   "list_price_max": 560900,
+   "photo_count": 8,
+   "description": {
+    "name": "Easton Park",
+    "text": null,
+    "beds_min": 3,
+    "beds_max": 5,
+    "baths_min": 2,
+    "baths_max": 4,
+    "sqft_min": 1700,
+    "sqft_max": 2786,
+    "type": null
+   },
+   "location": {
+    "address": {
+     "line": "7900 Skytree Drive",
+     "city": "Austin",
+     "state_code": "TX",
+     "postal_code": "78744",
+     "coordinate": {
+      "lat": 30.1560176,
+      "lon": -97.7157293
+     }
+    }
+   },
+   "primary_photo": {
+    "href": "https://nh.rdcpix.com/5b9ff1e7ffbdab894c5cf7effd411ef7c-f3788733207s.jpg"
+   },
+   "photos": [
+    {
+     "href": "https://nh.rdcpix.com/5b9ff1e7ffbdab894c5cf7effd411ef7c-f3788733207s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/5b9ff1e7ffbdab894c5cf7effd411ef7c-f666524217s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/5b9ff1e7ffbdab894c5cf7effd411ef7c-f3695004176s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/5b9ff1e7ffbdab894c5cf7effd411ef7c-f2193681612s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/5b9ff1e7ffbdab894c5cf7effd411ef7c-f2576461018s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/5b9ff1e7ffbdab894c5cf7effd411ef7c-f1116497640s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/5b9ff1e7ffbdab894c5cf7effd411ef7c-f529298989s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/5b9ff1e7ffbdab894c5cf7effd411ef7c-f4226856338s.jpg"
+    }
+   ],
+   "advertisers": [
+    {
+     "name": "Easton Park",
+     "type": "community",
+     "href": null,
+     "phones": null,
+     "builder": {
+      "name": "Pacesetter Homes Texas",
+      "href": "https://www.pacesetterhomestexas.com"
+     }
+    }
+   ],
+   "flags": {
+    "is_new_construction": true
+   }
+  },
+  {
+   "property_id": "717000099980",
+   "href": "https://www.realtor.com/realestateandhomes-detail/Trails-at-Wildhorse_9605-Braided-Rein-Drive_Austin_TX_78724_Q717000099980",
+   "status": "active",
+   "list_price_min": 325990,
+   "list_price_max": 460990,
+   "photo_count": 48,
+   "description": {
+    "name": "Trails at Wildhorse",
+    "text": null,
+    "beds_min": 3,
+    "beds_max": 4,
+    "baths_min": 2,
+    "baths_max": 3,
+    "sqft_min": null,
+    "sqft_max": null,
+    "type": null
+   },
+   "location": {
+    "address": {
+     "line": "9605 Braided Rein Drive",
+     "city": "Austin",
+     "state_code": "TX",
+     "postal_code": "78724",
+     "coordinate": {
+      "lat": 30.32458,
+      "lon": -97.59233
+     }
+    }
+   },
+   "primary_photo": {
+    "href": "https://nh.rdcpix.com/339574df121c149f71e9eaf0b1f1c2e7c-f174023736s.jpg"
+   },
+   "photos": [
+    {
+     "href": "https://nh.rdcpix.com/339574df121c149f71e9eaf0b1f1c2e7c-f174023736s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/339574df121c149f71e9eaf0b1f1c2e7c-f1796559344s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/339574df121c149f71e9eaf0b1f1c2e7c-f766179056s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/339574df121c149f71e9eaf0b1f1c2e7c-f3194053298s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/339574df121c149f71e9eaf0b1f1c2e7c-f312323191s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/339574df121c149f71e9eaf0b1f1c2e7c-f243716617s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/339574df121c149f71e9eaf0b1f1c2e7c-f2854610182s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/339574df121c149f71e9eaf0b1f1c2e7c-f3446283552s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/339574df121c149f71e9eaf0b1f1c2e7c-f4096442617s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/339574df121c149f71e9eaf0b1f1c2e7c-f1521946449s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/339574df121c149f71e9eaf0b1f1c2e7c-f1465952166s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/339574df121c149f71e9eaf0b1f1c2e7c-f3344035178s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/339574df121c149f71e9eaf0b1f1c2e7c-f1066308963s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/339574df121c149f71e9eaf0b1f1c2e7c-f3729562882s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/339574df121c149f71e9eaf0b1f1c2e7c-f2098301266s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/339574df121c149f71e9eaf0b1f1c2e7c-f147149110s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/339574df121c149f71e9eaf0b1f1c2e7c-f3387161698s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/339574df121c149f71e9eaf0b1f1c2e7c-f90645917s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/339574df121c149f71e9eaf0b1f1c2e7c-f3383334518s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/339574df121c149f71e9eaf0b1f1c2e7c-f1882257829s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/339574df121c149f71e9eaf0b1f1c2e7c-f3368207042s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/339574df121c149f71e9eaf0b1f1c2e7c-f3645171131s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/339574df121c149f71e9eaf0b1f1c2e7c-f2560373116s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/339574df121c149f71e9eaf0b1f1c2e7c-f3121645458s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/339574df121c149f71e9eaf0b1f1c2e7c-f3582453339s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/339574df121c149f71e9eaf0b1f1c2e7c-f1309411848s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/339574df121c149f71e9eaf0b1f1c2e7c-f2168538744s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/339574df121c149f71e9eaf0b1f1c2e7c-f4001062314s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/339574df121c149f71e9eaf0b1f1c2e7c-f2202125602s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/339574df121c149f71e9eaf0b1f1c2e7c-f2412486437s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/339574df121c149f71e9eaf0b1f1c2e7c-f431334419s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/339574df121c149f71e9eaf0b1f1c2e7c-f3781112173s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/339574df121c149f71e9eaf0b1f1c2e7c-f3130356779s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/339574df121c149f71e9eaf0b1f1c2e7c-f3893243932s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/339574df121c149f71e9eaf0b1f1c2e7c-f4006441771s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/339574df121c149f71e9eaf0b1f1c2e7c-f3640920566s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/339574df121c149f71e9eaf0b1f1c2e7c-f972695940s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/339574df121c149f71e9eaf0b1f1c2e7c-f3847427498s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/339574df121c149f71e9eaf0b1f1c2e7c-f1691068633s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/339574df121c149f71e9eaf0b1f1c2e7c-f2984740832s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/339574df121c149f71e9eaf0b1f1c2e7c-f3592491412s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/339574df121c149f71e9eaf0b1f1c2e7c-f1694403515s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/339574df121c149f71e9eaf0b1f1c2e7c-f1287751795s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/339574df121c149f71e9eaf0b1f1c2e7c-f3673132537s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/339574df121c149f71e9eaf0b1f1c2e7c-f948317888s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/339574df121c149f71e9eaf0b1f1c2e7c-f877973868s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/339574df121c149f71e9eaf0b1f1c2e7c-f3267240333s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/339574df121c149f71e9eaf0b1f1c2e7c-f1488982496s.jpg"
+    }
+   ],
+   "advertisers": [
+    {
+     "name": "Trails at Wildhorse",
+     "type": "community",
+     "href": null,
+     "phones": null,
+     "builder": {
+      "name": "D.R. Horton",
+      "href": "https://www.drhorton.com"
+     }
+    }
+   ],
+   "flags": {
+    "is_new_construction": true
+   }
+  },
+  {
+   "property_id": "717000071358",
+   "href": "https://www.realtor.com/realestateandhomes-detail/Milky-Way-at-River-Place_10117-Milky-Way-Drive_Austin_TX_78730_Q717000071358",
+   "status": "active",
+   "list_price_min": 1791990,
+   "list_price_max": 2401990,
+   "photo_count": 24,
+   "description": {
+    "name": "Milky Way at River Place",
+    "text": null,
+    "beds_min": 4,
+    "beds_max": 5,
+    "baths_min": 3.5,
+    "baths_max": 5.5,
+    "sqft_min": 3518,
+    "sqft_max": 5266,
+    "type": null
+   },
+   "location": {
+    "address": {
+     "line": "10117 Milky Way Drive",
+     "city": "Austin",
+     "state_code": "TX",
+     "postal_code": "78730",
+     "coordinate": {
+      "lat": 30.3838518,
+      "lon": -97.8438984
+     }
+    }
+   },
+   "primary_photo": {
+    "href": "https://nh.rdcpix.com/81c7f8af1273e7ccf922ba8202641f31c-f3809581943s.jpg"
+   },
+   "photos": [
+    {
+     "href": "https://nh.rdcpix.com/81c7f8af1273e7ccf922ba8202641f31c-f3809581943s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/81c7f8af1273e7ccf922ba8202641f31c-f1057565125s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/81c7f8af1273e7ccf922ba8202641f31c-f2531877669s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/81c7f8af1273e7ccf922ba8202641f31c-f3112473878s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/81c7f8af1273e7ccf922ba8202641f31c-f1561088367s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/81c7f8af1273e7ccf922ba8202641f31c-f860207136s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/81c7f8af1273e7ccf922ba8202641f31c-f3482797470s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/81c7f8af1273e7ccf922ba8202641f31c-f2649387150s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/81c7f8af1273e7ccf922ba8202641f31c-f1499717517s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/81c7f8af1273e7ccf922ba8202641f31c-f1495371759s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/81c7f8af1273e7ccf922ba8202641f31c-f3448763886s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/81c7f8af1273e7ccf922ba8202641f31c-f676935388s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/81c7f8af1273e7ccf922ba8202641f31c-f1816612625s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/81c7f8af1273e7ccf922ba8202641f31c-f3994504708s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/81c7f8af1273e7ccf922ba8202641f31c-f1071586309s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/81c7f8af1273e7ccf922ba8202641f31c-f1022481496s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/81c7f8af1273e7ccf922ba8202641f31c-f1136558212s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/81c7f8af1273e7ccf922ba8202641f31c-f2064023625s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/81c7f8af1273e7ccf922ba8202641f31c-f3500554714s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/81c7f8af1273e7ccf922ba8202641f31c-f1059481392s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/81c7f8af1273e7ccf922ba8202641f31c-f4180890604s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/81c7f8af1273e7ccf922ba8202641f31c-f2949493741s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/81c7f8af1273e7ccf922ba8202641f31c-f2157265989s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/81c7f8af1273e7ccf922ba8202641f31c-f127696773s.jpg"
+    }
+   ],
+   "advertisers": [
+    {
+     "name": "Milky Way at River Place",
+     "type": "community",
+     "href": null,
+     "phones": null,
+     "builder": {
+      "name": "MileStone Community Builders",
+      "href": "https://www.mymilestone.com"
+     }
+    }
+   ],
+   "flags": {
+    "is_new_construction": true
+   }
+  },
+  {
+   "property_id": "717000075677",
+   "href": "https://www.realtor.com/realestateandhomes-detail/Easton-Park-50s_7812-Skytree-Drive_Austin_TX_78744_Q717000075677",
+   "status": "active",
+   "list_price_min": 474990,
+   "list_price_max": 647898,
+   "photo_count": 34,
+   "description": {
+    "name": "Easton Park 50s",
+    "text": null,
+    "beds_min": 3,
+    "beds_max": 5,
+    "baths_min": 2,
+    "baths_max": 4.5,
+    "sqft_min": null,
+    "sqft_max": null,
+    "type": null
+   },
+   "location": {
+    "address": {
+     "line": "7812 Skytree Drive",
+     "city": "Austin",
+     "state_code": "TX",
+     "postal_code": "78744",
+     "coordinate": {
+      "lat": 30.155511,
+      "lon": -97.716682
+     }
+    }
+   },
+   "primary_photo": {
+    "href": "https://nh.rdcpix.com/ca5cd50713858a478d74b5a47f77a7f6c-f2267401769s.jpg"
+   },
+   "photos": [
+    {
+     "href": "https://nh.rdcpix.com/ca5cd50713858a478d74b5a47f77a7f6c-f2267401769s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/ca5cd50713858a478d74b5a47f77a7f6c-f2998223387s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/ca5cd50713858a478d74b5a47f77a7f6c-f2267401769s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/ca5cd50713858a478d74b5a47f77a7f6c-f4119845780s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/ca5cd50713858a478d74b5a47f77a7f6c-f243968050s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/ca5cd50713858a478d74b5a47f77a7f6c-f4037314079s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/ca5cd50713858a478d74b5a47f77a7f6c-f618775830s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/ca5cd50713858a478d74b5a47f77a7f6c-f3306632251s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/ca5cd50713858a478d74b5a47f77a7f6c-f6094249s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/ca5cd50713858a478d74b5a47f77a7f6c-f3723911434s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/ca5cd50713858a478d74b5a47f77a7f6c-f1749539295s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/ca5cd50713858a478d74b5a47f77a7f6c-f3198644325s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/ca5cd50713858a478d74b5a47f77a7f6c-f2592648112s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/ca5cd50713858a478d74b5a47f77a7f6c-f58302774s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/ca5cd50713858a478d74b5a47f77a7f6c-f872540412s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/ca5cd50713858a478d74b5a47f77a7f6c-f1687025098s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/ca5cd50713858a478d74b5a47f77a7f6c-f2002222211s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/ca5cd50713858a478d74b5a47f77a7f6c-f3418553890s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/ca5cd50713858a478d74b5a47f77a7f6c-f2907843182s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/ca5cd50713858a478d74b5a47f77a7f6c-f3160834630s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/ca5cd50713858a478d74b5a47f77a7f6c-f1321910633s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/ca5cd50713858a478d74b5a47f77a7f6c-f3544130684s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/ca5cd50713858a478d74b5a47f77a7f6c-f1965982473s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/ca5cd50713858a478d74b5a47f77a7f6c-f643243844s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/ca5cd50713858a478d74b5a47f77a7f6c-f4016342891s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/ca5cd50713858a478d74b5a47f77a7f6c-f3193420761s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/ca5cd50713858a478d74b5a47f77a7f6c-f2938474826s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/ca5cd50713858a478d74b5a47f77a7f6c-f3126530800s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/ca5cd50713858a478d74b5a47f77a7f6c-f3408800395s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/ca5cd50713858a478d74b5a47f77a7f6c-f201438715s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/ca5cd50713858a478d74b5a47f77a7f6c-f513029102s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/ca5cd50713858a478d74b5a47f77a7f6c-f3311049057s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/ca5cd50713858a478d74b5a47f77a7f6c-f1311690343s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/ca5cd50713858a478d74b5a47f77a7f6c-f556410820s.jpg"
+    }
+   ],
+   "advertisers": [
+    {
+     "name": "Easton Park 50s",
+     "type": "community",
+     "href": null,
+     "phones": null,
+     "builder": {
+      "name": "Taylor Morrison",
+      "href": "https://www.taylormorrison.com/tx/austin"
+     }
+    }
+   ],
+   "flags": {
+    "is_new_construction": true
+   }
+  },
+  {
+   "property_id": "717000073208",
+   "href": "https://www.realtor.com/realestateandhomes-detail/Foxfield_12110-Cearley-Drive_Austin_TX_78758_Q717000073208",
+   "status": "active",
+   "list_price_min": 639990,
+   "list_price_max": 861990,
+   "photo_count": 19,
+   "description": {
+    "name": "Foxfield",
+    "text": null,
+    "beds_min": 2,
+    "beds_max": 4,
+    "baths_min": 2,
+    "baths_max": 3.5,
+    "sqft_min": 1800,
+    "sqft_max": 2865,
+    "type": null
+   },
+   "location": {
+    "address": {
+     "line": "12110 Cearley Drive",
+     "city": "Austin",
+     "state_code": "TX",
+     "postal_code": "78758",
+     "coordinate": {
+      "lat": 30.4071503,
+      "lon": -97.6888975
+     }
+    }
+   },
+   "primary_photo": {
+    "href": "https://nh.rdcpix.com/9a71514e0f1b5ed7a2f5ddc243553b2ac-f4216633782s.jpg"
+   },
+   "photos": [
+    {
+     "href": "https://nh.rdcpix.com/9a71514e0f1b5ed7a2f5ddc243553b2ac-f4216633782s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/9a71514e0f1b5ed7a2f5ddc243553b2ac-f649124306s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/9a71514e0f1b5ed7a2f5ddc243553b2ac-f2269796422s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/9a71514e0f1b5ed7a2f5ddc243553b2ac-f2090223594s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/9a71514e0f1b5ed7a2f5ddc243553b2ac-f2206636219s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/9a71514e0f1b5ed7a2f5ddc243553b2ac-f1041839537s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/9a71514e0f1b5ed7a2f5ddc243553b2ac-f4056127862s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/9a71514e0f1b5ed7a2f5ddc243553b2ac-f1874373116s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/9a71514e0f1b5ed7a2f5ddc243553b2ac-f1009858435s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/9a71514e0f1b5ed7a2f5ddc243553b2ac-f781628144s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/9a71514e0f1b5ed7a2f5ddc243553b2ac-f3046468044s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/9a71514e0f1b5ed7a2f5ddc243553b2ac-f3737054434s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/9a71514e0f1b5ed7a2f5ddc243553b2ac-f3821592730s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/9a71514e0f1b5ed7a2f5ddc243553b2ac-f4281429145s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/9a71514e0f1b5ed7a2f5ddc243553b2ac-f3538471775s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/9a71514e0f1b5ed7a2f5ddc243553b2ac-f787187361s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/9a71514e0f1b5ed7a2f5ddc243553b2ac-f3488789506s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/9a71514e0f1b5ed7a2f5ddc243553b2ac-f3669068936s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/9a71514e0f1b5ed7a2f5ddc243553b2ac-f913798588s.jpg"
+    }
+   ],
+   "advertisers": [
+    {
+     "name": "Foxfield",
+     "type": "community",
+     "href": null,
+     "phones": null,
+     "builder": {
+      "name": "MileStone Community Builders",
+      "href": "https://www.mymilestone.com"
+     }
+    }
+   ],
+   "flags": {
+    "is_new_construction": true
+   }
+  },
+  {
+   "property_id": "717000109691",
+   "href": "https://www.realtor.com/realestateandhomes-detail/Cloverleaf_11312-Comano-Drive_Austin_TX_78747_Q717000109691",
+   "status": "active",
+   "list_price_min": 347990,
+   "list_price_max": 347990,
+   "photo_count": 13,
+   "description": {
+    "name": "Cloverleaf",
+    "text": null,
+    "beds_min": 3,
+    "beds_max": 5,
+    "baths_min": 1.5,
+    "baths_max": 3,
+    "sqft_min": 1388,
+    "sqft_max": 2656,
+    "type": null
+   },
+   "location": {
+    "address": {
+     "line": "11312 Comano Drive",
+     "city": "Austin",
+     "state_code": "TX",
+     "postal_code": "78747",
+     "coordinate": {
+      "lat": 30.1275142,
+      "lon": -97.7774489
+     }
+    }
+   },
+   "primary_photo": {
+    "href": "https://nh.rdcpix.com/ddb2def8c5137789365d5eeef460f851c-f1536163335s.jpg"
+   },
+   "photos": [
+    {
+     "href": "https://nh.rdcpix.com/ddb2def8c5137789365d5eeef460f851c-f1536163335s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/ddb2def8c5137789365d5eeef460f851c-f680175442s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/ddb2def8c5137789365d5eeef460f851c-f3368726329s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/ddb2def8c5137789365d5eeef460f851c-f3122860657s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/ddb2def8c5137789365d5eeef460f851c-f239406363s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/ddb2def8c5137789365d5eeef460f851c-f2321429360s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/ddb2def8c5137789365d5eeef460f851c-f4221368076s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/ddb2def8c5137789365d5eeef460f851c-f3037151395s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/ddb2def8c5137789365d5eeef460f851c-f2863244070s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/ddb2def8c5137789365d5eeef460f851c-f2597261818s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/ddb2def8c5137789365d5eeef460f851c-f2270904196s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/ddb2def8c5137789365d5eeef460f851c-f2912084622s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/ddb2def8c5137789365d5eeef460f851c-f473263858s.jpg"
+    }
+   ],
+   "advertisers": [
+    {
+     "name": "11312 Comano Drive",
+     "type": "community",
+     "href": null,
+     "phones": null,
+     "builder": {
+      "name": "Century Communities",
+      "href": "https://www.centurycommunities.com"
+     }
+    }
+   ],
+   "flags": {
+    "is_new_construction": true
+   }
+  },
+  {
+   "property_id": "717000108442",
+   "href": "https://www.realtor.com/realestateandhomes-detail/Evelyn_4913-Bridwell-Lane_Austin_TX_78754_Q717000108442",
+   "status": "active",
+   "list_price_min": 339990,
+   "list_price_max": 549990,
+   "photo_count": 54,
+   "description": {
+    "name": "Evelyn",
+    "text": null,
+    "beds_min": 3,
+    "beds_max": 5,
+    "baths_min": 2,
+    "baths_max": 4,
+    "sqft_min": 1202,
+    "sqft_max": 3630,
+    "type": null
+   },
+   "location": {
+    "address": {
+     "line": "4913 Bridwell Lane",
+     "city": "Austin",
+     "state_code": "TX",
+     "postal_code": "78754",
+     "coordinate": {
+      "lat": 30.352583,
+      "lon": -97.636786
+     }
+    }
+   },
+   "primary_photo": {
+    "href": "https://nh.rdcpix.com/628ee435de03368d7a0e9677bc9f11bdc-f723683216s.jpg"
+   },
+   "photos": [
+    {
+     "href": "https://nh.rdcpix.com/628ee435de03368d7a0e9677bc9f11bdc-f723683216s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/628ee435de03368d7a0e9677bc9f11bdc-f2417531765s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/628ee435de03368d7a0e9677bc9f11bdc-f2603648862s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/628ee435de03368d7a0e9677bc9f11bdc-f4272371093s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/628ee435de03368d7a0e9677bc9f11bdc-f3720455448s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/628ee435de03368d7a0e9677bc9f11bdc-f3377782141s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/628ee435de03368d7a0e9677bc9f11bdc-f450356905s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/628ee435de03368d7a0e9677bc9f11bdc-f4288452538s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/628ee435de03368d7a0e9677bc9f11bdc-f1601277224s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/628ee435de03368d7a0e9677bc9f11bdc-f3065553500s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/628ee435de03368d7a0e9677bc9f11bdc-f3494059438s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/628ee435de03368d7a0e9677bc9f11bdc-f2590112121s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/628ee435de03368d7a0e9677bc9f11bdc-f1720528727s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/628ee435de03368d7a0e9677bc9f11bdc-f1462853584s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/628ee435de03368d7a0e9677bc9f11bdc-f4191640528s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/628ee435de03368d7a0e9677bc9f11bdc-f2673101159s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/628ee435de03368d7a0e9677bc9f11bdc-f2124213740s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/628ee435de03368d7a0e9677bc9f11bdc-f1312754810s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/628ee435de03368d7a0e9677bc9f11bdc-f3356522515s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/628ee435de03368d7a0e9677bc9f11bdc-f3513146708s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/628ee435de03368d7a0e9677bc9f11bdc-f3468969909s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/628ee435de03368d7a0e9677bc9f11bdc-f4120730738s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/628ee435de03368d7a0e9677bc9f11bdc-f2326752990s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/628ee435de03368d7a0e9677bc9f11bdc-f679226737s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/628ee435de03368d7a0e9677bc9f11bdc-f966471236s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/628ee435de03368d7a0e9677bc9f11bdc-f3306234134s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/628ee435de03368d7a0e9677bc9f11bdc-f2325217510s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/628ee435de03368d7a0e9677bc9f11bdc-f760580197s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/628ee435de03368d7a0e9677bc9f11bdc-f2653415084s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/628ee435de03368d7a0e9677bc9f11bdc-f3988214237s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/628ee435de03368d7a0e9677bc9f11bdc-f1995877660s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/628ee435de03368d7a0e9677bc9f11bdc-f2845410008s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/628ee435de03368d7a0e9677bc9f11bdc-f1250740688s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/628ee435de03368d7a0e9677bc9f11bdc-f3949614012s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/628ee435de03368d7a0e9677bc9f11bdc-f3064985560s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/628ee435de03368d7a0e9677bc9f11bdc-f3695472737s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/628ee435de03368d7a0e9677bc9f11bdc-f748330502s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/628ee435de03368d7a0e9677bc9f11bdc-f3322801053s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/628ee435de03368d7a0e9677bc9f11bdc-f2973831529s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/628ee435de03368d7a0e9677bc9f11bdc-f1846565335s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/628ee435de03368d7a0e9677bc9f11bdc-f4254966668s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/628ee435de03368d7a0e9677bc9f11bdc-f1445331555s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/628ee435de03368d7a0e9677bc9f11bdc-f1508666610s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/628ee435de03368d7a0e9677bc9f11bdc-f1519729701s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/628ee435de03368d7a0e9677bc9f11bdc-f162966268s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/628ee435de03368d7a0e9677bc9f11bdc-f2218585058s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/628ee435de03368d7a0e9677bc9f11bdc-f1087568440s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/628ee435de03368d7a0e9677bc9f11bdc-f3010857792s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/628ee435de03368d7a0e9677bc9f11bdc-f648426008s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/628ee435de03368d7a0e9677bc9f11bdc-f1552449177s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/628ee435de03368d7a0e9677bc9f11bdc-f3125598254s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/628ee435de03368d7a0e9677bc9f11bdc-f1673601980s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/628ee435de03368d7a0e9677bc9f11bdc-f4175832349s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/628ee435de03368d7a0e9677bc9f11bdv-f2189700683s.jpg"
+    }
+   ],
+   "advertisers": [
+    {
+     "name": "Evelyn",
+     "type": "community",
+     "href": null,
+     "phones": null,
+     "builder": {
+      "name": "Trophy Signature Homes",
+      "href": "https://www.trophysignaturehomes.com"
+     }
+    }
+   ],
+   "flags": {
+    "is_new_construction": true
+   }
+  },
+  {
+   "property_id": "717000081283",
+   "href": "https://www.realtor.com/realestateandhomes-detail/Koenig-Townhomes_200-W-56th-Street_Austin_TX_78751_Q717000081283",
+   "status": "active",
+   "list_price_min": 564999,
+   "list_price_max": 599999,
+   "photo_count": 16,
+   "description": {
+    "name": "Koenig Townhomes",
+    "text": null,
+    "beds_min": 3,
+    "beds_max": 3,
+    "baths_min": 3,
+    "baths_max": 3,
+    "sqft_min": 1525,
+    "sqft_max": 1525,
+    "type": null
+   },
+   "location": {
+    "address": {
+     "line": "200 W 56th Street",
+     "city": "Austin",
+     "state_code": "TX",
+     "postal_code": "78751",
+     "coordinate": {
+      "lat": 30.3222932,
+      "lon": -97.7210058
+     }
+    }
+   },
+   "primary_photo": {
+    "href": "https://nh.rdcpix.com/0a61cc10ab009fee6a2dafb198c014e5c-f2191084029s.jpg"
+   },
+   "photos": [
+    {
+     "href": "https://nh.rdcpix.com/0a61cc10ab009fee6a2dafb198c014e5c-f2191084029s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/0a61cc10ab009fee6a2dafb198c014e5c-f4062295185s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/0a61cc10ab009fee6a2dafb198c014e5c-f730102709s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/0a61cc10ab009fee6a2dafb198c014e5c-f1241433786s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/0a61cc10ab009fee6a2dafb198c014e5c-f3340168919s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/0a61cc10ab009fee6a2dafb198c014e5c-f2181525518s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/0a61cc10ab009fee6a2dafb198c014e5c-f1697220020s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/0a61cc10ab009fee6a2dafb198c014e5c-f2498378920s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/0a61cc10ab009fee6a2dafb198c014e5c-f3193938578s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/0a61cc10ab009fee6a2dafb198c014e5c-f2708966248s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/0a61cc10ab009fee6a2dafb198c014e5c-f1512128553s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/0a61cc10ab009fee6a2dafb198c014e5c-f1048102664s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/0a61cc10ab009fee6a2dafb198c014e5c-f543282364s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/0a61cc10ab009fee6a2dafb198c014e5c-f3417090472s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/0a61cc10ab009fee6a2dafb198c014e5c-f2631379704s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/0a61cc10ab009fee6a2dafb198c014e5c-f410864529s.jpg"
+    }
+   ],
+   "advertisers": [
+    {
+     "name": "Koenig Townhomes",
+     "type": "community",
+     "href": null,
+     "phones": null,
+     "builder": {
+      "name": "MileStone Community Builders",
+      "href": "https://www.mymilestone.com"
+     }
+    }
+   ],
+   "flags": {
+    "is_new_construction": true
+   }
+  },
+  {
+   "property_id": "717000100929",
+   "href": "https://www.realtor.com/realestateandhomes-detail/Marble-Creek-Crossing_9017-Furman-Drive_Austin_TX_78747_Q717000100929",
+   "status": "active",
+   "list_price_min": 307990,
+   "list_price_max": 454990,
+   "photo_count": 22,
+   "description": {
+    "name": "Marble Creek Crossing",
+    "text": null,
+    "beds_min": 3,
+    "beds_max": 5,
+    "baths_min": 2,
+    "baths_max": 3,
+    "sqft_min": null,
+    "sqft_max": null,
+    "type": null
+   },
+   "location": {
+    "address": {
+     "line": "9017 Furman Drive",
+     "city": "Austin",
+     "state_code": "TX",
+     "postal_code": "78747",
+     "coordinate": {
+      "lat": 30.144758,
+      "lon": -97.733917
+     }
+    }
+   },
+   "primary_photo": {
+    "href": "https://nh.rdcpix.com/3515600ac161355a46c74e135a48f80ec-f3750943272s.jpg"
+   },
+   "photos": [
+    {
+     "href": "https://nh.rdcpix.com/3515600ac161355a46c74e135a48f80ec-f3750943272s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/3515600ac161355a46c74e135a48f80ec-f3466605799s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/3515600ac161355a46c74e135a48f80ec-f4052272449s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/3515600ac161355a46c74e135a48f80ec-f2372370329s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/3515600ac161355a46c74e135a48f80ec-f1316962283s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/3515600ac161355a46c74e135a48f80ec-f2414721223s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/3515600ac161355a46c74e135a48f80ec-f3934818128s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/3515600ac161355a46c74e135a48f80ec-f83803601s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/3515600ac161355a46c74e135a48f80ec-f2719736820s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/3515600ac161355a46c74e135a48f80ec-f1455625165s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/3515600ac161355a46c74e135a48f80ec-f3105015048s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/3515600ac161355a46c74e135a48f80ec-f1822810928s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/3515600ac161355a46c74e135a48f80ec-f2523783520s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/3515600ac161355a46c74e135a48f80ec-f830743441s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/3515600ac161355a46c74e135a48f80ec-f2294414608s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/3515600ac161355a46c74e135a48f80ec-f2366119870s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/3515600ac161355a46c74e135a48f80ec-f1144576322s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/3515600ac161355a46c74e135a48f80ec-f437023s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/3515600ac161355a46c74e135a48f80ec-f3815035724s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/3515600ac161355a46c74e135a48f80ec-f3501655656s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/3515600ac161355a46c74e135a48f80ec-f4017449685s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/3515600ac161355a46c74e135a48f80ec-f2808005418s.jpg"
+    }
+   ],
+   "advertisers": [
+    {
+     "name": "Marble Creek Crossing",
+     "type": "community",
+     "href": null,
+     "phones": null,
+     "builder": {
+      "name": "M/I Homes",
+      "href": "https://www.mihomes.com/search?search=Greater%20Austin&searchtype=communities&typeahead_type=markets&utm_source=RDC&utm_campaign=referral-division&utm_medium=feed&utm_content=&utm_term=consumer"
+     }
+    }
+   ],
+   "flags": {
+    "is_new_construction": true
+   }
+  },
+  {
+   "property_id": "717000057031",
+   "href": "https://www.realtor.com/realestateandhomes-detail/Cascades-at-Onion-Creek_2701-Sebring-Circle_Austin_TX_78747_Q717000057031",
+   "status": "active",
+   "list_price_min": 332990,
+   "list_price_max": 455140,
+   "photo_count": 35,
+   "description": {
+    "name": "Cascades at Onion Creek",
+    "text": null,
+    "beds_min": 3,
+    "beds_max": 5,
+    "baths_min": 2,
+    "baths_max": 3,
+    "sqft_min": null,
+    "sqft_max": null,
+    "type": null
+   },
+   "location": {
+    "address": {
+     "line": "2701 Sebring Circle",
+     "city": "Austin",
+     "state_code": "TX",
+     "postal_code": "78747",
+     "coordinate": {
+      "lat": 30.130599,
+      "lon": -97.792576
+     }
+    }
+   },
+   "primary_photo": {
+    "href": "https://nh.rdcpix.com/a6f844fb0e5b8df74aa8c9e27171d744c-f482091783s.jpg"
+   },
+   "photos": [
+    {
+     "href": "https://nh.rdcpix.com/a6f844fb0e5b8df74aa8c9e27171d744c-f482091783s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/a6f844fb0e5b8df74aa8c9e27171d744c-f120520669s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/a6f844fb0e5b8df74aa8c9e27171d744c-f2217461161s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/a6f844fb0e5b8df74aa8c9e27171d744c-f3247464132s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/a6f844fb0e5b8df74aa8c9e27171d744c-f635141758s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/a6f844fb0e5b8df74aa8c9e27171d744c-f3635290986s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/a6f844fb0e5b8df74aa8c9e27171d744c-f2090447445s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/a6f844fb0e5b8df74aa8c9e27171d744c-f2757867232s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/a6f844fb0e5b8df74aa8c9e27171d744c-f3223804343s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/a6f844fb0e5b8df74aa8c9e27171d744c-f662795458s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/a6f844fb0e5b8df74aa8c9e27171d744c-f3489752420s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/a6f844fb0e5b8df74aa8c9e27171d744c-f2759441823s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/a6f844fb0e5b8df74aa8c9e27171d744c-f3088680324s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/a6f844fb0e5b8df74aa8c9e27171d744c-f3356139044s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/a6f844fb0e5b8df74aa8c9e27171d744c-f2555709303s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/a6f844fb0e5b8df74aa8c9e27171d744c-f3120458921s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/a6f844fb0e5b8df74aa8c9e27171d744c-f3560410055s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/a6f844fb0e5b8df74aa8c9e27171d744c-f2097281162s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/a6f844fb0e5b8df74aa8c9e27171d744c-f1256048081s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/a6f844fb0e5b8df74aa8c9e27171d744c-f2971212636s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/a6f844fb0e5b8df74aa8c9e27171d744c-f3690011408s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/a6f844fb0e5b8df74aa8c9e27171d744c-f3773885322s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/a6f844fb0e5b8df74aa8c9e27171d744c-f2952038698s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/a6f844fb0e5b8df74aa8c9e27171d744c-f612601510s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/a6f844fb0e5b8df74aa8c9e27171d744c-f2378840822s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/a6f844fb0e5b8df74aa8c9e27171d744c-f1323335031s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/a6f844fb0e5b8df74aa8c9e27171d744c-f3636843578s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/a6f844fb0e5b8df74aa8c9e27171d744c-f1611397007s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/a6f844fb0e5b8df74aa8c9e27171d744c-f1173290476s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/a6f844fb0e5b8df74aa8c9e27171d744c-f3328650046s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/a6f844fb0e5b8df74aa8c9e27171d744c-f1641146766s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/a6f844fb0e5b8df74aa8c9e27171d744c-f4017449685s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/a6f844fb0e5b8df74aa8c9e27171d744c-f3923842325s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/a6f844fb0e5b8df74aa8c9e27171d744c-f1594184210s.jpg"
+    },
+    {
+     "href": "https://nh.rdcpix.com/a6f844fb0e5b8df74aa8c9e27171d744v-f2135646409s.jpg"
+    }
+   ],
+   "advertisers": [
+    {
+     "name": "Cascades at Onion Creek",
+     "type": "community",
+     "href": null,
+     "phones": null,
+     "builder": {
+      "name": "M/I Homes",
+      "href": "https://www.mihomes.com/search?search=Greater%20Austin&searchtype=communities&typeahead_type=markets&utm_source=RDC&utm_campaign=referral-division&utm_medium=feed&utm_content=&utm_term=consumer"
+     }
+    }
+   ],
+   "flags": {
+    "is_new_construction": true
+   }
+  }
+ ]
+}

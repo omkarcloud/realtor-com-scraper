@@ -1,0 +1,2974 @@
+{
+ "property_id": "1332249879",
+ "listing_id": "3000810966",
+ "href": "https://www.realtor.com/realestateandhomes-detail/3008-31st-Ave-W_Seattle_WA_98199_M13322-49879",
+ "permalink": "3008-31st-Ave-W_Seattle_WA_98199_M13322-49879",
+ "status": "sold",
+ "mls_status": "Sold",
+ "list_date": "2026-09-16T21:17:15Z",
+ "list_price": 649000,
+ "list_price_min": null,
+ "list_price_max": null,
+ "price_per_sqft": 726,
+ "last_sold_price": 639000,
+ "last_sold_date": "2026-11-06",
+ "last_status_change_date": "2026-11-06T21:45:13Z",
+ "last_update_date": "2026-11-06T13:40:36Z",
+ "last_price_change_amount": null,
+ "last_price_change_date": null,
+ "pending_date": "2026-10-08T02:15:30Z",
+ "tags": [
+  "dishwasher",
+  "forced_air",
+  "hardwood_floors",
+  "laundry_room",
+  "view",
+  "washer_dryer",
+  "two_or_more_stories",
+  "updated_kitchen",
+  "private_backyard",
+  "no_hoa",
+  "views",
+  "shopping"
+ ],
+ "days_on_market": null,
+ "photo_count": 26,
+ "description": {
+  "name": null,
+  "type": "townhomes",
+  "sub_type": "townhouse",
+  "beds": 2,
+  "baths": 1,
+  "baths_full": 1,
+  "baths_half": null,
+  "baths_consolidated": "1",
+  "beds_min": null,
+  "beds_max": null,
+  "baths_min": null,
+  "baths_max": null,
+  "sqft": 880,
+  "sqft_min": null,
+  "sqft_max": null,
+  "lot_sqft": 1782,
+  "year_built": 1945,
+  "garage": null,
+  "stories": 2,
+  "text": "Charming, move-in ready 2-bed Magnolia townhome offering the perfect condo alternative with NO HOA dues! Filled with natural light and featuring hardwood floors, an updated kitchen with quartz counters & abundant storage, upgraded bath with double sinks, full-size W/D, newer furnace & tankless water heater. Enjoy a private yard perfect for entertaining, views over Magnolia & easy parking at your door. Quiet neighborhood just moments from Magnolia Village, Discovery Park, shops, dining, Farmers Market & recreation. Easy access to Queen Anne, Ballard, Fremont, downtown & the waterfront!"
+ },
+ "details": [
+  {
+   "category": "Bedrooms",
+   "text": [
+    "Bedrooms: 2",
+    "Bedrooms On Upper Level: 2",
+    "Primary Bedroom Level: Second",
+    "Bedroom 1 Level: Second"
+   ],
+   "parent_category": "Interior"
+  },
+  {
+   "category": "Bathrooms",
+   "text": [
+    "Total Bathrooms: 1",
+    "Full Bathrooms: 1",
+    "Full Bathrooms On Upper Level: 1"
+   ],
+   "parent_category": "Interior"
+  },
+  {
+   "category": "Appliances",
+   "text": [
+    "Dishwasher",
+    "Dryer",
+    "Microwave",
+    "Refrigerator",
+    "Stove(s)/Range(s)",
+    "Washer"
+   ],
+   "parent_category": "Interior"
+  },
+  {
+   "category": "Other Rooms",
+   "text": [
+    "Bathroom - Full Level: Second",
+    "Entry Level: Main",
+    "Kitchen Without Eating Space Level: Main",
+    "Utility Room Level: Main",
+    "Living Room Level: Main"
+   ],
+   "parent_category": "Interior"
+  },
+  {
+   "category": "Heating and Cooling",
+   "text": [
+    "Heating Features: Forced Air",
+    "Heating Fuel: Electric",
+    "Heating: Yes",
+    "Number of Fireplaces: 0"
+   ],
+   "parent_category": "Interior"
+  },
+  {
+   "category": "Interior Features",
+   "text": [
+    "Flooring: Hardwood"
+   ],
+   "parent_category": "Interior"
+  },
+  {
+   "category": "Land Info",
+   "text": [
+    "Land Lease: No",
+    "Lot Description: Curbs, Paved, Sidewalk",
+    "Lot Size Acres: 0.0409",
+    "Topography: Level",
+    "Lot Size Square Feet: 1781"
+   ],
+   "parent_category": "Exterior"
+  },
+  {
+   "category": "Garage and Parking",
+   "text": [
+    "Covered Spaces: 0",
+    "Open Parking: No"
+   ],
+   "parent_category": "Exterior"
+  },
+  {
+   "category": "Home Features",
+   "text": [
+    "View: Territorial"
+   ],
+   "parent_category": "Exterior"
+  },
+  {
+   "category": "Homeowners Association",
+   "text": [
+    "Association: No",
+    "Calculated Total Monthly Association Fees: 0"
+   ],
+   "parent_category": "Community"
+  },
+  {
+   "category": "School Information",
+   "text": [
+    "Elementary School: Buyer To Verify",
+    "High School: Buyer To Verify",
+    "High School District: Seattle",
+    "Middle School: Buyer To Verify",
+    "School District: Seattle"
+   ],
+   "parent_category": "Community"
+  },
+  {
+   "category": "Other Property Info",
+   "text": [
+    "Annual Tax Amount: 6167",
+    "Source Listing Status: Sold",
+    "County: King",
+    "Directions: GPS Friendly",
+    "Tax Year: 2025",
+    "Source Property Type: Single Family Residence",
+    "Inclusions: Dishwasher(s), Dryer(s), Microwave(s), Refrigerator(s), Stove(s)/Range(s), Washer(s)",
+    "Area: 700 - Queen Anne/Magnolia",
+    "List Development Name: Magnolia",
+    "Property Subtype: townhouse",
+    "Source Neighborhood: Magnolia",
+    "Parcel Number: 6821102339",
+    "Subdivision: Magnolia"
+   ],
+   "parent_category": "Listing"
+  },
+  {
+   "category": "Building and Construction",
+   "text": [
+    "Total Square Feet Living: 880",
+    "Year Built: 1945",
+    "Building Area Total: 880",
+    "Building Area Units: Square Feet",
+    "Building Name: Pleasant Valley Add",
+    "Construction Materials: Wood, Wood",
+    "Entry Location: Main",
+    "Foundation Details: Poured Concrete",
+    "Levels: Multi/Split",
+    "Property Age: 81",
+    "Roof: Composition",
+    "Levels or Stories: Multi/Split",
+    "Structure Type: Townhouse",
+    "House Style: Townhouse",
+    "Total Area Sqft: 880",
+    "Elevation Units: Feet"
+   ],
+   "parent_category": "Features"
+  },
+  {
+   "category": "Utilities",
+   "text": [
+    "Power Production Type: Electric",
+    "Sewer: Sewer Connected",
+    "Water Source: Public"
+   ],
+   "parent_category": "Features"
+  }
+ ],
+ "flags": {
+  "is_coming_soon": null,
+  "is_contingent": null,
+  "is_garage_present": null,
+  "is_new_construction": null,
+  "is_pending": null,
+  "is_short_sale": null,
+  "is_foreclosure": null,
+  "is_senior_community": null,
+  "is_for_rent": null,
+  "is_deal_available": null,
+  "is_price_reduced": null,
+  "is_new_listing": false,
+  "is_subdivision": null,
+  "is_plan": null
+ },
+ "location": {
+  "address": {
+   "line": "3008 31st Ave W",
+   "unit": null,
+   "city": "Seattle",
+   "state_code": "WA",
+   "state": "Washington",
+   "postal_code": "98199",
+   "coordinate": {
+    "lat": 47.647201,
+    "lon": -122.396642
+   }
+  },
+  "county": {
+   "name": "King",
+   "fips_code": "53033"
+  },
+  "neighborhoods": [
+   {
+    "id": "2e28e19b-82ad-547f-acc0-4bc8f5e5d023",
+    "name": "Magnolia",
+    "level": "macro_neighborhood",
+    "geo_type": "neighborhood",
+    "city": "Seattle",
+    "state_code": "WA",
+    "slug_id": "Magnolia_Seattle_WA",
+    "centroid": {
+     "lat": 47.650524,
+     "lon": -122.401228
+    }
+   },
+   {
+    "id": "a0053843-3d15-5288-bc51-51613fbdb41d",
+    "name": "Lawton Park",
+    "level": "neighborhood",
+    "geo_type": "neighborhood",
+    "city": "Seattle",
+    "state_code": "WA",
+    "slug_id": "Lawton-Park_Seattle_WA",
+    "centroid": {
+     "lat": 47.658805,
+     "lon": -122.407604
+    }
+   }
+  ],
+  "parcel": null,
+  "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&key=AIzaSyAP_xs30yS0J4xp8O1ZKUrUttIXKklrwaM&location=3008%2031st%20Ave%20W%2C%20Seattle%2C%20WA%2098199&size=640x480&source=outdoor&signature=oS0pqVtWfm-VwsHJ-d4e44duuvg="
+ },
+ "hoa": {
+  "fee": 0
+ },
+ "source": {
+  "id": "SEWA",
+  "type": "mls",
+  "name": "NWMLS",
+  "listing_id": "2580209",
+  "disclaimer": {
+   "text": "©2026  Northwest Multiple Listing Service. All rights reserved.",
+   "href": null
+  },
+  "agents": [
+   {
+    "agent_name": null,
+    "agent_id": "54196",
+    "office_name": "Redfin",
+    "office_id": "3136"
+   },
+   {
+    "agent_name": null,
+    "agent_id": "63177",
+    "office_name": "Windermere Bellevue Commons",
+    "office_id": "6391"
+   }
+  ],
+  "raw": {
+   "status": "Sold",
+   "style": "Townhouse",
+   "tax_amount": 6167
+  }
+ },
+ "primary_photo": {
+  "href": "https://ap.rdcpix.com/23ebfc8b30760814844448d19da6f278l-m968368379s.jpg"
+ },
+ "photos": [
+  {
+   "href": "https://ap.rdcpix.com/23ebfc8b30760814844448d19da6f278l-m968368379s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "exterior",
+     "probability": 0.9942649006843567
+    },
+    {
+     "label": "exterior",
+     "probability": 0.8875616788864136
+    },
+    {
+     "label": "exterior",
+     "probability": 0.7577136754989624
+    },
+    {
+     "label": "exterior",
+     "probability": 0.9707680940628052
+    }
+   ]
+  },
+  {
+   "href": "https://ap.rdcpix.com/23ebfc8b30760814844448d19da6f278l-m1725072986s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "exterior",
+     "probability": 0.9996117949485779
+    },
+    {
+     "label": "exterior",
+     "probability": 0.9821975231170654
+    }
+   ]
+  },
+  {
+   "href": "https://ap.rdcpix.com/23ebfc8b30760814844448d19da6f278l-m1812978034s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "living_room",
+     "probability": 0.9953342080116272
+    }
+   ]
+  },
+  {
+   "href": "https://ap.rdcpix.com/23ebfc8b30760814844448d19da6f278l-m4091863479s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "living_room",
+     "probability": 0.9999375343322754
+    }
+   ]
+  },
+  {
+   "href": "https://ap.rdcpix.com/23ebfc8b30760814844448d19da6f278l-m1345098254s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "living_room",
+     "probability": 0.9999997615814209
+    }
+   ]
+  },
+  {
+   "href": "https://ap.rdcpix.com/23ebfc8b30760814844448d19da6f278l-m2633294322s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "living_room",
+     "probability": 0.9999924898147583
+    }
+   ]
+  },
+  {
+   "href": "https://ap.rdcpix.com/23ebfc8b30760814844448d19da6f278l-m1468710598s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "kitchen",
+     "probability": 0.9999973773956299
+    }
+   ]
+  },
+  {
+   "href": "https://ap.rdcpix.com/23ebfc8b30760814844448d19da6f278l-m542898959s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "unknown",
+     "probability": 0.9939931035041809
+    }
+   ]
+  },
+  {
+   "href": "https://ap.rdcpix.com/23ebfc8b30760814844448d19da6f278l-m3691608351s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "kitchen",
+     "probability": 0.9999938011169434
+    }
+   ]
+  },
+  {
+   "href": "https://ap.rdcpix.com/23ebfc8b30760814844448d19da6f278l-m2576334395s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "kitchen",
+     "probability": 0.6049472689628601
+    }
+   ]
+  },
+  {
+   "href": "https://ap.rdcpix.com/23ebfc8b30760814844448d19da6f278l-m2953595438s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "bedroom",
+     "probability": 0.9999997615814209
+    }
+   ]
+  },
+  {
+   "href": "https://ap.rdcpix.com/23ebfc8b30760814844448d19da6f278l-m3247380830s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "bedroom",
+     "probability": 0.9999927282333374
+    }
+   ]
+  },
+  {
+   "href": "https://ap.rdcpix.com/23ebfc8b30760814844448d19da6f278l-m499149862s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "bathroom",
+     "probability": 0.9999998807907104
+    }
+   ]
+  },
+  {
+   "href": "https://ap.rdcpix.com/23ebfc8b30760814844448d19da6f278l-m3813419992s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "bedroom",
+     "probability": 0.9999606609344482
+    }
+   ]
+  },
+  {
+   "href": "https://ap.rdcpix.com/23ebfc8b30760814844448d19da6f278l-m2616263898s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "unknown",
+     "probability": 1
+    }
+   ]
+  },
+  {
+   "href": "https://ap.rdcpix.com/23ebfc8b30760814844448d19da6f278l-m2896524362s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "exterior",
+     "probability": 0.794392466545105
+    },
+    {
+     "label": "exterior",
+     "probability": 0.9994760155677795
+    }
+   ]
+  },
+  {
+   "href": "https://ap.rdcpix.com/23ebfc8b30760814844448d19da6f278l-m645250484s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "exterior",
+     "probability": 0.8028891086578369
+    },
+    {
+     "label": "exterior",
+     "probability": 0.9995583891868591
+    },
+    {
+     "label": "exterior",
+     "probability": 0.9969336986541748
+    },
+    {
+     "label": "exterior",
+     "probability": 0.9874030351638794
+    },
+    {
+     "label": "exterior",
+     "probability": 0.9788135290145874
+    }
+   ]
+  },
+  {
+   "href": "https://ap.rdcpix.com/23ebfc8b30760814844448d19da6f278l-m1707517199s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "exterior",
+     "probability": 0.998777449131012
+    },
+    {
+     "label": "exterior",
+     "probability": 0.6866645216941833
+    },
+    {
+     "label": "exterior",
+     "probability": 0.9228233098983765
+    }
+   ]
+  },
+  {
+   "href": "https://ap.rdcpix.com/23ebfc8b30760814844448d19da6f278l-m3738918910s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "exterior",
+     "probability": 0.9790889620780945
+    }
+   ]
+  },
+  {
+   "href": "https://ap.rdcpix.com/23ebfc8b30760814844448d19da6f278l-m671581700s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "exterior",
+     "probability": 0.9981397390365601
+    },
+    {
+     "label": "exterior",
+     "probability": 0.4973334074020386
+    }
+   ]
+  },
+  {
+   "href": "https://ap.rdcpix.com/23ebfc8b30760814844448d19da6f278l-m2447942952s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "exterior",
+     "probability": 0.9997525811195374
+    },
+    {
+     "label": "exterior",
+     "probability": 0.9018173217773438
+    }
+   ]
+  },
+  {
+   "href": "https://ap.rdcpix.com/23ebfc8b30760814844448d19da6f278l-m3699656518s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "exterior",
+     "probability": 0.998883068561554
+    }
+   ]
+  },
+  {
+   "href": "https://ap.rdcpix.com/23ebfc8b30760814844448d19da6f278l-m3892369029s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "exterior",
+     "probability": 0.9999279975891113
+    },
+    {
+     "label": "exterior",
+     "probability": 0.812881350517273
+    }
+   ]
+  },
+  {
+   "href": "https://ap.rdcpix.com/23ebfc8b30760814844448d19da6f278l-m3471073708s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "exterior",
+     "probability": 0.9990501999855042
+    },
+    {
+     "label": "exterior",
+     "probability": 0.5274685621261597
+    }
+   ]
+  },
+  {
+   "href": "https://ap.rdcpix.com/23ebfc8b30760814844448d19da6f278l-m944174214s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "exterior",
+     "probability": 0.9952507019042969
+    },
+    {
+     "label": "exterior",
+     "probability": 0.995284378528595
+    },
+    {
+     "label": "exterior",
+     "probability": 0.924789547920227
+    },
+    {
+     "label": "exterior",
+     "probability": 0.9810274839401245
+    },
+    {
+     "label": "exterior",
+     "probability": 0.9254137277603149
+    }
+   ]
+  },
+  {
+   "href": "https://ap.rdcpix.com/23ebfc8b30760814844448d19da6f278l-m3901065478s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "unknown",
+     "probability": 0.9999997615814209
+    }
+   ]
+  }
+ ],
+ "virtual_tours": null,
+ "matterport": {
+  "videos": [
+   {
+    "href": "https://my.matterport.com/show/?m=DRqTMAMQw3p&mls=1"
+   }
+  ]
+ },
+ "advertisers": [
+  {
+   "fulfillment_id": "0",
+   "name": "Kenny Whiteside",
+   "email": null,
+   "type": "seller",
+   "href": null,
+   "slogan": null,
+   "state_license": "20057",
+   "nrds_id": null,
+   "mls_set": "A-SEWA-54196",
+   "phones": [
+    {
+     "number": "4254187628",
+     "type": null,
+     "primary": true,
+     "ext": null
+    }
+   ],
+   "photo": null,
+   "office": {
+    "name": "Redfin",
+    "email": "aaron.wood@redfin.com",
+    "href": null,
+    "phones": [
+     {
+      "number": "4254187628",
+      "type": "Office"
+     }
+    ],
+    "address": null
+   },
+   "broker": null,
+   "builder": null
+  }
+ ],
+ "consumer_advertisers": [
+  {
+   "type": "Office",
+   "name": null,
+   "href": null,
+   "agent_id": null,
+   "office_id": null,
+   "phone": null
+  }
+ ],
+ "property_history": [
+  {
+   "date": "2026-11-06",
+   "event_name": "Sold",
+   "price": 639000,
+   "price_change": -10000,
+   "price_sqft": 726.1363636363636,
+   "price_change_percentage": "-1.54%",
+   "days_after_listed": "51 days",
+   "source_name": "NWMLS",
+   "source_listing_id": "2580209",
+   "listing": {
+    "listing_id": "3000810966",
+    "status": "sold",
+    "list_price": 649000,
+    "list_date": "2026-09-16T21:17:15Z",
+    "last_status_change_date": "2026-11-06T21:45:13Z",
+    "last_update_date": "2026-11-06T13:40:36Z",
+    "photos": [
+     {
+      "href": "https://ap.rdcpix.com/23ebfc8b30760814844448d19da6f278l-m968368379s.jpg"
+     },
+     {
+      "href": "https://ap.rdcpix.com/23ebfc8b30760814844448d19da6f278l-m1725072986s.jpg"
+     },
+     {
+      "href": "https://ap.rdcpix.com/23ebfc8b30760814844448d19da6f278l-m1812978034s.jpg"
+     },
+     {
+      "href": "https://ap.rdcpix.com/23ebfc8b30760814844448d19da6f278l-m4091863479s.jpg"
+     },
+     {
+      "href": "https://ap.rdcpix.com/23ebfc8b30760814844448d19da6f278l-m1345098254s.jpg"
+     },
+     {
+      "href": "https://ap.rdcpix.com/23ebfc8b30760814844448d19da6f278l-m2633294322s.jpg"
+     },
+     {
+      "href": "https://ap.rdcpix.com/23ebfc8b30760814844448d19da6f278l-m1468710598s.jpg"
+     },
+     {
+      "href": "https://ap.rdcpix.com/23ebfc8b30760814844448d19da6f278l-m542898959s.jpg"
+     },
+     {
+      "href": "https://ap.rdcpix.com/23ebfc8b30760814844448d19da6f278l-m3691608351s.jpg"
+     },
+     {
+      "href": "https://ap.rdcpix.com/23ebfc8b30760814844448d19da6f278l-m2576334395s.jpg"
+     },
+     {
+      "href": "https://ap.rdcpix.com/23ebfc8b30760814844448d19da6f278l-m2953595438s.jpg"
+     },
+     {
+      "href": "https://ap.rdcpix.com/23ebfc8b30760814844448d19da6f278l-m3247380830s.jpg"
+     },
+     {
+      "href": "https://ap.rdcpix.com/23ebfc8b30760814844448d19da6f278l-m499149862s.jpg"
+     },
+     {
+      "href": "https://ap.rdcpix.com/23ebfc8b30760814844448d19da6f278l-m3813419992s.jpg"
+     },
+     {
+      "href": "https://ap.rdcpix.com/23ebfc8b30760814844448d19da6f278l-m2616263898s.jpg"
+     },
+     {
+      "href": "https://ap.rdcpix.com/23ebfc8b30760814844448d19da6f278l-m2896524362s.jpg"
+     },
+     {
+      "href": "https://ap.rdcpix.com/23ebfc8b30760814844448d19da6f278l-m645250484s.jpg"
+     },
+     {
+      "href": "https://ap.rdcpix.com/23ebfc8b30760814844448d19da6f278l-m1707517199s.jpg"
+     },
+     {
+      "href": "https://ap.rdcpix.com/23ebfc8b30760814844448d19da6f278l-m3738918910s.jpg"
+     },
+     {
+      "href": "https://ap.rdcpix.com/23ebfc8b30760814844448d19da6f278l-m671581700s.jpg"
+     },
+     {
+      "href": "https://ap.rdcpix.com/23ebfc8b30760814844448d19da6f278l-m2447942952s.jpg"
+     },
+     {
+      "href": "https://ap.rdcpix.com/23ebfc8b30760814844448d19da6f278l-m3699656518s.jpg"
+     },
+     {
+      "href": "https://ap.rdcpix.com/23ebfc8b30760814844448d19da6f278l-m3892369029s.jpg"
+     },
+     {
+      "href": "https://ap.rdcpix.com/23ebfc8b30760814844448d19da6f278l-m3471073708s.jpg"
+     },
+     {
+      "href": "https://ap.rdcpix.com/23ebfc8b30760814844448d19da6f278l-m944174214s.jpg"
+     },
+     {
+      "href": "https://ap.rdcpix.com/23ebfc8b30760814844448d19da6f278l-m3901065478s.jpg"
+     }
+    ],
+    "description": {
+     "sqft": 880
+    }
+   }
+  },
+  {
+   "date": "2026-09-16",
+   "event_name": "Listed",
+   "price": 649000,
+   "price_change": 0,
+   "price_sqft": 737.5,
+   "price_change_percentage": null,
+   "days_after_listed": null,
+   "source_name": "NWMLS",
+   "source_listing_id": "2580209",
+   "listing": {
+    "listing_id": "3000810966",
+    "status": "sold",
+    "list_price": 649000,
+    "list_date": "2026-09-16T21:17:15Z",
+    "last_status_change_date": "2026-11-06T21:45:13Z",
+    "last_update_date": "2026-11-06T13:40:36Z",
+    "photos": [
+     {
+      "href": "https://ap.rdcpix.com/23ebfc8b30760814844448d19da6f278l-m968368379s.jpg"
+     },
+     {
+      "href": "https://ap.rdcpix.com/23ebfc8b30760814844448d19da6f278l-m1725072986s.jpg"
+     },
+     {
+      "href": "https://ap.rdcpix.com/23ebfc8b30760814844448d19da6f278l-m1812978034s.jpg"
+     },
+     {
+      "href": "https://ap.rdcpix.com/23ebfc8b30760814844448d19da6f278l-m4091863479s.jpg"
+     },
+     {
+      "href": "https://ap.rdcpix.com/23ebfc8b30760814844448d19da6f278l-m1345098254s.jpg"
+     },
+     {
+      "href": "https://ap.rdcpix.com/23ebfc8b30760814844448d19da6f278l-m2633294322s.jpg"
+     },
+     {
+      "href": "https://ap.rdcpix.com/23ebfc8b30760814844448d19da6f278l-m1468710598s.jpg"
+     },
+     {
+      "href": "https://ap.rdcpix.com/23ebfc8b30760814844448d19da6f278l-m542898959s.jpg"
+     },
+     {
+      "href": "https://ap.rdcpix.com/23ebfc8b30760814844448d19da6f278l-m3691608351s.jpg"
+     },
+     {
+      "href": "https://ap.rdcpix.com/23ebfc8b30760814844448d19da6f278l-m2576334395s.jpg"
+     },
+     {
+      "href": "https://ap.rdcpix.com/23ebfc8b30760814844448d19da6f278l-m2953595438s.jpg"
+     },
+     {
+      "href": "https://ap.rdcpix.com/23ebfc8b30760814844448d19da6f278l-m3247380830s.jpg"
+     },
+     {
+      "href": "https://ap.rdcpix.com/23ebfc8b30760814844448d19da6f278l-m499149862s.jpg"
+     },
+     {
+      "href": "https://ap.rdcpix.com/23ebfc8b30760814844448d19da6f278l-m3813419992s.jpg"
+     },
+     {
+      "href": "https://ap.rdcpix.com/23ebfc8b30760814844448d19da6f278l-m2616263898s.jpg"
+     },
+     {
+      "href": "https://ap.rdcpix.com/23ebfc8b30760814844448d19da6f278l-m2896524362s.jpg"
+     },
+     {
+      "href": "https://ap.rdcpix.com/23ebfc8b30760814844448d19da6f278l-m645250484s.jpg"
+     },
+     {
+      "href": "https://ap.rdcpix.com/23ebfc8b30760814844448d19da6f278l-m1707517199s.jpg"
+     },
+     {
+      "href": "https://ap.rdcpix.com/23ebfc8b30760814844448d19da6f278l-m3738918910s.jpg"
+     },
+     {
+      "href": "https://ap.rdcpix.com/23ebfc8b30760814844448d19da6f278l-m671581700s.jpg"
+     },
+     {
+      "href": "https://ap.rdcpix.com/23ebfc8b30760814844448d19da6f278l-m2447942952s.jpg"
+     },
+     {
+      "href": "https://ap.rdcpix.com/23ebfc8b30760814844448d19da6f278l-m3699656518s.jpg"
+     },
+     {
+      "href": "https://ap.rdcpix.com/23ebfc8b30760814844448d19da6f278l-m3892369029s.jpg"
+     },
+     {
+      "href": "https://ap.rdcpix.com/23ebfc8b30760814844448d19da6f278l-m3471073708s.jpg"
+     },
+     {
+      "href": "https://ap.rdcpix.com/23ebfc8b30760814844448d19da6f278l-m944174214s.jpg"
+     },
+     {
+      "href": "https://ap.rdcpix.com/23ebfc8b30760814844448d19da6f278l-m3901065478s.jpg"
+     }
+    ],
+    "description": {
+     "sqft": 880
+    }
+   }
+  },
+  {
+   "date": "2023-12-22",
+   "event_name": "Listing removed",
+   "price": 0,
+   "price_change": 0,
+   "price_sqft": null,
+   "price_change_percentage": null,
+   "days_after_listed": "119 days",
+   "source_name": "NWMLS",
+   "source_listing_id": "2154827",
+   "listing": null
+  },
+  {
+   "date": "2023-12-22",
+   "event_name": "Listing removed",
+   "price": 0,
+   "price_change": 0,
+   "price_sqft": null,
+   "price_change_percentage": null,
+   "days_after_listed": null,
+   "source_name": "NWMLS",
+   "source_listing_id": "2153113",
+   "listing": null
+  },
+  {
+   "date": "2023-10-18",
+   "event_name": "Price Changed",
+   "price": 675000,
+   "price_change": -24000,
+   "price_sqft": 767.0454545454545,
+   "price_change_percentage": null,
+   "days_after_listed": null,
+   "source_name": "NWMLS",
+   "source_listing_id": "2153113",
+   "listing": null
+  },
+  {
+   "date": "2023-10-18",
+   "event_name": "Price Changed",
+   "price": 675000,
+   "price_change": -24000,
+   "price_sqft": 767.0454545454545,
+   "price_change_percentage": null,
+   "days_after_listed": null,
+   "source_name": "NWMLS",
+   "source_listing_id": "2154827",
+   "listing": null
+  },
+  {
+   "date": "2023-09-07",
+   "event_name": "Price Changed",
+   "price": 699000,
+   "price_change": -16000,
+   "price_sqft": 794.3181818181819,
+   "price_change_percentage": null,
+   "days_after_listed": null,
+   "source_name": "NWMLS",
+   "source_listing_id": "2154827",
+   "listing": null
+  },
+  {
+   "date": "2023-09-07",
+   "event_name": "Price Changed",
+   "price": 699000,
+   "price_change": -16000,
+   "price_sqft": 794.3181818181819,
+   "price_change_percentage": null,
+   "days_after_listed": null,
+   "source_name": "NWMLS",
+   "source_listing_id": "2153113",
+   "listing": null
+  },
+  {
+   "date": "2023-08-25",
+   "event_name": "Listed",
+   "price": 715000,
+   "price_change": 0,
+   "price_sqft": 812.5,
+   "price_change_percentage": null,
+   "days_after_listed": null,
+   "source_name": "NWMLS",
+   "source_listing_id": "2154827",
+   "listing": null
+  },
+  {
+   "date": "2023-08-24",
+   "event_name": "Listed",
+   "price": 715000,
+   "price_change": 0,
+   "price_sqft": 812.5,
+   "price_change_percentage": "+40.20%",
+   "days_after_listed": null,
+   "source_name": "NWMLS",
+   "source_listing_id": "2153113",
+   "listing": null
+  },
+  {
+   "date": "2017-06-23",
+   "event_name": "Sold",
+   "price": 510000,
+   "price_change": 0,
+   "price_sqft": 579.5454545454545,
+   "price_change_percentage": "+2.20%",
+   "days_after_listed": "44 days",
+   "source_name": "NWMLS",
+   "source_listing_id": "1121701",
+   "listing": {
+    "listing_id": "604980908",
+    "status": "sold",
+    "list_price": 499000,
+    "list_date": "2017-05-10T07:00:00Z",
+    "last_status_change_date": "2017-06-23T07:00:00Z",
+    "last_update_date": "2017-06-23T07:00:00Z",
+    "photos": [
+     {
+      "href": "https://ap.rdcpix.com/953103065/25486a654231bed036a883f28f36df74l-m0s.jpg"
+     },
+     {
+      "href": "https://ap.rdcpix.com/1463292889/25486a654231bed036a883f28f36df74l-m1s.jpg"
+     },
+     {
+      "href": "https://ap.rdcpix.com/1931017558/25486a654231bed036a883f28f36df74l-m2s.jpg"
+     },
+     {
+      "href": "https://ap.rdcpix.com/1356222349/25486a654231bed036a883f28f36df74l-m3s.jpg"
+     },
+     {
+      "href": "https://ap.rdcpix.com/1595702687/25486a654231bed036a883f28f36df74l-m4s.jpg"
+     },
+     {
+      "href": "https://ap.rdcpix.com/1507303981/25486a654231bed036a883f28f36df74l-m5s.jpg"
+     },
+     {
+      "href": "https://ap.rdcpix.com/410399132/25486a654231bed036a883f28f36df74l-m6s.jpg"
+     },
+     {
+      "href": "https://ap.rdcpix.com/1207778755/25486a654231bed036a883f28f36df74l-m7s.jpg"
+     },
+     {
+      "href": "https://ap.rdcpix.com/1578129792/25486a654231bed036a883f28f36df74l-m8s.jpg"
+     },
+     {
+      "href": "https://ap.rdcpix.com/744130499/25486a654231bed036a883f28f36df74l-m9s.jpg"
+     }
+    ],
+    "description": {
+     "sqft": 880
+    }
+   }
+  },
+  {
+   "date": "2017-05-10",
+   "event_name": "Listed",
+   "price": 499000,
+   "price_change": 0,
+   "price_sqft": 567.0454545454545,
+   "price_change_percentage": null,
+   "days_after_listed": null,
+   "source_name": "NWMLS",
+   "source_listing_id": "1121701",
+   "listing": {
+    "listing_id": "604980908",
+    "status": "sold",
+    "list_price": 499000,
+    "list_date": "2017-05-10T07:00:00Z",
+    "last_status_change_date": "2017-06-23T07:00:00Z",
+    "last_update_date": "2017-06-23T07:00:00Z",
+    "photos": [
+     {
+      "href": "https://ap.rdcpix.com/953103065/25486a654231bed036a883f28f36df74l-m0s.jpg"
+     },
+     {
+      "href": "https://ap.rdcpix.com/1463292889/25486a654231bed036a883f28f36df74l-m1s.jpg"
+     },
+     {
+      "href": "https://ap.rdcpix.com/1931017558/25486a654231bed036a883f28f36df74l-m2s.jpg"
+     },
+     {
+      "href": "https://ap.rdcpix.com/1356222349/25486a654231bed036a883f28f36df74l-m3s.jpg"
+     },
+     {
+      "href": "https://ap.rdcpix.com/1595702687/25486a654231bed036a883f28f36df74l-m4s.jpg"
+     },
+     {
+      "href": "https://ap.rdcpix.com/1507303981/25486a654231bed036a883f28f36df74l-m5s.jpg"
+     },
+     {
+      "href": "https://ap.rdcpix.com/410399132/25486a654231bed036a883f28f36df74l-m6s.jpg"
+     },
+     {
+      "href": "https://ap.rdcpix.com/1207778755/25486a654231bed036a883f28f36df74l-m7s.jpg"
+     },
+     {
+      "href": "https://ap.rdcpix.com/1578129792/25486a654231bed036a883f28f36df74l-m8s.jpg"
+     },
+     {
+      "href": "https://ap.rdcpix.com/744130499/25486a654231bed036a883f28f36df74l-m9s.jpg"
+     }
+    ],
+    "description": {
+     "sqft": 880
+    }
+   }
+  },
+  {
+   "date": "2017-04-25",
+   "event_name": "Listing removed",
+   "price": 539500,
+   "price_change": 0,
+   "price_sqft": 613.0681818181819,
+   "price_change_percentage": null,
+   "days_after_listed": "11 days",
+   "source_name": "NWMLS",
+   "source_listing_id": "1105461",
+   "listing": null
+  },
+  {
+   "date": "2017-04-14",
+   "event_name": "Listed",
+   "price": 539500,
+   "price_change": 0,
+   "price_sqft": 613.0681818181819,
+   "price_change_percentage": "+34.88%",
+   "days_after_listed": null,
+   "source_name": "NWMLS",
+   "source_listing_id": "1105461",
+   "listing": null
+  },
+  {
+   "date": "2015-06-19",
+   "event_name": "Sold",
+   "price": 400000,
+   "price_change": 0,
+   "price_sqft": 404.04040404040404,
+   "price_change_percentage": "-1.23%",
+   "days_after_listed": "68 days",
+   "source_name": "NWMLS",
+   "source_listing_id": "770156",
+   "listing": {
+    "listing_id": "585115752",
+    "status": "sold",
+    "list_price": 395000,
+    "list_date": "2015-04-12T07:00:00Z",
+    "last_status_change_date": "2015-06-19T07:00:00Z",
+    "last_update_date": "2015-06-19T07:00:00Z",
+    "photos": [
+     {
+      "href": "https://p.rdcpix.com/v01/l704e2c45-m0s.jpg"
+     },
+     {
+      "href": "https://p.rdcpix.com/v01/l704e2c45-m1s.jpg"
+     },
+     {
+      "href": "https://p.rdcpix.com/v01/l704e2c45-m2s.jpg"
+     },
+     {
+      "href": "https://p.rdcpix.com/v01/l704e2c45-m3s.jpg"
+     },
+     {
+      "href": "https://p.rdcpix.com/v01/l704e2c45-m4s.jpg"
+     },
+     {
+      "href": "https://p.rdcpix.com/v01/l704e2c45-m5s.jpg"
+     },
+     {
+      "href": "https://p.rdcpix.com/v01/l704e2c45-m6s.jpg"
+     },
+     {
+      "href": "https://p.rdcpix.com/v01/l704e2c45-m7s.jpg"
+     },
+     {
+      "href": "https://p.rdcpix.com/v01/l704e2c45-m8s.jpg"
+     },
+     {
+      "href": "https://p.rdcpix.com/v01/l704e2c45-m9s.jpg"
+     },
+     {
+      "href": "https://p.rdcpix.com/v01/l704e2c45-m10s.jpg"
+     },
+     {
+      "href": "https://p.rdcpix.com/v01/l704e2c45-m11s.jpg"
+     },
+     {
+      "href": "https://p.rdcpix.com/v01/l704e2c45-m12s.jpg"
+     },
+     {
+      "href": "https://p.rdcpix.com/v01/l704e2c45-m13s.jpg"
+     },
+     {
+      "href": "https://p.rdcpix.com/v01/l704e2c45-m14s.jpg"
+     },
+     {
+      "href": "https://p.rdcpix.com/v01/l704e2c45-m15s.jpg"
+     },
+     {
+      "href": "https://p.rdcpix.com/v01/l704e2c45-m16s.jpg"
+     },
+     {
+      "href": "https://p.rdcpix.com/v01/l704e2c45-m17s.jpg"
+     },
+     {
+      "href": "https://p.rdcpix.com/v01/l704e2c45-m18s.jpg"
+     },
+     {
+      "href": "https://p.rdcpix.com/v01/l704e2c45-m19s.jpg"
+     }
+    ],
+    "description": {
+     "sqft": 990
+    }
+   }
+  },
+  {
+   "date": "2015-04-28",
+   "event_name": "Price Changed",
+   "price": 395000,
+   "price_change": -10000,
+   "price_sqft": 398.989898989899,
+   "price_change_percentage": null,
+   "days_after_listed": null,
+   "source_name": "NWMLS",
+   "source_listing_id": "770156",
+   "listing": {
+    "listing_id": "585115752",
+    "status": "sold",
+    "list_price": 395000,
+    "list_date": "2015-04-12T07:00:00Z",
+    "last_status_change_date": "2015-06-19T07:00:00Z",
+    "last_update_date": "2015-06-19T07:00:00Z",
+    "photos": [
+     {
+      "href": "https://p.rdcpix.com/v01/l704e2c45-m0s.jpg"
+     },
+     {
+      "href": "https://p.rdcpix.com/v01/l704e2c45-m1s.jpg"
+     },
+     {
+      "href": "https://p.rdcpix.com/v01/l704e2c45-m2s.jpg"
+     },
+     {
+      "href": "https://p.rdcpix.com/v01/l704e2c45-m3s.jpg"
+     },
+     {
+      "href": "https://p.rdcpix.com/v01/l704e2c45-m4s.jpg"
+     },
+     {
+      "href": "https://p.rdcpix.com/v01/l704e2c45-m5s.jpg"
+     },
+     {
+      "href": "https://p.rdcpix.com/v01/l704e2c45-m6s.jpg"
+     },
+     {
+      "href": "https://p.rdcpix.com/v01/l704e2c45-m7s.jpg"
+     },
+     {
+      "href": "https://p.rdcpix.com/v01/l704e2c45-m8s.jpg"
+     },
+     {
+      "href": "https://p.rdcpix.com/v01/l704e2c45-m9s.jpg"
+     },
+     {
+      "href": "https://p.rdcpix.com/v01/l704e2c45-m10s.jpg"
+     },
+     {
+      "href": "https://p.rdcpix.com/v01/l704e2c45-m11s.jpg"
+     },
+     {
+      "href": "https://p.rdcpix.com/v01/l704e2c45-m12s.jpg"
+     },
+     {
+      "href": "https://p.rdcpix.com/v01/l704e2c45-m13s.jpg"
+     },
+     {
+      "href": "https://p.rdcpix.com/v01/l704e2c45-m14s.jpg"
+     },
+     {
+      "href": "https://p.rdcpix.com/v01/l704e2c45-m15s.jpg"
+     },
+     {
+      "href": "https://p.rdcpix.com/v01/l704e2c45-m16s.jpg"
+     },
+     {
+      "href": "https://p.rdcpix.com/v01/l704e2c45-m17s.jpg"
+     },
+     {
+      "href": "https://p.rdcpix.com/v01/l704e2c45-m18s.jpg"
+     },
+     {
+      "href": "https://p.rdcpix.com/v01/l704e2c45-m19s.jpg"
+     }
+    ],
+    "description": {
+     "sqft": 990
+    }
+   }
+  },
+  {
+   "date": "2015-04-12",
+   "event_name": "Listed",
+   "price": 405000,
+   "price_change": 0,
+   "price_sqft": 409.09090909090907,
+   "price_change_percentage": null,
+   "days_after_listed": null,
+   "source_name": "NWMLS",
+   "source_listing_id": "770156",
+   "listing": {
+    "listing_id": "585115752",
+    "status": "sold",
+    "list_price": 395000,
+    "list_date": "2015-04-12T07:00:00Z",
+    "last_status_change_date": "2015-06-19T07:00:00Z",
+    "last_update_date": "2015-06-19T07:00:00Z",
+    "photos": [
+     {
+      "href": "https://p.rdcpix.com/v01/l704e2c45-m0s.jpg"
+     },
+     {
+      "href": "https://p.rdcpix.com/v01/l704e2c45-m1s.jpg"
+     },
+     {
+      "href": "https://p.rdcpix.com/v01/l704e2c45-m2s.jpg"
+     },
+     {
+      "href": "https://p.rdcpix.com/v01/l704e2c45-m3s.jpg"
+     },
+     {
+      "href": "https://p.rdcpix.com/v01/l704e2c45-m4s.jpg"
+     },
+     {
+      "href": "https://p.rdcpix.com/v01/l704e2c45-m5s.jpg"
+     },
+     {
+      "href": "https://p.rdcpix.com/v01/l704e2c45-m6s.jpg"
+     },
+     {
+      "href": "https://p.rdcpix.com/v01/l704e2c45-m7s.jpg"
+     },
+     {
+      "href": "https://p.rdcpix.com/v01/l704e2c45-m8s.jpg"
+     },
+     {
+      "href": "https://p.rdcpix.com/v01/l704e2c45-m9s.jpg"
+     },
+     {
+      "href": "https://p.rdcpix.com/v01/l704e2c45-m10s.jpg"
+     },
+     {
+      "href": "https://p.rdcpix.com/v01/l704e2c45-m11s.jpg"
+     },
+     {
+      "href": "https://p.rdcpix.com/v01/l704e2c45-m12s.jpg"
+     },
+     {
+      "href": "https://p.rdcpix.com/v01/l704e2c45-m13s.jpg"
+     },
+     {
+      "href": "https://p.rdcpix.com/v01/l704e2c45-m14s.jpg"
+     },
+     {
+      "href": "https://p.rdcpix.com/v01/l704e2c45-m15s.jpg"
+     },
+     {
+      "href": "https://p.rdcpix.com/v01/l704e2c45-m16s.jpg"
+     },
+     {
+      "href": "https://p.rdcpix.com/v01/l704e2c45-m17s.jpg"
+     },
+     {
+      "href": "https://p.rdcpix.com/v01/l704e2c45-m18s.jpg"
+     },
+     {
+      "href": "https://p.rdcpix.com/v01/l704e2c45-m19s.jpg"
+     }
+    ],
+    "description": {
+     "sqft": 990
+    }
+   }
+  },
+  {
+   "date": "2013-05-07",
+   "event_name": "Listing removed",
+   "price": 1395,
+   "price_change": 0,
+   "price_sqft": 1.4090909090909092,
+   "price_change_percentage": null,
+   "days_after_listed": null,
+   "source_name": "NWMLS",
+   "source_listing_id": "475797",
+   "listing": null
+  },
+  {
+   "date": "2013-04-20",
+   "event_name": "Listed for rent",
+   "price": 1395,
+   "price_change": 0,
+   "price_sqft": 1.4090909090909092,
+   "price_change_percentage": null,
+   "days_after_listed": null,
+   "source_name": "NWMLS",
+   "source_listing_id": "475797",
+   "listing": null
+  },
+  {
+   "date": "2009-10-18",
+   "event_name": "Listing removed",
+   "price": 985,
+   "price_change": 0,
+   "price_sqft": null,
+   "price_change_percentage": null,
+   "days_after_listed": null,
+   "source_name": "NWMLS",
+   "source_listing_id": "29131781",
+   "listing": null
+  },
+  {
+   "date": "2009-09-15",
+   "event_name": "Listed for rent",
+   "price": 985,
+   "price_change": 0,
+   "price_sqft": null,
+   "price_change_percentage": null,
+   "days_after_listed": null,
+   "source_name": "NWMLS",
+   "source_listing_id": "29131781",
+   "listing": null
+  }
+ ],
+ "tax_history": [
+  {
+   "year": 2026,
+   "tax": 6540,
+   "assessment": {
+    "building": 268000,
+    "land": 365000,
+    "total": 633000
+   },
+   "market": {
+    "building": 268000,
+    "land": 365000,
+    "total": 633000
+   }
+  },
+  {
+   "year": 2025,
+   "tax": 6175,
+   "assessment": {
+    "building": 268000,
+    "land": 365000,
+    "total": 633000
+   },
+   "market": {
+    "building": 268000,
+    "land": 365000,
+    "total": 633000
+   }
+  },
+  {
+   "year": 2024,
+   "tax": 4648,
+   "assessment": {
+    "building": 279000,
+    "land": 365000,
+    "total": 644000
+   },
+   "market": {
+    "building": 279000,
+    "land": 365000,
+    "total": 644000
+   }
+  },
+  {
+   "year": 2023,
+   "tax": 4529,
+   "assessment": {
+    "building": 233000,
+    "land": 296000,
+    "total": 529000
+   },
+   "market": {
+    "building": 233000,
+    "land": 296000,
+    "total": 529000
+   }
+  },
+  {
+   "year": 2022,
+   "tax": 4512,
+   "assessment": {
+    "building": 238000,
+    "land": 248000,
+    "total": 486000
+   },
+   "market": {
+    "building": 238000,
+    "land": 248000,
+    "total": 486000
+   }
+  },
+  {
+   "year": 2021,
+   "tax": 4393,
+   "assessment": {
+    "building": 222000,
+    "land": 227000,
+    "total": 449000
+   },
+   "market": {
+    "building": 222000,
+    "land": 227000,
+    "total": 449000
+   }
+  },
+  {
+   "year": 2020,
+   "tax": 4593,
+   "assessment": {
+    "building": 236000,
+    "land": 240000,
+    "total": 476000
+   },
+   "market": {
+    "building": 236000,
+    "land": 240000,
+    "total": 476000
+   }
+  },
+  {
+   "year": 2019,
+   "tax": 3995,
+   "assessment": {
+    "building": 231000,
+    "land": 229000,
+    "total": 460000
+   },
+   "market": {
+    "building": 231000,
+    "land": 229000,
+    "total": 460000
+   }
+  },
+  {
+   "year": 2018,
+   "tax": 3719,
+   "assessment": {
+    "building": 200000,
+    "land": 171000,
+    "total": 371000
+   },
+   "market": {
+    "building": 200000,
+    "land": 171000,
+    "total": 371000
+   }
+  },
+  {
+   "year": 2017,
+   "tax": 3278,
+   "assessment": {
+    "building": 182000,
+    "land": 156000,
+    "total": 338000
+   },
+   "market": {
+    "building": 182000,
+    "land": 156000,
+    "total": 338000
+   }
+  },
+  {
+   "year": 2016,
+   "tax": 2690,
+   "assessment": {
+    "building": 127000,
+    "land": 142000,
+    "total": 269000
+   },
+   "market": {
+    "building": 127000,
+    "land": 142000,
+    "total": 269000
+   }
+  }
+ ],
+ "tax_record": {
+  "apn": null,
+  "tax_parcel_id": "c2658999-8157-47e1-a146-d4721da89d9a"
+ },
+ "estimates": {
+  "current_values": [
+   {
+    "estimate": 640845,
+    "estimate_high": 666478,
+    "estimate_low": 615211,
+    "date": "2026-10-28",
+    "isbest_homevalue": true,
+    "source": {
+     "type": "quantarium",
+     "name": "Quantarium"
+    }
+   },
+   {
+    "estimate": 640600,
+    "estimate_high": 686800,
+    "estimate_low": 594400,
+    "date": "2026-10-05",
+    "isbest_homevalue": false,
+    "source": {
+     "type": "corelogic",
+     "name": "Cotality™"
+    }
+   },
+   {
+    "estimate": 643000,
+    "estimate_high": 713700,
+    "estimate_low": 572300,
+    "date": "2026-10-14",
+    "isbest_homevalue": false,
+    "source": {
+     "type": "collateral",
+     "name": "Collateral Analytics"
+    }
+   }
+  ],
+  "forecast_values": [
+   {
+    "source": {
+     "type": "quantarium",
+     "name": "Quantarium"
+    },
+    "estimates": [
+     {
+      "estimate": 641445,
+      "date": "2026-11-01"
+     },
+     {
+      "estimate": 644732,
+      "date": "2026-12-01"
+     },
+     {
+      "estimate": 649234,
+      "date": "2027-01-01"
+     },
+     {
+      "estimate": 653513,
+      "date": "2027-02-01"
+     },
+     {
+      "estimate": 656583,
+      "date": "2027-03-01"
+     },
+     {
+      "estimate": 658077,
+      "date": "2027-04-01"
+     },
+     {
+      "estimate": 658193,
+      "date": "2027-05-01"
+     },
+     {
+      "estimate": 657480,
+      "date": "2027-06-01"
+     },
+     {
+      "estimate": 656585,
+      "date": "2027-07-01"
+     },
+     {
+      "estimate": 656033,
+      "date": "2027-08-01"
+     },
+     {
+      "estimate": 656106,
+      "date": "2027-09-01"
+     },
+     {
+      "estimate": 656827,
+      "date": "2027-10-01"
+     }
+    ]
+   },
+   {
+    "source": {
+     "type": "corelogic",
+     "name": "Cotality™"
+    },
+    "estimates": [
+     {
+      "estimate": 636204,
+      "date": "2026-11-01"
+     },
+     {
+      "estimate": 634068,
+      "date": "2026-12-01"
+     },
+     {
+      "estimate": 635058,
+      "date": "2027-01-01"
+     },
+     {
+      "estimate": 642346,
+      "date": "2027-02-01"
+     },
+     {
+      "estimate": 657257,
+      "date": "2027-03-01"
+     },
+     {
+      "estimate": 667423,
+      "date": "2027-04-01"
+     },
+     {
+      "estimate": 671264,
+      "date": "2027-05-01"
+     },
+     {
+      "estimate": 668545,
+      "date": "2027-06-01"
+     },
+     {
+      "estimate": 663481,
+      "date": "2027-07-01"
+     },
+     {
+      "estimate": 657092,
+      "date": "2027-08-01"
+     },
+     {
+      "estimate": 651503,
+      "date": "2027-09-01"
+     },
+     {
+      "estimate": 646038,
+      "date": "2027-10-01"
+     }
+    ]
+   }
+  ],
+  "historical_values": [
+   {
+    "source": {
+     "type": "corelogic",
+     "name": "Cotality™"
+    },
+    "estimates": [
+     {
+      "estimate": 640600,
+      "date": "2026-10-05"
+     },
+     {
+      "estimate": 632100,
+      "date": "2026-09-08"
+     },
+     {
+      "estimate": 642100,
+      "date": "2026-08-10"
+     },
+     {
+      "estimate": 671700,
+      "date": "2026-07-06"
+     },
+     {
+      "estimate": 677000,
+      "date": "2026-06-08"
+     },
+     {
+      "estimate": 661400,
+      "date": "2026-05-05"
+     },
+     {
+      "estimate": 653200,
+      "date": "2026-04-13"
+     },
+     {
+      "estimate": 647300,
+      "date": "2026-03-09"
+     },
+     {
+      "estimate": 661400,
+      "date": "2026-02-09"
+     },
+     {
+      "estimate": 660000,
+      "date": "2026-01-05"
+     },
+     {
+      "estimate": 643200,
+      "date": "2025-12-08"
+     },
+     {
+      "estimate": 643200,
+      "date": "2025-11-10"
+     },
+     {
+      "estimate": 675200,
+      "date": "2025-10-06"
+     },
+     {
+      "estimate": 693400,
+      "date": "2025-09-08"
+     },
+     {
+      "estimate": 700900,
+      "date": "2025-08-11"
+     },
+     {
+      "estimate": 692500,
+      "date": "2025-07-07"
+     },
+     {
+      "estimate": 696600,
+      "date": "2025-06-09"
+     },
+     {
+      "estimate": 644300,
+      "date": "2025-05-05"
+     },
+     {
+      "estimate": 650600,
+      "date": "2025-04-07"
+     },
+     {
+      "estimate": 671900,
+      "date": "2025-03-10"
+     },
+     {
+      "estimate": 659000,
+      "date": "2025-02-10"
+     },
+     {
+      "estimate": 651100,
+      "date": "2025-01-06"
+     },
+     {
+      "estimate": 635500,
+      "date": "2024-12-09"
+     },
+     {
+      "estimate": 640100,
+      "date": "2024-11-04"
+     },
+     {
+      "estimate": 636500,
+      "date": "2024-10-07"
+     },
+     {
+      "estimate": 670600,
+      "date": "2024-09-09"
+     },
+     {
+      "estimate": 667700,
+      "date": "2024-08-05"
+     },
+     {
+      "estimate": 712800,
+      "date": "2024-07-08"
+     },
+     {
+      "estimate": 710600,
+      "date": "2024-06-10"
+     },
+     {
+      "estimate": 732600,
+      "date": "2024-05-06"
+     },
+     {
+      "estimate": 713700,
+      "date": "2024-04-01"
+     },
+     {
+      "estimate": 713300,
+      "date": "2024-03-04"
+     },
+     {
+      "estimate": 709100,
+      "date": "2024-02-05"
+     },
+     {
+      "estimate": 712600,
+      "date": "2024-01-08"
+     },
+     {
+      "estimate": 658000,
+      "date": "2023-12-04"
+     },
+     {
+      "estimate": 673800,
+      "date": "2023-11-06"
+     },
+     {
+      "estimate": 701300,
+      "date": "2023-10-09"
+     },
+     {
+      "estimate": 692000,
+      "date": "2023-09-28"
+     },
+     {
+      "estimate": 744400,
+      "date": "2023-08-30"
+     },
+     {
+      "estimate": 738400,
+      "date": "2023-07-29"
+     },
+     {
+      "estimate": 752500,
+      "date": "2023-06-25"
+     },
+     {
+      "estimate": 748200,
+      "date": "2023-05-26"
+     },
+     {
+      "estimate": 753700,
+      "date": "2023-04-24"
+     },
+     {
+      "estimate": 749100,
+      "date": "2023-03-31"
+     },
+     {
+      "estimate": 733700,
+      "date": "2023-02-24"
+     },
+     {
+      "estimate": 615300,
+      "date": "2023-01-30"
+     },
+     {
+      "estimate": 711900,
+      "date": "2022-12-27"
+     },
+     {
+      "estimate": 681300,
+      "date": "2022-11-23"
+     },
+     {
+      "estimate": 719300,
+      "date": "2022-10-20"
+     },
+     {
+      "estimate": 709000,
+      "date": "2022-09-25"
+     },
+     {
+      "estimate": 734200,
+      "date": "2022-08-29"
+     },
+     {
+      "estimate": 730600,
+      "date": "2022-07-25"
+     },
+     {
+      "estimate": 740700,
+      "date": "2022-06-30"
+     },
+     {
+      "estimate": 738000,
+      "date": "2022-05-30"
+     },
+     {
+      "estimate": 743800,
+      "date": "2022-04-28"
+     },
+     {
+      "estimate": 680400,
+      "date": "2022-03-27"
+     },
+     {
+      "estimate": 697200,
+      "date": "2022-02-22"
+     },
+     {
+      "estimate": 696500,
+      "date": "2022-01-22"
+     },
+     {
+      "estimate": 678900,
+      "date": "2021-12-31"
+     },
+     {
+      "estimate": 705900,
+      "date": "2021-11-23"
+     }
+    ]
+   },
+   {
+    "source": {
+     "type": "collateral",
+     "name": "Collateral Analytics"
+    },
+    "estimates": [
+     {
+      "estimate": 643000,
+      "date": "2026-10-14"
+     },
+     {
+      "estimate": 542000,
+      "date": "2026-09-15"
+     },
+     {
+      "estimate": 548000,
+      "date": "2026-08-13"
+     },
+     {
+      "estimate": 553000,
+      "date": "2026-07-14"
+     },
+     {
+      "estimate": 543000,
+      "date": "2026-06-14"
+     },
+     {
+      "estimate": 537000,
+      "date": "2026-05-15"
+     }
+    ]
+   },
+   {
+    "source": {
+     "type": "quantarium",
+     "name": "Quantarium"
+    },
+    "estimates": [
+     {
+      "estimate": 640845,
+      "date": "2026-10-28"
+     },
+     {
+      "estimate": 643673,
+      "date": "2026-09-30"
+     },
+     {
+      "estimate": 568333,
+      "date": "2026-08-26"
+     },
+     {
+      "estimate": 563828,
+      "date": "2026-07-29"
+     },
+     {
+      "estimate": 603704,
+      "date": "2026-06-24"
+     },
+     {
+      "estimate": 606805,
+      "date": "2026-05-27"
+     },
+     {
+      "estimate": 572583,
+      "date": "2026-04-29"
+     },
+     {
+      "estimate": 614658,
+      "date": "2026-03-25"
+     },
+     {
+      "estimate": 609235,
+      "date": "2026-02-25"
+     },
+     {
+      "estimate": 549492,
+      "date": "2026-01-28"
+     },
+     {
+      "estimate": 565957,
+      "date": "2025-12-31"
+     },
+     {
+      "estimate": 579153,
+      "date": "2025-11-26"
+     },
+     {
+      "estimate": 615163,
+      "date": "2025-10-29"
+     },
+     {
+      "estimate": 596559,
+      "date": "2025-09-24"
+     },
+     {
+      "estimate": 593841,
+      "date": "2025-08-27"
+     },
+     {
+      "estimate": 598693,
+      "date": "2025-07-30"
+     },
+     {
+      "estimate": 605710,
+      "date": "2025-06-25"
+     },
+     {
+      "estimate": 602557,
+      "date": "2025-05-28"
+     },
+     {
+      "estimate": 598281,
+      "date": "2025-04-30"
+     },
+     {
+      "estimate": 610777,
+      "date": "2025-03-26"
+     },
+     {
+      "estimate": 648489,
+      "date": "2025-02-12"
+     },
+     {
+      "estimate": 591213,
+      "date": "2025-01-29"
+     },
+     {
+      "estimate": 606998,
+      "date": "2024-12-18"
+     },
+     {
+      "estimate": 599854,
+      "date": "2024-11-27"
+     },
+     {
+      "estimate": 643228,
+      "date": "2024-10-30"
+     },
+     {
+      "estimate": 610216,
+      "date": "2024-09-25"
+     },
+     {
+      "estimate": 649516,
+      "date": "2024-08-28"
+     },
+     {
+      "estimate": 605149,
+      "date": "2024-07-31"
+     },
+     {
+      "estimate": 658169,
+      "date": "2024-06-26"
+     },
+     {
+      "estimate": 633417,
+      "date": "2024-05-29"
+     },
+     {
+      "estimate": 657163,
+      "date": "2024-04-24"
+     },
+     {
+      "estimate": 674416,
+      "date": "2024-03-27"
+     },
+     {
+      "estimate": 660323,
+      "date": "2024-02-28"
+     },
+     {
+      "estimate": 657298,
+      "date": "2024-01-31"
+     },
+     {
+      "estimate": 666569,
+      "date": "2023-12-27"
+     },
+     {
+      "estimate": 667333,
+      "date": "2023-11-29"
+     },
+     {
+      "estimate": 673294,
+      "date": "2023-10-25"
+     },
+     {
+      "estimate": 695963,
+      "date": "2023-09-27"
+     },
+     {
+      "estimate": 704349,
+      "date": "2023-08-30"
+     },
+     {
+      "estimate": 650202,
+      "date": "2023-07-26"
+     },
+     {
+      "estimate": 625747,
+      "date": "2023-06-28"
+     },
+     {
+      "estimate": 642663,
+      "date": "2023-05-31"
+     },
+     {
+      "estimate": 639564,
+      "date": "2023-04-26"
+     },
+     {
+      "estimate": 644465,
+      "date": "2023-03-29"
+     },
+     {
+      "estimate": 649708,
+      "date": "2023-02-22"
+     },
+     {
+      "estimate": 629257,
+      "date": "2023-01-25"
+     },
+     {
+      "estimate": 630112,
+      "date": "2022-12-28"
+     },
+     {
+      "estimate": 641369,
+      "date": "2022-11-30"
+     },
+     {
+      "estimate": 626723,
+      "date": "2022-10-26"
+     },
+     {
+      "estimate": 656875,
+      "date": "2022-09-28"
+     },
+     {
+      "estimate": 669601,
+      "date": "2022-08-31"
+     },
+     {
+      "estimate": 683779,
+      "date": "2022-07-27"
+     },
+     {
+      "estimate": 703557,
+      "date": "2022-06-29"
+     },
+     {
+      "estimate": 743615,
+      "date": "2022-05-25"
+     },
+     {
+      "estimate": 717161,
+      "date": "2022-04-27"
+     },
+     {
+      "estimate": 692749,
+      "date": "2022-03-30"
+     },
+     {
+      "estimate": 596772,
+      "date": "2022-02-23"
+     },
+     {
+      "estimate": 640255,
+      "date": "2022-01-26"
+     },
+     {
+      "estimate": 645418,
+      "date": "2021-12-29"
+     },
+     {
+      "estimate": 634301,
+      "date": "2021-11-10"
+     }
+    ]
+   }
+  ]
+ },
+ "schools": {
+  "schools": [
+   {
+    "id": "0775737641",
+    "name": "Catharine Blaine K-8",
+    "rating": 10,
+    "distance_in_miles": 0.3,
+    "education_levels": [
+     "elementary",
+     "middle"
+    ],
+    "funding_type": "public",
+    "student_count": 449,
+    "grades": [
+     "K",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8"
+    ],
+    "parent_rating": 4,
+    "assigned": true,
+    "coordinate": {
+     "lat": 47.642915,
+     "lon": -122.400318
+    },
+    "district": {
+     "id": "06218574701",
+     "name": "Seattle Public Schools"
+    }
+   },
+   {
+    "id": "0775736321",
+    "name": "Ballard High School",
+    "rating": 9,
+    "distance_in_miles": 2.3,
+    "education_levels": [
+     "high"
+    ],
+    "funding_type": "public",
+    "student_count": 1678,
+    "grades": [
+     "9",
+     "10",
+     "11",
+     "12"
+    ],
+    "parent_rating": 4,
+    "assigned": true,
+    "coordinate": {
+     "lat": 47.676705,
+     "lon": -122.37606
+    },
+    "district": {
+     "id": "06218574701",
+     "name": "Seattle Public Schools"
+    }
+   },
+   {
+    "id": "0775746511",
+    "name": "Our Lady of Fatima School",
+    "rating": null,
+    "distance_in_miles": 0.1,
+    "education_levels": [
+     "elementary",
+     "middle"
+    ],
+    "funding_type": "private",
+    "student_count": 291,
+    "grades": [
+     "K",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8"
+    ],
+    "parent_rating": 4,
+    "assigned": null,
+    "coordinate": {
+     "lat": 47.648035,
+     "lon": -122.3991
+    },
+    "district": {
+     "id": "06218571421",
+     "name": null
+    }
+   }
+  ]
+ },
+ "nearby_schools": {
+  "schools": [
+   {
+    "id": "0775737641",
+    "name": "Catharine Blaine K-8",
+    "rating": 10,
+    "distance_in_miles": 0.3,
+    "education_levels": [
+     "elementary",
+     "middle"
+    ],
+    "funding_type": "public",
+    "student_count": 449,
+    "grades": [
+     "K",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8"
+    ],
+    "parent_rating": 4,
+    "assigned": true,
+    "coordinate": {
+     "lat": 47.642915,
+     "lon": -122.400318
+    },
+    "district": {
+     "id": "06218574701",
+     "name": "Seattle Public Schools"
+    }
+   },
+   {
+    "id": "0775736921",
+    "name": "McClure Middle School",
+    "rating": 8,
+    "distance_in_miles": 1.9,
+    "education_levels": [
+     "middle"
+    ],
+    "funding_type": "public",
+    "student_count": 503,
+    "grades": [
+     "6",
+     "7",
+     "8"
+    ],
+    "parent_rating": 3,
+    "assigned": true,
+    "coordinate": {
+     "lat": 47.636581,
+     "lon": -122.359015
+    },
+    "district": {
+     "id": "06218574701",
+     "name": "Seattle Public Schools"
+    }
+   },
+   {
+    "id": "0775736321",
+    "name": "Ballard High School",
+    "rating": 9,
+    "distance_in_miles": 2.3,
+    "education_levels": [
+     "high"
+    ],
+    "funding_type": "public",
+    "student_count": 1678,
+    "grades": [
+     "9",
+     "10",
+     "11",
+     "12"
+    ],
+    "parent_rating": 4,
+    "assigned": true,
+    "coordinate": {
+     "lat": 47.676705,
+     "lon": -122.37606
+    },
+    "district": {
+     "id": "06218574701",
+     "name": "Seattle Public Schools"
+    }
+   },
+   {
+    "id": "0775746511",
+    "name": "Our Lady of Fatima School",
+    "rating": null,
+    "distance_in_miles": 0.1,
+    "education_levels": [
+     "elementary",
+     "middle"
+    ],
+    "funding_type": "private",
+    "student_count": 291,
+    "grades": [
+     "K",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8"
+    ],
+    "parent_rating": 4,
+    "assigned": null,
+    "coordinate": {
+     "lat": 47.648035,
+     "lon": -122.3991
+    },
+    "district": {
+     "id": "06218571421",
+     "name": null
+    }
+   },
+   {
+    "id": "0775824661",
+    "name": "Magnolia Elementary School",
+    "rating": 7,
+    "distance_in_miles": 0.5,
+    "education_levels": [
+     "elementary"
+    ],
+    "funding_type": "public",
+    "student_count": 314,
+    "grades": [
+     "K",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5"
+    ],
+    "parent_rating": 3,
+    "assigned": null,
+    "coordinate": {
+     "lat": 47.640606,
+     "lon": -122.39257
+    },
+    "district": {
+     "id": "06218574701",
+     "name": "Seattle Public Schools"
+    }
+   },
+   {
+    "id": "0775821811",
+    "name": "Alfajer School",
+    "rating": null,
+    "distance_in_miles": 0.5,
+    "education_levels": [
+     "elementary"
+    ],
+    "funding_type": "private",
+    "student_count": 13,
+    "grades": [
+     "K",
+     "1",
+     "2",
+     "3"
+    ],
+    "parent_rating": null,
+    "assigned": null,
+    "coordinate": {
+     "lat": 47.654457,
+     "lon": -122.396072
+    },
+    "district": {
+     "id": "06218571421",
+     "name": null
+    }
+   },
+   {
+    "id": "0775736821",
+    "name": "Lawton Elementary School",
+    "rating": 8,
+    "distance_in_miles": 0.7,
+    "education_levels": [
+     "elementary"
+    ],
+    "funding_type": "public",
+    "student_count": 308,
+    "grades": [
+     "K",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5"
+    ],
+    "parent_rating": 4,
+    "assigned": null,
+    "coordinate": {
+     "lat": 47.657087,
+     "lon": -122.390431
+    },
+    "district": {
+     "id": "06218574701",
+     "name": "Seattle Public Schools"
+    }
+   },
+   {
+    "id": "0775761561",
+    "name": "Residential Consortium",
+    "rating": null,
+    "distance_in_miles": 1.4,
+    "education_levels": [
+     "elementary",
+     "middle",
+     "high"
+    ],
+    "funding_type": "public",
+    "student_count": 0,
+    "grades": [
+     "K",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "10",
+     "11",
+     "12"
+    ],
+    "parent_rating": null,
+    "assigned": null,
+    "coordinate": {
+     "lat": 47.638981,
+     "lon": -122.36956
+    },
+    "district": {
+     "id": "06218574701",
+     "name": "Seattle Public Schools"
+    }
+   },
+   {
+    "id": "0775736421",
+    "name": "Coe Elementary School",
+    "rating": 9,
+    "distance_in_miles": 1.5,
+    "education_levels": [
+     "elementary"
+    ],
+    "funding_type": "public",
+    "student_count": 483,
+    "grades": [
+     "K",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5"
+    ],
+    "parent_rating": 5,
+    "assigned": null,
+    "coordinate": {
+     "lat": 47.640707,
+     "lon": -122.365728
+    },
+    "district": {
+     "id": "06218574701",
+     "name": "Seattle Public Schools"
+    }
+   },
+   {
+    "id": "0775785111",
+    "name": "Pacific Crest School",
+    "rating": null,
+    "distance_in_miles": 1.8,
+    "education_levels": [
+     "elementary",
+     "middle"
+    ],
+    "funding_type": "private",
+    "student_count": 229,
+    "grades": [
+     "K",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8"
+    ],
+    "parent_rating": 5,
+    "assigned": null,
+    "coordinate": {
+     "lat": 47.660282,
+     "lon": -122.364311
+    },
+    "district": {
+     "id": "06218571421",
+     "name": null
+    }
+   },
+   {
+    "id": "0775751341",
+    "name": "Pacific Crest Schools",
+    "rating": null,
+    "distance_in_miles": 1.8,
+    "education_levels": [
+     "elementary",
+     "middle"
+    ],
+    "funding_type": "private",
+    "student_count": 216,
+    "grades": [
+     "K",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8"
+    ],
+    "parent_rating": 4,
+    "assigned": null,
+    "coordinate": {
+     "lat": 47.660178,
+     "lon": -122.364219
+    },
+    "district": {
+     "id": "06218571421",
+     "name": null
+    }
+   },
+   {
+    "id": "0775825101",
+    "name": "Cascade Parent Partnership Program",
+    "rating": null,
+    "distance_in_miles": 1.8,
+    "education_levels": [
+     "elementary",
+     "middle"
+    ],
+    "funding_type": "public",
+    "student_count": 213,
+    "grades": [
+     "K",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8"
+    ],
+    "parent_rating": null,
+    "assigned": null,
+    "coordinate": {
+     "lat": 47.646229,
+     "lon": -122.358925
+    },
+    "district": {
+     "id": "06218574701",
+     "name": "Seattle Public Schools"
+    }
+   },
+   {
+    "id": "0775764601",
+    "name": "Cascade Parent Partnership Program",
+    "rating": 7,
+    "distance_in_miles": 1.8,
+    "education_levels": [
+     "elementary",
+     "middle",
+     "high"
+    ],
+    "funding_type": "public",
+    "student_count": 375,
+    "grades": [
+     "K",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "10",
+     "11",
+     "12"
+    ],
+    "parent_rating": null,
+    "assigned": null,
+    "coordinate": {
+     "lat": 47.646306,
+     "lon": -122.358789
+    },
+    "district": {
+     "id": "06218574701",
+     "name": "Seattle Public Schools"
+    }
+   },
+   {
+    "id": "0775768861",
+    "name": "Alcuin School",
+    "rating": null,
+    "distance_in_miles": 1.8,
+    "education_levels": [
+     "elementary"
+    ],
+    "funding_type": "private",
+    "student_count": 7,
+    "grades": [
+     "PK",
+     "K"
+    ],
+    "parent_rating": 5,
+    "assigned": null,
+    "coordinate": {
+     "lat": 47.638557,
+     "lon": -122.360512
+    },
+    "district": {
+     "id": "06218571421",
+     "name": null
+    }
+   },
+   {
+    "id": "0775756251",
+    "name": "The Center School",
+    "rating": 7,
+    "distance_in_miles": 2.8,
+    "education_levels": [
+     "high"
+    ],
+    "funding_type": "public",
+    "student_count": 172,
+    "grades": [
+     "9",
+     "10",
+     "11",
+     "12"
+    ],
+    "parent_rating": 3,
+    "assigned": null,
+    "coordinate": {
+     "lat": 47.621507,
+     "lon": -122.350875
+    },
+    "district": {
+     "id": "06218574701",
+     "name": "Seattle Public Schools"
+    }
+   },
+   {
+    "id": "0775824431",
+    "name": "Lincoln High School",
+    "rating": 10,
+    "distance_in_miles": 2.8,
+    "education_levels": [
+     "high"
+    ],
+    "funding_type": "public",
+    "student_count": 1790,
+    "grades": [
+     "9",
+     "10",
+     "11",
+     "12"
+    ],
+    "parent_rating": 3,
+    "assigned": null,
+    "coordinate": {
+     "lat": 47.659971,
+     "lon": -122.339967
+    },
+    "district": {
+     "id": "06218574701",
+     "name": "Seattle Public Schools"
+    }
+   }
+  ]
+ },
+ "local": {
+  "noise": {
+   "score": null,
+   "noise_categories": [
+    {
+     "type": "airport",
+     "text": null
+    },
+    {
+     "type": "traffic",
+     "text": null
+    },
+    {
+     "type": "local",
+     "text": null
+    },
+    {
+     "type": "score",
+     "text": null
+    }
+   ]
+  },
+  "flood": {
+   "fema_zone": [
+    "X (unshaded)"
+   ],
+   "flood_factor_score": 1,
+   "flood_factor_severity": "minimal",
+   "flood_trend": "This property’s flood risk is not changing.",
+   "flood_insurance_text": "As this property is located in FEMA Zone X (unshaded), flood insurance is not federally required to obtain a mortgage. You may want to purchase flood insurance to protect your home. Explore quotes for flood insurance from <b>$435</b> to <b>$652</b> per year."
+  },
+  "wildfire": {
+   "fire_factor_score": 1,
+   "fire_factor_severity": "Minimal"
+  },
+  "heat": {
+   "heat_factor_score": 3,
+   "heat_factor_severity": "Moderate"
+  },
+  "wind": {
+   "wind_factor_score": 1
+  },
+  "air": {
+   "air_factor_score": 7
+  }
+ },
+ "popularity": {
+  "periods": [
+   {
+    "last_n_days": 1,
+    "views_total": 11,
+    "saves_total": 0,
+    "clicks_total": 0,
+    "shares_total": 0,
+    "leads_total": 0
+   },
+   {
+    "last_n_days": 7,
+    "views_total": 120,
+    "saves_total": 0,
+    "clicks_total": 1,
+    "shares_total": 0,
+    "leads_total": 0
+   },
+   {
+    "last_n_days": 14,
+    "views_total": 224,
+    "saves_total": 0,
+    "clicks_total": 1,
+    "shares_total": 0,
+    "leads_total": 0
+   },
+   {
+    "last_n_days": 21,
+    "views_total": 346,
+    "saves_total": 0,
+    "clicks_total": 1,
+    "shares_total": 0,
+    "leads_total": 0
+   },
+   {
+    "last_n_days": 28,
+    "views_total": 422,
+    "saves_total": 0,
+    "clicks_total": 1,
+    "shares_total": 0,
+    "leads_total": 0
+   },
+   {
+    "last_n_days": 30,
+    "views_total": null,
+    "saves_total": null,
+    "clicks_total": null,
+    "shares_total": null,
+    "leads_total": null
+   }
+  ]
+ },
+ "open_houses": null,
+ "mortgage": null,
+ "monthly_fees": null,
+ "one_time_fees": null,
+ "pet_policy": null,
+ "units": null,
+ "terms": null,
+ "community": null
+}

@@ -1,0 +1,25 @@
+{
+ "slug_id": "Austin_TX",
+ "state_code": "TX",
+ "centroid": {
+  "lat": 30.2986219,
+  "lon": -97.7541339
+ },
+ "geo_statistics": {
+  "housing_market": {
+   "median_listing_price": 500000,
+   "median_rent_price": 1949,
+   "median_sold_price": null,
+   "median_days_on_market": 81,
+   "median_price_per_sqft": 310,
+   "local_hotness_score": null,
+   "national_hotness_score": null,
+   "local_temperature": null,
+   "national_temperature": null,
+   "hot_market_badge": null,
+   "hot_market_rank": null,
+   "ratio_of_days_on_market_vs_typical_property_in_county": null,
+   "ratio_of_ldp_views_vs_typical_property_in_county": null
+  }
+ }
+}

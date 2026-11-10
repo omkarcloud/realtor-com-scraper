@@ -1,0 +1,1561 @@
+{
+ "count": 5,
+ "total": 803,
+ "results": [
+  {
+   "property_id": "7812113579",
+   "listing_id": "3002214975",
+   "permalink": "200-Congress-Ave-Unit-14C_Austin_TX_78701_M78121-13579",
+   "href": "https://www.realtor.com/realestateandhomes-detail/200-Congress-Ave-Unit-14C_Austin_TX_78701_M78121-13579",
+   "status": "for_sale",
+   "mls_status": "Active",
+   "list_date": "2026-10-22T21:56:00.000000Z",
+   "last_update_date": "2026-10-23T13:52:11Z",
+   "last_status_change_date": "2026-10-22T21:56:00Z",
+   "pending_date": null,
+   "list_price": 1499000,
+   "list_price_min": null,
+   "list_price_max": null,
+   "price_per_sqft": 1024,
+   "last_sold_price": null,
+   "last_sold_date": null,
+   "tags": [
+    "central_air",
+    "central_heat",
+    "community_clubhouse",
+    "community_outdoor_space",
+    "community_park",
+    "community_security_features",
+    "community_spa_or_hot_tub",
+    "corner_lot",
+    "dishwasher",
+    "hardwood_floors",
+    "lake_view",
+    "laundry_room",
+    "recreation_facilities",
+    "river_view",
+    "view",
+    "water_view",
+    "community_swimming_pool",
+    "swimming_pool",
+    "single_story",
+    "garage_1_or_more",
+    "garage_2_or_more",
+    "waterfront",
+    "views",
+    "lake",
+    "open_concept_living",
+    "open_concept",
+    "balcony",
+    "fireplace",
+    "den",
+    "soaking_tub",
+    "fire_pit",
+    "park"
+   ],
+   "flags": {
+    "is_coming_soon": null,
+    "is_contingent": null,
+    "is_garage_present": true,
+    "is_new_construction": null,
+    "is_pending": null,
+    "is_short_sale": null,
+    "is_foreclosure": null,
+    "is_senior_community": null,
+    "is_for_rent": null,
+    "is_deal_available": null,
+    "is_price_reduced": null,
+    "is_new_listing": false,
+    "is_subdivision": null,
+    "is_plan": null
+   },
+   "description": {
+    "type": "condos",
+    "sub_type": "condo",
+    "name": null,
+    "beds": 2,
+    "baths": 2,
+    "baths_full": 2,
+    "baths_half": null,
+    "baths_consolidated": "2",
+    "sqft": 1464,
+    "lot_sqft": 105,
+    "year_built": 2008,
+    "garage": 2,
+    "stories": 1
+   },
+   "location": {
+    "address": {
+     "line": "200 Congress Ave Unit 14C",
+     "unit": "Unit 14C",
+     "city": "Austin",
+     "state_code": "TX",
+     "postal_code": "78701",
+     "coordinate": {
+      "lat": 30.264604,
+      "lon": -97.744431
+     }
+    },
+    "county": {
+     "name": "Travis",
+     "fips_code": "48453"
+    },
+    "neighborhoods": null
+   },
+   "hoa": {
+    "fee": 1747
+   },
+   "source": {
+    "id": "AUTX",
+    "type": "mls",
+    "name": "UnlockMLS",
+    "listing_id": "6240915",
+    "agents": [
+     {
+      "agent_name": null,
+      "agent_id": "489531",
+      "office_name": "Moreland Properties",
+      "office_id": "017J04"
+     }
+    ]
+   },
+   "primary_photo": {
+    "href": "https://ap.rdcpix.com/97dfe44dd7d7a0be364f0c55af579626l-m2028892975s.jpg"
+   },
+   "photos": [
+    {
+     "href": "https://ap.rdcpix.com/97dfe44dd7d7a0be364f0c55af579626l-m2028892975s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/97dfe44dd7d7a0be364f0c55af579626l-m808415812s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/97dfe44dd7d7a0be364f0c55af579626l-m1242726992s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/97dfe44dd7d7a0be364f0c55af579626l-m3631352735s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/97dfe44dd7d7a0be364f0c55af579626l-m3133051114s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/97dfe44dd7d7a0be364f0c55af579626l-m399502985s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/97dfe44dd7d7a0be364f0c55af579626l-m3615932246s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/97dfe44dd7d7a0be364f0c55af579626l-m1260072440s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/97dfe44dd7d7a0be364f0c55af579626l-m2221731282s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/97dfe44dd7d7a0be364f0c55af579626l-m73954518s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/97dfe44dd7d7a0be364f0c55af579626l-m499387228s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/97dfe44dd7d7a0be364f0c55af579626l-m2705173545s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/97dfe44dd7d7a0be364f0c55af579626l-m3783670173s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/97dfe44dd7d7a0be364f0c55af579626l-m3621250053s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/97dfe44dd7d7a0be364f0c55af579626l-m293938880s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/97dfe44dd7d7a0be364f0c55af579626l-m2199546313s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/97dfe44dd7d7a0be364f0c55af579626l-m2619278780s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/97dfe44dd7d7a0be364f0c55af579626l-m1189456610s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/97dfe44dd7d7a0be364f0c55af579626l-m127134880s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/97dfe44dd7d7a0be364f0c55af579626l-m496233283s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/97dfe44dd7d7a0be364f0c55af579626l-m3202340s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/97dfe44dd7d7a0be364f0c55af579626l-m881489476s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/97dfe44dd7d7a0be364f0c55af579626l-m3735595983s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/97dfe44dd7d7a0be364f0c55af579626l-m970423443s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/97dfe44dd7d7a0be364f0c55af579626l-m3429607738s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/97dfe44dd7d7a0be364f0c55af579626l-m2069371310s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/97dfe44dd7d7a0be364f0c55af579626l-m233394950s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/97dfe44dd7d7a0be364f0c55af579626l-m2088512491s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/97dfe44dd7d7a0be364f0c55af579626l-m1738266922s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/97dfe44dd7d7a0be364f0c55af579626l-m3378889835s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/97dfe44dd7d7a0be364f0c55af579626l-m3928739613s.jpg"
+    }
+   ],
+   "open_houses": null,
+   "virtual_tours": [
+    {
+     "href": "https://theaustonian14c.com/",
+     "type": null
+    }
+   ],
+   "advertisers": [
+    {
+     "type": "seller",
+     "name": "Trey Phillips",
+     "fulfillment_id": "1123857",
+     "email": "trey@theaustonian.com",
+     "nrds_id": null,
+     "state_license": null,
+     "phones": [
+      {
+       "number": "(512) 415-5424",
+       "type": "Office",
+       "primary": true,
+       "ext": null
+      }
+     ],
+     "office": {
+      "name": "Moreland Properties",
+      "email": "sales@moreland.com",
+      "fulfillment_id": "910489",
+      "href": "WWW.THEAUSTONIAN.COM",
+      "phones": [
+       {
+        "number": "5124800848",
+        "type": "Office"
+       }
+      ]
+     },
+     "broker": {
+      "name": "MORELAND PROPERTIES",
+      "fulfillment_id": "711114"
+     },
+     "builder": null
+    }
+   ],
+   "current_estimates": [
+    {
+     "estimate": 1450530,
+     "estimate_high": 1537561,
+     "estimate_low": 1363498,
+     "date": "2026-10-28",
+     "isbest_homevalue": true,
+     "source": {
+      "type": "quantarium",
+      "name": "Quantarium"
+     }
+    },
+    {
+     "estimate": 1424700,
+     "estimate_high": 1524600,
+     "estimate_low": 1324800,
+     "date": "2026-10-05",
+     "isbest_homevalue": false,
+     "source": {
+      "type": "corelogic",
+      "name": "Cotality™"
+     }
+    },
+    {
+     "estimate": 1480000,
+     "estimate_high": 1583600,
+     "estimate_low": 1376400,
+     "date": "2026-10-14",
+     "isbest_homevalue": false,
+     "source": {
+      "type": "collateral",
+      "name": "Collateral Analytics"
+     }
+    }
+   ],
+   "pet_policy": null,
+   "units": null,
+   "tax_record": {
+    "apn": null,
+    "tax_parcel_id": null
+   }
+  },
+  {
+   "property_id": "8467836511",
+   "listing_id": "3002507565",
+   "permalink": "200-Congress-Ave-Unit-19AC_Austin_TX_78701_M84678-36511",
+   "href": "https://www.realtor.com/realestateandhomes-detail/200-Congress-Ave-Unit-19AC_Austin_TX_78701_M84678-36511",
+   "status": "for_sale",
+   "mls_status": "Active",
+   "list_date": "2026-10-26T20:23:00.000000Z",
+   "last_update_date": "2026-10-27T09:01:13Z",
+   "last_status_change_date": "2026-10-26T20:23:00Z",
+   "pending_date": null,
+   "list_price": 2995000,
+   "list_price_min": null,
+   "list_price_max": null,
+   "price_per_sqft": 1037,
+   "last_sold_price": null,
+   "last_sold_date": null,
+   "tags": [
+    "central_air",
+    "central_heat",
+    "city_view",
+    "community_clubhouse",
+    "community_outdoor_space",
+    "community_park",
+    "community_security_features",
+    "community_spa_or_hot_tub",
+    "corner_lot",
+    "dishwasher",
+    "fireplace",
+    "hardwood_floors",
+    "lake_view",
+    "laundry_room",
+    "recreation_facilities",
+    "river_view",
+    "view",
+    "water_view",
+    "community_swimming_pool",
+    "swimming_pool",
+    "single_story",
+    "garage_1_or_more",
+    "garage_2_or_more",
+    "garage_3_or_more",
+    "gourmet_kitchen",
+    "views",
+    "lake",
+    "trails",
+    "wine_storage",
+    "balcony",
+    "home_office",
+    "office",
+    "den",
+    "park"
+   ],
+   "flags": {
+    "is_coming_soon": null,
+    "is_contingent": null,
+    "is_garage_present": true,
+    "is_new_construction": null,
+    "is_pending": null,
+    "is_short_sale": null,
+    "is_foreclosure": null,
+    "is_senior_community": null,
+    "is_for_rent": null,
+    "is_deal_available": null,
+    "is_price_reduced": null,
+    "is_new_listing": true,
+    "is_subdivision": null,
+    "is_plan": null
+   },
+   "description": {
+    "type": "condos",
+    "sub_type": "condo",
+    "name": null,
+    "beds": 3,
+    "baths": 3,
+    "baths_full": 3,
+    "baths_half": null,
+    "baths_consolidated": "3",
+    "sqft": 2889,
+    "lot_sqft": 192,
+    "year_built": 2008,
+    "garage": 3,
+    "stories": 1
+   },
+   "location": {
+    "address": {
+     "line": "200 Congress Ave Unit 19AC",
+     "unit": "Unit 19AC",
+     "city": "Austin",
+     "state_code": "TX",
+     "postal_code": "78701",
+     "coordinate": {
+      "lat": 30.264604,
+      "lon": -97.744431
+     }
+    },
+    "county": {
+     "name": "Travis",
+     "fips_code": "48453"
+    },
+    "neighborhoods": null
+   },
+   "hoa": {
+    "fee": 3200
+   },
+   "source": {
+    "id": "AUTX",
+    "type": "mls",
+    "name": "UnlockMLS",
+    "listing_id": "8290670",
+    "agents": [
+     {
+      "agent_name": null,
+      "agent_id": "489531",
+      "office_name": "Moreland Properties",
+      "office_id": "017J04"
+     }
+    ]
+   },
+   "primary_photo": {
+    "href": "https://ap.rdcpix.com/8a8074d55066f01cf0d4ffa32dbe68f0l-m1196901226s.jpg"
+   },
+   "photos": [
+    {
+     "href": "https://ap.rdcpix.com/8a8074d55066f01cf0d4ffa32dbe68f0l-m1196901226s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/8a8074d55066f01cf0d4ffa32dbe68f0l-m936896097s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/8a8074d55066f01cf0d4ffa32dbe68f0l-m2603097316s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/8a8074d55066f01cf0d4ffa32dbe68f0l-m3847725533s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/8a8074d55066f01cf0d4ffa32dbe68f0l-m1226112834s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/8a8074d55066f01cf0d4ffa32dbe68f0l-m2503946129s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/8a8074d55066f01cf0d4ffa32dbe68f0l-m1748007718s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/8a8074d55066f01cf0d4ffa32dbe68f0l-m2804893031s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/8a8074d55066f01cf0d4ffa32dbe68f0l-m892922582s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/8a8074d55066f01cf0d4ffa32dbe68f0l-m4117312718s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/8a8074d55066f01cf0d4ffa32dbe68f0l-m4279093713s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/8a8074d55066f01cf0d4ffa32dbe68f0l-m3695312525s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/8a8074d55066f01cf0d4ffa32dbe68f0l-m2533395857s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/8a8074d55066f01cf0d4ffa32dbe68f0l-m1227467015s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/8a8074d55066f01cf0d4ffa32dbe68f0l-m621661676s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/8a8074d55066f01cf0d4ffa32dbe68f0l-m2802289734s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/8a8074d55066f01cf0d4ffa32dbe68f0l-m2384565594s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/8a8074d55066f01cf0d4ffa32dbe68f0l-m3402023282s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/8a8074d55066f01cf0d4ffa32dbe68f0l-m2607698872s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/8a8074d55066f01cf0d4ffa32dbe68f0l-m1422818909s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/8a8074d55066f01cf0d4ffa32dbe68f0l-m2587671203s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/8a8074d55066f01cf0d4ffa32dbe68f0l-m1810659665s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/8a8074d55066f01cf0d4ffa32dbe68f0l-m1803028883s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/8a8074d55066f01cf0d4ffa32dbe68f0l-m1929321314s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/8a8074d55066f01cf0d4ffa32dbe68f0l-m2648781955s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/8a8074d55066f01cf0d4ffa32dbe68f0l-m2326411719s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/8a8074d55066f01cf0d4ffa32dbe68f0l-m2348356546s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/8a8074d55066f01cf0d4ffa32dbe68f0l-m2979421534s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/8a8074d55066f01cf0d4ffa32dbe68f0l-m1741547875s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/8a8074d55066f01cf0d4ffa32dbe68f0l-m1629273211s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/8a8074d55066f01cf0d4ffa32dbe68f0l-m4199621994s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/8a8074d55066f01cf0d4ffa32dbe68f0l-m272030400s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/8a8074d55066f01cf0d4ffa32dbe68f0l-m3551681441s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/8a8074d55066f01cf0d4ffa32dbe68f0l-m535435245s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/8a8074d55066f01cf0d4ffa32dbe68f0l-m1796536239s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/8a8074d55066f01cf0d4ffa32dbe68f0l-m1971610471s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/8a8074d55066f01cf0d4ffa32dbe68f0l-m1020531034s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/8a8074d55066f01cf0d4ffa32dbe68f0l-m760356213s.jpg"
+    }
+   ],
+   "open_houses": null,
+   "virtual_tours": null,
+   "advertisers": [
+    {
+     "type": "seller",
+     "name": "Trey Phillips",
+     "fulfillment_id": "1123857",
+     "email": "trey@theaustonian.com",
+     "nrds_id": null,
+     "state_license": null,
+     "phones": [
+      {
+       "number": "(512) 415-5424",
+       "type": "Office",
+       "primary": true,
+       "ext": null
+      }
+     ],
+     "office": {
+      "name": "Moreland Properties",
+      "email": "sales@moreland.com",
+      "fulfillment_id": "910489",
+      "href": "WWW.THEAUSTONIAN.COM",
+      "phones": [
+       {
+        "number": "5124800848",
+        "type": "Office"
+       }
+      ]
+     },
+     "broker": {
+      "name": "MORELAND PROPERTIES",
+      "fulfillment_id": "711114"
+     },
+     "builder": null
+    }
+   ],
+   "current_estimates": [
+    {
+     "estimate": 2801000,
+     "estimate_high": 3277200,
+     "estimate_low": 2324800,
+     "date": "2026-10-14",
+     "isbest_homevalue": true,
+     "source": {
+      "type": "collateral",
+      "name": "Collateral Analytics"
+     }
+    },
+    {
+     "estimate": 2714300,
+     "estimate_high": 2944300,
+     "estimate_low": 2484300,
+     "date": "2026-10-05",
+     "isbest_homevalue": false,
+     "source": {
+      "type": "corelogic",
+      "name": "Cotality™"
+     }
+    }
+   ],
+   "pet_policy": null,
+   "units": null,
+   "tax_record": {
+    "apn": null,
+    "tax_parcel_id": null
+   }
+  },
+  {
+   "property_id": "7245853394",
+   "listing_id": "2994605945",
+   "permalink": "200-Congress-Ave-Unit-15E_Austin_TX_78701_M72458-53394",
+   "href": "https://www.realtor.com/realestateandhomes-detail/200-Congress-Ave-Unit-15E_Austin_TX_78701_M72458-53394",
+   "status": "for_sale",
+   "mls_status": "Active",
+   "list_date": "2026-04-28T22:08:05.000000Z",
+   "last_update_date": "2026-04-29T09:01:15Z",
+   "last_status_change_date": "2026-04-28T22:08:05Z",
+   "pending_date": null,
+   "list_price": 2499000,
+   "list_price_min": null,
+   "list_price_max": null,
+   "price_per_sqft": 1303,
+   "last_sold_price": null,
+   "last_sold_date": "2010-10-01",
+   "tags": [
+    "central_air",
+    "central_heat",
+    "city_view",
+    "community_clubhouse",
+    "community_outdoor_space",
+    "community_park",
+    "community_security_features",
+    "community_spa_or_hot_tub",
+    "corner_lot",
+    "dishwasher",
+    "hardwood_floors",
+    "lake_view",
+    "laundry_room",
+    "recreation_facilities",
+    "river_view",
+    "view",
+    "water_view",
+    "community_swimming_pool",
+    "swimming_pool",
+    "single_story",
+    "garage_1_or_more",
+    "garage_2_or_more",
+    "smart_homes",
+    "views",
+    "lake",
+    "fireplace",
+    "office",
+    "den",
+    "fire_pit",
+    "smart_home",
+    "park"
+   ],
+   "flags": {
+    "is_coming_soon": null,
+    "is_contingent": null,
+    "is_garage_present": true,
+    "is_new_construction": null,
+    "is_pending": null,
+    "is_short_sale": null,
+    "is_foreclosure": null,
+    "is_senior_community": null,
+    "is_for_rent": null,
+    "is_deal_available": null,
+    "is_price_reduced": null,
+    "is_new_listing": false,
+    "is_subdivision": null,
+    "is_plan": null
+   },
+   "description": {
+    "type": "condos",
+    "sub_type": "condo",
+    "name": null,
+    "beds": 2,
+    "baths": 2,
+    "baths_full": 2,
+    "baths_half": null,
+    "baths_consolidated": "2",
+    "sqft": 1918,
+    "lot_sqft": 131,
+    "year_built": 2008,
+    "garage": 2,
+    "stories": 1
+   },
+   "location": {
+    "address": {
+     "line": "200 Congress Ave Unit 15E",
+     "unit": "Unit 15E",
+     "city": "Austin",
+     "state_code": "TX",
+     "postal_code": "78701",
+     "coordinate": {
+      "lat": 30.264604,
+      "lon": -97.744431
+     }
+    },
+    "county": {
+     "name": "Travis",
+     "fips_code": "48453"
+    },
+    "neighborhoods": null
+   },
+   "hoa": {
+    "fee": 2289
+   },
+   "source": {
+    "id": "AUTX",
+    "type": "mls",
+    "name": "UnlockMLS",
+    "listing_id": "4563919",
+    "agents": [
+     {
+      "agent_name": null,
+      "agent_id": "489531",
+      "office_name": "Moreland Properties",
+      "office_id": "017J04"
+     }
+    ]
+   },
+   "primary_photo": {
+    "href": "https://ap.rdcpix.com/7eca782710be3c7e9e76897eb544e64al-m1319565351s.jpg"
+   },
+   "photos": [
+    {
+     "href": "https://ap.rdcpix.com/7eca782710be3c7e9e76897eb544e64al-m1319565351s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/7eca782710be3c7e9e76897eb544e64al-m3236784243s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/7eca782710be3c7e9e76897eb544e64al-m4273001712s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/7eca782710be3c7e9e76897eb544e64al-m50080613s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/7eca782710be3c7e9e76897eb544e64al-m2544531433s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/7eca782710be3c7e9e76897eb544e64al-m3085310625s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/7eca782710be3c7e9e76897eb544e64al-m183498163s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/7eca782710be3c7e9e76897eb544e64al-m3200889240s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/7eca782710be3c7e9e76897eb544e64al-m2719310317s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/7eca782710be3c7e9e76897eb544e64al-m3184549946s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/7eca782710be3c7e9e76897eb544e64al-m2014308021s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/7eca782710be3c7e9e76897eb544e64al-m3340268293s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/7eca782710be3c7e9e76897eb544e64al-m4232318253s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/7eca782710be3c7e9e76897eb544e64al-m2915194837s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/7eca782710be3c7e9e76897eb544e64al-m703403616s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/7eca782710be3c7e9e76897eb544e64al-m1319587759s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/7eca782710be3c7e9e76897eb544e64al-m3698360974s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/7eca782710be3c7e9e76897eb544e64al-m3919295203s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/7eca782710be3c7e9e76897eb544e64al-m1858652924s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/7eca782710be3c7e9e76897eb544e64al-m3617752305s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/7eca782710be3c7e9e76897eb544e64al-m1064800893s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/7eca782710be3c7e9e76897eb544e64al-m3610935318s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/7eca782710be3c7e9e76897eb544e64al-m2946130163s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/7eca782710be3c7e9e76897eb544e64al-m2749798917s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/7eca782710be3c7e9e76897eb544e64al-m4279651360s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/7eca782710be3c7e9e76897eb544e64al-m3384893335s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/7eca782710be3c7e9e76897eb544e64al-m781554591s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/7eca782710be3c7e9e76897eb544e64al-m183765866s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/7eca782710be3c7e9e76897eb544e64al-m3795616087s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/7eca782710be3c7e9e76897eb544e64al-m1020531034s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/7eca782710be3c7e9e76897eb544e64al-m535435245s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/7eca782710be3c7e9e76897eb544e64al-m4122548740s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/7eca782710be3c7e9e76897eb544e64al-m1796536239s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/7eca782710be3c7e9e76897eb544e64al-m1971610471s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/7eca782710be3c7e9e76897eb544e64al-m2889299692s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/7eca782710be3c7e9e76897eb544e64al-m4199621994s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/7eca782710be3c7e9e76897eb544e64al-m272030400s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/7eca782710be3c7e9e76897eb544e64al-m3551681441s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/7eca782710be3c7e9e76897eb544e64al-m1741547875s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/7eca782710be3c7e9e76897eb544e64al-m1629273211s.jpg"
+    }
+   ],
+   "open_houses": null,
+   "virtual_tours": null,
+   "advertisers": [
+    {
+     "type": "seller",
+     "name": "Trey Phillips",
+     "fulfillment_id": "1123857",
+     "email": "trey@theaustonian.com",
+     "nrds_id": null,
+     "state_license": null,
+     "phones": [
+      {
+       "number": "(512) 415-5424",
+       "type": "Office",
+       "primary": true,
+       "ext": null
+      }
+     ],
+     "office": {
+      "name": "Moreland Properties",
+      "email": "sales@moreland.com",
+      "fulfillment_id": "910489",
+      "href": "WWW.THEAUSTONIAN.COM",
+      "phones": [
+       {
+        "number": "5124800848",
+        "type": "Office"
+       }
+      ]
+     },
+     "broker": {
+      "name": "MORELAND PROPERTIES",
+      "fulfillment_id": "711114"
+     },
+     "builder": null
+    }
+   ],
+   "current_estimates": [
+    {
+     "estimate": 2354330,
+     "estimate_high": 2495589,
+     "estimate_low": 2213070,
+     "date": "2026-10-28",
+     "isbest_homevalue": true,
+     "source": {
+      "type": "quantarium",
+      "name": "Quantarium"
+     }
+    },
+    {
+     "estimate": 2294800,
+     "estimate_high": 2460200,
+     "estimate_low": 2129300,
+     "date": "2026-10-05",
+     "isbest_homevalue": false,
+     "source": {
+      "type": "corelogic",
+      "name": "Cotality™"
+     }
+    },
+    {
+     "estimate": 2474000,
+     "estimate_high": 2869800,
+     "estimate_low": 2078200,
+     "date": "2026-10-14",
+     "isbest_homevalue": false,
+     "source": {
+      "type": "collateral",
+      "name": "Collateral Analytics"
+     }
+    }
+   ],
+   "pet_policy": null,
+   "units": null,
+   "tax_record": {
+    "apn": null,
+    "tax_parcel_id": null
+   }
+  },
+  {
+   "property_id": "7226001316",
+   "listing_id": "3000797295",
+   "permalink": "200-Congress-Ave-Unit-37H_Austin_TX_78701_M72260-01316",
+   "href": "https://www.realtor.com/realestateandhomes-detail/200-Congress-Ave-Unit-37H_Austin_TX_78701_M72260-01316",
+   "status": "for_sale",
+   "mls_status": "Pending",
+   "list_date": "2026-09-16T17:06:16.000000Z",
+   "last_update_date": "2026-10-23T16:55:10Z",
+   "last_status_change_date": "2026-10-23T16:56:29Z",
+   "pending_date": "2026-10-23T16:56:29Z",
+   "list_price": 4975000,
+   "list_price_min": null,
+   "list_price_max": null,
+   "price_per_sqft": 1717,
+   "last_sold_price": null,
+   "last_sold_date": "2013-06-13",
+   "tags": [
+    "central_air",
+    "central_heat",
+    "city_view",
+    "community_clubhouse",
+    "community_outdoor_space",
+    "community_park",
+    "community_security_features",
+    "community_spa_or_hot_tub",
+    "corner_lot",
+    "hardwood_floors",
+    "lake_view",
+    "laundry_room",
+    "recreation_facilities",
+    "river_view",
+    "spa_or_hot_tub",
+    "view",
+    "water_view",
+    "community_swimming_pool",
+    "swimming_pool",
+    "single_story",
+    "garage_1_or_more",
+    "garage_2_or_more",
+    "modern_kitchen",
+    "open_kitchen",
+    "ensuite",
+    "views",
+    "lake",
+    "trails",
+    "wine_storage",
+    "open_concept",
+    "balcony",
+    "home_office",
+    "office",
+    "den",
+    "park"
+   ],
+   "flags": {
+    "is_coming_soon": null,
+    "is_contingent": null,
+    "is_garage_present": true,
+    "is_new_construction": null,
+    "is_pending": true,
+    "is_short_sale": null,
+    "is_foreclosure": null,
+    "is_senior_community": null,
+    "is_for_rent": null,
+    "is_deal_available": null,
+    "is_price_reduced": null,
+    "is_new_listing": false,
+    "is_subdivision": null,
+    "is_plan": null
+   },
+   "description": {
+    "type": "condos",
+    "sub_type": "condo",
+    "name": null,
+    "beds": 3,
+    "baths": 5,
+    "baths_full": 4,
+    "baths_half": 1,
+    "baths_consolidated": "4.5",
+    "sqft": 2898,
+    "lot_sqft": 209,
+    "year_built": 2008,
+    "garage": 2,
+    "stories": 1
+   },
+   "location": {
+    "address": {
+     "line": "200 Congress Ave Unit 37H",
+     "unit": "Unit 37H",
+     "city": "Austin",
+     "state_code": "TX",
+     "postal_code": "78701",
+     "coordinate": {
+      "lat": 30.264604,
+      "lon": -97.744431
+     }
+    },
+    "county": {
+     "name": "Travis",
+     "fips_code": "48453"
+    },
+    "neighborhoods": null
+   },
+   "hoa": {
+    "fee": 2909
+   },
+   "source": {
+    "id": "AUTX",
+    "type": "mls",
+    "name": "UnlockMLS",
+    "listing_id": "6014802",
+    "agents": [
+     {
+      "agent_name": null,
+      "agent_id": "489531",
+      "office_name": "Moreland Properties",
+      "office_id": "017J04"
+     }
+    ]
+   },
+   "primary_photo": {
+    "href": "https://ap.rdcpix.com/d688253d6aa3a9e8bf60919c781ab7fcl-m3241784991s.jpg"
+   },
+   "photos": [
+    {
+     "href": "https://ap.rdcpix.com/d688253d6aa3a9e8bf60919c781ab7fcl-m3241784991s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/d688253d6aa3a9e8bf60919c781ab7fcl-m727308824s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/d688253d6aa3a9e8bf60919c781ab7fcl-m731701277s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/d688253d6aa3a9e8bf60919c781ab7fcl-m731701277s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/d688253d6aa3a9e8bf60919c781ab7fcl-m999563971s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/d688253d6aa3a9e8bf60919c781ab7fcl-m3139654345s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/d688253d6aa3a9e8bf60919c781ab7fcl-m2932676373s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/d688253d6aa3a9e8bf60919c781ab7fcl-m1522350182s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/d688253d6aa3a9e8bf60919c781ab7fcl-m1297470016s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/d688253d6aa3a9e8bf60919c781ab7fcl-m369803612s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/d688253d6aa3a9e8bf60919c781ab7fcl-m1613444301s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/d688253d6aa3a9e8bf60919c781ab7fcl-m564554431s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/d688253d6aa3a9e8bf60919c781ab7fcl-m2569424612s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/d688253d6aa3a9e8bf60919c781ab7fcl-m1968724087s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/d688253d6aa3a9e8bf60919c781ab7fcl-m1531233994s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/d688253d6aa3a9e8bf60919c781ab7fcl-m1674375335s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/d688253d6aa3a9e8bf60919c781ab7fcl-m3911909588s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/d688253d6aa3a9e8bf60919c781ab7fcl-m1890927538s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/d688253d6aa3a9e8bf60919c781ab7fcl-m1564649619s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/d688253d6aa3a9e8bf60919c781ab7fcl-m2576428219s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/d688253d6aa3a9e8bf60919c781ab7fcl-m817304875s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/d688253d6aa3a9e8bf60919c781ab7fcl-m627592270s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/d688253d6aa3a9e8bf60919c781ab7fcl-m114385524s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/d688253d6aa3a9e8bf60919c781ab7fcl-m2756735301s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/d688253d6aa3a9e8bf60919c781ab7fcl-m775245511s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/d688253d6aa3a9e8bf60919c781ab7fcl-m234124038s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/d688253d6aa3a9e8bf60919c781ab7fcl-m961719904s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/d688253d6aa3a9e8bf60919c781ab7fcl-m1990515601s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/d688253d6aa3a9e8bf60919c781ab7fcl-m3334512302s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/d688253d6aa3a9e8bf60919c781ab7fcl-m2683235635s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/d688253d6aa3a9e8bf60919c781ab7fcl-m1053988746s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/d688253d6aa3a9e8bf60919c781ab7fcl-m3690458001s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/d688253d6aa3a9e8bf60919c781ab7fcl-m1629273211s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/d688253d6aa3a9e8bf60919c781ab7fcl-m4199621994s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/d688253d6aa3a9e8bf60919c781ab7fcl-m3551681441s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/d688253d6aa3a9e8bf60919c781ab7fcl-m1020531034s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/d688253d6aa3a9e8bf60919c781ab7fcl-m535435245s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/d688253d6aa3a9e8bf60919c781ab7fcl-m1796536239s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/d688253d6aa3a9e8bf60919c781ab7fcl-m1971610471s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/d688253d6aa3a9e8bf60919c781ab7fcl-m760356213s.jpg"
+    }
+   ],
+   "open_houses": null,
+   "virtual_tours": null,
+   "advertisers": [
+    {
+     "type": "seller",
+     "name": "Trey Phillips",
+     "fulfillment_id": "1123857",
+     "email": "trey@theaustonian.com",
+     "nrds_id": null,
+     "state_license": null,
+     "phones": [
+      {
+       "number": "(512) 415-5424",
+       "type": "Office",
+       "primary": true,
+       "ext": null
+      }
+     ],
+     "office": {
+      "name": "Moreland Properties",
+      "email": "sales@moreland.com",
+      "fulfillment_id": "910489",
+      "href": "WWW.THEAUSTONIAN.COM",
+      "phones": [
+       {
+        "number": "5124800848",
+        "type": "Office"
+       }
+      ]
+     },
+     "broker": {
+      "name": "MORELAND PROPERTIES",
+      "fulfillment_id": "711114"
+     },
+     "builder": null
+    }
+   ],
+   "current_estimates": [
+    {
+     "estimate": 4789970,
+     "estimate_high": 4981568,
+     "estimate_low": 4598371,
+     "date": "2026-10-28",
+     "isbest_homevalue": true,
+     "source": {
+      "type": "quantarium",
+      "name": "Quantarium"
+     }
+    },
+    {
+     "estimate": 4925000,
+     "estimate_high": 5860800,
+     "estimate_low": 3989300,
+     "date": "2026-10-14",
+     "isbest_homevalue": false,
+     "source": {
+      "type": "collateral",
+      "name": "Collateral Analytics"
+     }
+    },
+    {
+     "estimate": 4610800,
+     "estimate_high": 4979800,
+     "estimate_low": 4241800,
+     "date": "2026-10-05",
+     "isbest_homevalue": false,
+     "source": {
+      "type": "corelogic",
+      "name": "Cotality™"
+     }
+    }
+   ],
+   "pet_policy": null,
+   "units": null,
+   "tax_record": {
+    "apn": null,
+    "tax_parcel_id": null
+   }
+  },
+  {
+   "property_id": "7263710078",
+   "listing_id": "3000651168",
+   "permalink": "710-Colorado-St-Apt-8B_Austin_TX_78701_M72637-10078",
+   "href": "https://www.realtor.com/realestateandhomes-detail/710-Colorado-St-Apt-8B_Austin_TX_78701_M72637-10078",
+   "status": "for_sale",
+   "mls_status": "Active",
+   "list_date": "2026-09-11T17:19:19.000000Z",
+   "last_update_date": "2026-09-25T22:40:09Z",
+   "last_status_change_date": "2026-09-11T17:19:19Z",
+   "pending_date": null,
+   "list_price": 599000,
+   "list_price_min": null,
+   "list_price_max": null,
+   "price_per_sqft": 508,
+   "last_sold_price": null,
+   "last_sold_date": null,
+   "tags": [
+    "central_air",
+    "central_heat",
+    "city_view",
+    "community_park",
+    "community_security_features",
+    "corner_lot",
+    "dining_room",
+    "dishwasher",
+    "laundry_room",
+    "recreation_facilities",
+    "view",
+    "single_story",
+    "garage_1_or_more",
+    "updated_kitchen",
+    "elevator",
+    "views",
+    "den",
+    "hoa"
+   ],
+   "flags": {
+    "is_coming_soon": null,
+    "is_contingent": null,
+    "is_garage_present": true,
+    "is_new_construction": null,
+    "is_pending": null,
+    "is_short_sale": null,
+    "is_foreclosure": null,
+    "is_senior_community": null,
+    "is_for_rent": null,
+    "is_deal_available": null,
+    "is_price_reduced": false,
+    "is_new_listing": false,
+    "is_subdivision": null,
+    "is_plan": null
+   },
+   "description": {
+    "type": "condos",
+    "sub_type": "condo",
+    "name": null,
+    "beds": 1,
+    "baths": 1,
+    "baths_full": 1,
+    "baths_half": null,
+    "baths_consolidated": "1",
+    "sqft": 1180,
+    "lot_sqft": 148,
+    "year_built": 1940,
+    "garage": 1,
+    "stories": 1
+   },
+   "location": {
+    "address": {
+     "line": "710 Colorado St Apt 8B",
+     "unit": "Apt 8B",
+     "city": "Austin",
+     "state_code": "TX",
+     "postal_code": "78701",
+     "coordinate": {
+      "lat": 30.270082,
+      "lon": -97.743708
+     }
+    },
+    "county": {
+     "name": "Travis",
+     "fips_code": "48453"
+    },
+    "neighborhoods": null
+   },
+   "hoa": {
+    "fee": 1027
+   },
+   "source": {
+    "id": "AUTX",
+    "type": "mls",
+    "name": "UnlockMLS",
+    "listing_id": "9266611",
+    "agents": [
+     {
+      "agent_name": null,
+      "agent_id": "598908",
+      "office_name": "Compass RE Texas, LLC",
+      "office_id": "3788"
+     }
+    ]
+   },
+   "primary_photo": {
+    "href": "https://ap.rdcpix.com/46c4e952c2664d0089a657b9d9ad1db8l-m1847711153s.jpg"
+   },
+   "photos": [
+    {
+     "href": "https://ap.rdcpix.com/46c4e952c2664d0089a657b9d9ad1db8l-m1847711153s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/46c4e952c2664d0089a657b9d9ad1db8l-m3445053251s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/46c4e952c2664d0089a657b9d9ad1db8l-m3060026922s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/46c4e952c2664d0089a657b9d9ad1db8l-m1318181344s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/46c4e952c2664d0089a657b9d9ad1db8l-m2218184601s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/46c4e952c2664d0089a657b9d9ad1db8l-m1521915411s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/46c4e952c2664d0089a657b9d9ad1db8l-m2357124526s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/46c4e952c2664d0089a657b9d9ad1db8l-m679730598s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/46c4e952c2664d0089a657b9d9ad1db8l-m981667522s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/46c4e952c2664d0089a657b9d9ad1db8l-m3767271880s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/46c4e952c2664d0089a657b9d9ad1db8l-m3767271880s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/46c4e952c2664d0089a657b9d9ad1db8l-m3453009379s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/46c4e952c2664d0089a657b9d9ad1db8l-m3802168070s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/46c4e952c2664d0089a657b9d9ad1db8l-m4078200753s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/46c4e952c2664d0089a657b9d9ad1db8l-m481245630s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/46c4e952c2664d0089a657b9d9ad1db8l-m4078200753s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/46c4e952c2664d0089a657b9d9ad1db8l-m481245630s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/46c4e952c2664d0089a657b9d9ad1db8l-m4153534514s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/46c4e952c2664d0089a657b9d9ad1db8l-m2079555350s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/46c4e952c2664d0089a657b9d9ad1db8l-m267588294s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/46c4e952c2664d0089a657b9d9ad1db8l-m2017901845s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/46c4e952c2664d0089a657b9d9ad1db8l-m2079555350s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/46c4e952c2664d0089a657b9d9ad1db8l-m1824146834s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/46c4e952c2664d0089a657b9d9ad1db8l-m2017901845s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/46c4e952c2664d0089a657b9d9ad1db8l-m3078388952s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/46c4e952c2664d0089a657b9d9ad1db8l-m1610082703s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/46c4e952c2664d0089a657b9d9ad1db8l-m2171382324s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/46c4e952c2664d0089a657b9d9ad1db8l-m2606458616s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/46c4e952c2664d0089a657b9d9ad1db8l-m1610082703s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/46c4e952c2664d0089a657b9d9ad1db8l-m2171382324s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/46c4e952c2664d0089a657b9d9ad1db8l-m2606458616s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/46c4e952c2664d0089a657b9d9ad1db8l-m1462854380s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/46c4e952c2664d0089a657b9d9ad1db8l-m1766227653s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/46c4e952c2664d0089a657b9d9ad1db8l-m3622858811s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/46c4e952c2664d0089a657b9d9ad1db8l-m620841481s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/46c4e952c2664d0089a657b9d9ad1db8l-m620841481s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/46c4e952c2664d0089a657b9d9ad1db8l-m4000091964s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/46c4e952c2664d0089a657b9d9ad1db8l-m4000091964s.jpg"
+    }
+   ],
+   "open_houses": null,
+   "virtual_tours": [
+    {
+     "href": "https://sites.realtymediadesign.com/710-Colorado-St-7/idx",
+     "type": null
+    }
+   ],
+   "advertisers": [
+    {
+     "type": "seller",
+     "name": "Lily Clason",
+     "fulfillment_id": "1546606",
+     "email": "lilyclason@gmail.com",
+     "nrds_id": "785029249",
+     "state_license": null,
+     "phones": [
+      {
+       "number": "5126274688",
+       "type": "Mobile",
+       "primary": true,
+       "ext": null
+      }
+     ],
+     "office": {
+      "name": "Compass RE Texas",
+      "email": "realtor@realtyaustin.com",
+      "fulfillment_id": "207882",
+      "href": "http://realtyaustin.com",
+      "phones": [
+       {
+        "number": "(512) 241-1300",
+        "type": "Office"
+       }
+      ]
+     },
+     "broker": {
+      "name": null,
+      "fulfillment_id": "0"
+     },
+     "builder": null
+    }
+   ],
+   "current_estimates": [
+    {
+     "estimate": 583972,
+     "estimate_high": 619010,
+     "estimate_low": 548933,
+     "date": "2026-10-28",
+     "isbest_homevalue": true,
+     "source": {
+      "type": "quantarium",
+      "name": "Quantarium"
+     }
+    },
+    {
+     "estimate": 617000,
+     "estimate_high": 870000,
+     "estimate_low": 364000,
+     "date": "2026-10-14",
+     "isbest_homevalue": false,
+     "source": {
+      "type": "collateral",
+      "name": "Collateral Analytics"
+     }
+    },
+    {
+     "estimate": 578800,
+     "estimate_high": 621600,
+     "estimate_low": 536000,
+     "date": "2026-10-05",
+     "isbest_homevalue": false,
+     "source": {
+      "type": "corelogic",
+      "name": "Cotality™"
+     }
+    }
+   ],
+   "pet_policy": null,
+   "units": null,
+   "tax_record": {
+    "apn": null,
+    "tax_parcel_id": null
+   }
+  }
+ ]
+}

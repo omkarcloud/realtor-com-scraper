@@ -1,0 +1,2854 @@
+{
+ "property_id": "8102930727",
+ "listing_id": "2991781467",
+ "href": "https://www.realtor.com/realestateandhomes-detail/1704-Shelbourne-Dr_Austin_TX_78752_M81029-30727",
+ "permalink": "1704-Shelbourne-Dr_Austin_TX_78752_M81029-30727",
+ "status": "for_sale",
+ "mls_status": "Active",
+ "list_date": "2026-02-21T14:21:38Z",
+ "list_price": 400000,
+ "list_price_min": null,
+ "list_price_max": null,
+ "price_per_sqft": 257,
+ "last_sold_price": null,
+ "last_sold_date": "2022-10-21",
+ "last_status_change_date": "2026-02-21T14:21:38Z",
+ "last_update_date": "2026-11-03T13:04:11Z",
+ "last_price_change_amount": 5000,
+ "last_price_change_date": "2026-10-15T20:10:30.348Z",
+ "pending_date": null,
+ "tags": [
+  "central_air",
+  "central_heat",
+  "community_outdoor_space",
+  "community_security_features",
+  "dishwasher",
+  "fireplace",
+  "hardwood_floors",
+  "laundry_room",
+  "view",
+  "washer_dryer",
+  "swimming_pool",
+  "single_story",
+  "garage_1_or_more",
+  "garage_2_or_more",
+  "open_concept_living",
+  "home_office",
+  "office",
+  "exercise_room"
+ ],
+ "days_on_market": null,
+ "photo_count": 38,
+ "description": {
+  "name": null,
+  "type": "single_family",
+  "sub_type": null,
+  "beds": 3,
+  "baths": 2,
+  "baths_full": 2,
+  "baths_half": null,
+  "baths_consolidated": "2",
+  "beds_min": null,
+  "beds_max": null,
+  "baths_min": null,
+  "baths_max": null,
+  "sqft": 1556,
+  "sqft_min": null,
+  "sqft_max": null,
+  "lot_sqft": 9561,
+  "year_built": 1969,
+  "garage": 2,
+  "stories": 1,
+  "text": "LENDER-APPROVED SHORT SALE! OVER $31,000 IN RECENT UPGRADES. THIS PROPERTY WAS OFFERED FOR $625,000 JUST 4 YEARS AGO AND SOLD FOR CLOSE TO THAT. Pool + sunroom + charm in the heart of Austin - this one checks all the boxes. Warm and inviting 3-bedroom, 2-bath home offering 1,556 square feet of thoughtfully designed living space. Bright, open living areas create effortless flow for everyday living and easy entertaining, with natural light enhancing the welcoming feel throughout. The spacious living room connects seamlessly to the kitchen, while a standout light-filled sunroom offers the perfect flex space for a home office, creative studio, workout room, or relaxed morning coffee retreat overlooking the backyard. Step outside to your private oasis featuring a sparkling pool - ideal for cooling off during long Austin summers, hosting weekend gatherings, or unwinding after a busy day. The backyard provides space to lounge, dine, and enjoy indoor-outdoor living year-round. Three comfortable bedrooms offer flexibility for guests, remote work, or growing households."
+ },
+ "details": [
+  {
+   "category": "Bedrooms",
+   "text": [
+    "Bedrooms: 3",
+    "Bedrooms On Main Level: 3",
+    "Primary Bedroom Level: Main"
+   ],
+   "parent_category": "Interior"
+  },
+  {
+   "category": "Bathrooms",
+   "text": [
+    "Total Bathrooms: 2",
+    "Full Bathrooms: 2"
+   ],
+   "parent_category": "Interior"
+  },
+  {
+   "category": "Interior Features",
+   "text": [
+    "Ceiling Fan(s)",
+    "Beamed Ceilings",
+    "Granite Counters",
+    "Stone Counters",
+    "Open Floorplan",
+    "Primary Bedroom on Main",
+    "Walk-In Closet(s)",
+    "Flooring: Carpet, Wood",
+    "Window Features: Aluminum Frames"
+   ],
+   "parent_category": "Interior"
+  },
+  {
+   "category": "Appliances",
+   "text": [
+    "Dishwasher",
+    "Disposal",
+    "Dryer",
+    "Gas Range",
+    "Microwave",
+    "Free-Standing Gas Range",
+    "Free-Standing Refrigerator",
+    "Stainless Steel Appliance(s)",
+    "Washer",
+    "Water Heater",
+    "Laundry Features: Inside, Laundry Room"
+   ],
+   "parent_category": "Interior"
+  },
+  {
+   "category": "Heating and Cooling",
+   "text": [
+    "Cooling Features: Ceiling Fan(s), Central Air",
+    "Fireplace Features: Gas, Living Room",
+    "Heating Features: Central, Natural Gas",
+    "Heating: Yes",
+    "Number of Fireplaces: 1",
+    "Ceiling Fans: Yes"
+   ],
+   "parent_category": "Interior"
+  },
+  {
+   "category": "Exterior and Lot Features",
+   "text": [
+    "Private Yard",
+    "Fencing: Back Yard, Wood",
+    "Other Structures: Shed(s), Storage",
+    "Patio And Porch Features: Covered, Deck, Enclosed, Rear Porch",
+    "Porch: Yes",
+    "Deck: Yes"
+   ],
+   "parent_category": "Exterior"
+  },
+  {
+   "category": "Land Info",
+   "text": [
+    "Additional Parcels: No",
+    "Lot Description: Back Yard, Curbs, Trees-Medium (20 Ft - 40 Ft)",
+    "Lot Size Acres: 0.2195",
+    "Lot Size Square Feet: 9561"
+   ],
+   "parent_category": "Exterior"
+  },
+  {
+   "category": "Pool and Spa",
+   "text": [
+    "Pool Features: Fenced, In Ground, Outdoor Pool",
+    "Pool Private: Yes"
+   ],
+   "parent_category": "Exterior"
+  },
+  {
+   "category": "Garage and Parking",
+   "text": [
+    "Covered Spaces: 2",
+    "Garage Spaces: 2",
+    "Parking Features: Driveway, Garage, Garage Door Opener",
+    "Parking Total: 2"
+   ],
+   "parent_category": "Exterior"
+  },
+  {
+   "category": "Home Features",
+   "text": [
+    "View: Pool",
+    "Security Features: Security System, Smoke Detector(s)"
+   ],
+   "parent_category": "Exterior"
+  },
+  {
+   "category": "Homeowners Association",
+   "text": [
+    "Association: No",
+    "Calculated Total Monthly Association Fees: 0"
+   ],
+   "parent_category": "Community"
+  },
+  {
+   "category": "School Information",
+   "text": [
+    "Elementary School: Andrews",
+    "High School: Northeast Early College",
+    "High School District: Austin ISD",
+    "Middle School: Webb",
+    "School District: Austin ISD"
+   ],
+   "parent_category": "Community"
+  },
+  {
+   "category": "Other Property Info",
+   "text": [
+    "Annual Tax Amount: 12242",
+    "Tax Block: J",
+    "Source Listing Status: Active",
+    "Tax Exemptions: Homestead",
+    "County: Travis",
+    "Directions: If you are coming from 290 West, exit Berkman Dr & Cameron Rd, turn R on Creekside, then L onto Coronado Hills, R on Glenhill, then R on Shelbourne, your destination 1704 Shelbourne will be 2nd house on your left. If you are coming from Dessau/Cameron Rd, turn L onto Coronado Hills, L onto Glenhill, then R on to Shelbourne, your destination is 2nd home on your left - 1704 Shelbourne",
+    "Tax Year: 2025",
+    "Source Property Type: Residential",
+    "Area: 3",
+    "Source Neighborhood: Creekside",
+    "Ownership Type: Fee-Simple",
+    "Parcel Number: 02282102100000",
+    "Subdivision: Creekside",
+    "Property Subtype: Single Family Residence"
+   ],
+   "parent_category": "Listing"
+  },
+  {
+   "category": "Building and Construction",
+   "text": [
+    "Total Square Feet Living: 1556",
+    "Year Built: 1969",
+    "Construction Materials: Brick Veneer",
+    "Direction Faces: Southwest",
+    "Foundation Details: Slab",
+    "Levels: One",
+    "Living Area Source: Public Records",
+    "Property Age: 57",
+    "Property Condition: Updated/Remodeled",
+    "Roof: Asphalt, Composition",
+    "Levels or Stories: One",
+    "House Style: Single level Floor Plan",
+    "Total Area Sqft: 1556",
+    "Year Built Source: Public Records"
+   ],
+   "parent_category": "Features"
+  },
+  {
+   "category": "Utilities",
+   "text": [
+    "Sewer: Public Sewer",
+    "Electricity Connected",
+    "Natural Gas Connected",
+    "Sewer Connected",
+    "Water Connected",
+    "Water Source: Public"
+   ],
+   "parent_category": "Features"
+  }
+ ],
+ "flags": {
+  "is_coming_soon": null,
+  "is_contingent": null,
+  "is_garage_present": true,
+  "is_new_construction": null,
+  "is_pending": null,
+  "is_short_sale": true,
+  "is_foreclosure": null,
+  "is_senior_community": null,
+  "is_for_rent": null,
+  "is_deal_available": null,
+  "is_price_reduced": null,
+  "is_new_listing": false,
+  "is_subdivision": null,
+  "is_plan": null
+ },
+ "location": {
+  "address": {
+   "line": "1704 Shelbourne Dr",
+   "unit": null,
+   "city": "Austin",
+   "state_code": "TX",
+   "state": "Texas",
+   "postal_code": "78752",
+   "coordinate": {
+    "lat": 30.327864,
+    "lon": -97.683779
+   }
+  },
+  "county": {
+   "name": "Travis",
+   "fips_code": "48453"
+  },
+  "neighborhoods": [
+   {
+    "id": "3ce80d3e-38ef-5b7d-8650-431088fd3b84",
+    "name": "Creekside",
+    "level": "residential_neighborhood",
+    "geo_type": "neighborhood",
+    "city": "Austin",
+    "state_code": "TX",
+    "slug_id": "Creekside_Austin_TX",
+    "centroid": {
+     "lat": 30.326536,
+     "lon": -97.68409
+    }
+   },
+   {
+    "id": "0b283f17-c242-5a46-b29f-b69eef4ac4ab",
+    "name": "Coronado Hills",
+    "level": "neighborhood",
+    "geo_type": "neighborhood",
+    "city": "Austin",
+    "state_code": "TX",
+    "slug_id": "Coronado-Hills_Austin_TX",
+    "centroid": {
+     "lat": 30.326052,
+     "lon": -97.685028
+    }
+   },
+   {
+    "id": "cd4e59ee-a47e-5142-9999-b42dc8ebf4f0",
+    "name": "East Austin",
+    "level": "macro_neighborhood",
+    "geo_type": "neighborhood",
+    "city": "Austin",
+    "state_code": "TX",
+    "slug_id": "East-Austin_Austin_TX",
+    "centroid": {
+     "lat": 30.280697,
+     "lon": -97.680128
+    }
+   }
+  ],
+  "parcel": null,
+  "street_view_url": "https://maps.googleapis.com/maps/api/streetview?channel=rdc-streetview&key=AIzaSyAP_xs30yS0J4xp8O1ZKUrUttIXKklrwaM&location=1704%20Shelbourne%20Dr%2C%20Austin%2C%20TX%2078752&size=640x480&source=outdoor&signature=sW86WsYHOSUbar8mFUy__mhrxDk="
+ },
+ "hoa": {
+  "fee": 0
+ },
+ "source": {
+  "id": "AUTX",
+  "type": "mls",
+  "name": "UnlockMLS",
+  "listing_id": "3401964",
+  "disclaimer": {
+   "text": "© 2026, Unlock MLS, All Rights Reserved.",
+   "href": null
+  },
+  "agents": [
+   {
+    "agent_name": null,
+    "agent_id": "510003",
+    "office_name": "eXp Realty, LLC",
+    "office_id": "702963"
+   }
+  ],
+  "raw": {
+   "status": "Active",
+   "style": "Single level Floor Plan",
+   "tax_amount": 12242
+  }
+ },
+ "primary_photo": {
+  "href": "https://ap.rdcpix.com/d35f307687bd662693dfc1958f2a9e63l-m4003346858s.jpg"
+ },
+ "photos": [
+  {
+   "href": "https://ap.rdcpix.com/d35f307687bd662693dfc1958f2a9e63l-m4003346858s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "exterior",
+     "probability": 0.6119469404220581
+    },
+    {
+     "label": "exterior",
+     "probability": 0.9913315773010254
+    },
+    {
+     "label": "exterior",
+     "probability": 0.8306486010551453
+    },
+    {
+     "label": "exterior",
+     "probability": 0.5745190382003784
+    },
+    {
+     "label": "exterior",
+     "probability": 0.7557390332221985
+    }
+   ]
+  },
+  {
+   "href": "https://ap.rdcpix.com/d35f307687bd662693dfc1958f2a9e63l-m620270851s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "exterior",
+     "probability": 0.8903255462646484
+    },
+    {
+     "label": "exterior",
+     "probability": 0.9838269352912903
+    },
+    {
+     "label": "exterior",
+     "probability": 0.978035569190979
+    },
+    {
+     "label": "swimming_pool",
+     "probability": 0.9832561016082764
+    },
+    {
+     "label": "exterior",
+     "probability": 0.9844768643379211
+    },
+    {
+     "label": "exterior",
+     "probability": 0.9471913576126099
+    }
+   ]
+  },
+  {
+   "href": "https://ap.rdcpix.com/d35f307687bd662693dfc1958f2a9e63l-m3183099925s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "living_room",
+     "probability": 0.9999712705612183
+    }
+   ]
+  },
+  {
+   "href": "https://ap.rdcpix.com/d35f307687bd662693dfc1958f2a9e63l-m1863049190s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "living_room",
+     "probability": 0.9997822642326355
+    }
+   ]
+  },
+  {
+   "href": "https://ap.rdcpix.com/d35f307687bd662693dfc1958f2a9e63l-m2862359800s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "exterior",
+     "probability": 0.9993826150894165
+    },
+    {
+     "label": "exterior",
+     "probability": 0.9630076885223389
+    }
+   ]
+  },
+  {
+   "href": "https://ap.rdcpix.com/d35f307687bd662693dfc1958f2a9e63l-m3350845468s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "kitchen",
+     "probability": 0.9219136238098145
+    }
+   ]
+  },
+  {
+   "href": "https://ap.rdcpix.com/d35f307687bd662693dfc1958f2a9e63l-m1874743239s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "kitchen",
+     "probability": 0.9999896287918091
+    }
+   ]
+  },
+  {
+   "href": "https://ap.rdcpix.com/d35f307687bd662693dfc1958f2a9e63l-m932535787s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "kitchen",
+     "probability": 0.9999618530273438
+    }
+   ]
+  },
+  {
+   "href": "https://ap.rdcpix.com/d35f307687bd662693dfc1958f2a9e63l-m3427936412s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "kitchen",
+     "probability": 0.9999998807907104
+    }
+   ]
+  },
+  {
+   "href": "https://ap.rdcpix.com/d35f307687bd662693dfc1958f2a9e63l-m1940336988s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "kitchen",
+     "probability": 0.999997615814209
+    }
+   ]
+  },
+  {
+   "href": "https://ap.rdcpix.com/d35f307687bd662693dfc1958f2a9e63l-m3831059981s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "dining_room",
+     "probability": 0.9999792575836182
+    }
+   ]
+  },
+  {
+   "href": "https://ap.rdcpix.com/d35f307687bd662693dfc1958f2a9e63l-m628135934s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "unknown",
+     "probability": 0.4948740005493164
+    }
+   ]
+  },
+  {
+   "href": "https://ap.rdcpix.com/d35f307687bd662693dfc1958f2a9e63l-m2194611085s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "dining_room",
+     "probability": 0.9999991655349731
+    }
+   ]
+  },
+  {
+   "href": "https://ap.rdcpix.com/d35f307687bd662693dfc1958f2a9e63l-m38510867s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "living_room",
+     "probability": 0.9952713847160339
+    }
+   ]
+  },
+  {
+   "href": "https://ap.rdcpix.com/d35f307687bd662693dfc1958f2a9e63l-m1037044971s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "unknown",
+     "probability": 0.7312314510345459
+    }
+   ]
+  },
+  {
+   "href": "https://ap.rdcpix.com/d35f307687bd662693dfc1958f2a9e63l-m4242193620s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "unknown",
+     "probability": 0.9826551675796509
+    }
+   ]
+  },
+  {
+   "href": "https://ap.rdcpix.com/d35f307687bd662693dfc1958f2a9e63l-m2955624456s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "kitchen",
+     "probability": 0.9930605888366699
+    }
+   ]
+  },
+  {
+   "href": "https://ap.rdcpix.com/d35f307687bd662693dfc1958f2a9e63l-m860072490s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "living_room",
+     "probability": 0.9999978542327881
+    }
+   ]
+  },
+  {
+   "href": "https://ap.rdcpix.com/d35f307687bd662693dfc1958f2a9e63l-m1591285347s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "living_room",
+     "probability": 0.9999948740005493
+    }
+   ]
+  },
+  {
+   "href": "https://ap.rdcpix.com/d35f307687bd662693dfc1958f2a9e63l-m438036259s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "living_room",
+     "probability": 0.9829696416854858
+    }
+   ]
+  },
+  {
+   "href": "https://ap.rdcpix.com/d35f307687bd662693dfc1958f2a9e63l-m1548132139s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "exterior",
+     "probability": 0.9980929493904114
+    },
+    {
+     "label": "exterior",
+     "probability": 0.9950883984565735
+    }
+   ]
+  },
+  {
+   "href": "https://ap.rdcpix.com/d35f307687bd662693dfc1958f2a9e63l-m1814913221s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "living_room",
+     "probability": 0.7494040727615356
+    }
+   ]
+  },
+  {
+   "href": "https://ap.rdcpix.com/d35f307687bd662693dfc1958f2a9e63l-m4124081818s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "bedroom",
+     "probability": 0.9999995231628418
+    }
+   ]
+  },
+  {
+   "href": "https://ap.rdcpix.com/d35f307687bd662693dfc1958f2a9e63l-m1762727775s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "bedroom",
+     "probability": 0.9999992847442627
+    }
+   ]
+  },
+  {
+   "href": "https://ap.rdcpix.com/d35f307687bd662693dfc1958f2a9e63l-m27296118s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "bedroom",
+     "probability": 0.9897340536117554
+    }
+   ]
+  },
+  {
+   "href": "https://ap.rdcpix.com/d35f307687bd662693dfc1958f2a9e63l-m2782134172s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "bathroom",
+     "probability": 0.9990598559379578
+    }
+   ]
+  },
+  {
+   "href": "https://ap.rdcpix.com/d35f307687bd662693dfc1958f2a9e63l-m88964862s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "bathroom",
+     "probability": 0.9936656355857849
+    }
+   ]
+  },
+  {
+   "href": "https://ap.rdcpix.com/d35f307687bd662693dfc1958f2a9e63l-m2116893584s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "unknown",
+     "probability": 0.9999395608901978
+    }
+   ]
+  },
+  {
+   "href": "https://ap.rdcpix.com/d35f307687bd662693dfc1958f2a9e63l-m3094027538s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "bedroom",
+     "probability": 0.9999985694885254
+    }
+   ]
+  },
+  {
+   "href": "https://ap.rdcpix.com/d35f307687bd662693dfc1958f2a9e63l-m3833927024s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "bedroom",
+     "probability": 0.9999991655349731
+    }
+   ]
+  },
+  {
+   "href": "https://ap.rdcpix.com/d35f307687bd662693dfc1958f2a9e63l-m1340389571s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "unknown",
+     "probability": 0.9991546869277954
+    }
+   ]
+  },
+  {
+   "href": "https://ap.rdcpix.com/d35f307687bd662693dfc1958f2a9e63l-m943391462s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "bathroom",
+     "probability": 1
+    }
+   ]
+  },
+  {
+   "href": "https://ap.rdcpix.com/d35f307687bd662693dfc1958f2a9e63l-m1340389571s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "unknown",
+     "probability": 0.9991546869277954
+    }
+   ]
+  },
+  {
+   "href": "https://ap.rdcpix.com/d35f307687bd662693dfc1958f2a9e63l-m582651802s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "unknown",
+     "probability": 0.9999957084655762
+    }
+   ]
+  },
+  {
+   "href": "https://ap.rdcpix.com/d35f307687bd662693dfc1958f2a9e63l-m292886547s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "exterior",
+     "probability": 0.43638741970062256
+    },
+    {
+     "label": "exterior",
+     "probability": 0.9997681975364685
+    },
+    {
+     "label": "exterior",
+     "probability": 0.998881995677948
+    }
+   ]
+  },
+  {
+   "href": "https://ap.rdcpix.com/d35f307687bd662693dfc1958f2a9e63l-m1377787208s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "exterior",
+     "probability": 0.8381882309913635
+    },
+    {
+     "label": "exterior",
+     "probability": 0.9967789053916931
+    },
+    {
+     "label": "exterior",
+     "probability": 0.6959223747253418
+    },
+    {
+     "label": "swimming_pool",
+     "probability": 0.7994956970214844
+    }
+   ]
+  },
+  {
+   "href": "https://ap.rdcpix.com/d35f307687bd662693dfc1958f2a9e63l-m2821329280s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "exterior",
+     "probability": 0.9997197985649109
+    },
+    {
+     "label": "exterior",
+     "probability": 0.8473923206329346
+    },
+    {
+     "label": "swimming_pool",
+     "probability": 0.9968846440315247
+    }
+   ]
+  },
+  {
+   "href": "https://ap.rdcpix.com/d35f307687bd662693dfc1958f2a9e63l-m1077284350s.jpg",
+   "title": null,
+   "tags": [
+    {
+     "label": "exterior",
+     "probability": 0.998531699180603
+    }
+   ]
+  }
+ ],
+ "virtual_tours": null,
+ "matterport": null,
+ "advertisers": [
+  {
+   "fulfillment_id": "184731",
+   "name": "Knolly Williams",
+   "email": "knolly@knolly.com",
+   "type": "seller",
+   "href": "http://www.Knolly.com",
+   "slogan": "LIST WITH KNOLLY & CONSIDER IT SOLD!",
+   "state_license": "0510003",
+   "nrds_id": "803000355",
+   "mls_set": "A-AUTX-510003",
+   "phones": [
+    {
+     "number": "7372051640",
+     "type": "Mobile",
+     "primary": true,
+     "ext": ""
+    }
+   ],
+   "photo": {
+    "href": "https://ap.rdcpix.com/c35406d29809fc1f037a8c1ae795e0a0a-e2501184590l.jpg"
+   },
+   "office": {
+    "name": "eXp Realty, LLC",
+    "email": "linda.marcus@exprealty.com",
+    "href": null,
+    "phones": [
+     {
+      "number": "8885197431",
+      "type": "Office"
+     }
+    ],
+    "address": {
+     "line": "9600 GREAT HILLS TRL",
+     "city": "AUSTIN",
+     "state_code": "TX",
+     "postal_code": "78759"
+    }
+   },
+   "broker": {
+    "name": "eXp Realty, LLC"
+   },
+   "builder": null
+  }
+ ],
+ "consumer_advertisers": [
+  {
+   "type": "Agent",
+   "name": "Knolly Williams",
+   "href": "/realestateagents/Knolly-Williams_Austin_TX_184731_446999691",
+   "agent_id": "184731",
+   "office_id": "100250955",
+   "phone": null
+  },
+  {
+   "type": "Office",
+   "name": "eXp Realty, LLC",
+   "href": "http://www.austinhomesearch.com/ACT3401964",
+   "agent_id": "184731",
+   "office_id": "100250955",
+   "phone": "(888) 519-7431"
+  }
+ ],
+ "property_history": [
+  {
+   "date": "2026-10-15",
+   "event_name": "Price Changed",
+   "price": 400000,
+   "price_change": 5000,
+   "price_sqft": 257.0694087403599,
+   "price_change_percentage": null,
+   "days_after_listed": null,
+   "source_name": "UnlockMLS",
+   "source_listing_id": "3401964",
+   "listing": {
+    "listing_id": "2991781467",
+    "status": "for_sale",
+    "list_price": 400000,
+    "list_date": "2026-02-21T14:21:38Z",
+    "last_status_change_date": "2026-02-21T14:21:38Z",
+    "last_update_date": "2026-11-03T13:04:11Z",
+    "photos": [
+     {
+      "href": "https://ap.rdcpix.com/d35f307687bd662693dfc1958f2a9e63l-m4003346858s.jpg"
+     }
+    ],
+    "description": {
+     "sqft": 1556
+    }
+   }
+  },
+  {
+   "date": "2026-08-25",
+   "event_name": "Price Changed",
+   "price": 395000,
+   "price_change": -25000,
+   "price_sqft": 253.8560411311054,
+   "price_change_percentage": null,
+   "days_after_listed": null,
+   "source_name": "UnlockMLS",
+   "source_listing_id": "3401964",
+   "listing": {
+    "listing_id": "2991781467",
+    "status": "for_sale",
+    "list_price": 400000,
+    "list_date": "2026-02-21T14:21:38Z",
+    "last_status_change_date": "2026-02-21T14:21:38Z",
+    "last_update_date": "2026-11-03T13:04:11Z",
+    "photos": [
+     {
+      "href": "https://ap.rdcpix.com/d35f307687bd662693dfc1958f2a9e63l-m4003346858s.jpg"
+     }
+    ],
+    "description": {
+     "sqft": 1556
+    }
+   }
+  },
+  {
+   "date": "2026-07-10",
+   "event_name": "Price Changed",
+   "price": 420000,
+   "price_change": -155000,
+   "price_sqft": 269.92287917737787,
+   "price_change_percentage": null,
+   "days_after_listed": null,
+   "source_name": "UnlockMLS",
+   "source_listing_id": "3401964",
+   "listing": {
+    "listing_id": "2991781467",
+    "status": "for_sale",
+    "list_price": 400000,
+    "list_date": "2026-02-21T14:21:38Z",
+    "last_status_change_date": "2026-02-21T14:21:38Z",
+    "last_update_date": "2026-11-03T13:04:11Z",
+    "photos": [
+     {
+      "href": "https://ap.rdcpix.com/d35f307687bd662693dfc1958f2a9e63l-m4003346858s.jpg"
+     }
+    ],
+    "description": {
+     "sqft": 1556
+    }
+   }
+  },
+  {
+   "date": "2026-03-23",
+   "event_name": "Price Changed",
+   "price": 575000,
+   "price_change": -24000,
+   "price_sqft": 369.53727506426736,
+   "price_change_percentage": null,
+   "days_after_listed": null,
+   "source_name": "UnlockMLS",
+   "source_listing_id": "3401964",
+   "listing": {
+    "listing_id": "2991781467",
+    "status": "for_sale",
+    "list_price": 400000,
+    "list_date": "2026-02-21T14:21:38Z",
+    "last_status_change_date": "2026-02-21T14:21:38Z",
+    "last_update_date": "2026-11-03T13:04:11Z",
+    "photos": [
+     {
+      "href": "https://ap.rdcpix.com/d35f307687bd662693dfc1958f2a9e63l-m4003346858s.jpg"
+     }
+    ],
+    "description": {
+     "sqft": 1556
+    }
+   }
+  },
+  {
+   "date": "2026-03-05",
+   "event_name": "Price Changed",
+   "price": 599000,
+   "price_change": -16000,
+   "price_sqft": 384.96143958868896,
+   "price_change_percentage": null,
+   "days_after_listed": null,
+   "source_name": "UnlockMLS",
+   "source_listing_id": "3401964",
+   "listing": {
+    "listing_id": "2991781467",
+    "status": "for_sale",
+    "list_price": 400000,
+    "list_date": "2026-02-21T14:21:38Z",
+    "last_status_change_date": "2026-02-21T14:21:38Z",
+    "last_update_date": "2026-11-03T13:04:11Z",
+    "photos": [
+     {
+      "href": "https://ap.rdcpix.com/d35f307687bd662693dfc1958f2a9e63l-m4003346858s.jpg"
+     }
+    ],
+    "description": {
+     "sqft": 1556
+    }
+   }
+  },
+  {
+   "date": "2026-02-21",
+   "event_name": "Listed",
+   "price": 615000,
+   "price_change": 0,
+   "price_sqft": 395.24421593830334,
+   "price_change_percentage": null,
+   "days_after_listed": null,
+   "source_name": "UnlockMLS",
+   "source_listing_id": "3401964",
+   "listing": {
+    "listing_id": "2991781467",
+    "status": "for_sale",
+    "list_price": 400000,
+    "list_date": "2026-02-21T14:21:38Z",
+    "last_status_change_date": "2026-02-21T14:21:38Z",
+    "last_update_date": "2026-11-03T13:04:11Z",
+    "photos": [
+     {
+      "href": "https://ap.rdcpix.com/d35f307687bd662693dfc1958f2a9e63l-m4003346858s.jpg"
+     }
+    ],
+    "description": {
+     "sqft": 1556
+    }
+   }
+  },
+  {
+   "date": "2022-10-21",
+   "event_name": "Sold",
+   "price": 0,
+   "price_change": 0,
+   "price_sqft": 0,
+   "price_change_percentage": null,
+   "days_after_listed": "106 days",
+   "source_name": "Public Record",
+   "source_listing_id": null,
+   "listing": null
+  },
+  {
+   "date": "2022-10-21",
+   "event_name": "Listing removed",
+   "price": 0,
+   "price_change": 0,
+   "price_sqft": null,
+   "price_change_percentage": null,
+   "days_after_listed": null,
+   "source_name": "UnlockMLS",
+   "source_listing_id": "3724460",
+   "listing": {
+    "listing_id": "2945073087",
+    "status": "sold",
+    "list_price": 625000,
+    "list_date": "2022-07-07T01:47:04Z",
+    "last_status_change_date": "2022-10-21T17:04:46Z",
+    "last_update_date": "2022-10-21T11:31:45Z",
+    "photos": [
+     {
+      "href": "https://ap.rdcpix.com/fd9c28a41db5f269ab084003171b7d2cl-m4270285694s.jpg"
+     }
+    ],
+    "description": {
+     "sqft": 1556
+    }
+   }
+  },
+  {
+   "date": "2022-09-09",
+   "event_name": "Price Changed",
+   "price": 625000,
+   "price_change": -49000,
+   "price_sqft": 401.67095115681235,
+   "price_change_percentage": null,
+   "days_after_listed": null,
+   "source_name": "UnlockMLS",
+   "source_listing_id": "3724460",
+   "listing": {
+    "listing_id": "2945073087",
+    "status": "sold",
+    "list_price": 625000,
+    "list_date": "2022-07-07T01:47:04Z",
+    "last_status_change_date": "2022-10-21T17:04:46Z",
+    "last_update_date": "2022-10-21T11:31:45Z",
+    "photos": [
+     {
+      "href": "https://ap.rdcpix.com/fd9c28a41db5f269ab084003171b7d2cl-m4270285694s.jpg"
+     }
+    ],
+    "description": {
+     "sqft": 1556
+    }
+   }
+  },
+  {
+   "date": "2022-08-25",
+   "event_name": "Price Changed",
+   "price": 674000,
+   "price_change": -1000,
+   "price_sqft": 433.16195372750644,
+   "price_change_percentage": null,
+   "days_after_listed": null,
+   "source_name": "UnlockMLS",
+   "source_listing_id": "3724460",
+   "listing": {
+    "listing_id": "2945073087",
+    "status": "sold",
+    "list_price": 625000,
+    "list_date": "2022-07-07T01:47:04Z",
+    "last_status_change_date": "2022-10-21T17:04:46Z",
+    "last_update_date": "2022-10-21T11:31:45Z",
+    "photos": [
+     {
+      "href": "https://ap.rdcpix.com/fd9c28a41db5f269ab084003171b7d2cl-m4270285694s.jpg"
+     }
+    ],
+    "description": {
+     "sqft": 1556
+    }
+   }
+  },
+  {
+   "date": "2022-07-07",
+   "event_name": "Listed",
+   "price": 675000,
+   "price_change": 0,
+   "price_sqft": 433.80462724935734,
+   "price_change_percentage": null,
+   "days_after_listed": null,
+   "source_name": "UnlockMLS",
+   "source_listing_id": "3724460",
+   "listing": {
+    "listing_id": "2945073087",
+    "status": "sold",
+    "list_price": 625000,
+    "list_date": "2022-07-07T01:47:04Z",
+    "last_status_change_date": "2022-10-21T17:04:46Z",
+    "last_update_date": "2022-10-21T11:31:45Z",
+    "photos": [
+     {
+      "href": "https://ap.rdcpix.com/fd9c28a41db5f269ab084003171b7d2cl-m4270285694s.jpg"
+     }
+    ],
+    "description": {
+     "sqft": 1556
+    }
+   }
+  }
+ ],
+ "tax_history": [
+  {
+   "year": 2026,
+   "tax": 10568,
+   "assessment": {
+    "building": 413615,
+    "land": 102817,
+    "total": 516432
+   },
+   "market": {
+    "building": 413615,
+    "land": 102817,
+    "total": 516432
+   }
+  },
+  {
+   "year": 2025,
+   "tax": 11854,
+   "assessment": {
+    "building": 495362,
+    "land": 102817,
+    "total": 598179
+   },
+   "market": {
+    "building": 495362,
+    "land": 102817,
+    "total": 598179
+   }
+  },
+  {
+   "year": 2023,
+   "tax": 10569,
+   "assessment": {
+    "building": 484194,
+    "land": 100000,
+    "total": 584194
+   },
+   "market": {
+    "building": 484194,
+    "land": 100000,
+    "total": 584194
+   }
+  },
+  {
+   "year": 2022,
+   "tax": 8133,
+   "assessment": {
+    "building": null,
+    "land": null,
+    "total": 339690
+   },
+   "market": {
+    "building": 257172,
+    "land": 100000,
+    "total": 357172
+   }
+  },
+  {
+   "year": 2021,
+   "tax": 7563,
+   "assessment": {
+    "building": null,
+    "land": null,
+    "total": 308809
+   },
+   "market": {
+    "building": 214643,
+    "land": 100000,
+    "total": 314643
+   }
+  },
+  {
+   "year": 2020,
+   "tax": 6623,
+   "assessment": {
+    "building": null,
+    "land": null,
+    "total": 280735
+   },
+   "market": {
+    "building": 214643,
+    "land": 100000,
+    "total": 314643
+   }
+  },
+  {
+   "year": 2019,
+   "tax": 6166,
+   "assessment": {
+    "building": null,
+    "land": null,
+    "total": 255214
+   },
+   "market": {
+    "building": 198002,
+    "land": 100000,
+    "total": 298002
+   }
+  },
+  {
+   "year": 2018,
+   "tax": 5650,
+   "assessment": {
+    "building": null,
+    "land": null,
+    "total": 232013
+   },
+   "market": {
+    "building": 223354,
+    "land": 50000,
+    "total": 273354
+   }
+  },
+  {
+   "year": 2017,
+   "tax": 5174,
+   "assessment": {
+    "building": null,
+    "land": null,
+    "total": 210921
+   },
+   "market": {
+    "building": 223354,
+    "land": 50000,
+    "total": 273354
+   }
+  },
+  {
+   "year": 2016,
+   "tax": 4842,
+   "assessment": {
+    "building": 141746,
+    "land": 50000,
+    "total": 191746
+   },
+   "market": {
+    "building": 141746,
+    "land": 50000,
+    "total": 191746
+   }
+  },
+  {
+   "year": 2014,
+   "tax": 4195,
+   "assessment": {
+    "building": 126283,
+    "land": 50000,
+    "total": 176283
+   },
+   "market": {
+    "building": 126283,
+    "land": 50000,
+    "total": 176283
+   }
+  },
+  {
+   "year": 2013,
+   "tax": 4063,
+   "assessment": {
+    "building": 131300,
+    "land": 50000,
+    "total": 181300
+   },
+   "market": {
+    "building": 131300,
+    "land": 50000,
+    "total": 181300
+   }
+  },
+  {
+   "year": 2012,
+   "tax": 4319,
+   "assessment": {
+    "building": null,
+    "land": null,
+    "total": 175636
+   },
+   "market": {
+    "building": 131300,
+    "land": 50000,
+    "total": 181300
+   }
+  },
+  {
+   "year": 2011,
+   "tax": 4069,
+   "assessment": {
+    "building": null,
+    "land": null,
+    "total": 159669
+   },
+   "market": {
+    "building": 133061,
+    "land": 50000,
+    "total": 183061
+   }
+  },
+  {
+   "year": 2010,
+   "tax": 3522,
+   "assessment": {
+    "building": null,
+    "land": null,
+    "total": 145154
+   },
+   "market": {
+    "building": 133061,
+    "land": 50000,
+    "total": 183061
+   }
+  },
+  {
+   "year": 2009,
+   "tax": 3162,
+   "assessment": {
+    "building": null,
+    "land": null,
+    "total": 131958
+   },
+   "market": {
+    "building": 81958,
+    "land": 50000,
+    "total": 131958
+   }
+  },
+  {
+   "year": 2008,
+   "tax": 2841,
+   "assessment": {
+    "building": null,
+    "land": null,
+    "total": 155467
+   },
+   "market": {
+    "building": 123793,
+    "land": 40000,
+    "total": 163793
+   }
+  }
+ ],
+ "tax_record": {
+  "apn": null,
+  "tax_parcel_id": "c6fd7bbf-faf6-4822-b634-bf4182e43ae4"
+ },
+ "estimates": {
+  "current_values": [
+   {
+    "estimate": 391000,
+    "estimate_high": 430100,
+    "estimate_low": 351900,
+    "date": "2026-10-14",
+    "isbest_homevalue": true,
+    "source": {
+     "type": "collateral",
+     "name": "Collateral Analytics"
+    }
+   },
+   {
+    "estimate": 546437,
+    "estimate_high": 612009,
+    "estimate_low": 480864,
+    "date": "2026-10-28",
+    "isbest_homevalue": false,
+    "source": {
+     "type": "quantarium",
+     "name": "Quantarium"
+    }
+   },
+   {
+    "estimate": 380000,
+    "estimate_high": 406400,
+    "estimate_low": 353700,
+    "date": "2026-10-05",
+    "isbest_homevalue": false,
+    "source": {
+     "type": "corelogic",
+     "name": "Cotality™"
+    }
+   }
+  ],
+  "forecast_values": [
+   {
+    "source": {
+     "type": "corelogic",
+     "name": "Cotality™"
+    },
+    "estimates": [
+     {
+      "estimate": 377190,
+      "date": "2026-11-01"
+     },
+     {
+      "estimate": 377509,
+      "date": "2026-12-01"
+     },
+     {
+      "estimate": 380169,
+      "date": "2027-01-01"
+     },
+     {
+      "estimate": 382827,
+      "date": "2027-02-01"
+     },
+     {
+      "estimate": 384870,
+      "date": "2027-03-01"
+     },
+     {
+      "estimate": 389262,
+      "date": "2027-04-01"
+     },
+     {
+      "estimate": 393119,
+      "date": "2027-05-01"
+     },
+     {
+      "estimate": 393798,
+      "date": "2027-06-01"
+     },
+     {
+      "estimate": 391515,
+      "date": "2027-07-01"
+     },
+     {
+      "estimate": 388937,
+      "date": "2027-08-01"
+     },
+     {
+      "estimate": 384885,
+      "date": "2027-09-01"
+     },
+     {
+      "estimate": 381491,
+      "date": "2027-10-01"
+     }
+    ]
+   },
+   {
+    "source": {
+     "type": "quantarium",
+     "name": "Quantarium"
+    },
+    "estimates": [
+     {
+      "estimate": 543799,
+      "date": "2026-11-01"
+     },
+     {
+      "estimate": 541420,
+      "date": "2026-12-01"
+     },
+     {
+      "estimate": 539174,
+      "date": "2027-01-01"
+     },
+     {
+      "estimate": 539813,
+      "date": "2027-02-01"
+     },
+     {
+      "estimate": 545452,
+      "date": "2027-03-01"
+     },
+     {
+      "estimate": 546297,
+      "date": "2027-04-01"
+     },
+     {
+      "estimate": 549769,
+      "date": "2027-05-01"
+     },
+     {
+      "estimate": 550645,
+      "date": "2027-06-01"
+     },
+     {
+      "estimate": 552011,
+      "date": "2027-07-01"
+     },
+     {
+      "estimate": 552043,
+      "date": "2027-08-01"
+     },
+     {
+      "estimate": 549387,
+      "date": "2027-09-01"
+     },
+     {
+      "estimate": 544480,
+      "date": "2027-10-01"
+     }
+    ]
+   }
+  ],
+  "historical_values": [
+   {
+    "source": {
+     "type": "collateral",
+     "name": "Collateral Analytics"
+    },
+    "estimates": [
+     {
+      "estimate": 391000,
+      "date": "2026-10-14"
+     },
+     {
+      "estimate": 416000,
+      "date": "2026-09-15"
+     },
+     {
+      "estimate": 416000,
+      "date": "2026-08-13"
+     },
+     {
+      "estimate": 569000,
+      "date": "2026-07-14"
+     },
+     {
+      "estimate": 569000,
+      "date": "2026-06-14"
+     },
+     {
+      "estimate": 569000,
+      "date": "2026-05-15"
+     }
+    ]
+   },
+   {
+    "source": {
+     "type": "corelogic",
+     "name": "Cotality™"
+    },
+    "estimates": [
+     {
+      "estimate": 380000,
+      "date": "2026-10-05"
+     },
+     {
+      "estimate": 383600,
+      "date": "2026-09-08"
+     },
+     {
+      "estimate": 414300,
+      "date": "2026-08-10"
+     },
+     {
+      "estimate": 558800,
+      "date": "2026-07-06"
+     },
+     {
+      "estimate": 571200,
+      "date": "2026-06-08"
+     },
+     {
+      "estimate": 561900,
+      "date": "2026-05-05"
+     },
+     {
+      "estimate": 563200,
+      "date": "2026-04-13"
+     },
+     {
+      "estimate": 581300,
+      "date": "2026-03-09"
+     },
+     {
+      "estimate": 547400,
+      "date": "2026-02-09"
+     },
+     {
+      "estimate": 548200,
+      "date": "2026-01-05"
+     },
+     {
+      "estimate": 537100,
+      "date": "2025-12-08"
+     },
+     {
+      "estimate": 549300,
+      "date": "2025-11-10"
+     },
+     {
+      "estimate": 537300,
+      "date": "2025-10-06"
+     },
+     {
+      "estimate": 558800,
+      "date": "2025-09-08"
+     },
+     {
+      "estimate": 558300,
+      "date": "2025-08-11"
+     },
+     {
+      "estimate": 563500,
+      "date": "2025-07-07"
+     },
+     {
+      "estimate": 564300,
+      "date": "2025-06-09"
+     },
+     {
+      "estimate": 563800,
+      "date": "2025-05-05"
+     },
+     {
+      "estimate": 577800,
+      "date": "2025-04-07"
+     },
+     {
+      "estimate": 566100,
+      "date": "2025-03-10"
+     },
+     {
+      "estimate": 567700,
+      "date": "2025-02-10"
+     },
+     {
+      "estimate": 573100,
+      "date": "2025-01-06"
+     },
+     {
+      "estimate": 581700,
+      "date": "2024-12-09"
+     },
+     {
+      "estimate": 567400,
+      "date": "2024-11-04"
+     },
+     {
+      "estimate": 546900,
+      "date": "2024-10-07"
+     },
+     {
+      "estimate": 551400,
+      "date": "2024-09-09"
+     },
+     {
+      "estimate": 552700,
+      "date": "2024-08-05"
+     },
+     {
+      "estimate": 575800,
+      "date": "2024-07-08"
+     },
+     {
+      "estimate": 589000,
+      "date": "2024-06-10"
+     },
+     {
+      "estimate": 588900,
+      "date": "2024-05-06"
+     },
+     {
+      "estimate": 580800,
+      "date": "2024-04-01"
+     },
+     {
+      "estimate": 568900,
+      "date": "2024-03-04"
+     },
+     {
+      "estimate": 578100,
+      "date": "2024-02-05"
+     },
+     {
+      "estimate": 591400,
+      "date": "2024-01-08"
+     },
+     {
+      "estimate": 595000,
+      "date": "2023-12-04"
+     },
+     {
+      "estimate": 594000,
+      "date": "2023-11-06"
+     },
+     {
+      "estimate": 602800,
+      "date": "2023-10-09"
+     },
+     {
+      "estimate": 553600,
+      "date": "2023-09-27"
+     },
+     {
+      "estimate": 553900,
+      "date": "2023-08-29"
+     },
+     {
+      "estimate": 553600,
+      "date": "2023-07-26"
+     },
+     {
+      "estimate": 553500,
+      "date": "2023-06-29"
+     },
+     {
+      "estimate": 553700,
+      "date": "2023-05-30"
+     },
+     {
+      "estimate": 553600,
+      "date": "2023-04-27"
+     },
+     {
+      "estimate": 553500,
+      "date": "2023-03-26"
+     },
+     {
+      "estimate": 556300,
+      "date": "2023-02-26"
+     },
+     {
+      "estimate": 566700,
+      "date": "2023-01-31"
+     },
+     {
+      "estimate": 565700,
+      "date": "2022-12-28"
+     },
+     {
+      "estimate": 565100,
+      "date": "2022-11-24"
+     },
+     {
+      "estimate": 678900,
+      "date": "2022-10-21"
+     },
+     {
+      "estimate": 677000,
+      "date": "2022-09-24"
+     },
+     {
+      "estimate": 677000,
+      "date": "2022-08-28"
+     },
+     {
+      "estimate": 676800,
+      "date": "2022-07-24"
+     },
+     {
+      "estimate": 585400,
+      "date": "2022-06-29"
+     },
+     {
+      "estimate": 582900,
+      "date": "2022-05-21"
+     },
+     {
+      "estimate": 580600,
+      "date": "2022-04-27"
+     },
+     {
+      "estimate": 542900,
+      "date": "2022-03-24"
+     },
+     {
+      "estimate": 547100,
+      "date": "2022-02-27"
+     },
+     {
+      "estimate": 536400,
+      "date": "2022-01-19"
+     },
+     {
+      "estimate": 528100,
+      "date": "2021-12-27"
+     },
+     {
+      "estimate": 514300,
+      "date": "2021-11-18"
+     }
+    ]
+   },
+   {
+    "source": {
+     "type": "quantarium",
+     "name": "Quantarium"
+    },
+    "estimates": [
+     {
+      "estimate": 546437,
+      "date": "2026-10-28"
+     },
+     {
+      "estimate": 530877,
+      "date": "2026-09-30"
+     },
+     {
+      "estimate": 542911,
+      "date": "2026-08-26"
+     },
+     {
+      "estimate": 541503,
+      "date": "2026-07-29"
+     },
+     {
+      "estimate": 565819,
+      "date": "2026-06-24"
+     },
+     {
+      "estimate": 563960,
+      "date": "2026-05-27"
+     },
+     {
+      "estimate": 565310,
+      "date": "2026-04-29"
+     },
+     {
+      "estimate": 588864,
+      "date": "2026-03-25"
+     },
+     {
+      "estimate": 606678,
+      "date": "2026-02-25"
+     },
+     {
+      "estimate": 524701,
+      "date": "2026-01-28"
+     },
+     {
+      "estimate": 539533,
+      "date": "2025-12-31"
+     },
+     {
+      "estimate": 531380,
+      "date": "2025-11-26"
+     },
+     {
+      "estimate": 547868,
+      "date": "2025-10-29"
+     },
+     {
+      "estimate": 571103,
+      "date": "2025-09-24"
+     },
+     {
+      "estimate": 553106,
+      "date": "2025-08-27"
+     },
+     {
+      "estimate": 561292,
+      "date": "2025-07-30"
+     },
+     {
+      "estimate": 573084,
+      "date": "2025-06-25"
+     },
+     {
+      "estimate": 571514,
+      "date": "2025-05-28"
+     },
+     {
+      "estimate": 559734,
+      "date": "2025-04-30"
+     },
+     {
+      "estimate": 556983,
+      "date": "2025-03-26"
+     },
+     {
+      "estimate": 529922,
+      "date": "2025-02-12"
+     },
+     {
+      "estimate": 561575,
+      "date": "2025-01-29"
+     },
+     {
+      "estimate": 576910,
+      "date": "2024-12-18"
+     },
+     {
+      "estimate": 580891,
+      "date": "2024-11-27"
+     },
+     {
+      "estimate": 574612,
+      "date": "2024-10-30"
+     },
+     {
+      "estimate": 559770,
+      "date": "2024-09-25"
+     },
+     {
+      "estimate": 569119,
+      "date": "2024-08-28"
+     },
+     {
+      "estimate": 570647,
+      "date": "2024-07-31"
+     },
+     {
+      "estimate": 574732,
+      "date": "2024-06-26"
+     },
+     {
+      "estimate": 574120,
+      "date": "2024-05-29"
+     },
+     {
+      "estimate": 572289,
+      "date": "2024-04-24"
+     },
+     {
+      "estimate": 592331,
+      "date": "2024-03-27"
+     },
+     {
+      "estimate": 576765,
+      "date": "2024-02-28"
+     },
+     {
+      "estimate": 578583,
+      "date": "2024-01-31"
+     },
+     {
+      "estimate": 573260,
+      "date": "2023-12-27"
+     },
+     {
+      "estimate": 577489,
+      "date": "2023-11-29"
+     },
+     {
+      "estimate": 558120,
+      "date": "2023-10-25"
+     },
+     {
+      "estimate": 596889,
+      "date": "2023-09-27"
+     },
+     {
+      "estimate": 588682,
+      "date": "2023-08-30"
+     },
+     {
+      "estimate": 575688,
+      "date": "2023-07-26"
+     },
+     {
+      "estimate": 614810,
+      "date": "2023-06-28"
+     },
+     {
+      "estimate": 618254,
+      "date": "2023-05-31"
+     },
+     {
+      "estimate": 614341,
+      "date": "2023-04-26"
+     },
+     {
+      "estimate": 612376,
+      "date": "2023-03-29"
+     },
+     {
+      "estimate": 617963,
+      "date": "2023-02-22"
+     },
+     {
+      "estimate": 608655,
+      "date": "2023-01-25"
+     },
+     {
+      "estimate": 613159,
+      "date": "2022-12-28"
+     },
+     {
+      "estimate": 621317,
+      "date": "2022-11-30"
+     },
+     {
+      "estimate": 624671,
+      "date": "2022-10-26"
+     },
+     {
+      "estimate": 623799,
+      "date": "2022-09-28"
+     },
+     {
+      "estimate": 673804,
+      "date": "2022-08-31"
+     },
+     {
+      "estimate": 674832,
+      "date": "2022-07-27"
+     },
+     {
+      "estimate": 578727,
+      "date": "2022-06-29"
+     },
+     {
+      "estimate": 595398,
+      "date": "2022-05-25"
+     },
+     {
+      "estimate": 568106,
+      "date": "2022-04-27"
+     },
+     {
+      "estimate": 559670,
+      "date": "2022-03-30"
+     },
+     {
+      "estimate": 524188,
+      "date": "2022-02-23"
+     },
+     {
+      "estimate": 513355,
+      "date": "2022-01-26"
+     },
+     {
+      "estimate": 548088,
+      "date": "2021-12-29"
+     },
+     {
+      "estimate": 520541,
+      "date": "2021-11-10"
+     }
+    ]
+   }
+  ]
+ },
+ "schools": {
+  "schools": [
+   {
+    "id": "0768579641",
+    "name": "Northeast Early College High School",
+    "rating": 3,
+    "distance_in_miles": 0.5,
+    "education_levels": [
+     "high"
+    ],
+    "funding_type": "public",
+    "student_count": 972,
+    "grades": [
+     "9",
+     "10",
+     "11",
+     "12"
+    ],
+    "parent_rating": 5,
+    "assigned": true,
+    "coordinate": {
+     "lat": 30.324103,
+     "lon": -97.689995
+    },
+    "district": {
+     "id": "06211430211",
+     "name": "Austin Independent School District"
+    }
+   },
+   {
+    "id": "0768578851",
+    "name": "Andrews Elementary School",
+    "rating": 3,
+    "distance_in_miles": 0.8,
+    "education_levels": [
+     "elementary"
+    ],
+    "funding_type": "public",
+    "student_count": 308,
+    "grades": [
+     "K",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5"
+    ],
+    "parent_rating": 3,
+    "assigned": true,
+    "coordinate": {
+     "lat": 30.317405,
+     "lon": -97.67985
+    },
+    "district": {
+     "id": "06211430211",
+     "name": "Austin Independent School District"
+    }
+   },
+   {
+    "id": "0768579901",
+    "name": "Webb Middle School",
+    "rating": 2,
+    "distance_in_miles": 1.4,
+    "education_levels": [
+     "middle"
+    ],
+    "funding_type": "public",
+    "student_count": 502,
+    "grades": [
+     "6",
+     "7",
+     "8"
+    ],
+    "parent_rating": 4,
+    "assigned": true,
+    "coordinate": {
+     "lat": 30.332714,
+     "lon": -97.706685
+    },
+    "district": {
+     "id": "06211430211",
+     "name": "Austin Independent School District"
+    }
+   },
+   {
+    "id": "0768919561",
+    "name": "Greater Calvary Academy",
+    "rating": null,
+    "distance_in_miles": 0.7,
+    "education_levels": [
+     "elementary"
+    ],
+    "funding_type": "private",
+    "student_count": 7,
+    "grades": [
+     "K",
+     "2",
+     "4",
+     "5"
+    ],
+    "parent_rating": null,
+    "assigned": null,
+    "coordinate": {
+     "lat": 30.318727,
+     "lon": -97.690094
+    },
+    "district": {
+     "id": "06211428551",
+     "name": null
+    }
+   }
+  ]
+ },
+ "nearby_schools": {
+  "schools": [
+   {
+    "id": "0768579641",
+    "name": "Northeast Early College High School",
+    "rating": 3,
+    "distance_in_miles": 0.5,
+    "education_levels": [
+     "high"
+    ],
+    "funding_type": "public",
+    "student_count": 972,
+    "grades": [
+     "9",
+     "10",
+     "11",
+     "12"
+    ],
+    "parent_rating": 5,
+    "assigned": true,
+    "coordinate": {
+     "lat": 30.324103,
+     "lon": -97.689995
+    },
+    "district": {
+     "id": "06211430211",
+     "name": "Austin Independent School District"
+    }
+   },
+   {
+    "id": "0768578851",
+    "name": "Andrews Elementary School",
+    "rating": 3,
+    "distance_in_miles": 0.8,
+    "education_levels": [
+     "elementary"
+    ],
+    "funding_type": "public",
+    "student_count": 308,
+    "grades": [
+     "K",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5"
+    ],
+    "parent_rating": 3,
+    "assigned": true,
+    "coordinate": {
+     "lat": 30.317405,
+     "lon": -97.67985
+    },
+    "district": {
+     "id": "06211430211",
+     "name": "Austin Independent School District"
+    }
+   },
+   {
+    "id": "0768579901",
+    "name": "Webb Middle School",
+    "rating": 2,
+    "distance_in_miles": 1.4,
+    "education_levels": [
+     "middle"
+    ],
+    "funding_type": "public",
+    "student_count": 502,
+    "grades": [
+     "6",
+     "7",
+     "8"
+    ],
+    "parent_rating": 4,
+    "assigned": true,
+    "coordinate": {
+     "lat": 30.332714,
+     "lon": -97.706685
+    },
+    "district": {
+     "id": "06211430211",
+     "name": "Austin Independent School District"
+    }
+   },
+   {
+    "id": "0768938761",
+    "name": "Austin Achieve Northeast Campus",
+    "rating": 2,
+    "distance_in_miles": 0.4,
+    "education_levels": [
+     "elementary"
+    ],
+    "funding_type": "public",
+    "student_count": 839,
+    "grades": [
+     "K",
+     "1",
+     "2",
+     "3",
+     "4"
+    ],
+    "parent_rating": null,
+    "assigned": null,
+    "coordinate": {
+     "lat": 30.325217,
+     "lon": -97.678295
+    },
+    "district": {
+     "id": "06211448441",
+     "name": "Austin Achieve Public Schools"
+    }
+   },
+   {
+    "id": "0768945041",
+    "name": "Austin Achieve High School",
+    "rating": 5,
+    "distance_in_miles": 0.4,
+    "education_levels": [
+     "high"
+    ],
+    "funding_type": "public",
+    "student_count": 581,
+    "grades": [
+     "9",
+     "10",
+     "11",
+     "12"
+    ],
+    "parent_rating": null,
+    "assigned": null,
+    "coordinate": {
+     "lat": 30.326178,
+     "lon": -97.676886
+    },
+    "district": {
+     "id": "06211448441",
+     "name": "Austin Achieve Public Schools"
+    }
+   },
+   {
+    "id": "0768724711",
+    "name": "International High School",
+    "rating": 1,
+    "distance_in_miles": 0.5,
+    "education_levels": [
+     "high"
+    ],
+    "funding_type": "public",
+    "student_count": 213,
+    "grades": [
+     "9",
+     "10"
+    ],
+    "parent_rating": 4,
+    "assigned": null,
+    "coordinate": {
+     "lat": 30.324027,
+     "lon": -97.691403
+    },
+    "district": {
+     "id": "06211430211",
+     "name": "Austin Independent School District"
+    }
+   },
+   {
+    "id": "0768724341",
+    "name": "KIPP Austin College Prep",
+    "rating": 4,
+    "distance_in_miles": 0.6,
+    "education_levels": [
+     "elementary",
+     "middle"
+    ],
+    "funding_type": "public",
+    "student_count": 465,
+    "grades": [
+     "5",
+     "6",
+     "7",
+     "8"
+    ],
+    "parent_rating": 3,
+    "assigned": null,
+    "coordinate": {
+     "lat": 30.33579,
+     "lon": -97.686067
+    },
+    "district": {
+     "id": "06211447441",
+     "name": "KIPP Texas Public Schools"
+    }
+   },
+   {
+    "id": "0768862841",
+    "name": "KIPP Austin Comunidad",
+    "rating": 4,
+    "distance_in_miles": 0.6,
+    "education_levels": [
+     "elementary"
+    ],
+    "funding_type": "public",
+    "student_count": 513,
+    "grades": [
+     "K",
+     "1",
+     "2",
+     "3",
+     "4"
+    ],
+    "parent_rating": 5,
+    "assigned": null,
+    "coordinate": {
+     "lat": 30.335809,
+     "lon": -97.686697
+    },
+    "district": {
+     "id": "06211447441",
+     "name": "KIPP Texas Public Schools"
+    }
+   },
+   {
+    "id": "0768744251",
+    "name": "KIPP Austin Collegiate",
+    "rating": 5,
+    "distance_in_miles": 0.6,
+    "education_levels": [
+     "high"
+    ],
+    "funding_type": "public",
+    "student_count": 836,
+    "grades": [
+     "9",
+     "10",
+     "11",
+     "12"
+    ],
+    "parent_rating": 3,
+    "assigned": null,
+    "coordinate": {
+     "lat": 30.336516,
+     "lon": -97.686705
+    },
+    "district": {
+     "id": "06211447441",
+     "name": "KIPP Texas Public Schools"
+    }
+   },
+   {
+    "id": "0768702021",
+    "name": "Pickle Elementary School",
+    "rating": 2,
+    "distance_in_miles": 0.7,
+    "education_levels": [
+     "elementary"
+    ],
+    "funding_type": "public",
+    "student_count": 406,
+    "grades": [
+     "K",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5"
+    ],
+    "parent_rating": 3,
+    "assigned": null,
+    "coordinate": {
+     "lat": 30.333101,
+     "lon": -97.693548
+    },
+    "district": {
+     "id": "06211430211",
+     "name": "Austin Independent School District"
+    }
+   },
+   {
+    "id": "0768919561",
+    "name": "Greater Calvary Academy",
+    "rating": null,
+    "distance_in_miles": 0.7,
+    "education_levels": [
+     "elementary"
+    ],
+    "funding_type": "private",
+    "student_count": 7,
+    "grades": [
+     "K",
+     "2",
+     "4",
+     "5"
+    ],
+    "parent_rating": null,
+    "assigned": null,
+    "coordinate": {
+     "lat": 30.318727,
+     "lon": -97.690094
+    },
+    "district": {
+     "id": "06211428551",
+     "name": null
+    }
+   },
+   {
+    "id": "0768957001",
+    "name": "Cross Creek",
+    "rating": null,
+    "distance_in_miles": 0.8,
+    "education_levels": [
+     "middle",
+     "high"
+    ],
+    "funding_type": "public",
+    "student_count": 4,
+    "grades": [
+     "7",
+     "8",
+     "9",
+     "10",
+     "11"
+    ],
+    "parent_rating": null,
+    "assigned": null,
+    "coordinate": {
+     "lat": 30.338003,
+     "lon": -97.677338
+    },
+    "district": {
+     "id": "06211429551",
+     "name": "University Of Texas University Charter School"
+    }
+   },
+   {
+    "id": "0768572851",
+    "name": "Texas Empowerment Academy",
+    "rating": 4,
+    "distance_in_miles": 0.9,
+    "education_levels": [
+     "elementary",
+     "middle",
+     "high"
+    ],
+    "funding_type": "public",
+    "student_count": 413,
+    "grades": [
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "10",
+     "11",
+     "12"
+    ],
+    "parent_rating": 3,
+    "assigned": null,
+    "coordinate": {
+     "lat": 30.315073,
+     "lon": -97.682434
+    },
+    "district": {
+     "id": "06211429501",
+     "name": "Texas Empowerment Academy"
+    }
+   },
+   {
+    "id": "0768678441",
+    "name": "Hope Lutheran School",
+    "rating": null,
+    "distance_in_miles": 0.9,
+    "education_levels": [
+     "elementary",
+     "middle"
+    ],
+    "funding_type": "private",
+    "student_count": null,
+    "grades": [
+     "K",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7"
+    ],
+    "parent_rating": null,
+    "assigned": null,
+    "coordinate": {
+     "lat": 30.31469,
+     "lon": -97.681099
+    },
+    "district": {
+     "id": "06211428551",
+     "name": null
+    }
+   },
+   {
+    "id": "0768929711",
+    "name": "Sadler Means Young Women's Leadership Academy",
+    "rating": 3,
+    "distance_in_miles": 1,
+    "education_levels": [
+     "middle"
+    ],
+    "funding_type": "public",
+    "student_count": 278,
+    "grades": [
+     "6",
+     "7",
+     "8"
+    ],
+    "parent_rating": 4,
+    "assigned": null,
+    "coordinate": {
+     "lat": 30.313621,
+     "lon": -97.68038
+    },
+    "district": {
+     "id": "06211430211",
+     "name": "Austin Independent School District"
+    }
+   },
+   {
+    "id": "0768921021",
+    "name": "Victory Christian Center School",
+    "rating": null,
+    "distance_in_miles": 1.1,
+    "education_levels": [
+     "elementary",
+     "middle",
+     "high"
+    ],
+    "funding_type": "private",
+    "student_count": 145,
+    "grades": [
+     "K",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "10",
+     "11",
+     "12"
+    ],
+    "parent_rating": null,
+    "assigned": null,
+    "coordinate": {
+     "lat": 30.336903,
+     "lon": -97.698166
+    },
+    "district": {
+     "id": "06211428551",
+     "name": null
+    }
+   },
+   {
+    "id": "0768945651",
+    "name": "Ascent: An Acton Academy",
+    "rating": null,
+    "distance_in_miles": 1.3,
+    "education_levels": [
+     "elementary"
+    ],
+    "funding_type": "private",
+    "student_count": 65,
+    "grades": [
+     "K",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5"
+    ],
+    "parent_rating": 5,
+    "assigned": null,
+    "coordinate": {
+     "lat": 30.315498,
+     "lon": -97.701299
+    },
+    "district": {
+     "id": "06211428551",
+     "name": null
+    }
+   },
+   {
+    "id": "0768715101",
+    "name": "St Francis School",
+    "rating": null,
+    "distance_in_miles": 1.6,
+    "education_levels": [
+     "high"
+    ],
+    "funding_type": "private",
+    "student_count": 376,
+    "grades": [
+     "12"
+    ],
+    "parent_rating": 5,
+    "assigned": null,
+    "coordinate": {
+     "lat": 30.331234,
+     "lon": -97.71006
+    },
+    "district": {
+     "id": "06211428551",
+     "name": null
+    }
+   }
+  ]
+ },
+ "local": {
+  "noise": {
+   "score": null,
+   "noise_categories": [
+    {
+     "type": "airport",
+     "text": null
+    },
+    {
+     "type": "traffic",
+     "text": null
+    },
+    {
+     "type": "local",
+     "text": null
+    },
+    {
+     "type": "score",
+     "text": null
+    }
+   ]
+  },
+  "flood": {
+   "fema_zone": [
+    "X (unshaded)"
+   ],
+   "flood_factor_score": 1,
+   "flood_factor_severity": "minimal",
+   "flood_trend": "This property’s flood risk is not changing.",
+   "flood_insurance_text": "As this property is located in FEMA Zone X (unshaded), flood insurance is not federally required to obtain a mortgage. You may want to purchase flood insurance to protect your home. Explore quotes for flood insurance from <b>$461</b> to <b>$652</b> per year."
+  },
+  "wildfire": {
+   "fire_factor_score": 1,
+   "fire_factor_severity": "Minimal"
+  },
+  "heat": {
+   "heat_factor_score": 8,
+   "heat_factor_severity": "Severe"
+  },
+  "wind": {
+   "wind_factor_score": 8
+  },
+  "air": {
+   "air_factor_score": 2
+  }
+ },
+ "popularity": {
+  "periods": [
+   {
+    "last_n_days": 1,
+    "views_total": 8753,
+    "saves_total": 4,
+    "clicks_total": 95,
+    "shares_total": 3,
+    "leads_total": 0
+   },
+   {
+    "last_n_days": 7,
+    "views_total": 53496,
+    "saves_total": 18,
+    "clicks_total": 479,
+    "shares_total": 18,
+    "leads_total": 7
+   },
+   {
+    "last_n_days": 14,
+    "views_total": 114220,
+    "saves_total": 36,
+    "clicks_total": 1012,
+    "shares_total": 45,
+    "leads_total": 10
+   },
+   {
+    "last_n_days": 21,
+    "views_total": 172095,
+    "saves_total": 62,
+    "clicks_total": 1544,
+    "shares_total": 77,
+    "leads_total": 10
+   },
+   {
+    "last_n_days": 28,
+    "views_total": 235473,
+    "saves_total": 78,
+    "clicks_total": 2037,
+    "shares_total": 99,
+    "leads_total": 20
+   },
+   {
+    "last_n_days": 30,
+    "views_total": null,
+    "saves_total": null,
+    "clicks_total": null,
+    "shares_total": null,
+    "leads_total": null
+   }
+  ]
+ },
+ "open_houses": null,
+ "mortgage": {
+  "estimate": {
+   "monthly_payment": 3368,
+   "total_payment": 767202,
+   "loan_amount": 320000,
+   "down_payment": 80000,
+   "monthly_payment_details": [
+    {
+     "type": "principal_and_interest",
+     "amount": 2131,
+     "display_name": "Principal & interest"
+    },
+    {
+     "type": "home_insurance",
+     "amount": 217,
+     "display_name": "Home insurance"
+    },
+    {
+     "type": "hoa_fees",
+     "amount": 0,
+     "display_name": "HOA fees"
+    },
+    {
+     "type": "mortgage_insurance",
+     "amount": 0,
+     "display_name": "Mortgage insurance"
+    },
+    {
+     "type": "property_tax",
+     "amount": 1020,
+     "display_name": "Property tax"
+    }
+   ]
+  },
+  "rates_url": "https://www.realtor.com/mortgage/rates/?from=mobile#zip=78752&property_price=400000&mlid=8102930727",
+  "property_tax_rate": 0.030605,
+  "insurance_rate": 0.0065
+ },
+ "monthly_fees": null,
+ "one_time_fees": null,
+ "pet_policy": null,
+ "units": null,
+ "terms": null,
+ "community": null
+}

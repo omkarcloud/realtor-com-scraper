@@ -1,0 +1,285 @@
+{
+ "agents": [
+  {
+   "id": "56b080147e54f7010020a7b7",
+   "fulfillment_id": "184731",
+   "fullname": "Knolly Williams",
+   "is_paid": false,
+   "is_realtor": true,
+   "display_ratings": false,
+   "has_rps": false,
+   "avatar": {
+    "url": "https://ap.rdcpix.com/c35406d29809fc1f037a8c1ae795e0a0a-e2501184590rd-w144_h144.jpg",
+    "initials": "KW"
+   },
+   "broker": {
+    "name": "eXp Realty, LLC",
+    "fulfillment_id": "100250952"
+   },
+   "office": {
+    "name": "eXp Realty, LLC"
+   },
+   "ratings_reviews": {
+    "average_rating": null,
+    "recommendations_count": 0,
+    "reviews_count": 0,
+    "combined_testimonials_and_reviews_count": 0
+   },
+   "listing_stats": {
+    "combined_annual": {
+     "min": 160000,
+     "max": 400000
+    },
+    "for_sale": {
+     "count": 10,
+     "last_listing_date": "2026-09-03T21:41:50Z",
+     "min": 160000,
+     "max": 400000
+    },
+    "recently_sold_annual": {
+     "count": 8
+    },
+    "recently_sold_listing_details": {
+     "listings": [
+      {
+       "baths": 5,
+       "beds": 4,
+       "city": "Taylor",
+       "photo": "https://ap.rdcpix.com/528d150a28b4fa53d8d6efa0a4687ac3l-m390328704rd-w100_h67.jpg",
+       "state_code": "TX"
+      },
+      {
+       "baths": 3,
+       "beds": 4,
+       "city": "Austin",
+       "photo": "https://ap.rdcpix.com/8ecf7f2df3359d3164d6397bd1dc3bc0l-m1241807209rd-w100_h67.jpg",
+       "state_code": "TX"
+      },
+      {
+       "baths": 3,
+       "beds": 4,
+       "city": "Lockhart",
+       "photo": "https://ap.rdcpix.com/0ee79538646dea9216b1bd1e00983317l-m3290665501rd-w100_h67.jpg",
+       "state_code": "TX"
+      }
+     ],
+     "show_additional": true
+    }
+   },
+   "experience": {
+    "first_year": "0"
+   },
+   "services": null,
+   "sorting_weight": 10
+  },
+  {
+   "id": "6189a7cdafac4e7342771785",
+   "fulfillment_id": "4647222",
+   "fullname": "Knolly Smith",
+   "is_paid": false,
+   "is_realtor": false,
+   "display_ratings": false,
+   "has_rps": false,
+   "avatar": {
+    "url": null,
+    "initials": "KS"
+   },
+   "broker": {
+    "name": "@properties",
+    "fulfillment_id": "712855"
+   },
+   "office": {
+    "name": "@properties Christie's International Real Estate"
+   },
+   "ratings_reviews": {
+    "average_rating": null,
+    "recommendations_count": 0,
+    "reviews_count": 0,
+    "combined_testimonials_and_reviews_count": 0
+   },
+   "listing_stats": {
+    "combined_annual": {
+     "min": 117000,
+     "max": 117000
+    },
+    "for_sale": {
+     "count": 1,
+     "last_listing_date": "2026-11-05T15:48:53Z",
+     "min": 117000,
+     "max": 117000
+    },
+    "recently_sold_annual": {
+     "count": null
+    },
+    "recently_sold_listing_details": {
+     "listings": [],
+     "show_additional": false
+    }
+   },
+   "experience": {
+    "first_year": "0"
+   },
+   "services": null,
+   "sorting_weight": -10
+  },
+  {
+   "id": "6930b3dd1b62ac8dd33acf37",
+   "fulfillment_id": "100777951",
+   "fullname": "Knolly Williams",
+   "is_paid": false,
+   "is_realtor": false,
+   "display_ratings": false,
+   "has_rps": false,
+   "avatar": {
+    "url": null,
+    "initials": "KW"
+   },
+   "broker": {
+    "name": "",
+    "fulfillment_id": "0"
+   },
+   "office": {
+    "name": "eXp Realty LLC"
+   },
+   "ratings_reviews": {
+    "average_rating": null,
+    "recommendations_count": 0,
+    "reviews_count": 0,
+    "combined_testimonials_and_reviews_count": 0
+   },
+   "listing_stats": {
+    "combined_annual": {
+     "min": 325000,
+     "max": 325000
+    },
+    "for_sale": {
+     "count": 1,
+     "last_listing_date": "2026-05-02T00:19:52Z",
+     "min": 325000,
+     "max": 325000
+    },
+    "recently_sold_annual": {
+     "count": 1
+    },
+    "recently_sold_listing_details": {
+     "listings": [
+      {
+       "baths": 2,
+       "beds": 3,
+       "city": "Corpus Christi",
+       "photo": "https://ap.rdcpix.com/34c0f3bdff4dba1ec34f6b9a0f2686b0l-m2334084678rd-w100_h67.jpg",
+       "state_code": "TX"
+      }
+     ],
+     "show_additional": false
+    }
+   },
+   "experience": {
+    "first_year": "0"
+   },
+   "services": null,
+   "sorting_weight": -10
+  },
+  {
+   "id": "61858242df4b27840cef55ba",
+   "fulfillment_id": null,
+   "fullname": "Knolly Smith",
+   "is_paid": false,
+   "is_realtor": true,
+   "display_ratings": true,
+   "has_rps": false,
+   "avatar": {
+    "url": null,
+    "initials": "KS"
+   },
+   "broker": {
+    "name": null,
+    "fulfillment_id": null
+   },
+   "office": {
+    "name": null
+   },
+   "ratings_reviews": {
+    "average_rating": null,
+    "recommendations_count": 0,
+    "reviews_count": 0,
+    "combined_testimonials_and_reviews_count": 0
+   },
+   "listing_stats": {
+    "combined_annual": {
+     "min": 0,
+     "max": 0
+    },
+    "for_sale": {
+     "count": null,
+     "last_listing_date": null,
+     "min": null,
+     "max": null
+    },
+    "recently_sold_annual": {
+     "count": null
+    },
+    "recently_sold_listing_details": {
+     "listings": [],
+     "show_additional": false
+    }
+   },
+   "experience": {
+    "first_year": ""
+   },
+   "services": null,
+   "sorting_weight": null
+  },
+  {
+   "id": "5f87927991422200112c25fd",
+   "fulfillment_id": "0",
+   "fullname": "Knolly Williams",
+   "is_paid": false,
+   "is_realtor": false,
+   "display_ratings": true,
+   "has_rps": false,
+   "avatar": {
+    "url": null,
+    "initials": "KW"
+   },
+   "broker": {
+    "name": null,
+    "fulfillment_id": null
+   },
+   "office": {
+    "name": null
+   },
+   "ratings_reviews": {
+    "average_rating": null,
+    "recommendations_count": 0,
+    "reviews_count": 0,
+    "combined_testimonials_and_reviews_count": 0
+   },
+   "listing_stats": {
+    "combined_annual": {
+     "min": 0,
+     "max": 0
+    },
+    "for_sale": {
+     "count": null,
+     "last_listing_date": null,
+     "min": null,
+     "max": null
+    },
+    "recently_sold_annual": {
+     "count": null
+    },
+    "recently_sold_listing_details": {
+     "listings": [],
+     "show_additional": false
+    }
+   },
+   "experience": {
+    "first_year": ""
+   },
+   "services": null,
+   "sorting_weight": null
+  }
+ ],
+ "matching_rows": 7
+}

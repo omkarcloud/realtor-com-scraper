@@ -1,0 +1,1836 @@
+{
+ "property_id": "8102930727",
+ "related_homes": {
+  "results": [
+   {
+    "property_id": "7334805120",
+    "listing_id": "3000361578",
+    "permalink": "6802-Columbia-Dr_Austin_TX_78723_M73348-05120",
+    "href": "https://www.realtor.com/realestateandhomes-detail/6802-Columbia-Dr_Austin_TX_78723_M73348-05120",
+    "status": "for_sale",
+    "list_date": null,
+    "last_update_date": "2026-09-12T19:02:14Z",
+    "last_status_change_date": null,
+    "list_price": 390000,
+    "list_price_min": null,
+    "list_price_max": null,
+    "price_per_sqft": 300,
+    "last_sold_price": null,
+    "last_sold_date": null,
+    "flags": {
+     "is_coming_soon": null,
+     "is_contingent": null,
+     "is_garage_present": true,
+     "is_new_construction": null,
+     "is_pending": null,
+     "is_short_sale": null,
+     "is_foreclosure": null,
+     "is_senior_community": null,
+     "is_for_rent": null,
+     "is_deal_available": null,
+     "is_price_reduced": null,
+     "is_new_listing": false,
+     "is_subdivision": null,
+     "is_plan": null
+    },
+    "description": {
+     "type": "single_family",
+     "sub_type": null,
+     "name": null,
+     "beds": 3,
+     "baths": 2,
+     "baths_full": 2,
+     "baths_half": null,
+     "baths_consolidated": "2",
+     "sqft": 1299,
+     "lot_sqft": 9984,
+     "year_built": 1960
+    },
+    "location": {
+     "address": {
+      "line": "6802 Columbia Dr",
+      "unit": null,
+      "city": "Austin",
+      "state_code": "TX",
+      "postal_code": "78723",
+      "coordinate": {
+       "lat": 30.319453,
+       "lon": -97.683537
+      }
+     },
+     "neighborhoods": null
+    },
+    "source": {
+     "id": "AUTX",
+     "type": "mls",
+     "name": "UnlockMLS",
+     "agents": [
+      {
+       "agent_name": null
+      }
+     ]
+    },
+    "primary_photo": {
+     "href": "https://ap.rdcpix.com/d28eb7ecd413e25b3536f94ca634278bl-m1140040945xd-w300_h300_q80.jpg"
+    },
+    "photos": null,
+    "open_houses": null,
+    "virtual_tours": null,
+    "advertisers": null,
+    "current_estimates": [
+     {
+      "estimate": 385659,
+      "isbest_homevalue": true
+     },
+     {
+      "estimate": 386000,
+      "isbest_homevalue": false
+     },
+     {
+      "estimate": 374200,
+      "isbest_homevalue": false
+     }
+    ],
+    "units": null
+   },
+   {
+    "property_id": "7838229698",
+    "listing_id": "3000848251",
+    "permalink": "6913-LA-Salle-Dr_Austin_TX_78723_M78382-29698",
+    "href": "https://www.realtor.com/realestateandhomes-detail/6913-LA-Salle-Dr_Austin_TX_78723_M78382-29698",
+    "status": "for_sale",
+    "list_date": null,
+    "last_update_date": "2026-11-06T14:36:11Z",
+    "last_status_change_date": null,
+    "list_price": 399900,
+    "list_price_min": null,
+    "list_price_max": null,
+    "price_per_sqft": 320,
+    "last_sold_price": null,
+    "last_sold_date": null,
+    "flags": {
+     "is_coming_soon": null,
+     "is_contingent": null,
+     "is_garage_present": true,
+     "is_new_construction": null,
+     "is_pending": null,
+     "is_short_sale": null,
+     "is_foreclosure": null,
+     "is_senior_community": null,
+     "is_for_rent": null,
+     "is_deal_available": null,
+     "is_price_reduced": null,
+     "is_new_listing": false,
+     "is_subdivision": null,
+     "is_plan": null
+    },
+    "description": {
+     "type": "single_family",
+     "sub_type": null,
+     "name": null,
+     "beds": 3,
+     "baths": 2,
+     "baths_full": 2,
+     "baths_half": null,
+     "baths_consolidated": "2",
+     "sqft": 1251,
+     "lot_sqft": 7375,
+     "year_built": 1966
+    },
+    "location": {
+     "address": {
+      "line": "6913 LA Salle Dr",
+      "unit": null,
+      "city": "Austin",
+      "state_code": "TX",
+      "postal_code": "78723",
+      "coordinate": {
+       "lat": 30.315855,
+       "lon": -97.668252
+      }
+     },
+     "neighborhoods": null
+    },
+    "source": {
+     "id": "AUTX",
+     "type": "mls",
+     "name": "UnlockMLS",
+     "agents": [
+      {
+       "agent_name": null
+      }
+     ]
+    },
+    "primary_photo": {
+     "href": "https://ap.rdcpix.com/17bae03be12f583b15e59dccfcbe951dl-m3754970018xd-w300_h300_q80.jpg"
+    },
+    "photos": null,
+    "open_houses": null,
+    "virtual_tours": null,
+    "advertisers": null,
+    "current_estimates": [
+     {
+      "estimate": 396000,
+      "isbest_homevalue": true
+     },
+     {
+      "estimate": 387100,
+      "isbest_homevalue": false
+     },
+     {
+      "estimate": 397457,
+      "isbest_homevalue": false
+     }
+    ],
+    "units": null
+   },
+   {
+    "property_id": "7713798716",
+    "listing_id": "3001680112",
+    "permalink": "1621-Wheless-Ln_Austin_TX_78723_M77137-98716",
+    "href": "https://www.realtor.com/realestateandhomes-detail/1621-Wheless-Ln_Austin_TX_78723_M77137-98716",
+    "status": "for_sale",
+    "list_date": null,
+    "last_update_date": "2026-11-06T22:02:10Z",
+    "last_status_change_date": null,
+    "list_price": 415000,
+    "list_price_min": null,
+    "list_price_max": null,
+    "price_per_sqft": 264,
+    "last_sold_price": null,
+    "last_sold_date": null,
+    "flags": {
+     "is_coming_soon": null,
+     "is_contingent": null,
+     "is_garage_present": true,
+     "is_new_construction": null,
+     "is_pending": null,
+     "is_short_sale": null,
+     "is_foreclosure": null,
+     "is_senior_community": null,
+     "is_for_rent": null,
+     "is_deal_available": null,
+     "is_price_reduced": true,
+     "is_new_listing": false,
+     "is_subdivision": null,
+     "is_plan": null
+    },
+    "description": {
+     "type": "single_family",
+     "sub_type": null,
+     "name": null,
+     "beds": 3,
+     "baths": 2,
+     "baths_full": 2,
+     "baths_half": null,
+     "baths_consolidated": "2",
+     "sqft": 1572,
+     "lot_sqft": 9104,
+     "year_built": 1963
+    },
+    "location": {
+     "address": {
+      "line": "1621 Wheless Ln",
+      "unit": null,
+      "city": "Austin",
+      "state_code": "TX",
+      "postal_code": "78723",
+      "coordinate": {
+       "lat": 30.318307,
+       "lon": -97.690203
+      }
+     },
+     "neighborhoods": null
+    },
+    "source": {
+     "id": "AUTX",
+     "type": "mls",
+     "name": "UnlockMLS",
+     "agents": [
+      {
+       "agent_name": null
+      }
+     ]
+    },
+    "primary_photo": {
+     "href": "https://ap.rdcpix.com/4d67daabe4b920b95bbb6f7312ffb708l-m1372671607xd-w300_h300_q80.jpg"
+    },
+    "photos": null,
+    "open_houses": null,
+    "virtual_tours": null,
+    "advertisers": null,
+    "current_estimates": [
+     {
+      "estimate": 460700,
+      "isbest_homevalue": true
+     },
+     {
+      "estimate": 556000,
+      "isbest_homevalue": false
+     },
+     {
+      "estimate": 423952,
+      "isbest_homevalue": false
+     }
+    ],
+    "units": null
+   },
+   {
+    "property_id": "8493893507",
+    "listing_id": "3000978950",
+    "permalink": "211-E-Lisa-Dr_Austin_TX_78752_M84938-93507",
+    "href": "https://www.realtor.com/realestateandhomes-detail/211-E-Lisa-Dr_Austin_TX_78752_M84938-93507",
+    "status": "for_sale",
+    "list_date": null,
+    "last_update_date": "2026-10-06T02:19:09Z",
+    "last_status_change_date": null,
+    "list_price": 395000,
+    "list_price_min": null,
+    "list_price_max": null,
+    "price_per_sqft": 362,
+    "last_sold_price": null,
+    "last_sold_date": null,
+    "flags": {
+     "is_coming_soon": null,
+     "is_contingent": null,
+     "is_garage_present": true,
+     "is_new_construction": null,
+     "is_pending": null,
+     "is_short_sale": null,
+     "is_foreclosure": null,
+     "is_senior_community": null,
+     "is_for_rent": null,
+     "is_deal_available": null,
+     "is_price_reduced": false,
+     "is_new_listing": false,
+     "is_subdivision": null,
+     "is_plan": null
+    },
+    "description": {
+     "type": "single_family",
+     "sub_type": null,
+     "name": null,
+     "beds": 3,
+     "baths": 2,
+     "baths_full": 2,
+     "baths_half": null,
+     "baths_consolidated": "2",
+     "sqft": 1092,
+     "lot_sqft": 7013,
+     "year_built": 1968
+    },
+    "location": {
+     "address": {
+      "line": "211 E Lisa Dr",
+      "unit": null,
+      "city": "Austin",
+      "state_code": "TX",
+      "postal_code": "78752",
+      "coordinate": {
+       "lat": 30.333821,
+       "lon": -97.70866
+      }
+     },
+     "neighborhoods": null
+    },
+    "source": {
+     "id": "AUTX",
+     "type": "mls",
+     "name": "UnlockMLS",
+     "agents": [
+      {
+       "agent_name": null
+      },
+      {
+       "agent_name": null
+      }
+     ]
+    },
+    "primary_photo": {
+     "href": "https://ap.rdcpix.com/05287dbe50886f23430288f7978b5da1l-m4099667572xd-w300_h300_q80.jpg"
+    },
+    "photos": null,
+    "open_houses": null,
+    "virtual_tours": null,
+    "advertisers": null,
+    "current_estimates": [
+     {
+      "estimate": 393700,
+      "isbest_homevalue": true
+     },
+     {
+      "estimate": 383873,
+      "isbest_homevalue": false
+     },
+     {
+      "estimate": 411000,
+      "isbest_homevalue": false
+     }
+    ],
+    "units": null
+   },
+   {
+    "property_id": "7738136525",
+    "listing_id": "3000356337",
+    "permalink": "1404-Manford-Hill-Dr_Austin_TX_78753_M77381-36525",
+    "href": "https://www.realtor.com/realestateandhomes-detail/1404-Manford-Hill-Dr_Austin_TX_78753_M77381-36525",
+    "status": "for_sale",
+    "list_date": null,
+    "last_update_date": "2026-09-19T14:46:10Z",
+    "last_status_change_date": null,
+    "list_price": 384999,
+    "list_price_min": null,
+    "list_price_max": null,
+    "price_per_sqft": 207,
+    "last_sold_price": null,
+    "last_sold_date": null,
+    "flags": {
+     "is_coming_soon": null,
+     "is_contingent": null,
+     "is_garage_present": true,
+     "is_new_construction": null,
+     "is_pending": null,
+     "is_short_sale": null,
+     "is_foreclosure": true,
+     "is_senior_community": null,
+     "is_for_rent": null,
+     "is_deal_available": null,
+     "is_price_reduced": false,
+     "is_new_listing": false,
+     "is_subdivision": null,
+     "is_plan": null
+    },
+    "description": {
+     "type": "single_family",
+     "sub_type": null,
+     "name": null,
+     "beds": 4,
+     "baths": 2,
+     "baths_full": 2,
+     "baths_half": null,
+     "baths_consolidated": "2",
+     "sqft": 1856,
+     "lot_sqft": 9161,
+     "year_built": 1972
+    },
+    "location": {
+     "address": {
+      "line": "1404 Manford Hill Dr",
+      "unit": null,
+      "city": "Austin",
+      "state_code": "TX",
+      "postal_code": "78753",
+      "coordinate": {
+       "lat": 30.358938,
+       "lon": -97.673265
+      }
+     },
+     "neighborhoods": null
+    },
+    "source": {
+     "id": "AUTX",
+     "type": "mls",
+     "name": "UnlockMLS",
+     "agents": [
+      {
+       "agent_name": null
+      }
+     ]
+    },
+    "primary_photo": {
+     "href": "https://ap.rdcpix.com/df5380f20ba03cacaa9d57b5407e3583l-m318001531xd-w300_h300_q80.jpg"
+    },
+    "photos": null,
+    "open_houses": null,
+    "virtual_tours": null,
+    "advertisers": null,
+    "current_estimates": [
+     {
+      "estimate": 379627,
+      "isbest_homevalue": true
+     },
+     {
+      "estimate": 367900,
+      "isbest_homevalue": false
+     },
+     {
+      "estimate": 381000,
+      "isbest_homevalue": false
+     }
+    ],
+    "units": null
+   },
+   {
+    "property_id": "8697757289",
+    "listing_id": "3002606587",
+    "permalink": "9847-Childress-Dr_Austin_TX_78753_M86977-57289",
+    "href": "https://www.realtor.com/realestateandhomes-detail/9847-Childress-Dr_Austin_TX_78753_M86977-57289",
+    "status": "for_sale",
+    "list_date": null,
+    "last_update_date": "2026-11-03T13:42:11Z",
+    "last_status_change_date": null,
+    "list_price": 399000,
+    "list_price_min": null,
+    "list_price_max": null,
+    "price_per_sqft": 257,
+    "last_sold_price": null,
+    "last_sold_date": null,
+    "flags": {
+     "is_coming_soon": null,
+     "is_contingent": null,
+     "is_garage_present": true,
+     "is_new_construction": null,
+     "is_pending": null,
+     "is_short_sale": null,
+     "is_foreclosure": null,
+     "is_senior_community": null,
+     "is_for_rent": null,
+     "is_deal_available": null,
+     "is_price_reduced": null,
+     "is_new_listing": true,
+     "is_subdivision": null,
+     "is_plan": null
+    },
+    "description": {
+     "type": "single_family",
+     "sub_type": null,
+     "name": null,
+     "beds": 4,
+     "baths": 2,
+     "baths_full": 2,
+     "baths_half": null,
+     "baths_consolidated": "2",
+     "sqft": 1552,
+     "lot_sqft": 7928,
+     "year_built": 1971
+    },
+    "location": {
+     "address": {
+      "line": "9847 Childress Dr",
+      "unit": null,
+      "city": "Austin",
+      "state_code": "TX",
+      "postal_code": "78753",
+      "coordinate": {
+       "lat": 30.359194,
+       "lon": -97.675426
+      }
+     },
+     "neighborhoods": null
+    },
+    "source": {
+     "id": "AUTX",
+     "type": "mls",
+     "name": "UnlockMLS",
+     "agents": [
+      {
+       "agent_name": null
+      }
+     ]
+    },
+    "primary_photo": {
+     "href": "https://ap.rdcpix.com/709dd3d113c344e73a9e1beeeff66315l-m2713896620xd-w300_h300_q80.jpg"
+    },
+    "photos": null,
+    "open_houses": null,
+    "virtual_tours": null,
+    "advertisers": null,
+    "current_estimates": [
+     {
+      "estimate": 416241,
+      "isbest_homevalue": true
+     },
+     {
+      "estimate": 406300,
+      "isbest_homevalue": false
+     },
+     {
+      "estimate": 431000,
+      "isbest_homevalue": false
+     }
+    ],
+    "units": null
+   },
+   {
+    "property_id": "7489539091",
+    "listing_id": "3000894607",
+    "permalink": "6810-Langston-Dr_Austin_TX_78723_M74895-39091",
+    "href": "https://www.realtor.com/realestateandhomes-detail/6810-Langston-Dr_Austin_TX_78723_M74895-39091",
+    "status": "for_sale",
+    "list_date": null,
+    "last_update_date": "2026-10-12T12:13:09Z",
+    "last_status_change_date": null,
+    "list_price": 425000,
+    "list_price_min": null,
+    "list_price_max": null,
+    "price_per_sqft": 314,
+    "last_sold_price": null,
+    "last_sold_date": null,
+    "flags": {
+     "is_coming_soon": null,
+     "is_contingent": null,
+     "is_garage_present": true,
+     "is_new_construction": null,
+     "is_pending": null,
+     "is_short_sale": null,
+     "is_foreclosure": null,
+     "is_senior_community": null,
+     "is_for_rent": null,
+     "is_deal_available": null,
+     "is_price_reduced": true,
+     "is_new_listing": false,
+     "is_subdivision": null,
+     "is_plan": null
+    },
+    "description": {
+     "type": "single_family",
+     "sub_type": null,
+     "name": null,
+     "beds": 4,
+     "baths": 2,
+     "baths_full": 2,
+     "baths_half": null,
+     "baths_consolidated": "2",
+     "sqft": 1352,
+     "lot_sqft": 10964,
+     "year_built": 1968
+    },
+    "location": {
+     "address": {
+      "line": "6810 Langston Dr",
+      "unit": null,
+      "city": "Austin",
+      "state_code": "TX",
+      "postal_code": "78723",
+      "coordinate": {
+       "lat": 30.316621,
+       "lon": -97.671823
+      }
+     },
+     "neighborhoods": null
+    },
+    "source": {
+     "id": "AUTX",
+     "type": "mls",
+     "name": "UnlockMLS",
+     "agents": [
+      {
+       "agent_name": null
+      }
+     ]
+    },
+    "primary_photo": {
+     "href": "https://ap.rdcpix.com/68d7df36b2f122cf58eb088e16c79c42l-m2050858786xd-w300_h300_q80.jpg"
+    },
+    "photos": null,
+    "open_houses": null,
+    "virtual_tours": null,
+    "advertisers": null,
+    "current_estimates": [
+     {
+      "estimate": 422995,
+      "isbest_homevalue": true
+     },
+     {
+      "estimate": 426000,
+      "isbest_homevalue": false
+     },
+     {
+      "estimate": 409400,
+      "isbest_homevalue": false
+     }
+    ],
+    "units": null
+   },
+   {
+    "property_id": "7413512900",
+    "listing_id": "2998805909",
+    "permalink": "9009-Glenn-Ln_Austin_TX_78753_M74135-12900",
+    "href": "https://www.realtor.com/realestateandhomes-detail/9009-Glenn-Ln_Austin_TX_78753_M74135-12900",
+    "status": "for_sale",
+    "list_date": null,
+    "last_update_date": "2026-10-02T04:46:10Z",
+    "last_status_change_date": null,
+    "list_price": 400000,
+    "list_price_min": null,
+    "list_price_max": null,
+    "price_per_sqft": 319,
+    "last_sold_price": null,
+    "last_sold_date": null,
+    "flags": {
+     "is_coming_soon": null,
+     "is_contingent": null,
+     "is_garage_present": true,
+     "is_new_construction": null,
+     "is_pending": null,
+     "is_short_sale": null,
+     "is_foreclosure": null,
+     "is_senior_community": null,
+     "is_for_rent": null,
+     "is_deal_available": null,
+     "is_price_reduced": false,
+     "is_new_listing": false,
+     "is_subdivision": null,
+     "is_plan": null
+    },
+    "description": {
+     "type": "single_family",
+     "sub_type": null,
+     "name": null,
+     "beds": 3,
+     "baths": 2,
+     "baths_full": 2,
+     "baths_half": null,
+     "baths_consolidated": "2",
+     "sqft": 1254,
+     "lot_sqft": 11561,
+     "year_built": 1965
+    },
+    "location": {
+     "address": {
+      "line": "9009 Glenn Ln",
+      "unit": null,
+      "city": "Austin",
+      "state_code": "TX",
+      "postal_code": "78753",
+      "coordinate": {
+       "lat": 30.358833,
+       "lon": -97.696836
+      }
+     },
+     "neighborhoods": null
+    },
+    "source": {
+     "id": "AUTX",
+     "type": "mls",
+     "name": "UnlockMLS",
+     "agents": [
+      {
+       "agent_name": null
+      },
+      {
+       "agent_name": null
+      }
+     ]
+    },
+    "primary_photo": {
+     "href": "https://ap.rdcpix.com/e7c79cdb0d91bd6037db0952e3e3d614l-m3393941824xd-w300_h300_q80.jpg"
+    },
+    "photos": null,
+    "open_houses": null,
+    "virtual_tours": null,
+    "advertisers": null,
+    "current_estimates": [
+     {
+      "estimate": 391603,
+      "isbest_homevalue": true
+     },
+     {
+      "estimate": 396000,
+      "isbest_homevalue": false
+     },
+     {
+      "estimate": 374800,
+      "isbest_homevalue": false
+     }
+    ],
+    "units": null
+   },
+   {
+    "property_id": "7996349092",
+    "listing_id": "2999953439",
+    "permalink": "7108-Meadowood-Dr_Austin_TX_78723_M79963-49092",
+    "href": "https://www.realtor.com/realestateandhomes-detail/7108-Meadowood-Dr_Austin_TX_78723_M79963-49092",
+    "status": "for_sale",
+    "list_date": null,
+    "last_update_date": "2026-08-31T12:50:09Z",
+    "last_status_change_date": null,
+    "list_price": 375000,
+    "list_price_min": null,
+    "list_price_max": null,
+    "price_per_sqft": 239,
+    "last_sold_price": null,
+    "last_sold_date": null,
+    "flags": {
+     "is_coming_soon": null,
+     "is_contingent": null,
+     "is_garage_present": true,
+     "is_new_construction": null,
+     "is_pending": null,
+     "is_short_sale": null,
+     "is_foreclosure": null,
+     "is_senior_community": null,
+     "is_for_rent": null,
+     "is_deal_available": null,
+     "is_price_reduced": null,
+     "is_new_listing": false,
+     "is_subdivision": null,
+     "is_plan": null
+    },
+    "description": {
+     "type": "single_family",
+     "sub_type": null,
+     "name": null,
+     "beds": 3,
+     "baths": 3,
+     "baths_full": 2,
+     "baths_half": 1,
+     "baths_consolidated": "2.5",
+     "sqft": 1568,
+     "lot_sqft": 25069,
+     "year_built": 1969
+    },
+    "location": {
+     "address": {
+      "line": "7108 Meadowood Dr",
+      "unit": null,
+      "city": "Austin",
+      "state_code": "TX",
+      "postal_code": "78723",
+      "coordinate": {
+       "lat": 30.319969,
+       "lon": -97.671571
+      }
+     },
+     "neighborhoods": null
+    },
+    "source": {
+     "id": "AUTX",
+     "type": "mls",
+     "name": "UnlockMLS",
+     "agents": [
+      {
+       "agent_name": null
+      }
+     ]
+    },
+    "primary_photo": {
+     "href": "https://ap.rdcpix.com/edd24f16ce69439413d9be073b6e2e53l-m3077605889xd-w300_h300_q80.jpg"
+    },
+    "photos": null,
+    "open_houses": null,
+    "virtual_tours": null,
+    "advertisers": null,
+    "current_estimates": [
+     {
+      "estimate": 371000,
+      "isbest_homevalue": true
+     },
+     {
+      "estimate": 361300,
+      "isbest_homevalue": false
+     },
+     {
+      "estimate": 393683,
+      "isbest_homevalue": false
+     }
+    ],
+    "units": null
+   },
+   {
+    "property_id": "8471727975",
+    "listing_id": "2997453610",
+    "permalink": "8200-Furness-Dr_Austin_TX_78753_M84717-27975",
+    "href": "https://www.realtor.com/realestateandhomes-detail/8200-Furness-Dr_Austin_TX_78753_M84717-27975",
+    "status": "for_sale",
+    "list_date": null,
+    "last_update_date": "2026-10-24T23:16:10Z",
+    "last_status_change_date": null,
+    "list_price": 359900,
+    "list_price_min": null,
+    "list_price_max": null,
+    "price_per_sqft": 213,
+    "last_sold_price": null,
+    "last_sold_date": null,
+    "flags": {
+     "is_coming_soon": null,
+     "is_contingent": null,
+     "is_garage_present": true,
+     "is_new_construction": null,
+     "is_pending": null,
+     "is_short_sale": null,
+     "is_foreclosure": null,
+     "is_senior_community": null,
+     "is_for_rent": null,
+     "is_deal_available": null,
+     "is_price_reduced": false,
+     "is_new_listing": false,
+     "is_subdivision": null,
+     "is_plan": null
+    },
+    "description": {
+     "type": "single_family",
+     "sub_type": null,
+     "name": null,
+     "beds": 3,
+     "baths": 2,
+     "baths_full": 2,
+     "baths_half": null,
+     "baths_consolidated": "2",
+     "sqft": 1693,
+     "lot_sqft": 8599,
+     "year_built": 1979
+    },
+    "location": {
+     "address": {
+      "line": "8200 Furness Dr",
+      "unit": null,
+      "city": "Austin",
+      "state_code": "TX",
+      "postal_code": "78753",
+      "coordinate": {
+       "lat": 30.341492,
+       "lon": -97.689951
+      }
+     },
+     "neighborhoods": null
+    },
+    "source": {
+     "id": "AUTX",
+     "type": "mls",
+     "name": "UnlockMLS",
+     "agents": [
+      {
+       "agent_name": null
+      }
+     ]
+    },
+    "primary_photo": {
+     "href": "https://ap.rdcpix.com/08e72cc4299077d2b96483c171016e12l-m454029727xd-w300_h300_q80.jpg"
+    },
+    "photos": null,
+    "open_houses": null,
+    "virtual_tours": null,
+    "advertisers": null,
+    "current_estimates": [
+     {
+      "estimate": 355685,
+      "isbest_homevalue": true
+     },
+     {
+      "estimate": 347700,
+      "isbest_homevalue": false
+     },
+     {
+      "estimate": 356000,
+      "isbest_homevalue": false
+     }
+    ],
+    "units": null
+   },
+   {
+    "property_id": "7974995707",
+    "listing_id": "3000426694",
+    "permalink": "3017-Val-Dr_Austin_TX_78723_M79749-95707",
+    "href": "https://www.realtor.com/realestateandhomes-detail/3017-Val-Dr_Austin_TX_78723_M79749-95707",
+    "status": "for_sale",
+    "list_date": null,
+    "last_update_date": "2026-10-27T13:41:13Z",
+    "last_status_change_date": null,
+    "list_price": 435000,
+    "list_price_min": null,
+    "list_price_max": null,
+    "price_per_sqft": 207,
+    "last_sold_price": null,
+    "last_sold_date": null,
+    "flags": {
+     "is_coming_soon": null,
+     "is_contingent": null,
+     "is_garage_present": null,
+     "is_new_construction": null,
+     "is_pending": null,
+     "is_short_sale": null,
+     "is_foreclosure": null,
+     "is_senior_community": null,
+     "is_for_rent": null,
+     "is_deal_available": null,
+     "is_price_reduced": true,
+     "is_new_listing": false,
+     "is_subdivision": null,
+     "is_plan": null
+    },
+    "description": {
+     "type": "single_family",
+     "sub_type": null,
+     "name": null,
+     "beds": 4,
+     "baths": 2,
+     "baths_full": 2,
+     "baths_half": null,
+     "baths_consolidated": "2",
+     "sqft": 2100,
+     "lot_sqft": 9470,
+     "year_built": 1970
+    },
+    "location": {
+     "address": {
+      "line": "3017 Val Dr",
+      "unit": null,
+      "city": "Austin",
+      "state_code": "TX",
+      "postal_code": "78723",
+      "coordinate": {
+       "lat": 30.317225,
+       "lon": -97.667512
+      }
+     },
+     "neighborhoods": null
+    },
+    "source": {
+     "id": "AUTX",
+     "type": "mls",
+     "name": "UnlockMLS",
+     "agents": [
+      {
+       "agent_name": null
+      }
+     ]
+    },
+    "primary_photo": {
+     "href": "https://ap.rdcpix.com/addd0e02be7ba4ce25f68aeded421dc3l-m2847104689xd-w300_h300_q80.jpg"
+    },
+    "photos": null,
+    "open_houses": null,
+    "virtual_tours": null,
+    "advertisers": null,
+    "current_estimates": [
+     {
+      "estimate": 459800,
+      "isbest_homevalue": true
+     },
+     {
+      "estimate": 495000,
+      "isbest_homevalue": false
+     },
+     {
+      "estimate": 449468,
+      "isbest_homevalue": false
+     }
+    ],
+    "units": null
+   },
+   {
+    "property_id": "8678777552",
+    "listing_id": "3000655970",
+    "permalink": "6904-Miranda-Dr_Austin_TX_78752_M86787-77552",
+    "href": "https://www.realtor.com/realestateandhomes-detail/6904-Miranda-Dr_Austin_TX_78752_M86787-77552",
+    "status": "for_sale",
+    "list_date": null,
+    "last_update_date": "2026-10-05T19:18:10Z",
+    "last_status_change_date": null,
+    "list_price": 374995,
+    "list_price_min": null,
+    "list_price_max": null,
+    "price_per_sqft": 277,
+    "last_sold_price": null,
+    "last_sold_date": null,
+    "flags": {
+     "is_coming_soon": null,
+     "is_contingent": null,
+     "is_garage_present": null,
+     "is_new_construction": null,
+     "is_pending": null,
+     "is_short_sale": null,
+     "is_foreclosure": null,
+     "is_senior_community": null,
+     "is_for_rent": null,
+     "is_deal_available": null,
+     "is_price_reduced": false,
+     "is_new_listing": false,
+     "is_subdivision": null,
+     "is_plan": null
+    },
+    "description": {
+     "type": "single_family",
+     "sub_type": null,
+     "name": null,
+     "beds": 4,
+     "baths": 1,
+     "baths_full": 1,
+     "baths_half": null,
+     "baths_consolidated": "1",
+     "sqft": 1353,
+     "lot_sqft": 7937,
+     "year_built": 1964
+    },
+    "location": {
+     "address": {
+      "line": "6904 Miranda Dr",
+      "unit": null,
+      "city": "Austin",
+      "state_code": "TX",
+      "postal_code": "78752",
+      "coordinate": {
+       "lat": 30.333325,
+       "lon": -97.711928
+      }
+     },
+     "neighborhoods": null
+    },
+    "source": {
+     "id": "AUTX",
+     "type": "mls",
+     "name": "UnlockMLS",
+     "agents": [
+      {
+       "agent_name": null
+      }
+     ]
+    },
+    "primary_photo": {
+     "href": "https://ap.rdcpix.com/8a7154728c9b758e7e4a27ee27c5d0b5l-m3711276393xd-w300_h300_q80.jpg"
+    },
+    "photos": null,
+    "open_houses": null,
+    "virtual_tours": null,
+    "advertisers": null,
+    "current_estimates": [
+     {
+      "estimate": 371000,
+      "isbest_homevalue": true
+     },
+     {
+      "estimate": 371919,
+      "isbest_homevalue": false
+     },
+     {
+      "estimate": 368900,
+      "isbest_homevalue": false
+     }
+    ],
+    "units": null
+   },
+   {
+    "property_id": "8746724737",
+    "listing_id": "3002257427",
+    "permalink": "3106-Northeast-Dr_Austin_TX_78723_M87467-24737",
+    "href": "https://www.realtor.com/realestateandhomes-detail/3106-Northeast-Dr_Austin_TX_78723_M87467-24737",
+    "status": "for_sale",
+    "list_date": null,
+    "last_update_date": "2026-11-06T14:48:11Z",
+    "last_status_change_date": null,
+    "list_price": 365000,
+    "list_price_min": null,
+    "list_price_max": null,
+    "price_per_sqft": 231,
+    "last_sold_price": null,
+    "last_sold_date": null,
+    "flags": {
+     "is_coming_soon": null,
+     "is_contingent": null,
+     "is_garage_present": true,
+     "is_new_construction": null,
+     "is_pending": null,
+     "is_short_sale": null,
+     "is_foreclosure": null,
+     "is_senior_community": null,
+     "is_for_rent": null,
+     "is_deal_available": null,
+     "is_price_reduced": true,
+     "is_new_listing": false,
+     "is_subdivision": null,
+     "is_plan": null
+    },
+    "description": {
+     "type": "single_family",
+     "sub_type": null,
+     "name": null,
+     "beds": 3,
+     "baths": 2,
+     "baths_full": 2,
+     "baths_half": null,
+     "baths_consolidated": "2",
+     "sqft": 1580,
+     "lot_sqft": 11613,
+     "year_built": 1954
+    },
+    "location": {
+     "address": {
+      "line": "3106 Northeast Dr",
+      "unit": null,
+      "city": "Austin",
+      "state_code": "TX",
+      "postal_code": "78723",
+      "coordinate": {
+       "lat": 30.310452,
+       "lon": -97.672734
+      }
+     },
+     "neighborhoods": null
+    },
+    "source": {
+     "id": "AUTX",
+     "type": "mls",
+     "name": "UnlockMLS",
+     "agents": [
+      {
+       "agent_name": null
+      }
+     ]
+    },
+    "primary_photo": {
+     "href": "https://ap.rdcpix.com/91c9b8f7ef0b429983478faaea0213cal-m3765964360xd-w300_h300_q80.jpg"
+    },
+    "photos": null,
+    "open_houses": null,
+    "virtual_tours": null,
+    "advertisers": null,
+    "current_estimates": [
+     {
+      "estimate": 445000,
+      "isbest_homevalue": true
+     },
+     {
+      "estimate": 446900,
+      "isbest_homevalue": false
+     },
+     {
+      "estimate": 387153,
+      "isbest_homevalue": false
+     }
+    ],
+    "units": null
+   },
+   {
+    "property_id": "7635007141",
+    "listing_id": "3003209690",
+    "permalink": "8801-Leisure-Dr_Austin_TX_78754_M76350-07141",
+    "href": "https://www.realtor.com/realestateandhomes-detail/8801-Leisure-Dr_Austin_TX_78754_M76350-07141",
+    "status": "for_sale",
+    "list_date": null,
+    "last_update_date": "2026-11-04T10:03:11Z",
+    "last_status_change_date": null,
+    "list_price": 445000,
+    "list_price_min": null,
+    "list_price_max": null,
+    "price_per_sqft": 264,
+    "last_sold_price": null,
+    "last_sold_date": null,
+    "flags": {
+     "is_coming_soon": null,
+     "is_contingent": null,
+     "is_garage_present": true,
+     "is_new_construction": null,
+     "is_pending": null,
+     "is_short_sale": null,
+     "is_foreclosure": null,
+     "is_senior_community": null,
+     "is_for_rent": null,
+     "is_deal_available": null,
+     "is_price_reduced": null,
+     "is_new_listing": true,
+     "is_subdivision": null,
+     "is_plan": null
+    },
+    "description": {
+     "type": "single_family",
+     "sub_type": null,
+     "name": null,
+     "beds": 3,
+     "baths": 3,
+     "baths_full": 3,
+     "baths_half": null,
+     "baths_consolidated": "3",
+     "sqft": 1683,
+     "lot_sqft": 13813,
+     "year_built": 1961
+    },
+    "location": {
+     "address": {
+      "line": "8801 Leisure Dr",
+      "unit": null,
+      "city": "Austin",
+      "state_code": "TX",
+      "postal_code": "78754",
+      "coordinate": {
+       "lat": 30.343194,
+       "lon": -97.673238
+      }
+     },
+     "neighborhoods": null
+    },
+    "source": {
+     "id": "AUTX",
+     "type": "mls",
+     "name": "UnlockMLS",
+     "agents": [
+      {
+       "agent_name": null
+      }
+     ]
+    },
+    "primary_photo": {
+     "href": "https://ap.rdcpix.com/48fdee0f485ea8ce42778526e93189eel-m250089957xd-w300_h300_q80.jpg"
+    },
+    "photos": null,
+    "open_houses": null,
+    "virtual_tours": null,
+    "advertisers": null,
+    "current_estimates": [
+     {
+      "estimate": 476521,
+      "isbest_homevalue": true
+     },
+     {
+      "estimate": 480200,
+      "isbest_homevalue": false
+     },
+     {
+      "estimate": 368000,
+      "isbest_homevalue": false
+     }
+    ],
+    "units": null
+   },
+   {
+    "property_id": "8499256134",
+    "listing_id": "2993575588",
+    "permalink": "10001-Woodglen-Dr_Austin_TX_78753_M84992-56134",
+    "href": "https://www.realtor.com/realestateandhomes-detail/10001-Woodglen-Dr_Austin_TX_78753_M84992-56134",
+    "status": "for_sale",
+    "list_date": null,
+    "last_update_date": "2026-11-03T13:06:11Z",
+    "last_status_change_date": null,
+    "list_price": 365000,
+    "list_price_min": null,
+    "list_price_max": null,
+    "price_per_sqft": 218,
+    "last_sold_price": null,
+    "last_sold_date": null,
+    "flags": {
+     "is_coming_soon": null,
+     "is_contingent": null,
+     "is_garage_present": true,
+     "is_new_construction": null,
+     "is_pending": null,
+     "is_short_sale": null,
+     "is_foreclosure": null,
+     "is_senior_community": null,
+     "is_for_rent": null,
+     "is_deal_available": null,
+     "is_price_reduced": false,
+     "is_new_listing": false,
+     "is_subdivision": null,
+     "is_plan": null
+    },
+    "description": {
+     "type": "single_family",
+     "sub_type": null,
+     "name": null,
+     "beds": 3,
+     "baths": 2,
+     "baths_full": 2,
+     "baths_half": null,
+     "baths_consolidated": "2",
+     "sqft": 1677,
+     "lot_sqft": 8076,
+     "year_built": 1972
+    },
+    "location": {
+     "address": {
+      "line": "10001 Woodglen Dr",
+      "unit": null,
+      "city": "Austin",
+      "state_code": "TX",
+      "postal_code": "78753",
+      "coordinate": {
+       "lat": 30.360468,
+       "lon": -97.676032
+      }
+     },
+     "neighborhoods": null
+    },
+    "source": {
+     "id": "AUTX",
+     "type": "mls",
+     "name": "UnlockMLS",
+     "agents": [
+      {
+       "agent_name": null
+      }
+     ]
+    },
+    "primary_photo": {
+     "href": "https://ap.rdcpix.com/83329f908caa1e077811f1623e9aa301l-m4009284442xd-w300_h300_q80.jpg"
+    },
+    "photos": null,
+    "open_houses": null,
+    "virtual_tours": null,
+    "advertisers": null,
+    "current_estimates": [
+     {
+      "estimate": 353784,
+      "isbest_homevalue": true
+     },
+     {
+      "estimate": 348000,
+      "isbest_homevalue": false
+     },
+     {
+      "estimate": 361000,
+      "isbest_homevalue": false
+     }
+    ],
+    "units": null
+   },
+   {
+    "property_id": "7769033660",
+    "listing_id": "2994312026",
+    "permalink": "7300-Fred-Morse-Dr_Austin_TX_78723_M77690-33660",
+    "href": "https://www.realtor.com/realestateandhomes-detail/7300-Fred-Morse-Dr_Austin_TX_78723_M77690-33660",
+    "status": "for_sale",
+    "list_date": null,
+    "last_update_date": "2026-04-23T02:10:09Z",
+    "last_status_change_date": null,
+    "list_price": 450000,
+    "list_price_min": null,
+    "list_price_max": null,
+    "price_per_sqft": 273,
+    "last_sold_price": null,
+    "last_sold_date": null,
+    "flags": {
+     "is_coming_soon": null,
+     "is_contingent": null,
+     "is_garage_present": true,
+     "is_new_construction": null,
+     "is_pending": null,
+     "is_short_sale": null,
+     "is_foreclosure": null,
+     "is_senior_community": null,
+     "is_for_rent": null,
+     "is_deal_available": null,
+     "is_price_reduced": null,
+     "is_new_listing": false,
+     "is_subdivision": null,
+     "is_plan": null
+    },
+    "description": {
+     "type": "single_family",
+     "sub_type": null,
+     "name": null,
+     "beds": 3,
+     "baths": 2,
+     "baths_full": 2,
+     "baths_half": null,
+     "baths_consolidated": "2",
+     "sqft": 1650,
+     "lot_sqft": 8546,
+     "year_built": 1969
+    },
+    "location": {
+     "address": {
+      "line": "7300 Fred Morse Dr",
+      "unit": null,
+      "city": "Austin",
+      "state_code": "TX",
+      "postal_code": "78723",
+      "coordinate": {
+       "lat": 30.320034,
+       "lon": -97.667927
+      }
+     },
+     "neighborhoods": null
+    },
+    "source": {
+     "id": "AUTX",
+     "type": "mls",
+     "name": "UnlockMLS",
+     "agents": [
+      {
+       "agent_name": null
+      }
+     ]
+    },
+    "primary_photo": {
+     "href": "https://ap.rdcpix.com/781c049cf64e11f91a8068b5542fe2f0l-m1979187136xd-w300_h300_q80.jpg"
+    },
+    "photos": null,
+    "open_houses": null,
+    "virtual_tours": null,
+    "advertisers": null,
+    "current_estimates": [
+     {
+      "estimate": 402900,
+      "isbest_homevalue": true
+     },
+     {
+      "estimate": 396000,
+      "isbest_homevalue": false
+     },
+     {
+      "estimate": 409187,
+      "isbest_homevalue": false
+     }
+    ],
+    "units": null
+   },
+   {
+    "property_id": "7701836349",
+    "listing_id": "3001677204",
+    "permalink": "6907-Tulane-Dr_Austin_TX_78723_M77018-36349",
+    "href": "https://www.realtor.com/realestateandhomes-detail/6907-Tulane-Dr_Austin_TX_78723_M77018-36349",
+    "status": "for_sale",
+    "list_date": null,
+    "last_update_date": "2026-11-04T02:01:10Z",
+    "last_status_change_date": null,
+    "list_price": 359900,
+    "list_price_min": null,
+    "list_price_max": null,
+    "price_per_sqft": 319,
+    "last_sold_price": null,
+    "last_sold_date": null,
+    "flags": {
+     "is_coming_soon": null,
+     "is_contingent": null,
+     "is_garage_present": null,
+     "is_new_construction": null,
+     "is_pending": null,
+     "is_short_sale": null,
+     "is_foreclosure": null,
+     "is_senior_community": null,
+     "is_for_rent": null,
+     "is_deal_available": null,
+     "is_price_reduced": true,
+     "is_new_listing": false,
+     "is_subdivision": null,
+     "is_plan": null
+    },
+    "description": {
+     "type": "single_family",
+     "sub_type": null,
+     "name": null,
+     "beds": 4,
+     "baths": 3,
+     "baths_full": 3,
+     "baths_half": null,
+     "baths_consolidated": "3",
+     "sqft": 1128,
+     "lot_sqft": 7139,
+     "year_built": 1966
+    },
+    "location": {
+     "address": {
+      "line": "6907 Tulane Dr",
+      "unit": null,
+      "city": "Austin",
+      "state_code": "TX",
+      "postal_code": "78723",
+      "coordinate": {
+       "lat": 30.31293,
+       "lon": -97.666795
+      }
+     },
+     "neighborhoods": null
+    },
+    "source": {
+     "id": "AUTX",
+     "type": "mls",
+     "name": "UnlockMLS",
+     "agents": [
+      {
+       "agent_name": null
+      }
+     ]
+    },
+    "primary_photo": {
+     "href": "https://ap.rdcpix.com/4d44a516489cfce98cc885bf79ebc35bl-m2011706398xd-w300_h300_q80.jpg"
+    },
+    "photos": null,
+    "open_houses": null,
+    "virtual_tours": null,
+    "advertisers": null,
+    "current_estimates": [
+     {
+      "estimate": 369639,
+      "isbest_homevalue": true
+     },
+     {
+      "estimate": 356000,
+      "isbest_homevalue": false
+     },
+     {
+      "estimate": 381200,
+      "isbest_homevalue": false
+     }
+    ],
+    "units": null
+   },
+   {
+    "property_id": "7701243242",
+    "listing_id": "3000143498",
+    "permalink": "903-Potomac-Path_Austin_TX_78753_M77012-43242",
+    "href": "https://www.realtor.com/realestateandhomes-detail/903-Potomac-Path_Austin_TX_78753_M77012-43242",
+    "status": "for_sale",
+    "list_date": null,
+    "last_update_date": "2026-10-26T21:05:09Z",
+    "last_status_change_date": null,
+    "list_price": 440000,
+    "list_price_min": null,
+    "list_price_max": null,
+    "price_per_sqft": 228,
+    "last_sold_price": null,
+    "last_sold_date": null,
+    "flags": {
+     "is_coming_soon": null,
+     "is_contingent": null,
+     "is_garage_present": true,
+     "is_new_construction": null,
+     "is_pending": null,
+     "is_short_sale": null,
+     "is_foreclosure": null,
+     "is_senior_community": null,
+     "is_for_rent": null,
+     "is_deal_available": null,
+     "is_price_reduced": true,
+     "is_new_listing": false,
+     "is_subdivision": null,
+     "is_plan": null
+    },
+    "description": {
+     "type": "single_family",
+     "sub_type": null,
+     "name": null,
+     "beds": 4,
+     "baths": 2,
+     "baths_full": 2,
+     "baths_half": null,
+     "baths_consolidated": "2",
+     "sqft": 1929,
+     "lot_sqft": 7322,
+     "year_built": 1964
+    },
+    "location": {
+     "address": {
+      "line": "903 Potomac Path",
+      "unit": null,
+      "city": "Austin",
+      "state_code": "TX",
+      "postal_code": "78753",
+      "coordinate": {
+       "lat": 30.346964,
+       "lon": -97.692077
+      }
+     },
+     "neighborhoods": null
+    },
+    "source": {
+     "id": "AUTX",
+     "type": "mls",
+     "name": "UnlockMLS",
+     "agents": [
+      {
+       "agent_name": null
+      },
+      {
+       "agent_name": null
+      }
+     ]
+    },
+    "primary_photo": {
+     "href": "https://ap.rdcpix.com/d649380448f1d4ecc6de099d985838bcl-m4108887382xd-w300_h300_q80.jpg"
+    },
+    "photos": null,
+    "open_houses": null,
+    "virtual_tours": null,
+    "advertisers": null,
+    "current_estimates": [
+     {
+      "estimate": 429162,
+      "isbest_homevalue": true
+     },
+     {
+      "estimate": 416000,
+      "isbest_homevalue": false
+     },
+     {
+      "estimate": 446000,
+      "isbest_homevalue": false
+     }
+    ],
+    "units": null
+   },
+   {
+    "property_id": "7244199202",
+    "listing_id": "3001653506",
+    "permalink": "7707-Meadowview-Ln_Austin_TX_78752_M72441-99202",
+    "href": "https://www.realtor.com/realestateandhomes-detail/7707-Meadowview-Ln_Austin_TX_78752_M72441-99202",
+    "status": "for_sale",
+    "list_date": null,
+    "last_update_date": "2026-10-09T09:05:11Z",
+    "last_status_change_date": null,
+    "list_price": 440000,
+    "list_price_min": null,
+    "list_price_max": null,
+    "price_per_sqft": 318,
+    "last_sold_price": null,
+    "last_sold_date": null,
+    "flags": {
+     "is_coming_soon": null,
+     "is_contingent": null,
+     "is_garage_present": true,
+     "is_new_construction": null,
+     "is_pending": null,
+     "is_short_sale": null,
+     "is_foreclosure": null,
+     "is_senior_community": null,
+     "is_for_rent": null,
+     "is_deal_available": null,
+     "is_price_reduced": null,
+     "is_new_listing": false,
+     "is_subdivision": null,
+     "is_plan": null
+    },
+    "description": {
+     "type": "single_family",
+     "sub_type": null,
+     "name": null,
+     "beds": 3,
+     "baths": 2,
+     "baths_full": 2,
+     "baths_half": null,
+     "baths_consolidated": "2",
+     "sqft": 1384,
+     "lot_sqft": 13129,
+     "year_built": 1976
+    },
+    "location": {
+     "address": {
+      "line": "7707 Meadowview Ln",
+      "unit": null,
+      "city": "Austin",
+      "state_code": "TX",
+      "postal_code": "78752",
+      "coordinate": {
+       "lat": 30.342161,
+       "lon": -97.707975
+      }
+     },
+     "neighborhoods": null
+    },
+    "source": {
+     "id": "AUTX",
+     "type": "mls",
+     "name": "UnlockMLS",
+     "agents": [
+      {
+       "agent_name": null
+      }
+     ]
+    },
+    "primary_photo": {
+     "href": "https://ap.rdcpix.com/3ae87e976378eb0e4023c4f0ede366f7l-m849684988xd-w300_h300_q80.jpg"
+    },
+    "photos": null,
+    "open_houses": null,
+    "virtual_tours": null,
+    "advertisers": null,
+    "current_estimates": [
+     {
+      "estimate": 435100,
+      "isbest_homevalue": true
+     },
+     {
+      "estimate": 516000,
+      "isbest_homevalue": false
+     },
+     {
+      "estimate": 430669,
+      "isbest_homevalue": false
+     }
+    ],
+    "units": null
+   },
+   {
+    "property_id": "7835188412",
+    "listing_id": "3001834351",
+    "permalink": "7305-Providence-Ave_Austin_TX_78752_M78351-88412",
+    "href": "https://www.realtor.com/realestateandhomes-detail/7305-Providence-Ave_Austin_TX_78752_M78351-88412",
+    "status": "for_sale",
+    "list_date": null,
+    "last_update_date": "2026-10-17T03:01:10Z",
+    "last_status_change_date": null,
+    "list_price": 400000,
+    "list_price_min": null,
+    "list_price_max": null,
+    "price_per_sqft": 417,
+    "last_sold_price": null,
+    "last_sold_date": null,
+    "flags": {
+     "is_coming_soon": null,
+     "is_contingent": null,
+     "is_garage_present": null,
+     "is_new_construction": null,
+     "is_pending": null,
+     "is_short_sale": null,
+     "is_foreclosure": null,
+     "is_senior_community": null,
+     "is_for_rent": null,
+     "is_deal_available": null,
+     "is_price_reduced": null,
+     "is_new_listing": false,
+     "is_subdivision": null,
+     "is_plan": null
+    },
+    "description": {
+     "type": "single_family",
+     "sub_type": null,
+     "name": null,
+     "beds": 3,
+     "baths": 1,
+     "baths_full": 1,
+     "baths_half": null,
+     "baths_consolidated": "1",
+     "sqft": 960,
+     "lot_sqft": 7971,
+     "year_built": 1972
+    },
+    "location": {
+     "address": {
+      "line": "7305 Providence Ave",
+      "unit": null,
+      "city": "Austin",
+      "state_code": "TX",
+      "postal_code": "78752",
+      "coordinate": {
+       "lat": 30.331037,
+       "lon": -97.695958
+      }
+     },
+     "neighborhoods": null
+    },
+    "source": {
+     "id": "AUTX",
+     "type": "mls",
+     "name": "UnlockMLS",
+     "agents": [
+      {
+       "agent_name": null
+      }
+     ]
+    },
+    "primary_photo": {
+     "href": "https://ap.rdcpix.com/9c2470079e11bd62543f5b88902de1c2l-m1760425259xd-w300_h300_q80.jpg"
+    },
+    "photos": null,
+    "open_houses": null,
+    "virtual_tours": null,
+    "advertisers": null,
+    "current_estimates": [
+     {
+      "estimate": 366200,
+      "isbest_homevalue": true
+     },
+     {
+      "estimate": 230000,
+      "isbest_homevalue": false
+     },
+     {
+      "estimate": 392295,
+      "isbest_homevalue": false
+     }
+    ],
+    "units": null
+   }
+  ]
+ }
+}

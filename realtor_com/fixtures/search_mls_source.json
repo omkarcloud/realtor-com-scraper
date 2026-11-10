@@ -1,0 +1,307 @@
+{
+ "count": 1,
+ "total": 1,
+ "results": [
+  {
+   "property_id": "8102930727",
+   "listing_id": "2991781467",
+   "permalink": "1704-Shelbourne-Dr_Austin_TX_78752_M81029-30727",
+   "href": "https://www.realtor.com/realestateandhomes-detail/1704-Shelbourne-Dr_Austin_TX_78752_M81029-30727",
+   "status": "for_sale",
+   "mls_status": "Active",
+   "list_date": "2026-02-21T14:21:38.000000Z",
+   "last_update_date": "2026-11-03T13:04:11Z",
+   "last_status_change_date": "2026-02-21T14:21:38Z",
+   "pending_date": null,
+   "list_price": 400000,
+   "list_price_min": null,
+   "list_price_max": null,
+   "price_per_sqft": 257,
+   "last_sold_price": null,
+   "last_sold_date": "2022-10-21",
+   "tags": [
+    "central_air",
+    "central_heat",
+    "community_outdoor_space",
+    "community_security_features",
+    "dishwasher",
+    "fireplace",
+    "hardwood_floors",
+    "laundry_room",
+    "view",
+    "washer_dryer",
+    "swimming_pool",
+    "single_story",
+    "garage_1_or_more",
+    "garage_2_or_more",
+    "open_concept_living",
+    "home_office",
+    "office",
+    "exercise_room"
+   ],
+   "flags": {
+    "is_coming_soon": null,
+    "is_contingent": null,
+    "is_garage_present": true,
+    "is_new_construction": null,
+    "is_pending": null,
+    "is_short_sale": true,
+    "is_foreclosure": null,
+    "is_senior_community": null,
+    "is_for_rent": null,
+    "is_deal_available": null,
+    "is_price_reduced": null,
+    "is_new_listing": false,
+    "is_subdivision": null,
+    "is_plan": null
+   },
+   "description": {
+    "type": "single_family",
+    "sub_type": null,
+    "name": null,
+    "beds": 3,
+    "baths": 2,
+    "baths_full": 2,
+    "baths_half": null,
+    "baths_consolidated": "2",
+    "sqft": 1556,
+    "lot_sqft": 9561,
+    "year_built": 1969,
+    "garage": 2,
+    "stories": 1
+   },
+   "location": {
+    "address": {
+     "line": "1704 Shelbourne Dr",
+     "unit": null,
+     "city": "Austin",
+     "state_code": "TX",
+     "postal_code": "78752",
+     "coordinate": {
+      "lat": 30.327864,
+      "lon": -97.683779
+     }
+    },
+    "county": {
+     "name": "Travis",
+     "fips_code": "48453"
+    },
+    "neighborhoods": null
+   },
+   "hoa": {
+    "fee": 0
+   },
+   "source": {
+    "id": "AUTX",
+    "type": "mls",
+    "name": "UnlockMLS",
+    "listing_id": "3401964",
+    "agents": [
+     {
+      "agent_name": null,
+      "agent_id": "510003",
+      "office_name": "eXp Realty, LLC",
+      "office_id": "702963"
+     }
+    ]
+   },
+   "primary_photo": {
+    "href": "https://ap.rdcpix.com/d35f307687bd662693dfc1958f2a9e63l-m4003346858s.jpg"
+   },
+   "photos": [
+    {
+     "href": "https://ap.rdcpix.com/d35f307687bd662693dfc1958f2a9e63l-m4003346858s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/d35f307687bd662693dfc1958f2a9e63l-m620270851s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/d35f307687bd662693dfc1958f2a9e63l-m3183099925s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/d35f307687bd662693dfc1958f2a9e63l-m1863049190s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/d35f307687bd662693dfc1958f2a9e63l-m2862359800s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/d35f307687bd662693dfc1958f2a9e63l-m3350845468s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/d35f307687bd662693dfc1958f2a9e63l-m1874743239s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/d35f307687bd662693dfc1958f2a9e63l-m932535787s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/d35f307687bd662693dfc1958f2a9e63l-m3427936412s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/d35f307687bd662693dfc1958f2a9e63l-m1940336988s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/d35f307687bd662693dfc1958f2a9e63l-m3831059981s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/d35f307687bd662693dfc1958f2a9e63l-m628135934s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/d35f307687bd662693dfc1958f2a9e63l-m2194611085s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/d35f307687bd662693dfc1958f2a9e63l-m38510867s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/d35f307687bd662693dfc1958f2a9e63l-m1037044971s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/d35f307687bd662693dfc1958f2a9e63l-m4242193620s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/d35f307687bd662693dfc1958f2a9e63l-m2955624456s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/d35f307687bd662693dfc1958f2a9e63l-m860072490s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/d35f307687bd662693dfc1958f2a9e63l-m1591285347s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/d35f307687bd662693dfc1958f2a9e63l-m438036259s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/d35f307687bd662693dfc1958f2a9e63l-m1548132139s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/d35f307687bd662693dfc1958f2a9e63l-m1814913221s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/d35f307687bd662693dfc1958f2a9e63l-m4124081818s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/d35f307687bd662693dfc1958f2a9e63l-m1762727775s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/d35f307687bd662693dfc1958f2a9e63l-m27296118s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/d35f307687bd662693dfc1958f2a9e63l-m2782134172s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/d35f307687bd662693dfc1958f2a9e63l-m88964862s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/d35f307687bd662693dfc1958f2a9e63l-m2116893584s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/d35f307687bd662693dfc1958f2a9e63l-m3094027538s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/d35f307687bd662693dfc1958f2a9e63l-m3833927024s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/d35f307687bd662693dfc1958f2a9e63l-m1340389571s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/d35f307687bd662693dfc1958f2a9e63l-m943391462s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/d35f307687bd662693dfc1958f2a9e63l-m1340389571s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/d35f307687bd662693dfc1958f2a9e63l-m582651802s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/d35f307687bd662693dfc1958f2a9e63l-m292886547s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/d35f307687bd662693dfc1958f2a9e63l-m1377787208s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/d35f307687bd662693dfc1958f2a9e63l-m2821329280s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/d35f307687bd662693dfc1958f2a9e63l-m1077284350s.jpg"
+    }
+   ],
+   "open_houses": null,
+   "virtual_tours": null,
+   "advertisers": [
+    {
+     "type": "seller",
+     "name": "Knolly Williams",
+     "fulfillment_id": "184731",
+     "email": "knolly@knolly.com",
+     "nrds_id": "803000355",
+     "state_license": null,
+     "phones": [
+      {
+       "number": "7372051640",
+       "type": "Mobile",
+       "primary": true,
+       "ext": null
+      }
+     ],
+     "office": {
+      "name": "eXp Realty, LLC",
+      "email": "linda.marcus@exprealty.com",
+      "fulfillment_id": "100250955",
+      "href": null,
+      "phones": [
+       {
+        "number": "8885197431",
+        "type": "Office"
+       }
+      ]
+     },
+     "broker": {
+      "name": "eXp Realty, LLC",
+      "fulfillment_id": "100250952"
+     },
+     "builder": null
+    }
+   ],
+   "current_estimates": [
+    {
+     "estimate": 391000,
+     "estimate_high": 430100,
+     "estimate_low": 351900,
+     "date": "2026-10-14",
+     "isbest_homevalue": true,
+     "source": {
+      "type": "collateral",
+      "name": "Collateral Analytics"
+     }
+    },
+    {
+     "estimate": 380000,
+     "estimate_high": 406400,
+     "estimate_low": 353700,
+     "date": "2026-10-05",
+     "isbest_homevalue": false,
+     "source": {
+      "type": "corelogic",
+      "name": "Cotality™"
+     }
+    },
+    {
+     "estimate": 546437,
+     "estimate_high": 612009,
+     "estimate_low": 480864,
+     "date": "2026-10-28",
+     "isbest_homevalue": false,
+     "source": {
+      "type": "quantarium",
+      "name": "Quantarium"
+     }
+    }
+   ],
+   "pet_policy": null,
+   "units": null,
+   "tax_record": {
+    "apn": null,
+    "tax_parcel_id": null
+   }
+  }
+ ]
+}

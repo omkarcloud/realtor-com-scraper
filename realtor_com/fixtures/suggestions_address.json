@@ -1,0 +1,406 @@
+{
+ "geo_results": [
+  {
+   "type": "location",
+   "text": "1704 Shelbourne Dr, Austin, TX",
+   "geo": {
+    "_id": "addr:8102930727",
+    "mpr_id": "8102930727",
+    "area_type": "address",
+    "city": "Austin",
+    "state_code": "TX",
+    "postal_code": "78752",
+    "county": null,
+    "slug_id": null,
+    "geo_id": null,
+    "city_slug_id": null,
+    "centroid": {
+     "lat": 30.327864,
+     "lon": -97.683779
+    },
+    "street": null,
+    "line": "1704 Shelbourne Dr",
+    "school": null,
+    "school_district": null,
+    "neighborhood": null
+   }
+  },
+  {
+   "type": "location",
+   "text": "Shelbourne, Stow, OH",
+   "geo": {
+    "_id": "street:usa_oh_stow_shelbourne",
+    "mpr_id": null,
+    "area_type": "street",
+    "city": "Stow",
+    "state_code": "OH",
+    "postal_code": null,
+    "county": null,
+    "slug_id": "Shelbourne",
+    "geo_id": null,
+    "city_slug_id": "Stow_OH",
+    "centroid": {
+     "lat": 41.160619,
+     "lon": -81.396905
+    },
+    "street": "Shelbourne",
+    "line": null,
+    "school": null,
+    "school_district": null,
+    "neighborhood": null
+   }
+  },
+  {
+   "type": "location",
+   "text": "Shelbourne, Hudson, OH",
+   "geo": {
+    "_id": "street:usa_oh_hudson_shelbourne",
+    "mpr_id": null,
+    "area_type": "street",
+    "city": "Hudson",
+    "state_code": "OH",
+    "postal_code": null,
+    "county": null,
+    "slug_id": "Shelbourne",
+    "geo_id": null,
+    "city_slug_id": "Hudson_OH",
+    "centroid": {
+     "lat": 41.160619,
+     "lon": -81.396905
+    },
+    "street": "Shelbourne",
+    "line": null,
+    "school": null,
+    "school_district": null,
+    "neighborhood": null
+   }
+  },
+  {
+   "type": "location",
+   "text": "Shelbourne, Irvine, CA",
+   "geo": {
+    "_id": "street:usa_ca_irvine_shelbourne",
+    "mpr_id": null,
+    "area_type": "street",
+    "city": "Irvine",
+    "state_code": "CA",
+    "postal_code": null,
+    "county": null,
+    "slug_id": "Shelbourne",
+    "geo_id": null,
+    "city_slug_id": "Irvine_CA",
+    "centroid": {
+     "lat": 33.707773,
+     "lon": -117.741296
+    },
+    "street": "Shelbourne",
+    "line": null,
+    "school": null,
+    "school_district": null,
+    "neighborhood": null
+   }
+  },
+  {
+   "type": "location",
+   "text": "Shelbourne, Silver Lake, OH",
+   "geo": {
+    "_id": "street:usa_oh_silver-lake_shelbourne",
+    "mpr_id": null,
+    "area_type": "street",
+    "city": "Silver Lake",
+    "state_code": "OH",
+    "postal_code": null,
+    "county": null,
+    "slug_id": "Shelbourne",
+    "geo_id": null,
+    "city_slug_id": "Silver-Lake_OH",
+    "centroid": {
+     "lat": 41.160619,
+     "lon": -81.396905
+    },
+    "street": "Shelbourne",
+    "line": null,
+    "school": null,
+    "school_district": null,
+    "neighborhood": null
+   }
+  },
+  {
+   "type": "location",
+   "text": "Shelbourne, Cuyahoga Falls, OH",
+   "geo": {
+    "_id": "street:usa_oh_cuyahoga-falls_shelbourne",
+    "mpr_id": null,
+    "area_type": "street",
+    "city": "Cuyahoga Falls",
+    "state_code": "OH",
+    "postal_code": null,
+    "county": null,
+    "slug_id": "Shelbourne",
+    "geo_id": null,
+    "city_slug_id": "Cuyahoga-Falls_OH",
+    "centroid": {
+     "lat": 41.160619,
+     "lon": -81.396905
+    },
+    "street": "Shelbourne",
+    "line": null,
+    "school": null,
+    "school_district": null,
+    "neighborhood": null
+   }
+  },
+  {
+   "type": "location",
+   "text": "W Shelbourne, Las Vegas, NV",
+   "geo": {
+    "_id": "street:usa_nv_las-vegas_w-shelbourne",
+    "mpr_id": null,
+    "area_type": "street",
+    "city": "Las Vegas",
+    "state_code": "NV",
+    "postal_code": null,
+    "county": null,
+    "slug_id": "W-Shelbourne",
+    "geo_id": null,
+    "city_slug_id": "Las-Vegas_NV",
+    "centroid": {
+     "lat": 36.037162,
+     "lon": -115.280083
+    },
+    "street": "W Shelbourne",
+    "line": null,
+    "school": null,
+    "school_district": null,
+    "neighborhood": null
+   }
+  },
+  {
+   "type": "location",
+   "text": "Shelbourne Ct, Lincolnville, SC",
+   "geo": {
+    "_id": "street:usa_sc_lincolnville_shelbourne-ct",
+    "mpr_id": null,
+    "area_type": "street",
+    "city": "Lincolnville",
+    "state_code": "SC",
+    "postal_code": null,
+    "county": null,
+    "slug_id": "Shelbourne-Ct",
+    "geo_id": null,
+    "city_slug_id": "Lincolnville_SC",
+    "centroid": {
+     "lat": 32.952693,
+     "lon": -80.257054
+    },
+    "street": "Shelbourne Ct",
+    "line": null,
+    "school": null,
+    "school_district": null,
+    "neighborhood": null
+   }
+  },
+  {
+   "type": "location",
+   "text": "Shelbourne Ct, Ladson, SC",
+   "geo": {
+    "_id": "street:usa_sc_ladson_shelbourne-ct",
+    "mpr_id": null,
+    "area_type": "street",
+    "city": "Ladson",
+    "state_code": "SC",
+    "postal_code": null,
+    "county": null,
+    "slug_id": "Shelbourne-Ct",
+    "geo_id": null,
+    "city_slug_id": "Ladson_SC",
+    "centroid": {
+     "lat": 32.952693,
+     "lon": -80.257054
+    },
+    "street": "Shelbourne Ct",
+    "line": null,
+    "school": null,
+    "school_district": null,
+    "neighborhood": null
+   }
+  },
+  {
+   "type": "location",
+   "text": "Shelbourne Ct, Summerville, SC",
+   "geo": {
+    "_id": "street:usa_sc_summerville_shelbourne-ct",
+    "mpr_id": null,
+    "area_type": "street",
+    "city": "Summerville",
+    "state_code": "SC",
+    "postal_code": null,
+    "county": null,
+    "slug_id": "Shelbourne-Ct",
+    "geo_id": null,
+    "city_slug_id": "Summerville_SC",
+    "centroid": {
+     "lat": 32.952693,
+     "lon": -80.257054
+    },
+    "street": "Shelbourne Ct",
+    "line": null,
+    "school": null,
+    "school_district": null,
+    "neighborhood": null
+   }
+  },
+  {
+   "type": "location",
+   "text": "Shelbourne Rd, Bywood, PA",
+   "geo": {
+    "_id": "street:usa_pa_bywood_shelbourne-rd",
+    "mpr_id": null,
+    "area_type": "street",
+    "city": "Bywood",
+    "state_code": "PA",
+    "postal_code": null,
+    "county": null,
+    "slug_id": "Shelbourne-Rd",
+    "geo_id": null,
+    "city_slug_id": "Bywood_PA",
+    "centroid": {
+     "lat": 39.95878,
+     "lon": -75.265268
+    },
+    "street": "Shelbourne Rd",
+    "line": null,
+    "school": null,
+    "school_district": null,
+    "neighborhood": null
+   }
+  },
+  {
+   "type": "location",
+   "text": "Shelbourne Rd, Kirklyn, PA",
+   "geo": {
+    "_id": "street:usa_pa_kirklyn_shelbourne-rd",
+    "mpr_id": null,
+    "area_type": "street",
+    "city": "Kirklyn",
+    "state_code": "PA",
+    "postal_code": null,
+    "county": null,
+    "slug_id": "Shelbourne-Rd",
+    "geo_id": null,
+    "city_slug_id": "Kirklyn_PA",
+    "centroid": {
+     "lat": 39.95878,
+     "lon": -75.265268
+    },
+    "street": "Shelbourne Rd",
+    "line": null,
+    "school": null,
+    "school_district": null,
+    "neighborhood": null
+   }
+  },
+  {
+   "type": "location",
+   "text": "Shelbourne Rd, Millbourne, PA",
+   "geo": {
+    "_id": "street:usa_pa_millbourne_shelbourne-rd",
+    "mpr_id": null,
+    "area_type": "street",
+    "city": "Millbourne",
+    "state_code": "PA",
+    "postal_code": null,
+    "county": null,
+    "slug_id": "Shelbourne-Rd",
+    "geo_id": null,
+    "city_slug_id": "Millbourne_PA",
+    "centroid": {
+     "lat": 39.95878,
+     "lon": -75.265268
+    },
+    "street": "Shelbourne Rd",
+    "line": null,
+    "school": null,
+    "school_district": null,
+    "neighborhood": null
+   }
+  },
+  {
+   "type": "location",
+   "text": "Shelbourne Rd, Havertown, PA",
+   "geo": {
+    "_id": "street:usa_pa_havertown_shelbourne-rd",
+    "mpr_id": null,
+    "area_type": "street",
+    "city": "Havertown",
+    "state_code": "PA",
+    "postal_code": null,
+    "county": null,
+    "slug_id": "Shelbourne-Rd",
+    "geo_id": null,
+    "city_slug_id": "Havertown_PA",
+    "centroid": {
+     "lat": 39.975175,
+     "lon": -75.313006
+    },
+    "street": "Shelbourne Rd",
+    "line": null,
+    "school": null,
+    "school_district": null,
+    "neighborhood": null
+   }
+  },
+  {
+   "type": "location",
+   "text": "Shelbourne Dr, Gwynedd, PA",
+   "geo": {
+    "_id": "street:usa_pa_gwynedd_shelbourne-dr",
+    "mpr_id": null,
+    "area_type": "street",
+    "city": "Gwynedd",
+    "state_code": "PA",
+    "postal_code": null,
+    "county": null,
+    "slug_id": "Shelbourne-Dr",
+    "geo_id": null,
+    "city_slug_id": "Gwynedd_PA",
+    "centroid": {
+     "lat": 40.249884,
+     "lon": -75.217989
+    },
+    "street": "Shelbourne Dr",
+    "line": null,
+    "school": null,
+    "school_district": null,
+    "neighborhood": null
+   }
+  },
+  {
+   "type": "location",
+   "text": "Shelbourne Dr, Bethlehem, PA",
+   "geo": {
+    "_id": "street:usa_pa_bethlehem_shelbourne-dr",
+    "mpr_id": null,
+    "area_type": "street",
+    "city": "Bethlehem",
+    "state_code": "PA",
+    "postal_code": null,
+    "county": null,
+    "slug_id": "Shelbourne-Dr",
+    "geo_id": null,
+    "city_slug_id": "Bethlehem_PA",
+    "centroid": {
+     "lat": 40.632419,
+     "lon": -75.401589
+    },
+    "street": "Shelbourne Dr",
+    "line": null,
+    "school": null,
+    "school_district": null,
+    "neighborhood": null
+   }
+  }
+ ],
+ "typeahead_results": [],
+ "has_results": true
+}

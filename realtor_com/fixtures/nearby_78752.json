@@ -1,0 +1,580 @@
+{
+ "geo": {
+  "slug_id": "78752",
+  "state_code": "TX",
+  "centroid": {
+   "lat": 30.33193,
+   "lon": -97.70406
+  },
+  "recommended": {
+   "geos": [
+    {
+     "slug_id": "Austin_TX",
+     "state_code": "TX",
+     "centroid": {
+      "lat": 30.2986219,
+      "lon": -97.7541339
+     },
+     "geo_statistics": {
+      "housing_market": {
+       "median_listing_price": 500000,
+       "median_rent_price": 1949,
+       "median_sold_price": null,
+       "median_days_on_market": 81,
+       "median_price_per_sqft": 310,
+       "local_hotness_score": null,
+       "national_hotness_score": null,
+       "local_temperature": null,
+       "national_temperature": null,
+       "hot_market_badge": null,
+       "hot_market_rank": null,
+       "ratio_of_days_on_market_vs_typical_property_in_county": null,
+       "ratio_of_ldp_views_vs_typical_property_in_county": null
+      }
+     }
+    },
+    {
+     "slug_id": "Houston_TX",
+     "state_code": "TX",
+     "centroid": {
+      "lat": 29.7857435,
+      "lon": -95.3888059
+     },
+     "geo_statistics": {
+      "housing_market": {
+       "median_listing_price": 310000,
+       "median_rent_price": 1800,
+       "median_sold_price": null,
+       "median_days_on_market": 57,
+       "median_price_per_sqft": 168,
+       "local_hotness_score": null,
+       "national_hotness_score": null,
+       "local_temperature": null,
+       "national_temperature": null,
+       "hot_market_badge": null,
+       "hot_market_rank": null,
+       "ratio_of_days_on_market_vs_typical_property_in_county": null,
+       "ratio_of_ldp_views_vs_typical_property_in_county": null
+      }
+     }
+    },
+    {
+     "slug_id": "San-Antonio_TX",
+     "state_code": "TX",
+     "centroid": {
+      "lat": 29.4628094,
+      "lon": -98.5246346
+     },
+     "geo_statistics": {
+      "housing_market": {
+       "median_listing_price": 280000,
+       "median_rent_price": 1615,
+       "median_sold_price": null,
+       "median_days_on_market": 68,
+       "median_price_per_sqft": 158,
+       "local_hotness_score": null,
+       "national_hotness_score": null,
+       "local_temperature": null,
+       "national_temperature": null,
+       "hot_market_badge": null,
+       "hot_market_rank": null,
+       "ratio_of_days_on_market_vs_typical_property_in_county": null,
+       "ratio_of_ldp_views_vs_typical_property_in_county": null
+      }
+     }
+    },
+    {
+     "slug_id": "Dallas_TX",
+     "state_code": "TX",
+     "centroid": {
+      "lat": 32.7933334,
+      "lon": -96.7665128
+     },
+     "geo_statistics": {
+      "housing_market": {
+       "median_listing_price": 400000,
+       "median_rent_price": 1675,
+       "median_sold_price": null,
+       "median_days_on_market": 62,
+       "median_price_per_sqft": 242,
+       "local_hotness_score": null,
+       "national_hotness_score": null,
+       "local_temperature": null,
+       "national_temperature": null,
+       "hot_market_badge": null,
+       "hot_market_rank": null,
+       "ratio_of_days_on_market_vs_typical_property_in_county": null,
+       "ratio_of_ldp_views_vs_typical_property_in_county": null
+      }
+     }
+    },
+    {
+     "slug_id": "Georgetown_TX",
+     "state_code": "TX",
+     "centroid": {
+      "lat": 30.6681363,
+      "lon": -97.6987438
+     },
+     "geo_statistics": {
+      "housing_market": {
+       "median_listing_price": 439900,
+       "median_rent_price": 1999,
+       "median_sold_price": null,
+       "median_days_on_market": 83,
+       "median_price_per_sqft": 203,
+       "local_hotness_score": null,
+       "national_hotness_score": null,
+       "local_temperature": null,
+       "national_temperature": null,
+       "hot_market_badge": null,
+       "hot_market_rank": null,
+       "ratio_of_days_on_market_vs_typical_property_in_county": null,
+       "ratio_of_ldp_views_vs_typical_property_in_county": null
+      }
+     }
+    },
+    {
+     "slug_id": "Round-Rock_TX",
+     "state_code": "TX",
+     "centroid": {
+      "lat": 30.5261465,
+      "lon": -97.6635324
+     },
+     "geo_statistics": {
+      "housing_market": {
+       "median_listing_price": 407000,
+       "median_rent_price": 2095,
+       "median_sold_price": null,
+       "median_days_on_market": 77,
+       "median_price_per_sqft": 195,
+       "local_hotness_score": null,
+       "national_hotness_score": null,
+       "local_temperature": null,
+       "national_temperature": null,
+       "hot_market_badge": null,
+       "hot_market_rank": null,
+       "ratio_of_days_on_market_vs_typical_property_in_county": null,
+       "ratio_of_ldp_views_vs_typical_property_in_county": null
+      }
+     }
+    },
+    {
+     "slug_id": "Leander_TX",
+     "state_code": "TX",
+     "centroid": {
+      "lat": 30.5742732,
+      "lon": -97.8617408
+     },
+     "geo_statistics": {
+      "housing_market": {
+       "median_listing_price": 439000,
+       "median_rent_price": 2150,
+       "median_sold_price": null,
+       "median_days_on_market": 87,
+       "median_price_per_sqft": 203,
+       "local_hotness_score": null,
+       "national_hotness_score": null,
+       "local_temperature": null,
+       "national_temperature": null,
+       "hot_market_badge": null,
+       "hot_market_rank": null,
+       "ratio_of_days_on_market_vs_typical_property_in_county": null,
+       "ratio_of_ldp_views_vs_typical_property_in_county": null
+      }
+     }
+    },
+    {
+     "slug_id": "Lakeway_TX",
+     "state_code": "TX",
+     "centroid": {
+      "lat": 30.354982,
+      "lon": -97.9862685
+     },
+     "geo_statistics": {
+      "housing_market": {
+       "median_listing_price": 762000,
+       "median_rent_price": 2900,
+       "median_sold_price": null,
+       "median_days_on_market": 104,
+       "median_price_per_sqft": 290,
+       "local_hotness_score": null,
+       "national_hotness_score": null,
+       "local_temperature": null,
+       "national_temperature": null,
+       "hot_market_badge": null,
+       "hot_market_rank": null,
+       "ratio_of_days_on_market_vs_typical_property_in_county": null,
+       "ratio_of_ldp_views_vs_typical_property_in_county": null
+      }
+     }
+    },
+    {
+     "slug_id": "Pflugerville_TX",
+     "state_code": "TX",
+     "centroid": {
+      "lat": 30.4477647,
+      "lon": -97.6021157
+     },
+     "geo_statistics": {
+      "housing_market": {
+       "median_listing_price": 367990,
+       "median_rent_price": 2100,
+       "median_sold_price": null,
+       "median_days_on_market": 68,
+       "median_price_per_sqft": 178,
+       "local_hotness_score": null,
+       "national_hotness_score": null,
+       "local_temperature": null,
+       "national_temperature": null,
+       "hot_market_badge": null,
+       "hot_market_rank": null,
+       "ratio_of_days_on_market_vs_typical_property_in_county": null,
+       "ratio_of_ldp_views_vs_typical_property_in_county": null
+      }
+     }
+    },
+    {
+     "slug_id": "Kyle_TX",
+     "state_code": "TX",
+     "centroid": {
+      "lat": 29.9941176,
+      "lon": -97.8833223
+     },
+     "geo_statistics": {
+      "housing_market": {
+       "median_listing_price": 312240,
+       "median_rent_price": 1950,
+       "median_sold_price": null,
+       "median_days_on_market": 85,
+       "median_price_per_sqft": 166,
+       "local_hotness_score": null,
+       "national_hotness_score": null,
+       "local_temperature": null,
+       "national_temperature": null,
+       "hot_market_badge": null,
+       "hot_market_rank": null,
+       "ratio_of_days_on_market_vs_typical_property_in_county": null,
+       "ratio_of_ldp_views_vs_typical_property_in_county": null
+      }
+     }
+    },
+    {
+     "slug_id": "Cedar-Park_TX",
+     "state_code": "TX",
+     "centroid": {
+      "lat": 30.5101769,
+      "lon": -97.8186264
+     },
+     "geo_statistics": {
+      "housing_market": {
+       "median_listing_price": 475000,
+       "median_rent_price": 2000,
+       "median_sold_price": null,
+       "median_days_on_market": 75,
+       "median_price_per_sqft": 211,
+       "local_hotness_score": null,
+       "national_hotness_score": null,
+       "local_temperature": null,
+       "national_temperature": null,
+       "hot_market_badge": null,
+       "hot_market_rank": null,
+       "ratio_of_days_on_market_vs_typical_property_in_county": null,
+       "ratio_of_ldp_views_vs_typical_property_in_county": null
+      }
+     }
+    },
+    {
+     "slug_id": "San-Marcos_TX",
+     "state_code": "TX",
+     "centroid": {
+      "lat": 29.8736097,
+      "lon": -97.9367249
+     },
+     "geo_statistics": {
+      "housing_market": {
+       "median_listing_price": 355000,
+       "median_rent_price": 1650,
+       "median_sold_price": null,
+       "median_days_on_market": 87,
+       "median_price_per_sqft": 191,
+       "local_hotness_score": null,
+       "national_hotness_score": null,
+       "local_temperature": null,
+       "national_temperature": null,
+       "hot_market_badge": null,
+       "hot_market_rank": null,
+       "ratio_of_days_on_market_vs_typical_property_in_county": null,
+       "ratio_of_ldp_views_vs_typical_property_in_county": null
+      }
+     }
+    }
+   ]
+  }
+ },
+ "customer_nearby_locations": {
+  "nearby_cities": [
+   {
+    "city": "Rollingwood",
+    "slug_id": "rollingwood_tx",
+    "postal_code": "78746"
+   },
+   {
+    "city": "West Lake Hills",
+    "slug_id": "west-lake-hills_tx",
+    "postal_code": "78746"
+   },
+   {
+    "city": "Lost Creek",
+    "slug_id": "lost-creek_tx",
+    "postal_code": "78746"
+   },
+   {
+    "city": "Sunset Valley",
+    "slug_id": "sunset-valley_tx",
+    "postal_code": "78745"
+   },
+   {
+    "city": "Bee Caves",
+    "slug_id": "bee-caves_tx",
+    "postal_code": "78738"
+   },
+   {
+    "city": "Barton Creek",
+    "slug_id": "barton-creek_tx",
+    "postal_code": "78735"
+   },
+   {
+    "city": "Del Valle",
+    "slug_id": "del-valle_tx",
+    "postal_code": "78617"
+   },
+   {
+    "city": "Steiner Ranch",
+    "slug_id": "steiner-ranch_tx",
+    "postal_code": "78732"
+   },
+   {
+    "city": "Pflugerville",
+    "slug_id": "pflugerville_tx",
+    "postal_code": "78660"
+   },
+   {
+    "city": "Hornsby Bend",
+    "slug_id": "hornsby-bend_tx",
+    "postal_code": "78725"
+   },
+   {
+    "city": "Village of the Hills",
+    "slug_id": "village-of-the-hills_tx",
+    "postal_code": "78738"
+   },
+   {
+    "city": "Bee Cave",
+    "slug_id": "bee-cave_tx",
+    "postal_code": "78738"
+   },
+   {
+    "city": "Wells Branch",
+    "slug_id": "wells-branch_tx",
+    "postal_code": "78728"
+   },
+   {
+    "city": "Shady Hollow",
+    "slug_id": "shady-hollow_tx",
+    "postal_code": "78739"
+   },
+   {
+    "city": "Cedar Park",
+    "slug_id": "cedar-park_tx",
+    "postal_code": "78613"
+   },
+   {
+    "city": "Garfield",
+    "slug_id": "garfield_tx",
+    "postal_code": "78617"
+   },
+   {
+    "city": "Manor",
+    "slug_id": "manor_tx",
+    "postal_code": "78653"
+   },
+   {
+    "city": "Hudson Bend",
+    "slug_id": "hudson-bend_tx",
+    "postal_code": "78734"
+   },
+   {
+    "city": "San Leanna",
+    "slug_id": "san-leanna_tx",
+    "postal_code": "78748"
+   },
+   {
+    "city": "McNeil",
+    "slug_id": "mcneil_tx",
+    "postal_code": "78728"
+   },
+   {
+    "city": "Manchaca",
+    "slug_id": "manchaca_tx",
+    "postal_code": "78652"
+   },
+   {
+    "city": "Lakeway",
+    "slug_id": "lakeway_tx",
+    "postal_code": "78734"
+   },
+   {
+    "city": "Round Rock",
+    "slug_id": "round-rock_tx",
+    "postal_code": "78665"
+   },
+   {
+    "city": "Lost Pines",
+    "slug_id": "lost-pines_tx",
+    "postal_code": "78612"
+   },
+   {
+    "city": "Volente",
+    "slug_id": "volente_tx",
+    "postal_code": "78641"
+   },
+   {
+    "city": "Brushy Creek",
+    "slug_id": "brushy-creek_tx",
+    "postal_code": "78681"
+   },
+   {
+    "city": "Bear Creek",
+    "slug_id": "bear-creek_tx",
+    "postal_code": "78737"
+   },
+   {
+    "city": "Creedmoor",
+    "slug_id": "creedmoor_tx",
+    "postal_code": "78610"
+   },
+   {
+    "city": "Jonestown",
+    "slug_id": "jonestown_tx",
+    "postal_code": "78645"
+   },
+   {
+    "city": "Buda",
+    "slug_id": "buda_tx",
+    "postal_code": "78610"
+   }
+  ],
+  "nearby_zips": [
+   {
+    "city": "Rollingwood",
+    "slug_id": "rollingwood_tx",
+    "postal_code": "78746"
+   },
+   {
+    "city": "Sunset Valley",
+    "slug_id": "sunset-valley_tx",
+    "postal_code": "78745"
+   },
+   {
+    "city": "Bee Caves",
+    "slug_id": "bee-caves_tx",
+    "postal_code": "78738"
+   },
+   {
+    "city": "Barton Creek",
+    "slug_id": "barton-creek_tx",
+    "postal_code": "78735"
+   },
+   {
+    "city": "Del Valle",
+    "slug_id": "del-valle_tx",
+    "postal_code": "78617"
+   },
+   {
+    "city": "Steiner Ranch",
+    "slug_id": "steiner-ranch_tx",
+    "postal_code": "78732"
+   },
+   {
+    "city": "Pflugerville",
+    "slug_id": "pflugerville_tx",
+    "postal_code": "78660"
+   },
+   {
+    "city": "Hornsby Bend",
+    "slug_id": "hornsby-bend_tx",
+    "postal_code": "78725"
+   },
+   {
+    "city": "Wells Branch",
+    "slug_id": "wells-branch_tx",
+    "postal_code": "78728"
+   },
+   {
+    "city": "Shady Hollow",
+    "slug_id": "shady-hollow_tx",
+    "postal_code": "78739"
+   },
+   {
+    "city": "Cedar Park",
+    "slug_id": "cedar-park_tx",
+    "postal_code": "78613"
+   },
+   {
+    "city": "Manor",
+    "slug_id": "manor_tx",
+    "postal_code": "78653"
+   },
+   {
+    "city": "Hudson Bend",
+    "slug_id": "hudson-bend_tx",
+    "postal_code": "78734"
+   },
+   {
+    "city": "San Leanna",
+    "slug_id": "san-leanna_tx",
+    "postal_code": "78748"
+   },
+   {
+    "city": "Manchaca",
+    "slug_id": "manchaca_tx",
+    "postal_code": "78652"
+   },
+   {
+    "city": "Round Rock",
+    "slug_id": "round-rock_tx",
+    "postal_code": "78665"
+   },
+   {
+    "city": "Lost Pines",
+    "slug_id": "lost-pines_tx",
+    "postal_code": "78612"
+   },
+   {
+    "city": "Volente",
+    "slug_id": "volente_tx",
+    "postal_code": "78641"
+   },
+   {
+    "city": "Brushy Creek",
+    "slug_id": "brushy-creek_tx",
+    "postal_code": "78681"
+   },
+   {
+    "city": "Bear Creek",
+    "slug_id": "bear-creek_tx",
+    "postal_code": "78737"
+   },
+   {
+    "city": "Creedmoor",
+    "slug_id": "creedmoor_tx",
+    "postal_code": "78610"
+   },
+   {
+    "city": "Jonestown",
+    "slug_id": "jonestown_tx",
+    "postal_code": "78645"
+   }
+  ]
+ }
+}

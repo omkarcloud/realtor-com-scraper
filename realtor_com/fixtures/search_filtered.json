@@ -1,0 +1,1547 @@
+{
+ "count": 5,
+ "total": 20,
+ "results": [
+  {
+   "property_id": "8296482632",
+   "listing_id": "3002483730",
+   "permalink": "902-Catalina-Ln_Austin_TX_78737_M82964-82632",
+   "href": "https://www.realtor.com/realestateandhomes-detail/902-Catalina-Ln_Austin_TX_78737_M82964-82632",
+   "status": "for_sale",
+   "mls_status": "Active",
+   "list_date": "2026-10-26T17:19:27.000000Z",
+   "last_update_date": "2026-11-03T14:21:13Z",
+   "last_status_change_date": "2026-10-26T17:19:27Z",
+   "pending_date": null,
+   "list_price": 539000,
+   "list_price_min": null,
+   "list_price_max": null,
+   "price_per_sqft": 259,
+   "last_sold_price": null,
+   "last_sold_date": "2017-08-29",
+   "tags": [
+    "central_air",
+    "central_heat",
+    "community_outdoor_space",
+    "community_park",
+    "community_security_features",
+    "dishwasher",
+    "hardwood_floors",
+    "laundry_room",
+    "recreation_facilities",
+    "washer_dryer",
+    "community_swimming_pool",
+    "single_story",
+    "garage_1_or_more",
+    "garage_2_or_more",
+    "fenced_yard",
+    "high_ceiling",
+    "vaulted_ceiling",
+    "trails",
+    "chefs_kitchen",
+    "walk_in_closet",
+    "office",
+    "den",
+    "soaking_tub",
+    "covered_patio",
+    "patio",
+    "vaulted_ceilings"
+   ],
+   "flags": {
+    "is_coming_soon": null,
+    "is_contingent": null,
+    "is_garage_present": true,
+    "is_new_construction": null,
+    "is_pending": true,
+    "is_short_sale": null,
+    "is_foreclosure": null,
+    "is_senior_community": null,
+    "is_for_rent": null,
+    "is_deal_available": null,
+    "is_price_reduced": null,
+    "is_new_listing": false,
+    "is_subdivision": null,
+    "is_plan": null
+   },
+   "description": {
+    "type": "single_family",
+    "sub_type": null,
+    "name": null,
+    "beds": 3,
+    "baths": 2,
+    "baths_full": 2,
+    "baths_half": null,
+    "baths_consolidated": "2",
+    "sqft": 2083,
+    "lot_sqft": 7915,
+    "year_built": 2017,
+    "garage": 2,
+    "stories": 1
+   },
+   "location": {
+    "address": {
+     "line": "902 Catalina Ln",
+     "unit": null,
+     "city": "Austin",
+     "state_code": "TX",
+     "postal_code": "78737",
+     "coordinate": {
+      "lat": 30.182582,
+      "lon": -97.980561
+     }
+    },
+    "county": {
+     "name": "Hays",
+     "fips_code": "48209"
+    },
+    "neighborhoods": null
+   },
+   "hoa": {
+    "fee": 48
+   },
+   "source": {
+    "id": "AUTX",
+    "type": "mls",
+    "name": "UnlockMLS",
+    "listing_id": "4001955",
+    "agents": [
+     {
+      "agent_name": null,
+      "agent_id": "726266",
+      "office_name": "Compass RE Texas, LLC",
+      "office_id": "700459"
+     }
+    ]
+   },
+   "primary_photo": {
+    "href": "https://ap.rdcpix.com/aa07e73d452f0dd9ef31fe3206f1dea9l-m3767263060s.jpg"
+   },
+   "photos": [
+    {
+     "href": "https://ap.rdcpix.com/aa07e73d452f0dd9ef31fe3206f1dea9l-m3767263060s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/aa07e73d452f0dd9ef31fe3206f1dea9l-m1518857013s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/aa07e73d452f0dd9ef31fe3206f1dea9l-m3668107512s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/aa07e73d452f0dd9ef31fe3206f1dea9l-m2739193942s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/aa07e73d452f0dd9ef31fe3206f1dea9l-m853945139s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/aa07e73d452f0dd9ef31fe3206f1dea9l-m3234743440s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/aa07e73d452f0dd9ef31fe3206f1dea9l-m741769664s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/aa07e73d452f0dd9ef31fe3206f1dea9l-m1107563108s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/aa07e73d452f0dd9ef31fe3206f1dea9l-m3851424857s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/aa07e73d452f0dd9ef31fe3206f1dea9l-m1042451023s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/aa07e73d452f0dd9ef31fe3206f1dea9l-m2333453014s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/aa07e73d452f0dd9ef31fe3206f1dea9l-m1291036009s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/aa07e73d452f0dd9ef31fe3206f1dea9l-m186792639s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/aa07e73d452f0dd9ef31fe3206f1dea9l-m2420447584s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/aa07e73d452f0dd9ef31fe3206f1dea9l-m1097971628s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/aa07e73d452f0dd9ef31fe3206f1dea9l-m2302825392s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/aa07e73d452f0dd9ef31fe3206f1dea9l-m2137152401s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/aa07e73d452f0dd9ef31fe3206f1dea9l-m1778824922s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/aa07e73d452f0dd9ef31fe3206f1dea9l-m1648158368s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/aa07e73d452f0dd9ef31fe3206f1dea9l-m3315069355s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/aa07e73d452f0dd9ef31fe3206f1dea9l-m1245019744s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/aa07e73d452f0dd9ef31fe3206f1dea9l-m2413236442s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/aa07e73d452f0dd9ef31fe3206f1dea9l-m3862539883s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/aa07e73d452f0dd9ef31fe3206f1dea9l-m4152694003s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/aa07e73d452f0dd9ef31fe3206f1dea9l-m317023039s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/aa07e73d452f0dd9ef31fe3206f1dea9l-m716136380s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/aa07e73d452f0dd9ef31fe3206f1dea9l-m452050446s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/aa07e73d452f0dd9ef31fe3206f1dea9l-m1269562975s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/aa07e73d452f0dd9ef31fe3206f1dea9l-m2411190648s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/aa07e73d452f0dd9ef31fe3206f1dea9l-m3311384853s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/aa07e73d452f0dd9ef31fe3206f1dea9l-m2649038863s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/aa07e73d452f0dd9ef31fe3206f1dea9l-m3296635075s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/aa07e73d452f0dd9ef31fe3206f1dea9l-m2320126983s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/aa07e73d452f0dd9ef31fe3206f1dea9l-m3516011521s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/aa07e73d452f0dd9ef31fe3206f1dea9l-m3957681393s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/aa07e73d452f0dd9ef31fe3206f1dea9l-m2223387980s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/aa07e73d452f0dd9ef31fe3206f1dea9l-m2066191280s.jpg"
+    }
+   ],
+   "open_houses": null,
+   "virtual_tours": [
+    {
+     "href": "https://player.vimeo.com/video/1238740499",
+     "type": null
+    }
+   ],
+   "advertisers": [
+    {
+     "type": "seller",
+     "name": "Bonnie Palmer",
+     "fulfillment_id": "3855548",
+     "email": "bonnie@bonniepalmer.com",
+     "nrds_id": "288574840",
+     "state_license": null,
+     "phones": [
+      {
+       "number": "5125078980",
+       "type": "Mobile",
+       "primary": true,
+       "ext": null
+      }
+     ],
+     "office": {
+      "name": "Compass RE Texas LLC - Austin",
+      "email": "txbroker@compass.com",
+      "fulfillment_id": "3723202",
+      "href": "http://www.compass.com",
+      "phones": [
+       {
+        "number": "5125753644",
+        "type": "Office"
+       }
+      ]
+     },
+     "broker": {
+      "name": "Compass RE Texas, LLC. - Broker",
+      "fulfillment_id": "100456589"
+     },
+     "builder": null
+    }
+   ],
+   "current_estimates": [
+    {
+     "estimate": 545318,
+     "estimate_high": 567130,
+     "estimate_low": 523505,
+     "date": "2026-10-28",
+     "isbest_homevalue": true,
+     "source": {
+      "type": "quantarium",
+      "name": "Quantarium"
+     }
+    },
+    {
+     "estimate": 527600,
+     "estimate_high": 559700,
+     "estimate_low": 495500,
+     "date": "2026-10-05",
+     "isbest_homevalue": false,
+     "source": {
+      "type": "corelogic",
+      "name": "Cotality™"
+     }
+    }
+   ],
+   "pet_policy": null,
+   "units": null,
+   "tax_record": {
+    "apn": null,
+    "tax_parcel_id": null
+   }
+  },
+  {
+   "property_id": "7882516831",
+   "listing_id": "3002307991",
+   "permalink": "10801-Sea-Hero-Ct_Austin_TX_78748_M78825-16831",
+   "href": "https://www.realtor.com/realestateandhomes-detail/10801-Sea-Hero-Ct_Austin_TX_78748_M78825-16831",
+   "status": "for_sale",
+   "mls_status": "Active",
+   "list_date": "2026-10-24T14:05:01.000000Z",
+   "last_update_date": "2026-11-03T17:01:10Z",
+   "last_status_change_date": "2026-10-24T14:05:01Z",
+   "pending_date": null,
+   "list_price": 499000,
+   "list_price_min": null,
+   "list_price_max": null,
+   "price_per_sqft": 157,
+   "last_sold_price": null,
+   "last_sold_date": "2018-07-06",
+   "tags": [
+    "central_air",
+    "community_outdoor_space",
+    "community_park",
+    "cul_de_sac",
+    "dining_room",
+    "dishwasher",
+    "fireplace",
+    "recreation_facilities",
+    "view",
+    "water_view",
+    "community_swimming_pool",
+    "two_or_more_stories",
+    "garage_1_or_more",
+    "garage_2_or_more",
+    "floor_plan"
+   ],
+   "flags": {
+    "is_coming_soon": null,
+    "is_contingent": null,
+    "is_garage_present": true,
+    "is_new_construction": null,
+    "is_pending": true,
+    "is_short_sale": null,
+    "is_foreclosure": null,
+    "is_senior_community": null,
+    "is_for_rent": null,
+    "is_deal_available": null,
+    "is_price_reduced": null,
+    "is_new_listing": false,
+    "is_subdivision": null,
+    "is_plan": null
+   },
+   "description": {
+    "type": "single_family",
+    "sub_type": null,
+    "name": null,
+    "beds": 5,
+    "baths": 3,
+    "baths_full": 3,
+    "baths_half": null,
+    "baths_consolidated": "3",
+    "sqft": 3185,
+    "lot_sqft": 10215,
+    "year_built": 2004,
+    "garage": 2,
+    "stories": 2
+   },
+   "location": {
+    "address": {
+     "line": "10801 Sea Hero Ct",
+     "unit": null,
+     "city": "Austin",
+     "state_code": "TX",
+     "postal_code": "78748",
+     "coordinate": {
+      "lat": 30.151698,
+      "lon": -97.810008
+     }
+    },
+    "county": {
+     "name": "Travis",
+     "fips_code": "48453"
+    },
+    "neighborhoods": null
+   },
+   "hoa": {
+    "fee": 29
+   },
+   "source": {
+    "id": "AUTX",
+    "type": "mls",
+    "name": "UnlockMLS",
+    "listing_id": "2814814",
+    "agents": [
+     {
+      "agent_name": null,
+      "agent_id": "701874",
+      "office_name": "Real Broker, LLC",
+      "office_id": "8160"
+     }
+    ]
+   },
+   "primary_photo": {
+    "href": "https://ap.rdcpix.com/efa587688154fd837daf61a0b4c94e8cl-m1788305190s.jpg"
+   },
+   "photos": [
+    {
+     "href": "https://ap.rdcpix.com/efa587688154fd837daf61a0b4c94e8cl-m1788305190s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/efa587688154fd837daf61a0b4c94e8cl-m1155298847s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/efa587688154fd837daf61a0b4c94e8cl-m2947623183s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/efa587688154fd837daf61a0b4c94e8cl-m1613208357s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/efa587688154fd837daf61a0b4c94e8cl-m1744871030s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/efa587688154fd837daf61a0b4c94e8cl-m1915850891s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/efa587688154fd837daf61a0b4c94e8cl-m3819825783s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/efa587688154fd837daf61a0b4c94e8cl-m3918681976s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/efa587688154fd837daf61a0b4c94e8cl-m2684318669s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/efa587688154fd837daf61a0b4c94e8cl-m1751302384s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/efa587688154fd837daf61a0b4c94e8cl-m2455713846s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/efa587688154fd837daf61a0b4c94e8cl-m452471976s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/efa587688154fd837daf61a0b4c94e8cl-m2480050335s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/efa587688154fd837daf61a0b4c94e8cl-m3509408213s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/efa587688154fd837daf61a0b4c94e8cl-m2152706367s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/efa587688154fd837daf61a0b4c94e8cl-m3008896343s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/efa587688154fd837daf61a0b4c94e8cl-m68006259s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/efa587688154fd837daf61a0b4c94e8cl-m282117314s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/efa587688154fd837daf61a0b4c94e8cl-m2342079623s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/efa587688154fd837daf61a0b4c94e8cl-m251788794s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/efa587688154fd837daf61a0b4c94e8cl-m3623195140s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/efa587688154fd837daf61a0b4c94e8cl-m1326700566s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/efa587688154fd837daf61a0b4c94e8cl-m2963335172s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/efa587688154fd837daf61a0b4c94e8cl-m4187926863s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/efa587688154fd837daf61a0b4c94e8cl-m1514444106s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/efa587688154fd837daf61a0b4c94e8cl-m178233556s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/efa587688154fd837daf61a0b4c94e8cl-m3072838386s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/efa587688154fd837daf61a0b4c94e8cl-m2719173918s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/efa587688154fd837daf61a0b4c94e8cl-m2655919887s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/efa587688154fd837daf61a0b4c94e8cl-m1273221346s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/efa587688154fd837daf61a0b4c94e8cl-m3525163708s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/efa587688154fd837daf61a0b4c94e8cl-m2568715375s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/efa587688154fd837daf61a0b4c94e8cl-m3335022095s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/efa587688154fd837daf61a0b4c94e8cl-m2088177940s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/efa587688154fd837daf61a0b4c94e8cl-m58093681s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/efa587688154fd837daf61a0b4c94e8cl-m2286010462s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/efa587688154fd837daf61a0b4c94e8cl-m120253618s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/efa587688154fd837daf61a0b4c94e8cl-m3309422181s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/efa587688154fd837daf61a0b4c94e8cl-m3539273319s.jpg"
+    }
+   ],
+   "open_houses": null,
+   "virtual_tours": [
+    {
+     "href": "https://media.squarefootphotography.com/sites/rgbdgmng/unbranded",
+     "type": null
+    }
+   ],
+   "advertisers": [
+    {
+     "type": "seller",
+     "name": "Jessica Terry",
+     "fulfillment_id": "4016014",
+     "email": "jessicaterry1204@gmail.com",
+     "nrds_id": null,
+     "state_license": null,
+     "phones": [
+      {
+       "number": "9037461074",
+       "type": "Mobile",
+       "primary": true,
+       "ext": null
+      }
+     ],
+     "office": {
+      "name": "Real Broker, LLC",
+      "email": "ediphie@hotmail.com",
+      "fulfillment_id": "3056271",
+      "href": "http://www.joinreal.com",
+      "phones": [
+       {
+        "number": "8554500442",
+        "type": "Office"
+       }
+      ]
+     },
+     "broker": {
+      "name": "Real Broker, LLC - Broker",
+      "fulfillment_id": "100826305"
+     },
+     "builder": null
+    }
+   ],
+   "current_estimates": [
+    {
+     "estimate": 494000,
+     "estimate_high": 543400,
+     "estimate_low": 444600,
+     "date": "2026-10-14",
+     "isbest_homevalue": true,
+     "source": {
+      "type": "collateral",
+      "name": "Collateral Analytics"
+     }
+    },
+    {
+     "estimate": 487300,
+     "estimate_high": 517400,
+     "estimate_low": 457100,
+     "date": "2026-10-05",
+     "isbest_homevalue": false,
+     "source": {
+      "type": "corelogic",
+      "name": "Cotality™"
+     }
+    },
+    {
+     "estimate": 498929,
+     "estimate_high": 518886,
+     "estimate_low": 478971,
+     "date": "2026-10-28",
+     "isbest_homevalue": false,
+     "source": {
+      "type": "quantarium",
+      "name": "Quantarium"
+     }
+    }
+   ],
+   "pet_policy": null,
+   "units": null,
+   "tax_record": {
+    "apn": null,
+    "tax_parcel_id": null
+   }
+  },
+  {
+   "property_id": "7846580905",
+   "listing_id": "3002231669",
+   "permalink": "8709-Blaze-Dr_Austin_TX_78747_M78465-80905",
+   "href": "https://www.realtor.com/realestateandhomes-detail/8709-Blaze-Dr_Austin_TX_78747_M78465-80905",
+   "status": "for_sale",
+   "mls_status": "Active",
+   "list_date": "2026-10-23T12:54:57.000000Z",
+   "last_update_date": "2026-11-03T14:26:12Z",
+   "last_status_change_date": "2026-10-23T12:54:57Z",
+   "pending_date": null,
+   "list_price": 449000,
+   "list_price_min": null,
+   "list_price_max": null,
+   "price_per_sqft": 185,
+   "last_sold_price": null,
+   "last_sold_date": "2023-03-16",
+   "tags": [
+    "central_air",
+    "central_heat",
+    "community_outdoor_space",
+    "community_park",
+    "community_security_features",
+    "dishwasher",
+    "hardwood_floors",
+    "laundry_room",
+    "recreation_facilities",
+    "spa_or_hot_tub",
+    "community_swimming_pool",
+    "two_or_more_stories",
+    "garage_1_or_more",
+    "garage_2_or_more",
+    "fenced_yard",
+    "floor_plan",
+    "front_porch",
+    "ensuite",
+    "farm",
+    "ranch",
+    "trails",
+    "large_kitchen_island",
+    "oversized_island",
+    "huge_island",
+    "walk_in_closet",
+    "porch",
+    "home_office",
+    "office",
+    "game_room",
+    "soaking_tub",
+    "covered_patio",
+    "patio",
+    "park"
+   ],
+   "flags": {
+    "is_coming_soon": null,
+    "is_contingent": null,
+    "is_garage_present": true,
+    "is_new_construction": null,
+    "is_pending": true,
+    "is_short_sale": null,
+    "is_foreclosure": null,
+    "is_senior_community": null,
+    "is_for_rent": null,
+    "is_deal_available": null,
+    "is_price_reduced": null,
+    "is_new_listing": false,
+    "is_subdivision": null,
+    "is_plan": null
+   },
+   "description": {
+    "type": "single_family",
+    "sub_type": null,
+    "name": null,
+    "beds": 4,
+    "baths": 3,
+    "baths_full": 3,
+    "baths_half": null,
+    "baths_consolidated": "3",
+    "sqft": 2428,
+    "lot_sqft": 5959,
+    "year_built": 2017,
+    "garage": 2,
+    "stories": 2
+   },
+   "location": {
+    "address": {
+     "line": "8709 Blaze Dr",
+     "unit": null,
+     "city": "Austin",
+     "state_code": "TX",
+     "postal_code": "78747",
+     "coordinate": {
+      "lat": 30.155619,
+      "lon": -97.754028
+     }
+    },
+    "county": {
+     "name": "Travis",
+     "fips_code": "48453"
+    },
+    "neighborhoods": null
+   },
+   "hoa": {
+    "fee": 40
+   },
+   "source": {
+    "id": "AUTX",
+    "type": "mls",
+    "name": "UnlockMLS",
+    "listing_id": "2074605",
+    "agents": [
+     {
+      "agent_name": null,
+      "agent_id": "622811",
+      "office_name": "Compass RE Texas, LLC",
+      "office_id": "3788"
+     }
+    ]
+   },
+   "primary_photo": {
+    "href": "https://ap.rdcpix.com/0531ae63debc171f16f6acb125dcea1fl-m2524339310s.jpg"
+   },
+   "photos": [
+    {
+     "href": "https://ap.rdcpix.com/0531ae63debc171f16f6acb125dcea1fl-m2524339310s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/0531ae63debc171f16f6acb125dcea1fl-m713677508s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/0531ae63debc171f16f6acb125dcea1fl-m1986509719s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/0531ae63debc171f16f6acb125dcea1fl-m1422159253s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/0531ae63debc171f16f6acb125dcea1fl-m4074305359s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/0531ae63debc171f16f6acb125dcea1fl-m1898196665s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/0531ae63debc171f16f6acb125dcea1fl-m3592541926s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/0531ae63debc171f16f6acb125dcea1fl-m3211048198s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/0531ae63debc171f16f6acb125dcea1fl-m704888005s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/0531ae63debc171f16f6acb125dcea1fl-m1361569540s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/0531ae63debc171f16f6acb125dcea1fl-m1234008757s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/0531ae63debc171f16f6acb125dcea1fl-m2851396484s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/0531ae63debc171f16f6acb125dcea1fl-m256712070s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/0531ae63debc171f16f6acb125dcea1fl-m1097479973s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/0531ae63debc171f16f6acb125dcea1fl-m95383595s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/0531ae63debc171f16f6acb125dcea1fl-m1506053302s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/0531ae63debc171f16f6acb125dcea1fl-m1216437641s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/0531ae63debc171f16f6acb125dcea1fl-m1259576003s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/0531ae63debc171f16f6acb125dcea1fl-m1122357989s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/0531ae63debc171f16f6acb125dcea1fl-m2939466193s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/0531ae63debc171f16f6acb125dcea1fl-m816398842s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/0531ae63debc171f16f6acb125dcea1fl-m3997761479s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/0531ae63debc171f16f6acb125dcea1fl-m1565848813s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/0531ae63debc171f16f6acb125dcea1fl-m4154575630s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/0531ae63debc171f16f6acb125dcea1fl-m595801965s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/0531ae63debc171f16f6acb125dcea1fl-m3800858570s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/0531ae63debc171f16f6acb125dcea1fl-m3744423984s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/0531ae63debc171f16f6acb125dcea1fl-m1522305846s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/0531ae63debc171f16f6acb125dcea1fl-m1403542337s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/0531ae63debc171f16f6acb125dcea1fl-m750243617s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/0531ae63debc171f16f6acb125dcea1fl-m2307629749s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/0531ae63debc171f16f6acb125dcea1fl-m3668145541s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/0531ae63debc171f16f6acb125dcea1fl-m1248132564s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/0531ae63debc171f16f6acb125dcea1fl-m1846765266s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/0531ae63debc171f16f6acb125dcea1fl-m1510173242s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/0531ae63debc171f16f6acb125dcea1fl-m1872515713s.jpg"
+    }
+   ],
+   "open_houses": null,
+   "virtual_tours": [
+    {
+     "href": "https://one-wall-media.aryeo.com/sites/rojgdolg/unbranded",
+     "type": null
+    }
+   ],
+   "advertisers": [
+    {
+     "type": "seller",
+     "name": "Ashley Jackson",
+     "fulfillment_id": "1633940",
+     "email": "ashleyjackson@realtyaustin.com",
+     "nrds_id": "785033898",
+     "state_license": null,
+     "phones": [
+      {
+       "number": "5129499364",
+       "type": "Mobile",
+       "primary": true,
+       "ext": null
+      }
+     ],
+     "office": {
+      "name": "Compass RE Texas",
+      "email": "realtor@realtyaustin.com",
+      "fulfillment_id": "207882",
+      "href": "http://realtyaustin.com",
+      "phones": [
+       {
+        "number": "(512) 241-1300",
+        "type": "Office"
+       }
+      ]
+     },
+     "broker": {
+      "name": "Allure Real Estate",
+      "fulfillment_id": "0"
+     },
+     "builder": null
+    }
+   ],
+   "current_estimates": [
+    {
+     "estimate": 446079,
+     "estimate_high": 459461,
+     "estimate_low": 432696,
+     "date": "2026-10-28",
+     "isbest_homevalue": true,
+     "source": {
+      "type": "quantarium",
+      "name": "Quantarium"
+     }
+    },
+    {
+     "estimate": 422600,
+     "estimate_high": 447800,
+     "estimate_low": 397500,
+     "date": "2026-10-05",
+     "isbest_homevalue": false,
+     "source": {
+      "type": "corelogic",
+      "name": "Cotality™"
+     }
+    }
+   ],
+   "pet_policy": null,
+   "units": null,
+   "tax_record": {
+    "apn": null,
+    "tax_parcel_id": null
+   }
+  },
+  {
+   "property_id": "7940718346",
+   "listing_id": "3002005675",
+   "permalink": "14813-Foy-Dr_Austin_TX_78734_M79407-18346",
+   "href": "https://www.realtor.com/realestateandhomes-detail/14813-Foy-Dr_Austin_TX_78734_M79407-18346",
+   "status": "for_sale",
+   "mls_status": "Pending",
+   "list_date": "2026-10-20T18:07:39.000000Z",
+   "last_update_date": "2026-10-28T20:20:09Z",
+   "last_status_change_date": "2026-10-28T20:22:19Z",
+   "pending_date": "2026-10-28T20:22:19Z",
+   "list_price": 430000,
+   "list_price_min": null,
+   "list_price_max": null,
+   "price_per_sqft": 203,
+   "last_sold_price": null,
+   "last_sold_date": "2020-10-01",
+   "tags": [
+    "central_air",
+    "central_heat",
+    "community_outdoor_space",
+    "community_park",
+    "community_security_features",
+    "dining_room",
+    "dishwasher",
+    "fireplace",
+    "hardwood_floors",
+    "lake_view",
+    "laundry_room",
+    "recreation_facilities",
+    "view",
+    "water_view",
+    "community_swimming_pool",
+    "single_story",
+    "garage_1_or_more",
+    "garage_2_or_more",
+    "waterfront",
+    "high_ceiling",
+    "open_floor_plan",
+    "floor_plan",
+    "lake",
+    "trails",
+    "large_kitchen_island",
+    "oversized_island",
+    "huge_island",
+    "open_concept_floor_plan",
+    "open_concept",
+    "park",
+    "shopping"
+   ],
+   "flags": {
+    "is_coming_soon": null,
+    "is_contingent": null,
+    "is_garage_present": true,
+    "is_new_construction": null,
+    "is_pending": true,
+    "is_short_sale": null,
+    "is_foreclosure": null,
+    "is_senior_community": null,
+    "is_for_rent": null,
+    "is_deal_available": null,
+    "is_price_reduced": null,
+    "is_new_listing": false,
+    "is_subdivision": null,
+    "is_plan": null
+   },
+   "description": {
+    "type": "single_family",
+    "sub_type": null,
+    "name": null,
+    "beds": 4,
+    "baths": 3,
+    "baths_full": 3,
+    "baths_half": null,
+    "baths_consolidated": "3",
+    "sqft": 2118,
+    "lot_sqft": 8930,
+    "year_built": 2008,
+    "garage": 2,
+    "stories": 1
+   },
+   "location": {
+    "address": {
+     "line": "14813 Foy Dr",
+     "unit": null,
+     "city": "Austin",
+     "state_code": "TX",
+     "postal_code": "78734",
+     "coordinate": {
+      "lat": 30.369919,
+      "lon": -97.93748
+     }
+    },
+    "county": {
+     "name": "Travis",
+     "fips_code": "48453"
+    },
+    "neighborhoods": null
+   },
+   "hoa": {
+    "fee": 18
+   },
+   "source": {
+    "id": "AUTX",
+    "type": "mls",
+    "name": "UnlockMLS",
+    "listing_id": "4498279",
+    "agents": [
+     {
+      "agent_name": null,
+      "agent_id": "585958",
+      "office_name": "Compass RE Texas, LLC",
+      "office_id": "700459"
+     },
+     {
+      "agent_name": null,
+      "agent_id": "429374",
+      "office_name": "Compass RE Texas, LLC",
+      "office_id": "ACT29266238"
+     }
+    ]
+   },
+   "primary_photo": {
+    "href": "https://ap.rdcpix.com/79d065f7fe868a288c6b6fd81e4a3688l-m566569709s.jpg"
+   },
+   "photos": [
+    {
+     "href": "https://ap.rdcpix.com/79d065f7fe868a288c6b6fd81e4a3688l-m566569709s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/79d065f7fe868a288c6b6fd81e4a3688l-m1105208388s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/79d065f7fe868a288c6b6fd81e4a3688l-m1673024270s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/79d065f7fe868a288c6b6fd81e4a3688l-m2697199348s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/79d065f7fe868a288c6b6fd81e4a3688l-m2903258617s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/79d065f7fe868a288c6b6fd81e4a3688l-m3349241910s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/79d065f7fe868a288c6b6fd81e4a3688l-m842479560s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/79d065f7fe868a288c6b6fd81e4a3688l-m903520744s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/79d065f7fe868a288c6b6fd81e4a3688l-m3895926106s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/79d065f7fe868a288c6b6fd81e4a3688l-m171549434s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/79d065f7fe868a288c6b6fd81e4a3688l-m2100295017s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/79d065f7fe868a288c6b6fd81e4a3688l-m2856224223s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/79d065f7fe868a288c6b6fd81e4a3688l-m531835597s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/79d065f7fe868a288c6b6fd81e4a3688l-m971010742s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/79d065f7fe868a288c6b6fd81e4a3688l-m2120193421s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/79d065f7fe868a288c6b6fd81e4a3688l-m532826842s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/79d065f7fe868a288c6b6fd81e4a3688l-m480622148s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/79d065f7fe868a288c6b6fd81e4a3688l-m815241702s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/79d065f7fe868a288c6b6fd81e4a3688l-m3894007633s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/79d065f7fe868a288c6b6fd81e4a3688l-m4268288107s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/79d065f7fe868a288c6b6fd81e4a3688l-m110589315s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/79d065f7fe868a288c6b6fd81e4a3688l-m4147240529s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/79d065f7fe868a288c6b6fd81e4a3688l-m1768692773s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/79d065f7fe868a288c6b6fd81e4a3688l-m479742696s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/79d065f7fe868a288c6b6fd81e4a3688l-m2258715582s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/79d065f7fe868a288c6b6fd81e4a3688l-m2699714634s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/79d065f7fe868a288c6b6fd81e4a3688l-m1285848989s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/79d065f7fe868a288c6b6fd81e4a3688l-m1136924016s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/79d065f7fe868a288c6b6fd81e4a3688l-m3039836067s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/79d065f7fe868a288c6b6fd81e4a3688l-m3542487619s.jpg"
+    }
+   ],
+   "open_houses": null,
+   "virtual_tours": null,
+   "advertisers": [
+    {
+     "type": "seller",
+     "name": "Alexa Messer",
+     "fulfillment_id": "4842504",
+     "email": "alexamesser@gmail.com",
+     "nrds_id": null,
+     "state_license": null,
+     "phones": [
+      {
+       "number": "9154879913",
+       "type": "Cell",
+       "primary": true,
+       "ext": null
+      }
+     ],
+     "office": {
+      "name": "Compass RE Texas LLC - Austin",
+      "email": "txbroker@compass.com",
+      "fulfillment_id": "3723202",
+      "href": "http://www.compass.com",
+      "phones": [
+       {
+        "number": "5125753644",
+        "type": "Office"
+       }
+      ]
+     },
+     "broker": {
+      "name": "Compass RE Texas, LLC. - Broker",
+      "fulfillment_id": "100456589"
+     },
+     "builder": null
+    },
+    {
+     "type": "co_seller",
+     "name": "Nicole Kessler",
+     "fulfillment_id": "1213153",
+     "email": "nicoleb@texas.net",
+     "nrds_id": null,
+     "state_license": null,
+     "phones": [
+      {
+       "number": "5126573939",
+       "type": "Mobile",
+       "primary": true,
+       "ext": null
+      }
+     ],
+     "office": {
+      "name": "Compass Re Texas, Llc",
+      "email": "txbroker@compass.com",
+      "fulfillment_id": "0",
+      "href": "www.compass.com",
+      "phones": [
+       {
+        "number": "5125753644",
+        "type": "Office"
+       }
+      ]
+     },
+     "broker": {
+      "name": null,
+      "fulfillment_id": "0"
+     },
+     "builder": null
+    }
+   ],
+   "current_estimates": [
+    {
+     "estimate": 534000,
+     "estimate_high": 592700,
+     "estimate_low": 475300,
+     "date": "2026-10-14",
+     "isbest_homevalue": true,
+     "source": {
+      "type": "collateral",
+      "name": "Collateral Analytics"
+     }
+    },
+    {
+     "estimate": 536100,
+     "estimate_high": 569900,
+     "estimate_low": 502400,
+     "date": "2026-10-05",
+     "isbest_homevalue": false,
+     "source": {
+      "type": "corelogic",
+      "name": "Cotality™"
+     }
+    },
+    {
+     "estimate": 428960,
+     "estimate_high": 450408,
+     "estimate_low": 407512,
+     "date": "2026-10-28",
+     "isbest_homevalue": false,
+     "source": {
+      "type": "quantarium",
+      "name": "Quantarium"
+     }
+    }
+   ],
+   "pet_policy": null,
+   "units": null,
+   "tax_record": {
+    "apn": null,
+    "tax_parcel_id": null
+   }
+  },
+  {
+   "property_id": "8496680350",
+   "listing_id": "3001610641",
+   "permalink": "9913-Aly-May-Dr_Austin_TX_78748_M84966-80350",
+   "href": "https://www.realtor.com/realestateandhomes-detail/9913-Aly-May-Dr_Austin_TX_78748_M84966-80350",
+   "status": "for_sale",
+   "mls_status": "Pending",
+   "list_date": "2026-10-07T14:38:18.000000Z",
+   "last_update_date": "2026-10-16T12:20:09Z",
+   "last_status_change_date": "2026-10-13T02:35:35Z",
+   "pending_date": "2026-10-13T02:35:35Z",
+   "list_price": 450000,
+   "list_price_min": null,
+   "list_price_max": null,
+   "price_per_sqft": 201,
+   "last_sold_price": null,
+   "last_sold_date": "2013-07-12",
+   "tags": [
+    "central_air",
+    "central_heat",
+    "community_outdoor_space",
+    "dishwasher",
+    "fireplace",
+    "laundry_room",
+    "swimming_pool",
+    "two_or_more_stories",
+    "garage_1_or_more",
+    "garage_2_or_more",
+    "private_backyard",
+    "new_roof",
+    "shopping"
+   ],
+   "flags": {
+    "is_coming_soon": null,
+    "is_contingent": null,
+    "is_garage_present": true,
+    "is_new_construction": null,
+    "is_pending": true,
+    "is_short_sale": null,
+    "is_foreclosure": null,
+    "is_senior_community": null,
+    "is_for_rent": null,
+    "is_deal_available": null,
+    "is_price_reduced": null,
+    "is_new_listing": false,
+    "is_subdivision": null,
+    "is_plan": null
+   },
+   "description": {
+    "type": "single_family",
+    "sub_type": null,
+    "name": null,
+    "beds": 3,
+    "baths": 3,
+    "baths_full": 2,
+    "baths_half": 1,
+    "baths_consolidated": "2.5",
+    "sqft": 2240,
+    "lot_sqft": 4600,
+    "year_built": 2013,
+    "garage": 2,
+    "stories": 2
+   },
+   "location": {
+    "address": {
+     "line": "9913 Aly May Dr",
+     "unit": null,
+     "city": "Austin",
+     "state_code": "TX",
+     "postal_code": "78748",
+     "coordinate": {
+      "lat": 30.17164,
+      "lon": -97.81804
+     }
+    },
+    "county": {
+     "name": "Travis",
+     "fips_code": "48453"
+    },
+    "neighborhoods": null
+   },
+   "hoa": {
+    "fee": 58
+   },
+   "source": {
+    "id": "AUTX",
+    "type": "mls",
+    "name": "UnlockMLS",
+    "listing_id": "6628406",
+    "agents": [
+     {
+      "agent_name": null,
+      "agent_id": "684968",
+      "office_name": "Real Broker, LLC",
+      "office_id": "8160"
+     }
+    ]
+   },
+   "primary_photo": {
+    "href": "https://ap.rdcpix.com/477c90f216579a2689640fed6471f1fcl-m3113153826s.jpg"
+   },
+   "photos": [
+    {
+     "href": "https://ap.rdcpix.com/477c90f216579a2689640fed6471f1fcl-m3113153826s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/477c90f216579a2689640fed6471f1fcl-m4291456897s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/477c90f216579a2689640fed6471f1fcl-m1603331441s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/477c90f216579a2689640fed6471f1fcl-m1182488305s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/477c90f216579a2689640fed6471f1fcl-m2966837529s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/477c90f216579a2689640fed6471f1fcl-m780397352s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/477c90f216579a2689640fed6471f1fcl-m2092965271s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/477c90f216579a2689640fed6471f1fcl-m2802759498s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/477c90f216579a2689640fed6471f1fcl-m2328232635s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/477c90f216579a2689640fed6471f1fcl-m2082818348s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/477c90f216579a2689640fed6471f1fcl-m2082818348s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/477c90f216579a2689640fed6471f1fcl-m2802759498s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/477c90f216579a2689640fed6471f1fcl-m787227112s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/477c90f216579a2689640fed6471f1fcl-m969853201s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/477c90f216579a2689640fed6471f1fcl-m4212458694s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/477c90f216579a2689640fed6471f1fcl-m1939353430s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/477c90f216579a2689640fed6471f1fcl-m1505236182s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/477c90f216579a2689640fed6471f1fcl-m3134406351s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/477c90f216579a2689640fed6471f1fcl-m2337892519s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/477c90f216579a2689640fed6471f1fcl-m2337892519s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/477c90f216579a2689640fed6471f1fcl-m146842573s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/477c90f216579a2689640fed6471f1fcl-m2212091950s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/477c90f216579a2689640fed6471f1fcl-m1423741693s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/477c90f216579a2689640fed6471f1fcl-m2004163764s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/477c90f216579a2689640fed6471f1fcl-m912973018s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/477c90f216579a2689640fed6471f1fcl-m2006791692s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/477c90f216579a2689640fed6471f1fcl-m3701926407s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/477c90f216579a2689640fed6471f1fcl-m741747494s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/477c90f216579a2689640fed6471f1fcl-m262386915s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/477c90f216579a2689640fed6471f1fcl-m2773022372s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/477c90f216579a2689640fed6471f1fcl-m792226246s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/477c90f216579a2689640fed6471f1fcl-m941990200s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/477c90f216579a2689640fed6471f1fcl-m2347267056s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/477c90f216579a2689640fed6471f1fcl-m3743649459s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/477c90f216579a2689640fed6471f1fcl-m2603255486s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/477c90f216579a2689640fed6471f1fcl-m360843428s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/477c90f216579a2689640fed6471f1fcl-m360843428s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/477c90f216579a2689640fed6471f1fcl-m595288544s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/477c90f216579a2689640fed6471f1fcl-m1274908417s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/477c90f216579a2689640fed6471f1fcl-m890987611s.jpg"
+    }
+   ],
+   "open_houses": null,
+   "virtual_tours": null,
+   "advertisers": [
+    {
+     "type": "seller",
+     "name": "Chantel Russell",
+     "fulfillment_id": "4942372",
+     "email": "russellteamtx@gmail.com",
+     "nrds_id": "831006545",
+     "state_license": null,
+     "phones": [
+      {
+       "number": "5127968681",
+       "type": "Mobile",
+       "primary": true,
+       "ext": null
+      }
+     ],
+     "office": {
+      "name": "Real Broker, LLC",
+      "email": "ediphie@hotmail.com",
+      "fulfillment_id": "3056271",
+      "href": "http://www.joinreal.com",
+      "phones": [
+       {
+        "number": "8554500442",
+        "type": "Office"
+       }
+      ]
+     },
+     "broker": {
+      "name": "Real Broker, LLC - Broker",
+      "fulfillment_id": "100826305"
+     },
+     "builder": null
+    }
+   ],
+   "current_estimates": [
+    {
+     "estimate": 429700,
+     "estimate_high": 454700,
+     "estimate_low": 404700,
+     "date": "2026-10-05",
+     "isbest_homevalue": true,
+     "source": {
+      "type": "corelogic",
+      "name": "Cotality™"
+     }
+    },
+    {
+     "estimate": 420000,
+     "estimate_high": 487200,
+     "estimate_low": 352800,
+     "date": "2026-10-14",
+     "isbest_homevalue": false,
+     "source": {
+      "type": "collateral",
+      "name": "Collateral Analytics"
+     }
+    },
+    {
+     "estimate": 441675,
+     "estimate_high": 454925,
+     "estimate_low": 428424,
+     "date": "2026-10-28",
+     "isbest_homevalue": false,
+     "source": {
+      "type": "quantarium",
+      "name": "Quantarium"
+     }
+    }
+   ],
+   "pet_policy": null,
+   "units": null,
+   "tax_record": {
+    "apn": null,
+    "tax_parcel_id": null
+   }
+  }
+ ]
+}

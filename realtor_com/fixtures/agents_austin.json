@@ -1,0 +1,1617 @@
+{
+ "agents": [
+  {
+   "id": "56a649a10fa417010073f11b",
+   "fulfillment_id": "1918615",
+   "fullname": "Andra Cortez Jackson Realtor Austin TX",
+   "is_paid": true,
+   "is_realtor": true,
+   "display_ratings": true,
+   "has_rps": false,
+   "avatar": {
+    "url": "https://ap.rdcpix.com/1671514694/5926e52748f51f5e62858c04d77081dfa-e0rd-w144_h144.jpg",
+    "initials": "ACJRAT"
+   },
+   "broker": {
+    "name": "Team West Real Estate - Broker",
+    "fulfillment_id": "3337315"
+   },
+   "office": {
+    "name": "Team West Real Estate"
+   },
+   "ratings_reviews": {
+    "average_rating": 5,
+    "recommendations_count": 62,
+    "reviews_count": 11,
+    "combined_testimonials_and_reviews_count": 73
+   },
+   "listing_stats": {
+    "combined_annual": {
+     "min": 325000,
+     "max": 462000
+    },
+    "for_sale": {
+     "count": 3,
+     "last_listing_date": "2026-09-02T16:35:35Z",
+     "min": 325000,
+     "max": 462000
+    },
+    "recently_sold_annual": {
+     "count": 11
+    },
+    "recently_sold_listing_details": {
+     "listings": [
+      {
+       "baths": 4,
+       "beds": 4,
+       "city": "Hutto",
+       "photo": "https://ap.rdcpix.com/586141c29cd47a38c52e756f331cb7c7l-m3759679666rd-w100_h67.jpg",
+       "state_code": "TX"
+      },
+      {
+       "baths": 2,
+       "beds": 3,
+       "city": "Pflugerville",
+       "photo": "https://ap.rdcpix.com/ec1d6cb2203c574161e94559223bd38fl-m1758456478rd-w100_h67.jpg",
+       "state_code": "TX"
+      },
+      {
+       "baths": 4,
+       "beds": 5,
+       "city": "Pflugerville",
+       "photo": "https://ap.rdcpix.com/0447697f71a4b7b5425e42a80c162b11l-m2862962397rd-w100_h67.jpg",
+       "state_code": "TX"
+      }
+     ],
+     "show_additional": true
+    }
+   },
+   "experience": {
+    "first_year": "2011"
+   },
+   "services": {
+    "buyer": [
+     "Personalized neighborhood guidance",
+     "Access to market insights",
+     "Early access to new listings",
+     "Persuasive offer proposals",
+     "Home inspection support",
+     "Pre-approval assistance",
+     "Lender referrals",
+     "Other professional network referrals"
+    ],
+    "seller": [
+     "Professional photography",
+     "Postcards and flyers",
+     "Virtual tour",
+     "Comparative market analysis"
+    ]
+   },
+   "sorting_weight": 75
+  },
+  {
+   "id": "67d1d0bdf173142494bdde38",
+   "fulfillment_id": "100629232",
+   "fullname": "Bre Meador",
+   "is_paid": true,
+   "is_realtor": true,
+   "display_ratings": true,
+   "has_rps": false,
+   "avatar": {
+    "url": "https://ap.rdcpix.com/9a187b937df930faea446014f99a9749a-e786108877rd-w144_h144.jpg",
+    "initials": "BM"
+   },
+   "broker": {
+    "name": "All City Real Estate -  Broker",
+    "fulfillment_id": "3685431"
+   },
+   "office": {
+    "name": "All City Real Estate"
+   },
+   "ratings_reviews": {
+    "average_rating": 5,
+    "recommendations_count": 57,
+    "reviews_count": 10,
+    "combined_testimonials_and_reviews_count": 67
+   },
+   "listing_stats": {
+    "combined_annual": {
+     "min": 12900,
+     "max": 729500
+    },
+    "for_sale": {
+     "count": 7,
+     "last_listing_date": "2026-09-24T13:56:22Z",
+     "min": 12900,
+     "max": 729500
+    },
+    "recently_sold_annual": {
+     "count": 10
+    },
+    "recently_sold_listing_details": {
+     "listings": [
+      {
+       "baths": 3,
+       "beds": 4,
+       "city": "Bastrop",
+       "photo": "https://ap.rdcpix.com/cd5420ded25871634d39fc35f85b772dl-m4223064379rd-w100_h67.jpg",
+       "state_code": "TX"
+      },
+      {
+       "baths": 2,
+       "beds": 3,
+       "city": "Bastrop",
+       "photo": "https://ap.rdcpix.com/384e315ca9609ffbfb1c5c90f8c4ae02l-m2749472217rd-w100_h67.jpg",
+       "state_code": "TX"
+      },
+      {
+       "baths": 1,
+       "beds": 2,
+       "city": "Smithville",
+       "photo": "https://ap.rdcpix.com/c16d5cfcc1f687737f34182749219980l-m1617052543rd-w100_h67.jpg",
+       "state_code": "TX"
+      }
+     ],
+     "show_additional": true
+    }
+   },
+   "experience": {
+    "first_year": "2025"
+   },
+   "services": {
+    "buyer": [
+     "Personalized neighborhood guidance",
+     "Access to market insights",
+     "Early access to new listings",
+     "Persuasive offer proposals",
+     "Home inspection support",
+     "Pre-approval assistance",
+     "Lender referrals",
+     "Other professional network referrals"
+    ],
+    "seller": [
+     "Open houses",
+     "Professional photography",
+     "Home staging",
+     "Your own website",
+     "Postcards and flyers",
+     "Virtual tour",
+     "Comparative market analysis"
+    ]
+   },
+   "sorting_weight": 75
+  },
+  {
+   "id": "56d6a6bbde071e010063fdf1",
+   "fulfillment_id": "1946616",
+   "fullname": "Christina Mugno",
+   "is_paid": true,
+   "is_realtor": true,
+   "display_ratings": true,
+   "has_rps": false,
+   "avatar": {
+    "url": "https://ap.rdcpix.com/a07b9478bc83ef8b1ab97fdf9aef34f1a-e2139364377rd-w144_h144.jpg",
+    "initials": "CM"
+   },
+   "broker": {
+    "name": "",
+    "fulfillment_id": "0"
+   },
+   "office": {
+    "name": "Spyglass Realty"
+   },
+   "ratings_reviews": {
+    "average_rating": 5,
+    "recommendations_count": 35,
+    "reviews_count": 15,
+    "combined_testimonials_and_reviews_count": 50
+   },
+   "listing_stats": {
+    "combined_annual": {
+     "min": 212500,
+     "max": 850000
+    },
+    "for_sale": {
+     "count": 10,
+     "last_listing_date": "2026-09-26T17:49:41Z",
+     "min": 212500,
+     "max": 3000000
+    },
+    "recently_sold_annual": {
+     "count": 32
+    },
+    "recently_sold_listing_details": {
+     "listings": [
+      {
+       "baths": 2,
+       "beds": 3,
+       "city": "Austin",
+       "photo": "https://ap.rdcpix.com/297a5d32ab308b6372b0fe9abedaba21l-m1826905063rd-w100_h67.jpg",
+       "state_code": "TX"
+      },
+      {
+       "baths": 2,
+       "beds": 3,
+       "city": "Round Rock",
+       "photo": "https://ap.rdcpix.com/68de0f6f874e325d566c90fa4cf01c50l-m3397090710rd-w100_h67.jpg",
+       "state_code": "TX"
+      },
+      {
+       "baths": 3,
+       "beds": 4,
+       "city": "Taylor",
+       "photo": "https://ap.rdcpix.com/742ee5a9e704b524b850ba60e93eb2c1l-m1331593723rd-w100_h67.jpg",
+       "state_code": "TX"
+      }
+     ],
+     "show_additional": true
+    }
+   },
+   "experience": {
+    "first_year": "2009"
+   },
+   "services": {
+    "buyer": [
+     "Personalized neighborhood guidance",
+     "Access to market insights",
+     "Early access to new listings",
+     "Persuasive offer proposals",
+     "Pre-approval assistance",
+     "Lender referrals"
+    ],
+    "seller": [
+     "Open houses",
+     "Professional photography",
+     "Home staging",
+     "Your own website",
+     "Postcards and flyers",
+     "Virtual tour",
+     "Comparative market analysis"
+    ]
+   },
+   "sorting_weight": 75
+  },
+  {
+   "id": "56c5b7720fa4170100761a99",
+   "fulfillment_id": "725142",
+   "fullname": "Christopher Watters",
+   "is_paid": false,
+   "is_realtor": true,
+   "display_ratings": true,
+   "has_rps": false,
+   "avatar": {
+    "url": "https://ap.rdcpix.com/1324582335/3b29068ee22f2d7ef60191bdf24c171ca-e0rd-w144_h144.jpg",
+    "initials": "CW"
+   },
+   "broker": {
+    "name": "Watters International Realty",
+    "fulfillment_id": "0"
+   },
+   "office": {
+    "name": "Watters International Realty"
+   },
+   "ratings_reviews": {
+    "average_rating": 4.6,
+    "recommendations_count": 6,
+    "reviews_count": 9,
+    "combined_testimonials_and_reviews_count": 15
+   },
+   "listing_stats": {
+    "combined_annual": {
+     "min": 50000,
+     "max": 18999000
+    },
+    "for_sale": {
+     "count": 212,
+     "last_listing_date": "2026-11-05T21:41:40Z",
+     "min": 50000,
+     "max": 18999000
+    },
+    "recently_sold_annual": {
+     "count": 298
+    },
+    "recently_sold_listing_details": {
+     "listings": [
+      {
+       "baths": 2,
+       "beds": 4,
+       "city": "Liberty Hill",
+       "photo": "https://ap.rdcpix.com/00454615c23f7ef8425fe2872101d882l-m2436135075rd-w100_h67.jpg",
+       "state_code": "TX"
+      },
+      {
+       "baths": 2,
+       "beds": 3,
+       "city": "Converse",
+       "photo": "https://ap.rdcpix.com/779879206a857340db0e3ff8dab689cfl-m3294062874rd-w100_h67.jpg",
+       "state_code": "TX"
+      },
+      {
+       "baths": 5,
+       "beds": 4,
+       "city": "Horseshoe Bay",
+       "photo": "https://ap.rdcpix.com/972343902a8ac7281ff7b3e58f88badal-m3242338895rd-w100_h67.jpg",
+       "state_code": "TX"
+      }
+     ],
+     "show_additional": true
+    }
+   },
+   "experience": {
+    "first_year": "2007"
+   },
+   "services": null,
+   "sorting_weight": 75
+  },
+  {
+   "id": "56c63d4d0fa4170100763441",
+   "fulfillment_id": "759737",
+   "fullname": "Donna Scoggins",
+   "is_paid": true,
+   "is_realtor": true,
+   "display_ratings": true,
+   "has_rps": false,
+   "avatar": {
+    "url": "https://ap.rdcpix.com/e1e4e1b755e02c2835e5106d63c0a83ar-c2257095440rd-w144_h144.jpg",
+    "initials": "DS"
+   },
+   "broker": {
+    "name": "Scoggins Realty, LLC",
+    "fulfillment_id": "2021469"
+   },
+   "office": {
+    "name": "Scoggins Realty LLC"
+   },
+   "ratings_reviews": {
+    "average_rating": 5,
+    "recommendations_count": 34,
+    "reviews_count": 7,
+    "combined_testimonials_and_reviews_count": 41
+   },
+   "listing_stats": {
+    "combined_annual": {
+     "min": 550000,
+     "max": 550000
+    },
+    "for_sale": {
+     "count": 2,
+     "last_listing_date": "2026-10-16T18:05:26Z",
+     "min": 15000,
+     "max": 550000
+    },
+    "recently_sold_annual": {
+     "count": 11
+    },
+    "recently_sold_listing_details": {
+     "listings": [
+      {
+       "baths": 2,
+       "beds": 3,
+       "city": "Georgetown",
+       "photo": "https://ap.rdcpix.com/4370f012d216124fb9453145a90b0b0cl-m2908491856rd-w100_h67.jpg",
+       "state_code": "TX"
+      },
+      {
+       "baths": 2,
+       "beds": 3,
+       "city": "Georgetown",
+       "photo": "https://ap.rdcpix.com/da666384ff553c1633365bb8f2843373l-m2860051956rd-w100_h67.jpg",
+       "state_code": "TX"
+      },
+      {
+       "baths": 3,
+       "beds": 4,
+       "city": "Lampasas",
+       "photo": "https://ap.rdcpix.com/3d1b583e1b6ce8fde3a52655be7bfe63l-m1244619083rd-w100_h67.jpg",
+       "state_code": "TX"
+      }
+     ],
+     "show_additional": true
+    }
+   },
+   "experience": {
+    "first_year": "1990"
+   },
+   "services": {
+    "buyer": [
+     "Personalized neighborhood guidance",
+     "Access to market insights",
+     "Persuasive offer proposals",
+     "Home inspection support",
+     "Pre-approval assistance",
+     "Lender referrals"
+    ],
+    "seller": [
+     "Open houses",
+     "Professional photography",
+     "Your own website",
+     "Virtual tour",
+     "Comparative market analysis"
+    ]
+   },
+   "sorting_weight": 70
+  },
+  {
+   "id": "56c7e843bb954c01006ca7de",
+   "fulfillment_id": "862380",
+   "fullname": "Paul David Lee",
+   "is_paid": true,
+   "is_realtor": true,
+   "display_ratings": true,
+   "has_rps": false,
+   "avatar": {
+    "url": "https://ap.rdcpix.com/47f4638f62cd92e5bcabeef4ccba2e3fr-c417172873rd-w144_h144.jpg",
+    "initials": "PDL"
+   },
+   "broker": {
+    "name": "Texas Ally Real Estate Group",
+    "fulfillment_id": "4022441"
+   },
+   "office": {
+    "name": "Texas Ally Real Estate Group"
+   },
+   "ratings_reviews": {
+    "average_rating": 5,
+    "recommendations_count": 37,
+    "reviews_count": 8,
+    "combined_testimonials_and_reviews_count": 45
+   },
+   "listing_stats": {
+    "combined_annual": {
+     "min": 0,
+     "max": 0
+    },
+    "for_sale": {
+     "count": 2,
+     "last_listing_date": "2026-07-03T07:34:45Z",
+     "min": 293000,
+     "max": 869000
+    },
+    "recently_sold_annual": {
+     "count": 12
+    },
+    "recently_sold_listing_details": {
+     "listings": [
+      {
+       "baths": 2,
+       "beds": 3,
+       "city": "Pflugerville",
+       "photo": "https://ap.rdcpix.com/d05e88e1b5c933b37ac3d4600cbefb82l-m1374776900rd-w100_h67.jpg",
+       "state_code": "TX"
+      },
+      {
+       "baths": 2,
+       "beds": 3,
+       "city": "Lockhart",
+       "photo": "https://ap.rdcpix.com/4c4770070585de8d4e8ec7c2a7ac1ff2l-m3858019102rd-w100_h67.jpg",
+       "state_code": "TX"
+      },
+      {
+       "baths": 3,
+       "beds": 4,
+       "city": "Pflugerville",
+       "photo": "https://ap.rdcpix.com/3a0219b1dad70e3d56f1c03d169952ffl-m1405089550rd-w100_h67.jpg",
+       "state_code": "TX"
+      }
+     ],
+     "show_additional": true
+    }
+   },
+   "experience": {
+    "first_year": "2006"
+   },
+   "services": {
+    "buyer": null,
+    "seller": [
+     "Open houses",
+     "Professional photography",
+     "Home staging",
+     "Your own website",
+     "Postcards and flyers",
+     "Virtual tour",
+     "Comparative market analysis"
+    ]
+   },
+   "sorting_weight": 70
+  },
+  {
+   "id": "56c68315bb954c01006c659e",
+   "fulfillment_id": "776534",
+   "fullname": "Robert Saenz",
+   "is_paid": false,
+   "is_realtor": true,
+   "display_ratings": true,
+   "has_rps": false,
+   "avatar": {
+    "url": "https://ap.rdcpix.com/83a10fd938e83231827476abc6c44066a-e2269807048rd-w144_h144.jpg",
+    "initials": "RS"
+   },
+   "broker": {
+    "name": "Xsellence Realty -  Broker",
+    "fulfillment_id": "4383961"
+   },
+   "office": {
+    "name": "Xsellence Realty"
+   },
+   "ratings_reviews": {
+    "average_rating": 5,
+    "recommendations_count": 52,
+    "reviews_count": 33,
+    "combined_testimonials_and_reviews_count": 85
+   },
+   "listing_stats": {
+    "combined_annual": {
+     "min": 49000,
+     "max": 450000
+    },
+    "for_sale": {
+     "count": 49,
+     "last_listing_date": "2026-10-23T17:07:08Z",
+     "min": 49000,
+     "max": 450000
+    },
+    "recently_sold_annual": {
+     "count": 55
+    },
+    "recently_sold_listing_details": {
+     "listings": [
+      {
+       "baths": 2,
+       "beds": 3,
+       "city": "Pearsall",
+       "photo": "https://ap.rdcpix.com/6f524ef5d0d58938371850b94d88b754l-m3216020906rd-w100_h67.jpg",
+       "state_code": "TX"
+      },
+      {
+       "baths": 2,
+       "beds": 2,
+       "city": "Bandera",
+       "photo": "https://ap.rdcpix.com/ccd9929f5d56c0c175424c90a73957f8l-m2490714238rd-w100_h67.jpg",
+       "state_code": "TX"
+      },
+      {
+       "baths": 1,
+       "beds": 3,
+       "city": "San Antonio",
+       "photo": "https://ap.rdcpix.com/839fbe32897000dbafc1f4f3b82a3839l-m4047083015rd-w100_h67.jpg",
+       "state_code": "TX"
+      }
+     ],
+     "show_additional": true
+    }
+   },
+   "experience": {
+    "first_year": "2006"
+   },
+   "services": null,
+   "sorting_weight": 70
+  },
+  {
+   "id": "56d51269f384a201005df104",
+   "fulfillment_id": "1991244",
+   "fullname": "Terri Michelle",
+   "is_paid": true,
+   "is_realtor": true,
+   "display_ratings": true,
+   "has_rps": false,
+   "avatar": {
+    "url": "https://ap.rdcpix.com/ce577a51520b7369379df0782a566300r-c1879069544rd-w144_h144.jpg",
+    "initials": "TM"
+   },
+   "broker": {
+    "name": "Horizon Realty - Broker",
+    "fulfillment_id": "100488166"
+   },
+   "office": {
+    "name": "Horizon Realty"
+   },
+   "ratings_reviews": {
+    "average_rating": 5,
+    "recommendations_count": 9,
+    "reviews_count": 1,
+    "combined_testimonials_and_reviews_count": 10
+   },
+   "listing_stats": {
+    "combined_annual": {
+     "min": 0,
+     "max": 0
+    },
+    "for_sale": {
+     "count": 2,
+     "last_listing_date": "2026-10-14T18:36:53Z",
+     "min": 220000,
+     "max": 260000
+    },
+    "recently_sold_annual": {
+     "count": 20
+    },
+    "recently_sold_listing_details": {
+     "listings": [
+      {
+       "baths": 2,
+       "beds": 3,
+       "city": "Round Rock",
+       "photo": "https://ap.rdcpix.com/e56fce3013c6ab8061745f7e216fe3d5l-m573411990rd-w100_h67.jpg",
+       "state_code": "TX"
+      },
+      {
+       "baths": 2,
+       "beds": 4,
+       "city": "Georgetown",
+       "photo": "https://ap.rdcpix.com/7774e249c730025b276015b37df82fb3l-m3110149568rd-w100_h67.jpg",
+       "state_code": "TX"
+      },
+      {
+       "baths": 2,
+       "beds": 2,
+       "city": "Georgetown",
+       "photo": "https://ap.rdcpix.com/68df5901e9d158cc4177b20670ab1d6al-m406817196rd-w100_h67.jpg",
+       "state_code": "TX"
+      }
+     ],
+     "show_additional": true
+    }
+   },
+   "experience": {
+    "first_year": "2014"
+   },
+   "services": {
+    "buyer": [
+     "Personalized neighborhood guidance",
+     "Access to market insights",
+     "Early access to new listings"
+    ],
+    "seller": [
+     "Open houses",
+     "Professional photography",
+     "Home staging"
+    ]
+   },
+   "sorting_weight": 65
+  },
+  {
+   "id": "5d839621b1de8f001344d99d",
+   "fulfillment_id": "3860100",
+   "fullname": "Lisa Alexander",
+   "is_paid": true,
+   "is_realtor": true,
+   "display_ratings": true,
+   "has_rps": false,
+   "avatar": {
+    "url": "https://ap.rdcpix.com/dfd8abf5172d6f2e02ddb94d1255ce69r-c3786200534rd-w144_h144.jpg",
+    "initials": "LA"
+   },
+   "broker": {
+    "name": "Grace and  Grit Real Estate INC",
+    "fulfillment_id": "0"
+   },
+   "office": {
+    "name": "Grace & Grit Real Estate INC"
+   },
+   "ratings_reviews": {
+    "average_rating": 5,
+    "recommendations_count": 5,
+    "reviews_count": 4,
+    "combined_testimonials_and_reviews_count": 9
+   },
+   "listing_stats": {
+    "combined_annual": {
+     "min": 43000,
+     "max": 525000
+    },
+    "for_sale": {
+     "count": 3,
+     "last_listing_date": "2026-09-09T16:04:58Z",
+     "min": 43000,
+     "max": 525000
+    },
+    "recently_sold_annual": {
+     "count": 2
+    },
+    "recently_sold_listing_details": {
+     "listings": [
+      {
+       "baths": 2,
+       "beds": 3,
+       "city": "Kingsland",
+       "photo": "https://ap.rdcpix.com/2c95687a4e1e26214644e6b6995f868bl-m822329901rd-w100_h67.jpg",
+       "state_code": "TX"
+      },
+      {
+       "baths": 4,
+       "beds": 4,
+       "city": "Cedar Park",
+       "photo": "https://ap.rdcpix.com/34633c6966fe078411e06804fcdab85fl-m777437637rd-w100_h67.jpg",
+       "state_code": "TX"
+      }
+     ],
+     "show_additional": false
+    }
+   },
+   "experience": {
+    "first_year": "2003"
+   },
+   "services": {
+    "buyer": [
+     "Personalized neighborhood guidance",
+     "Access to market insights",
+     "Early access to new listings",
+     "Persuasive offer proposals",
+     "Home inspection support",
+     "Pre-approval assistance",
+     "Lender referrals",
+     "Other professional network referrals"
+    ],
+    "seller": [
+     "Open houses",
+     "Professional photography",
+     "Postcards and flyers",
+     "Virtual tour",
+     "Comparative market analysis"
+    ]
+   },
+   "sorting_weight": 65
+  },
+  {
+   "id": "56d6c078b5cc660100bda764",
+   "fulfillment_id": "2176828",
+   "fullname": "Seanna Henry",
+   "is_paid": true,
+   "is_realtor": true,
+   "display_ratings": true,
+   "has_rps": false,
+   "avatar": {
+    "url": "https://ap.rdcpix.com/63126336/6739e77890598477e9c9dc2cbd0397e3a-c0rd-w144_h144.jpg",
+    "initials": "SH"
+   },
+   "broker": {
+    "name": "Navigate Real Estate",
+    "fulfillment_id": "0"
+   },
+   "office": {
+    "name": "Navigate Real Estate"
+   },
+   "ratings_reviews": {
+    "average_rating": 5,
+    "recommendations_count": 0,
+    "reviews_count": 6,
+    "combined_testimonials_and_reviews_count": 6
+   },
+   "listing_stats": {
+    "combined_annual": {
+     "min": 12000,
+     "max": 599900
+    },
+    "for_sale": {
+     "count": 4,
+     "last_listing_date": "2026-08-24T00:28:09Z",
+     "min": 12000,
+     "max": 599900
+    },
+    "recently_sold_annual": {
+     "count": 5
+    },
+    "recently_sold_listing_details": {
+     "listings": [
+      {
+       "baths": 1,
+       "beds": 2,
+       "city": "Rockport",
+       "photo": "https://ap.rdcpix.com/048e6eabe292224ca10bd0cd4c92eedel-m3585996253rd-w100_h67.jpg",
+       "state_code": "TX"
+      },
+      {
+       "baths": 1,
+       "beds": 2,
+       "city": "Rockport",
+       "photo": "https://ap.rdcpix.com/a64e313cdbe06c13d7557c7aadbbffe3l-m2037255048rd-w100_h67.jpg",
+       "state_code": "TX"
+      },
+      {
+       "baths": 2,
+       "beds": 3,
+       "city": "Georgetown",
+       "photo": "https://ap.rdcpix.com/d83813a74b79fe68bb4e6bd76e034a80l-m3820444068rd-w100_h67.jpg",
+       "state_code": "TX"
+      }
+     ],
+     "show_additional": true
+    }
+   },
+   "experience": {
+    "first_year": "2015"
+   },
+   "services": {
+    "buyer": [
+     "Personalized neighborhood guidance",
+     "Access to market insights",
+     "Early access to new listings",
+     "Home inspection support",
+     "Pre-approval assistance",
+     "Lender referrals",
+     "Other professional network referrals"
+    ],
+    "seller": [
+     "Open houses",
+     "Professional photography",
+     "Your own website",
+     "Postcards and flyers",
+     "Virtual tour",
+     "Comparative market analysis"
+    ]
+   },
+   "sorting_weight": 65
+  },
+  {
+   "id": "5c7455c201d70e001215be38",
+   "fulfillment_id": "3700760",
+   "fullname": "Simon Collective Group",
+   "is_paid": true,
+   "is_realtor": true,
+   "display_ratings": true,
+   "has_rps": false,
+   "avatar": {
+    "url": "https://ap.rdcpix.com/5eeeb195c8663ba9ec0ce70c084b761dr-c746482907rd-w144_h144.jpg",
+    "initials": "SCG"
+   },
+   "broker": {
+    "name": "eXp Realty, LLC",
+    "fulfillment_id": "100250952"
+   },
+   "office": {
+    "name": "eXp Realty, LLC"
+   },
+   "ratings_reviews": {
+    "average_rating": 5,
+    "recommendations_count": 0,
+    "reviews_count": 7,
+    "combined_testimonials_and_reviews_count": 7
+   },
+   "listing_stats": {
+    "combined_annual": {
+     "min": 25000,
+     "max": 3650000
+    },
+    "for_sale": {
+     "count": 23,
+     "last_listing_date": "2026-10-27T12:44:56Z",
+     "min": 25000,
+     "max": 3650000
+    },
+    "recently_sold_annual": {
+     "count": 25
+    },
+    "recently_sold_listing_details": {
+     "listings": [
+      {
+       "baths": 2,
+       "beds": 2,
+       "city": "Tow",
+       "photo": "https://ap.rdcpix.com/62f4878932bcca528860fb45c548810dl-m4270602392rd-w100_h67.jpg",
+       "state_code": "TX"
+      },
+      {
+       "baths": 2,
+       "beds": 2,
+       "city": "Granite Shoals",
+       "photo": "https://ap.rdcpix.com/56c81f23d0d7fc472efea98716459bcel-m489035059rd-w100_h67.jpg",
+       "state_code": "TX"
+      },
+      {
+       "baths": 2,
+       "beds": 3,
+       "city": "Buchanan Dam",
+       "photo": "https://ap.rdcpix.com/3a76f05f98594a50df2c8cb5ba15f00fl-m497979042rd-w100_h67.jpg",
+       "state_code": "TX"
+      }
+     ],
+     "show_additional": true
+    }
+   },
+   "experience": {
+    "first_year": "2019"
+   },
+   "services": {
+    "buyer": [
+     "Personalized neighborhood guidance",
+     "Access to market insights",
+     "Early access to new listings",
+     "Persuasive offer proposals",
+     "Home inspection support",
+     "Pre-approval assistance",
+     "Lender referrals",
+     "Other professional network referrals"
+    ],
+    "seller": [
+     "Open houses",
+     "Professional photography",
+     "Your own website",
+     "Postcards and flyers",
+     "Virtual tour",
+     "Comparative market analysis"
+    ]
+   },
+   "sorting_weight": 65
+  },
+  {
+   "id": "6390a689fece2215d24a997e",
+   "fulfillment_id": "99992687",
+   "fullname": "Nicholas Garza",
+   "is_paid": true,
+   "is_realtor": true,
+   "display_ratings": true,
+   "has_rps": false,
+   "avatar": {
+    "url": "https://ap.rdcpix.com/2c120ffc77c2ab3e4b295d175448c794a-e2392106051rd-w144_h144.jpg",
+    "initials": "NG"
+   },
+   "broker": {
+    "name": "Keller Williams Realty -  Broker",
+    "fulfillment_id": "4458562"
+   },
+   "office": {
+    "name": "Keller Williams Realty"
+   },
+   "ratings_reviews": {
+    "average_rating": 5,
+    "recommendations_count": 1,
+    "reviews_count": 17,
+    "combined_testimonials_and_reviews_count": 18
+   },
+   "listing_stats": {
+    "combined_annual": {
+     "min": 440000,
+     "max": 440000
+    },
+    "for_sale": {
+     "count": 1,
+     "last_listing_date": "2026-09-05T16:22:51Z",
+     "min": 440000,
+     "max": 440000
+    },
+    "recently_sold_annual": {
+     "count": 16
+    },
+    "recently_sold_listing_details": {
+     "listings": [
+      {
+       "baths": 2,
+       "beds": 3,
+       "city": "Round Rock",
+       "photo": "https://ap.rdcpix.com/ae8db255a5eae1cf76ec1348570b9f1al-m2579446038rd-w100_h67.jpg",
+       "state_code": "TX"
+      },
+      {
+       "baths": 2,
+       "beds": 3,
+       "city": "Austin",
+       "photo": "https://ap.rdcpix.com/098dc930bd7b0aa5f6e9067ebbe368b3l-m3130719879rd-w100_h67.jpg",
+       "state_code": "TX"
+      },
+      {
+       "baths": 3,
+       "beds": 4,
+       "city": "Austin",
+       "photo": "https://ap.rdcpix.com/9fe748f7a32b208303b88f4582ddd06dl-m999150414rd-w100_h67.jpg",
+       "state_code": "TX"
+      }
+     ],
+     "show_additional": true
+    }
+   },
+   "experience": {
+    "first_year": "2022"
+   },
+   "services": null,
+   "sorting_weight": 65
+  },
+  {
+   "id": "5e58ab08a8d4ec00111f425c",
+   "fulfillment_id": "2216232",
+   "fullname": "Ina Kail",
+   "is_paid": true,
+   "is_realtor": true,
+   "display_ratings": true,
+   "has_rps": false,
+   "avatar": {
+    "url": "https://ap.rdcpix.com/34e65a22a3d631025ec92dc71048815fa-e1795777729rd-w144_h144.jpg",
+    "initials": "IK"
+   },
+   "broker": {
+    "name": "",
+    "fulfillment_id": "0"
+   },
+   "office": {
+    "name": "Compass RE Texas, LLC"
+   },
+   "ratings_reviews": {
+    "average_rating": 5,
+    "recommendations_count": 63,
+    "reviews_count": 29,
+    "combined_testimonials_and_reviews_count": 92
+   },
+   "listing_stats": {
+    "combined_annual": {
+     "min": 0,
+     "max": 0
+    },
+    "for_sale": {
+     "count": null,
+     "last_listing_date": null,
+     "min": null,
+     "max": null
+    },
+    "recently_sold_annual": {
+     "count": 10
+    },
+    "recently_sold_listing_details": {
+     "listings": [
+      {
+       "baths": 2,
+       "beds": 2,
+       "city": "Austin",
+       "photo": "https://ap.rdcpix.com/bb31990c43c52055fdd6f625f4de9e97l-m4062131266rd-w100_h67.jpg",
+       "state_code": "TX"
+      },
+      {
+       "baths": null,
+       "beds": null,
+       "city": "Taylor",
+       "photo": "https://ap.rdcpix.com/c3215b1648c70abfd15700c1bdde38f7l-m4203953548rd-w100_h67.jpg",
+       "state_code": "TX"
+      },
+      {
+       "baths": 3,
+       "beds": 3,
+       "city": "Austin",
+       "photo": "https://ap.rdcpix.com/b571277e687e1d329189429c3ab9e6c2l-m1030270975rd-w100_h67.jpg",
+       "state_code": "TX"
+      }
+     ],
+     "show_additional": true
+    }
+   },
+   "experience": {
+    "first_year": "2015"
+   },
+   "services": null,
+   "sorting_weight": 65
+  },
+  {
+   "id": "56cdf6d0bb954c01006dda20",
+   "fulfillment_id": "1241579",
+   "fullname": "Ashley Stucki",
+   "is_paid": false,
+   "is_realtor": true,
+   "display_ratings": true,
+   "has_rps": false,
+   "avatar": {
+    "url": "https://ap.rdcpix.com/a8520581c8806ea6bb1b7f7a4c063953a-e1293377646rd-w144_h144.jpg",
+    "initials": "AS"
+   },
+   "broker": {
+    "name": "Ashley Austin Homes",
+    "fulfillment_id": "0"
+   },
+   "office": {
+    "name": "ASE Residential"
+   },
+   "ratings_reviews": {
+    "average_rating": 5,
+    "recommendations_count": 60,
+    "reviews_count": 27,
+    "combined_testimonials_and_reviews_count": 87
+   },
+   "listing_stats": {
+    "combined_annual": {
+     "min": 0,
+     "max": 0
+    },
+    "for_sale": {
+     "count": 10,
+     "last_listing_date": "2026-10-30T16:27:16Z",
+     "min": 299900,
+     "max": 2575000
+    },
+    "recently_sold_annual": {
+     "count": 39
+    },
+    "recently_sold_listing_details": {
+     "listings": [
+      {
+       "baths": 3,
+       "beds": 3,
+       "city": "Austin",
+       "photo": "https://ap.rdcpix.com/8bbfe378bb97424aa147cbebbcaaec9al-m273134432rd-w100_h67.jpg",
+       "state_code": "TX"
+      },
+      {
+       "baths": 2,
+       "beds": 3,
+       "city": "Austin",
+       "photo": "https://ap.rdcpix.com/15191351e31c9796cba20de3cd090215l-m1547064352rd-w100_h67.jpg",
+       "state_code": "TX"
+      },
+      {
+       "baths": 4,
+       "beds": 5,
+       "city": "Austin",
+       "photo": "https://ap.rdcpix.com/cf3add9c2b5ba5ffd9e872b1a74f8ea7l-m2590153325rd-w100_h67.jpg",
+       "state_code": "TX"
+      }
+     ],
+     "show_additional": true
+    }
+   },
+   "experience": {
+    "first_year": "2010"
+   },
+   "services": {
+    "buyer": [
+     "Personalized neighborhood guidance",
+     "Access to market insights",
+     "Early access to new listings",
+     "Persuasive offer proposals",
+     "Pre-approval assistance",
+     "Lender referrals",
+     "Other professional network referrals"
+    ],
+    "seller": [
+     "Open houses",
+     "Professional photography",
+     "Home staging",
+     "Comparative market analysis"
+    ]
+   },
+   "sorting_weight": 65
+  },
+  {
+   "id": "56a2a4ef0fa417010073ee4d",
+   "fulfillment_id": "1253441",
+   "fullname": "Adrianne Craft",
+   "is_paid": false,
+   "is_realtor": true,
+   "display_ratings": true,
+   "has_rps": false,
+   "avatar": {
+    "url": "https://ap.rdcpix.com/648746427/6a05b1582d84b87cc4be83b218f0a075a-e0rd-w144_h144.jpg",
+    "initials": "AC"
+   },
+   "broker": {
+    "name": "Keller Williams Realty -  Broker",
+    "fulfillment_id": "4458562"
+   },
+   "office": {
+    "name": "Keller Williams Realty"
+   },
+   "ratings_reviews": {
+    "average_rating": 5,
+    "recommendations_count": 92,
+    "reviews_count": 129,
+    "combined_testimonials_and_reviews_count": 221
+   },
+   "listing_stats": {
+    "combined_annual": {
+     "min": 60000,
+     "max": 675000
+    },
+    "for_sale": {
+     "count": 13,
+     "last_listing_date": "2026-10-27T21:41:56Z",
+     "min": 60000,
+     "max": 889000
+    },
+    "recently_sold_annual": {
+     "count": 32
+    },
+    "recently_sold_listing_details": {
+     "listings": [
+      {
+       "baths": 3,
+       "beds": 3,
+       "city": "Kyle",
+       "photo": "https://ap.rdcpix.com/eed0752934eff5996b349b99cbdfd458l-m2652358155rd-w100_h67.jpg",
+       "state_code": "TX"
+      },
+      {
+       "baths": 3,
+       "beds": 4,
+       "city": "Buda",
+       "photo": "https://ap.rdcpix.com/c33512215d15f570dc3f85f0ef576904l-m1732589182rd-w100_h67.jpg",
+       "state_code": "TX"
+      },
+      {
+       "baths": 2,
+       "beds": 3,
+       "city": "Kyle",
+       "photo": "https://ap.rdcpix.com/80293e937b5372ceb3eaa067d31c8c6el-m4101566198rd-w100_h67.jpg",
+       "state_code": "TX"
+      }
+     ],
+     "show_additional": true
+    }
+   },
+   "experience": {
+    "first_year": "2009"
+   },
+   "services": null,
+   "sorting_weight": 65
+  },
+  {
+   "id": "5837ea5397c7160001e20c6e",
+   "fulfillment_id": "2833792",
+   "fullname": "Hillary Smith",
+   "is_paid": false,
+   "is_realtor": true,
+   "display_ratings": true,
+   "has_rps": false,
+   "avatar": {
+    "url": "https://ap.rdcpix.com/a59715543cbeb69f5f1a1603c59ab972r-c891223849rd-w144_h144.jpg",
+    "initials": "HS"
+   },
+   "broker": {
+    "name": "HomeSmith Realty",
+    "fulfillment_id": "0"
+   },
+   "office": {
+    "name": "HomeSmith Realty"
+   },
+   "ratings_reviews": {
+    "average_rating": 5,
+    "recommendations_count": 41,
+    "reviews_count": 45,
+    "combined_testimonials_and_reviews_count": 86
+   },
+   "listing_stats": {
+    "combined_annual": {
+     "min": 0,
+     "max": 0
+    },
+    "for_sale": {
+     "count": 4,
+     "last_listing_date": "2026-10-08T05:06:02Z",
+     "min": 200000,
+     "max": 865000
+    },
+    "recently_sold_annual": {
+     "count": 31
+    },
+    "recently_sold_listing_details": {
+     "listings": [
+      {
+       "baths": 3,
+       "beds": 4,
+       "city": "Austin",
+       "photo": "https://ap.rdcpix.com/a67921ba7d62ae4694a63af033724408l-m4084797294rd-w100_h67.jpg",
+       "state_code": "TX"
+      },
+      {
+       "baths": 2,
+       "beds": 3,
+       "city": "Austin",
+       "photo": "https://ap.rdcpix.com/a0926dd4357163dbd13fd839f0578b2el-m3305093561rd-w100_h67.jpg",
+       "state_code": "TX"
+      },
+      {
+       "baths": 3,
+       "beds": 3,
+       "city": "Burnet",
+       "photo": "https://ap.rdcpix.com/0a17ed538f7659070ad778c6e744b69al-m3985213390rd-w100_h67.jpg",
+       "state_code": "TX"
+      }
+     ],
+     "show_additional": true
+    }
+   },
+   "experience": {
+    "first_year": "2016"
+   },
+   "services": {
+    "buyer": [
+     "Personalized neighborhood guidance",
+     "Access to market insights",
+     "Persuasive offer proposals",
+     "Home inspection support",
+     "Lender referrals"
+    ],
+    "seller": [
+     "Open houses",
+     "Professional photography",
+     "Home staging",
+     "Postcards and flyers",
+     "Comparative market analysis"
+    ]
+   },
+   "sorting_weight": 65
+  },
+  {
+   "id": "61bd1e4c7088987c719bf68f",
+   "fulfillment_id": "4690123",
+   "fullname": "Justin Brickman",
+   "is_paid": false,
+   "is_realtor": true,
+   "display_ratings": true,
+   "has_rps": false,
+   "avatar": {
+    "url": "https://ap.rdcpix.com/070cf356da8dff5d6a7537af19eee0b0a-e2134167796rd-w144_h144.jpg",
+    "initials": "JB"
+   },
+   "broker": {
+    "name": "Real Broker, LLC - Broker",
+    "fulfillment_id": "100255752"
+   },
+   "office": {
+    "name": "Legacy Realty Group, brokered by Real Broker, LLC"
+   },
+   "ratings_reviews": {
+    "average_rating": 4.9,
+    "recommendations_count": 122,
+    "reviews_count": 68,
+    "combined_testimonials_and_reviews_count": 190
+   },
+   "listing_stats": {
+    "combined_annual": {
+     "min": 65000,
+     "max": 399900
+    },
+    "for_sale": {
+     "count": 13,
+     "last_listing_date": "2026-11-06T00:26:02Z",
+     "min": 65000,
+     "max": 399900
+    },
+    "recently_sold_annual": {
+     "count": 42
+    },
+    "recently_sold_listing_details": {
+     "listings": [
+      {
+       "baths": 3,
+       "beds": 2,
+       "city": "San Antonio",
+       "photo": "https://ap.rdcpix.com/0adc54b936d7b04e8a454717d35beac0l-m54425375rd-w100_h67.jpg",
+       "state_code": "TX"
+      },
+      {
+       "baths": 2,
+       "beds": 3,
+       "city": "New Braunfels",
+       "photo": "https://ap.rdcpix.com/9f906776291e2506636fc79d276584d0l-m3521131182rd-w100_h67.jpg",
+       "state_code": "TX"
+      },
+      {
+       "baths": 3,
+       "beds": 4,
+       "city": "Boerne",
+       "photo": "https://ap.rdcpix.com/f32207b7c29a2aeec8b0a76f6e156163l-m2332163874rd-w100_h67.jpg",
+       "state_code": "TX"
+      }
+     ],
+     "show_additional": true
+    }
+   },
+   "experience": {
+    "first_year": "2020"
+   },
+   "services": null,
+   "sorting_weight": 65
+  },
+  {
+   "id": "56abeee97e54f70100204741",
+   "fulfillment_id": "710799",
+   "fullname": "Kathy De La Cruz",
+   "is_paid": false,
+   "is_realtor": true,
+   "display_ratings": true,
+   "has_rps": false,
+   "avatar": {
+    "url": "https://ap.rdcpix.com/497629951/91fd652e14e8e55653dd51cceabdef9aa-e0rd-w144_h144.jpg",
+    "initials": "KDLC"
+   },
+   "broker": {
+    "name": "",
+    "fulfillment_id": "0"
+   },
+   "office": {
+    "name": "RE/MAX Fine Properties"
+   },
+   "ratings_reviews": {
+    "average_rating": 5,
+    "recommendations_count": 87,
+    "reviews_count": 25,
+    "combined_testimonials_and_reviews_count": 112
+   },
+   "listing_stats": {
+    "combined_annual": {
+     "min": 140000,
+     "max": 555000
+    },
+    "for_sale": {
+     "count": 9,
+     "last_listing_date": "2026-08-17T23:27:57Z",
+     "min": 140000,
+     "max": 555000
+    },
+    "recently_sold_annual": {
+     "count": 10
+    },
+    "recently_sold_listing_details": {
+     "listings": [
+      {
+       "baths": 2,
+       "beds": 3,
+       "city": "Buda",
+       "photo": "https://ap.rdcpix.com/183394e2631ae2cd54bf2d69660058cdl-m1627919285rd-w100_h67.jpg",
+       "state_code": "TX"
+      },
+      {
+       "baths": 3,
+       "beds": 3,
+       "city": "Austin",
+       "photo": "https://ap.rdcpix.com/14bac4aac2da8f4b0edc31bb585744f4l-m1441788970rd-w100_h67.jpg",
+       "state_code": "TX"
+      },
+      {
+       "baths": 2,
+       "beds": 3,
+       "city": "Austin",
+       "photo": "https://ap.rdcpix.com/2998c00bc8b4dce04f1ac426cf93b873l-m2638589445rd-w100_h67.jpg",
+       "state_code": "TX"
+      }
+     ],
+     "show_additional": true
+    }
+   },
+   "experience": {
+    "first_year": "1999"
+   },
+   "services": null,
+   "sorting_weight": 65
+  },
+  {
+   "id": "56c35cfb0fa417010075ac89",
+   "fulfillment_id": "715768",
+   "fullname": "Kelvin Glover",
+   "is_paid": false,
+   "is_realtor": true,
+   "display_ratings": true,
+   "has_rps": false,
+   "avatar": {
+    "url": "https://ap.rdcpix.com/d97866047992ceca62cd2f77e31956eea-e2473515508rd-w144_h144.jpg",
+    "initials": "KG"
+   },
+   "broker": {
+    "name": "Compass",
+    "fulfillment_id": "0"
+   },
+   "office": {
+    "name": "Compass RE Texas, LLC"
+   },
+   "ratings_reviews": {
+    "average_rating": 5,
+    "recommendations_count": 90,
+    "reviews_count": 68,
+    "combined_testimonials_and_reviews_count": 158
+   },
+   "listing_stats": {
+    "combined_annual": {
+     "min": 325000,
+     "max": 1225000
+    },
+    "for_sale": {
+     "count": 12,
+     "last_listing_date": "2026-10-22T20:58:02Z",
+     "min": 315000,
+     "max": 1225000
+    },
+    "recently_sold_annual": {
+     "count": 44
+    },
+    "recently_sold_listing_details": {
+     "listings": [
+      {
+       "baths": 2,
+       "beds": 3,
+       "city": "Cedar Park",
+       "photo": "https://ap.rdcpix.com/d6c0dc541df4baff1ad6f90797c97092l-m269827164rd-w100_h67.jpg",
+       "state_code": "TX"
+      },
+      {
+       "baths": 3,
+       "beds": 4,
+       "city": "Austin",
+       "photo": "https://ap.rdcpix.com/850d3d2f2c271d9d9992ee964fd5a128l-m3020479519rd-w100_h67.jpg",
+       "state_code": "TX"
+      },
+      {
+       "baths": 3,
+       "beds": 4,
+       "city": "Round Rock",
+       "photo": "https://ap.rdcpix.com/448662cf88a994dbc3fc7f74965c51cdl-m47774906rd-w100_h67.jpg",
+       "state_code": "TX"
+      }
+     ],
+     "show_additional": true
+    }
+   },
+   "experience": {
+    "first_year": "2003"
+   },
+   "services": null,
+   "sorting_weight": 65
+  },
+  {
+   "id": "56d58d38f384a201005e5c04",
+   "fulfillment_id": "2047013",
+   "fullname": "Lilea Enriquez",
+   "is_paid": false,
+   "is_realtor": true,
+   "display_ratings": true,
+   "has_rps": false,
+   "avatar": {
+    "url": "https://ap.rdcpix.com/6b2cc180888bd5ec248c39d27c3fb7c8a-e2422782475rd-w144_h144.jpg",
+    "initials": "LE"
+   },
+   "broker": {
+    "name": "Lilea Enriquez Real Estate Broker",
+    "fulfillment_id": "0"
+   },
+   "office": {
+    "name": "Lilea Enriquez Real Estate LLC"
+   },
+   "ratings_reviews": {
+    "average_rating": 5,
+    "recommendations_count": 59,
+    "reviews_count": 56,
+    "combined_testimonials_and_reviews_count": 115
+   },
+   "listing_stats": {
+    "combined_annual": {
+     "min": 130000,
+     "max": 422000
+    },
+    "for_sale": {
+     "count": 5,
+     "last_listing_date": "2026-09-02T18:44:49Z",
+     "min": 130000,
+     "max": 750000
+    },
+    "recently_sold_annual": {
+     "count": 11
+    },
+    "recently_sold_listing_details": {
+     "listings": [
+      {
+       "baths": 3,
+       "beds": 5,
+       "city": "Austin",
+       "photo": "https://ap.rdcpix.com/46b835424a4b0be2d720962ac23e7acel-m896624636rd-w100_h67.jpg",
+       "state_code": "TX"
+      },
+      {
+       "baths": 2,
+       "beds": 4,
+       "city": "Round Rock",
+       "photo": "https://ap.rdcpix.com/0fb2d12a0c32bed9907544a4c7462828l-m3842113173rd-w100_h67.jpg",
+       "state_code": "TX"
+      },
+      {
+       "baths": 2,
+       "beds": 4,
+       "city": "Leander",
+       "photo": "https://ap.rdcpix.com/34de14dc58a05346a939b80665b9b6c7l-m2015328641rd-w100_h67.jpg",
+       "state_code": "TX"
+      }
+     ],
+     "show_additional": true
+    }
+   },
+   "experience": {
+    "first_year": "1990"
+   },
+   "services": null,
+   "sorting_weight": 65
+  }
+ ],
+ "matching_rows": 34867
+}

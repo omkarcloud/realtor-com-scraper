@@ -1,0 +1,5894 @@
+{
+ "count": 20,
+ "total": 2175,
+ "results": [
+  {
+   "property_id": "1332249879",
+   "listing_id": "3000810966",
+   "permalink": "3008-31st-Ave-W_Seattle_WA_98199_M13322-49879",
+   "href": "https://www.realtor.com/realestateandhomes-detail/3008-31st-Ave-W_Seattle_WA_98199_M13322-49879",
+   "status": "sold",
+   "mls_status": "Sold",
+   "list_date": "2026-09-16T21:17:15.000000Z",
+   "last_update_date": "2026-11-06T13:40:36Z",
+   "last_status_change_date": "2026-11-06T21:45:13Z",
+   "pending_date": "2026-10-08T02:15:30Z",
+   "list_price": 649000,
+   "list_price_min": null,
+   "list_price_max": null,
+   "price_per_sqft": 726,
+   "last_sold_price": 639000,
+   "last_sold_date": "2026-11-06",
+   "tags": [
+    "dishwasher",
+    "forced_air",
+    "hardwood_floors",
+    "laundry_room",
+    "view",
+    "washer_dryer",
+    "two_or_more_stories",
+    "updated_kitchen",
+    "private_backyard",
+    "no_hoa",
+    "views",
+    "shopping"
+   ],
+   "flags": {
+    "is_coming_soon": null,
+    "is_contingent": null,
+    "is_garage_present": null,
+    "is_new_construction": null,
+    "is_pending": null,
+    "is_short_sale": null,
+    "is_foreclosure": null,
+    "is_senior_community": null,
+    "is_for_rent": null,
+    "is_deal_available": null,
+    "is_price_reduced": null,
+    "is_new_listing": false,
+    "is_subdivision": null,
+    "is_plan": null
+   },
+   "description": {
+    "type": "townhomes",
+    "sub_type": "townhouse",
+    "name": null,
+    "beds": 2,
+    "baths": 1,
+    "baths_full": 1,
+    "baths_half": null,
+    "baths_consolidated": "1",
+    "sqft": 880,
+    "lot_sqft": 1782,
+    "year_built": 1945,
+    "garage": null,
+    "stories": 2
+   },
+   "location": {
+    "address": {
+     "line": "3008 31st Ave W",
+     "unit": null,
+     "city": "Seattle",
+     "state_code": "WA",
+     "postal_code": "98199",
+     "coordinate": {
+      "lat": 47.647201,
+      "lon": -122.396642
+     }
+    },
+    "county": {
+     "name": "King",
+     "fips_code": "53033"
+    },
+    "neighborhoods": null
+   },
+   "hoa": {
+    "fee": 0
+   },
+   "source": {
+    "id": "SEWA",
+    "type": "mls",
+    "name": "NWMLS",
+    "listing_id": "2580209",
+    "agents": [
+     {
+      "agent_name": null,
+      "agent_id": "54196",
+      "office_name": "Redfin",
+      "office_id": "3136"
+     },
+     {
+      "agent_name": null,
+      "agent_id": "63177",
+      "office_name": "Windermere Bellevue Commons",
+      "office_id": "6391"
+     }
+    ]
+   },
+   "primary_photo": {
+    "href": "https://ap.rdcpix.com/23ebfc8b30760814844448d19da6f278l-m968368379s.jpg"
+   },
+   "photos": [
+    {
+     "href": "https://ap.rdcpix.com/23ebfc8b30760814844448d19da6f278l-m968368379s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/23ebfc8b30760814844448d19da6f278l-m1725072986s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/23ebfc8b30760814844448d19da6f278l-m1812978034s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/23ebfc8b30760814844448d19da6f278l-m4091863479s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/23ebfc8b30760814844448d19da6f278l-m1345098254s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/23ebfc8b30760814844448d19da6f278l-m2633294322s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/23ebfc8b30760814844448d19da6f278l-m1468710598s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/23ebfc8b30760814844448d19da6f278l-m542898959s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/23ebfc8b30760814844448d19da6f278l-m3691608351s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/23ebfc8b30760814844448d19da6f278l-m2576334395s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/23ebfc8b30760814844448d19da6f278l-m2953595438s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/23ebfc8b30760814844448d19da6f278l-m3247380830s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/23ebfc8b30760814844448d19da6f278l-m499149862s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/23ebfc8b30760814844448d19da6f278l-m3813419992s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/23ebfc8b30760814844448d19da6f278l-m2616263898s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/23ebfc8b30760814844448d19da6f278l-m2896524362s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/23ebfc8b30760814844448d19da6f278l-m645250484s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/23ebfc8b30760814844448d19da6f278l-m1707517199s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/23ebfc8b30760814844448d19da6f278l-m3738918910s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/23ebfc8b30760814844448d19da6f278l-m671581700s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/23ebfc8b30760814844448d19da6f278l-m2447942952s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/23ebfc8b30760814844448d19da6f278l-m3699656518s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/23ebfc8b30760814844448d19da6f278l-m3892369029s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/23ebfc8b30760814844448d19da6f278l-m3471073708s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/23ebfc8b30760814844448d19da6f278l-m944174214s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/23ebfc8b30760814844448d19da6f278l-m3901065478s.jpg"
+    }
+   ],
+   "open_houses": null,
+   "virtual_tours": null,
+   "advertisers": [
+    {
+     "type": "seller",
+     "name": "Kenny Whiteside",
+     "fulfillment_id": "0",
+     "email": null,
+     "nrds_id": null,
+     "state_license": null,
+     "phones": [
+      {
+       "number": "4254187628",
+       "type": null,
+       "primary": true,
+       "ext": null
+      }
+     ],
+     "office": {
+      "name": "Redfin",
+      "email": "aaron.wood@redfin.com",
+      "fulfillment_id": "0",
+      "href": null,
+      "phones": [
+       {
+        "number": "4254187628",
+        "type": "Office"
+       }
+      ]
+     },
+     "broker": null,
+     "builder": null
+    }
+   ],
+   "current_estimates": [
+    {
+     "estimate": 640845,
+     "estimate_high": 666478,
+     "estimate_low": 615211,
+     "date": "2026-10-28",
+     "isbest_homevalue": true,
+     "source": {
+      "type": "quantarium",
+      "name": "Quantarium"
+     }
+    },
+    {
+     "estimate": 640600,
+     "estimate_high": 686800,
+     "estimate_low": 594400,
+     "date": "2026-10-05",
+     "isbest_homevalue": false,
+     "source": {
+      "type": "corelogic",
+      "name": "Cotality™"
+     }
+    },
+    {
+     "estimate": 643000,
+     "estimate_high": 713700,
+     "estimate_low": 572300,
+     "date": "2026-10-14",
+     "isbest_homevalue": false,
+     "source": {
+      "type": "collateral",
+      "name": "Collateral Analytics"
+     }
+    }
+   ],
+   "pet_policy": null,
+   "units": null,
+   "tax_record": {
+    "apn": null,
+    "tax_parcel_id": null
+   }
+  },
+  {
+   "property_id": "1405557187",
+   "listing_id": "3001838461",
+   "permalink": "12744-12th-Ave-NW_Seattle_WA_98177_M14055-57187",
+   "href": "https://www.realtor.com/realestateandhomes-detail/12744-12th-Ave-NW_Seattle_WA_98177_M14055-57187",
+   "status": "sold",
+   "mls_status": "Sold",
+   "list_date": "2026-10-14T18:06:09.000000Z",
+   "last_update_date": "2026-11-06T13:47:31Z",
+   "last_status_change_date": "2026-11-06T21:52:05Z",
+   "pending_date": "2026-10-20T22:33:19Z",
+   "list_price": 898000,
+   "list_price_min": null,
+   "list_price_max": null,
+   "price_per_sqft": 549,
+   "last_sold_price": 955000,
+   "last_sold_date": "2026-11-06",
+   "tags": [
+    "central_air",
+    "community_outdoor_space",
+    "dining_room",
+    "dishwasher",
+    "fireplace",
+    "forced_air",
+    "game_room",
+    "hardwood_floors",
+    "laundry_room",
+    "view",
+    "washer_dryer",
+    "single_story",
+    "garage_1_or_more",
+    "updated_kitchen",
+    "fenced_yard",
+    "views",
+    "open_concept",
+    "den",
+    "groundscare"
+   ],
+   "flags": {
+    "is_coming_soon": null,
+    "is_contingent": null,
+    "is_garage_present": true,
+    "is_new_construction": null,
+    "is_pending": null,
+    "is_short_sale": null,
+    "is_foreclosure": null,
+    "is_senior_community": null,
+    "is_for_rent": null,
+    "is_deal_available": null,
+    "is_price_reduced": null,
+    "is_new_listing": false,
+    "is_subdivision": null,
+    "is_plan": null
+   },
+   "description": {
+    "type": "single_family",
+    "sub_type": null,
+    "name": null,
+    "beds": 2,
+    "baths": 2,
+    "baths_full": 1,
+    "baths_half": null,
+    "baths_consolidated": "2",
+    "sqft": 1740,
+    "lot_sqft": 8181,
+    "year_built": 1952,
+    "garage": null,
+    "stories": 1
+   },
+   "location": {
+    "address": {
+     "line": "12744 12th Ave NW",
+     "unit": null,
+     "city": "Seattle",
+     "state_code": "WA",
+     "postal_code": "98177",
+     "coordinate": {
+      "lat": 47.722778,
+      "lon": -122.371326
+     }
+    },
+    "county": {
+     "name": "King",
+     "fips_code": "53033"
+    },
+    "neighborhoods": null
+   },
+   "hoa": {
+    "fee": 0
+   },
+   "source": {
+    "id": "SEWA",
+    "type": "mls",
+    "name": "NWMLS",
+    "listing_id": "2594392",
+    "agents": [
+     {
+      "agent_name": null,
+      "agent_id": "5599",
+      "office_name": "Lake & Company",
+      "office_id": "7928"
+     },
+     {
+      "agent_name": null,
+      "agent_id": "142448",
+      "office_name": "Lake & Company",
+      "office_id": "1001102"
+     },
+     {
+      "agent_name": null,
+      "agent_id": "113828",
+      "office_name": "Windermere RE/Capitol Hill,Inc",
+      "office_id": "7091"
+     }
+    ]
+   },
+   "primary_photo": {
+    "href": "https://ap.rdcpix.com/19d6076fcb10035f64e4eba40d689d66l-m285810775s.jpg"
+   },
+   "photos": [
+    {
+     "href": "https://ap.rdcpix.com/19d6076fcb10035f64e4eba40d689d66l-m285810775s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/19d6076fcb10035f64e4eba40d689d66l-m1231153061s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/19d6076fcb10035f64e4eba40d689d66l-m414056784s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/19d6076fcb10035f64e4eba40d689d66l-m403379045s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/19d6076fcb10035f64e4eba40d689d66l-m3375937711s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/19d6076fcb10035f64e4eba40d689d66l-m2614861085s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/19d6076fcb10035f64e4eba40d689d66l-m3573707142s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/19d6076fcb10035f64e4eba40d689d66l-m640601176s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/19d6076fcb10035f64e4eba40d689d66l-m2619011634s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/19d6076fcb10035f64e4eba40d689d66l-m3644279923s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/19d6076fcb10035f64e4eba40d689d66l-m2646047854s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/19d6076fcb10035f64e4eba40d689d66l-m1865172745s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/19d6076fcb10035f64e4eba40d689d66l-m3668321702s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/19d6076fcb10035f64e4eba40d689d66l-m2480277712s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/19d6076fcb10035f64e4eba40d689d66l-m1883577764s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/19d6076fcb10035f64e4eba40d689d66l-m4140595398s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/19d6076fcb10035f64e4eba40d689d66l-m3699982546s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/19d6076fcb10035f64e4eba40d689d66l-m600522242s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/19d6076fcb10035f64e4eba40d689d66l-m3797071124s.jpg"
+    }
+   ],
+   "open_houses": null,
+   "virtual_tours": null,
+   "advertisers": [
+    {
+     "type": "seller",
+     "name": "Donald Kuehn",
+     "fulfillment_id": "2798905",
+     "email": "don@lakere.com",
+     "nrds_id": "869002003",
+     "state_license": null,
+     "phones": [
+      {
+       "number": "2065271777",
+       "type": "Office",
+       "primary": true,
+       "ext": null
+      },
+      {
+       "number": "2066609911",
+       "type": "Mobile",
+       "primary": true,
+       "ext": null
+      }
+     ],
+     "office": {
+      "name": "Lake & Company Real Estate",
+      "email": "lake@lakere.com",
+      "fulfillment_id": "34674",
+      "href": "WWW.LAKERE.COM",
+      "phones": [
+       {
+        "number": "2065271777",
+        "type": "Office"
+       }
+      ]
+     },
+     "broker": {
+      "name": "Lake & Company - Broker",
+      "fulfillment_id": "3783623"
+     },
+     "builder": null
+    },
+    {
+     "type": "co_seller",
+     "name": "Caitlin Spence",
+     "fulfillment_id": "99936563",
+     "email": "caitlin@lakere.com",
+     "nrds_id": "869071959",
+     "state_license": null,
+     "phones": [
+      {
+       "number": "2065492331",
+       "type": "Mobile",
+       "primary": true,
+       "ext": null
+      }
+     ],
+     "office": {
+      "name": "Lake & Company Real Estate",
+      "email": "lake@lakere.com",
+      "fulfillment_id": "34674",
+      "href": "WWW.LAKERE.COM",
+      "phones": [
+       {
+        "number": "2065271777",
+        "type": "Office"
+       }
+      ]
+     },
+     "broker": {
+      "name": "Lake & Company - Broker",
+      "fulfillment_id": "3783623"
+     },
+     "builder": null
+    }
+   ],
+   "current_estimates": [],
+   "pet_policy": null,
+   "units": null,
+   "tax_record": {
+    "apn": null,
+    "tax_parcel_id": null
+   }
+  },
+  {
+   "property_id": "1505756563",
+   "listing_id": "3001071224",
+   "permalink": "2615-W-Crockett-St_Seattle_WA_98199_M15057-56563",
+   "href": "https://www.realtor.com/realestateandhomes-detail/2615-W-Crockett-St_Seattle_WA_98199_M15057-56563",
+   "status": "sold",
+   "mls_status": "Sold",
+   "list_date": "2026-09-24T16:16:02.000000Z",
+   "last_update_date": "2026-11-06T15:29:28Z",
+   "last_status_change_date": "2026-11-06T23:33:40Z",
+   "pending_date": "2026-10-11T12:32:58Z",
+   "list_price": 1699999,
+   "list_price_min": null,
+   "list_price_max": null,
+   "price_per_sqft": 569,
+   "last_sold_price": 1530000,
+   "last_sold_date": "2026-11-06",
+   "tags": [
+    "city_view",
+    "community_outdoor_space",
+    "community_park",
+    "community_security_features",
+    "dining_room",
+    "dishwasher",
+    "family_room",
+    "fireplace",
+    "forced_air",
+    "hardwood_floors",
+    "hill_or_mountain_view",
+    "laundry_room",
+    "recreation_facilities",
+    "view",
+    "washer_dryer",
+    "two_or_more_stories",
+    "garage_1_or_more",
+    "fenced_yard",
+    "views",
+    "patio",
+    "park",
+    "shopping"
+   ],
+   "flags": {
+    "is_coming_soon": null,
+    "is_contingent": null,
+    "is_garage_present": true,
+    "is_new_construction": null,
+    "is_pending": null,
+    "is_short_sale": null,
+    "is_foreclosure": null,
+    "is_senior_community": null,
+    "is_for_rent": null,
+    "is_deal_available": null,
+    "is_price_reduced": null,
+    "is_new_listing": false,
+    "is_subdivision": null,
+    "is_plan": null
+   },
+   "description": {
+    "type": "single_family",
+    "sub_type": null,
+    "name": null,
+    "beds": 4,
+    "baths": 4,
+    "baths_full": 4,
+    "baths_half": null,
+    "baths_consolidated": "4",
+    "sqft": 2690,
+    "lot_sqft": 3999,
+    "year_built": 1941,
+    "garage": null,
+    "stories": 2
+   },
+   "location": {
+    "address": {
+     "line": "2615 W Crockett St",
+     "unit": null,
+     "city": "Seattle",
+     "state_code": "WA",
+     "postal_code": "98199",
+     "coordinate": {
+      "lat": 47.637472,
+      "lon": -122.391082
+     }
+    },
+    "county": {
+     "name": "King",
+     "fips_code": "53033"
+    },
+    "neighborhoods": null
+   },
+   "hoa": {
+    "fee": 0
+   },
+   "source": {
+    "id": "SEWA",
+    "type": "mls",
+    "name": "NWMLS",
+    "listing_id": "2556779",
+    "agents": [
+     {
+      "agent_name": null,
+      "agent_id": "85055",
+      "office_name": "COMPASS",
+      "office_id": "5813"
+     },
+     {
+      "agent_name": null,
+      "agent_id": "148447",
+      "office_name": "COMPASS",
+      "office_id": "136924339"
+     },
+     {
+      "agent_name": null,
+      "agent_id": "115317",
+      "office_name": "Windermere RE Greenwood",
+      "office_id": "4894"
+     }
+    ]
+   },
+   "primary_photo": {
+    "href": "https://ap.rdcpix.com/2405fdb7ecf70eb68d07ef49434e8db9l-m2618598299s.jpg"
+   },
+   "photos": [
+    {
+     "href": "https://ap.rdcpix.com/2405fdb7ecf70eb68d07ef49434e8db9l-m2618598299s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/2405fdb7ecf70eb68d07ef49434e8db9l-m3315746773s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/2405fdb7ecf70eb68d07ef49434e8db9l-m4117017796s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/2405fdb7ecf70eb68d07ef49434e8db9l-m2440438963s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/2405fdb7ecf70eb68d07ef49434e8db9l-m3947108483s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/2405fdb7ecf70eb68d07ef49434e8db9l-m2899408321s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/2405fdb7ecf70eb68d07ef49434e8db9l-m2426908490s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/2405fdb7ecf70eb68d07ef49434e8db9l-m289947595s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/2405fdb7ecf70eb68d07ef49434e8db9l-m1995915266s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/2405fdb7ecf70eb68d07ef49434e8db9l-m539215293s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/2405fdb7ecf70eb68d07ef49434e8db9l-m282683386s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/2405fdb7ecf70eb68d07ef49434e8db9l-m3737298354s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/2405fdb7ecf70eb68d07ef49434e8db9l-m2534710648s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/2405fdb7ecf70eb68d07ef49434e8db9l-m3011958944s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/2405fdb7ecf70eb68d07ef49434e8db9l-m3215454195s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/2405fdb7ecf70eb68d07ef49434e8db9l-m1192257038s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/2405fdb7ecf70eb68d07ef49434e8db9l-m815855497s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/2405fdb7ecf70eb68d07ef49434e8db9l-m1768854948s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/2405fdb7ecf70eb68d07ef49434e8db9l-m655561677s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/2405fdb7ecf70eb68d07ef49434e8db9l-m654787580s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/2405fdb7ecf70eb68d07ef49434e8db9l-m3192770892s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/2405fdb7ecf70eb68d07ef49434e8db9l-m1562925207s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/2405fdb7ecf70eb68d07ef49434e8db9l-m3612611422s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/2405fdb7ecf70eb68d07ef49434e8db9l-m2663882943s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/2405fdb7ecf70eb68d07ef49434e8db9l-m2946833630s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/2405fdb7ecf70eb68d07ef49434e8db9l-m2668177557s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/2405fdb7ecf70eb68d07ef49434e8db9l-m1059241146s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/2405fdb7ecf70eb68d07ef49434e8db9l-m3098425112s.jpg"
+    }
+   ],
+   "open_houses": null,
+   "virtual_tours": [
+    {
+     "href": "https://player.vimeo.com/video/1229789674?autoplay=1",
+     "type": null
+    }
+   ],
+   "advertisers": [
+    {
+     "type": "seller",
+     "name": "Trey Danna",
+     "fulfillment_id": "1225768",
+     "email": "bennordlander@cbbain.com",
+     "nrds_id": null,
+     "state_license": null,
+     "phones": [
+      {
+       "number": "4254540470",
+       "type": "Office",
+       "primary": true,
+       "ext": null
+      }
+     ],
+     "office": {
+      "name": "COMPASS Bellevue",
+      "email": "brokersseattle@compass.com",
+      "fulfillment_id": "3411019",
+      "href": "http://www.compasswa.com",
+      "phones": [
+       {
+        "number": "4252426440",
+        "type": "office"
+       }
+      ]
+     },
+     "broker": {
+      "name": "Compass Washington - Broker",
+      "fulfillment_id": "3419179"
+     },
+     "builder": null
+    },
+    {
+     "type": "co_seller",
+     "name": "Mara Porter",
+     "fulfillment_id": "100425910",
+     "email": null,
+     "nrds_id": null,
+     "state_license": null,
+     "phones": [
+      {
+       "number": "(206) 324-0000",
+       "type": "BUSINESS_PHONE",
+       "primary": true,
+       "ext": null
+      }
+     ],
+     "office": {
+      "name": "Compass - Seattle WA",
+      "email": "rebecca.fraizer@compass.com",
+      "fulfillment_id": "100310030",
+      "href": "http://www.compass.com",
+      "phones": [
+       {
+        "number": "2063300314",
+        "type": "Mobile"
+       }
+      ]
+     },
+     "broker": {
+      "name": "Compass - Seattle WA",
+      "fulfillment_id": "100310032"
+     },
+     "builder": null
+    }
+   ],
+   "current_estimates": [
+    {
+     "estimate": 1683000,
+     "estimate_high": 1716700,
+     "estimate_low": 1649300,
+     "date": "2026-10-14",
+     "isbest_homevalue": true,
+     "source": {
+      "type": "collateral",
+      "name": "Collateral Analytics"
+     }
+    },
+    {
+     "estimate": 1687693,
+     "estimate_high": 1788954,
+     "estimate_low": 1586431,
+     "date": "2026-10-28",
+     "isbest_homevalue": false,
+     "source": {
+      "type": "quantarium",
+      "name": "Quantarium"
+     }
+    },
+    {
+     "estimate": 1634300,
+     "estimate_high": 1772400,
+     "estimate_low": 1496300,
+     "date": "2026-10-05",
+     "isbest_homevalue": false,
+     "source": {
+      "type": "corelogic",
+      "name": "Cotality™"
+     }
+    }
+   ],
+   "pet_policy": null,
+   "units": null,
+   "tax_record": {
+    "apn": null,
+    "tax_parcel_id": null
+   }
+  },
+  {
+   "property_id": "1440630553",
+   "listing_id": "2999924782",
+   "permalink": "3208-15th-Ave-S_Seattle_WA_98144_M14406-30553",
+   "href": "https://www.realtor.com/realestateandhomes-detail/3208-15th-Ave-S_Seattle_WA_98144_M14406-30553",
+   "status": "sold",
+   "mls_status": "Sold",
+   "list_date": "2026-08-21T00:51:38.000000Z",
+   "last_update_date": "2026-11-06T20:03:33Z",
+   "last_status_change_date": "2026-11-07T04:08:51Z",
+   "pending_date": "2026-10-14T16:34:46Z",
+   "list_price": 545000,
+   "list_price_min": null,
+   "list_price_max": null,
+   "price_per_sqft": 413,
+   "last_sold_price": 554000,
+   "last_sold_date": "2026-11-06",
+   "tags": [
+    "community_outdoor_space",
+    "dining_room",
+    "fireplace",
+    "forced_air",
+    "hardwood_floors",
+    "view",
+    "washer_dryer",
+    "single_story",
+    "garage_1_or_more",
+    "basement",
+    "media_room",
+    "rental_property",
+    "home_office",
+    "office",
+    "den",
+    "exercise_room",
+    "park",
+    "shopping",
+    "fixer_upper"
+   ],
+   "flags": {
+    "is_coming_soon": null,
+    "is_contingent": null,
+    "is_garage_present": true,
+    "is_new_construction": null,
+    "is_pending": null,
+    "is_short_sale": null,
+    "is_foreclosure": null,
+    "is_senior_community": null,
+    "is_for_rent": null,
+    "is_deal_available": null,
+    "is_price_reduced": null,
+    "is_new_listing": false,
+    "is_subdivision": null,
+    "is_plan": null
+   },
+   "description": {
+    "type": "single_family",
+    "sub_type": null,
+    "name": null,
+    "beds": 2,
+    "baths": 1,
+    "baths_full": 1,
+    "baths_half": null,
+    "baths_consolidated": "1",
+    "sqft": 1340,
+    "lot_sqft": 3716,
+    "year_built": 1927,
+    "garage": null,
+    "stories": 1
+   },
+   "location": {
+    "address": {
+     "line": "3208 15th Ave S",
+     "unit": null,
+     "city": "Seattle",
+     "state_code": "WA",
+     "postal_code": "98144",
+     "coordinate": {
+      "lat": 47.574803,
+      "lon": -122.313085
+     }
+    },
+    "county": {
+     "name": "King",
+     "fips_code": "53033"
+    },
+    "neighborhoods": null
+   },
+   "hoa": {
+    "fee": 0
+   },
+   "source": {
+    "id": "SEWA",
+    "type": "mls",
+    "name": "NWMLS",
+    "listing_id": "2568385",
+    "agents": [
+     {
+      "agent_name": null,
+      "agent_id": "91483",
+      "office_name": "Realogics Sotheby's Int'l Rlty",
+      "office_id": "2967"
+     },
+     {
+      "agent_name": null,
+      "agent_id": "108350",
+      "office_name": "Windermere R E Mount Baker",
+      "office_id": "4712"
+     }
+    ]
+   },
+   "primary_photo": {
+    "href": "https://ap.rdcpix.com/4791858a8db9fb8428676793473efe89l-m1381859257s.jpg"
+   },
+   "photos": [
+    {
+     "href": "https://ap.rdcpix.com/4791858a8db9fb8428676793473efe89l-m1381859257s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/4791858a8db9fb8428676793473efe89l-m198691542s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/4791858a8db9fb8428676793473efe89l-m2410753803s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/4791858a8db9fb8428676793473efe89l-m2907409029s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/4791858a8db9fb8428676793473efe89l-m15626578s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/4791858a8db9fb8428676793473efe89l-m3050264793s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/4791858a8db9fb8428676793473efe89l-m4161752577s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/4791858a8db9fb8428676793473efe89l-m1346772959s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/4791858a8db9fb8428676793473efe89l-m2139424641s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/4791858a8db9fb8428676793473efe89l-m3024511738s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/4791858a8db9fb8428676793473efe89l-m307538330s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/4791858a8db9fb8428676793473efe89l-m2476482082s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/4791858a8db9fb8428676793473efe89l-m3096198871s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/4791858a8db9fb8428676793473efe89l-m698668177s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/4791858a8db9fb8428676793473efe89l-m2703869373s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/4791858a8db9fb8428676793473efe89l-m111065339s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/4791858a8db9fb8428676793473efe89l-m3882687684s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/4791858a8db9fb8428676793473efe89l-m3712954345s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/4791858a8db9fb8428676793473efe89l-m3908022331s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/4791858a8db9fb8428676793473efe89l-m2991147902s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/4791858a8db9fb8428676793473efe89l-m3748148440s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/4791858a8db9fb8428676793473efe89l-m3855267062s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/4791858a8db9fb8428676793473efe89l-m618175663s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/4791858a8db9fb8428676793473efe89l-m1996968283s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/4791858a8db9fb8428676793473efe89l-m3859026911s.jpg"
+    }
+   ],
+   "open_houses": null,
+   "virtual_tours": null,
+   "advertisers": [
+    {
+     "type": "seller",
+     "name": "Jeffrey Affronte",
+     "fulfillment_id": "2994200",
+     "email": "jeff.affronte@rsir.com",
+     "nrds_id": null,
+     "state_license": null,
+     "phones": [
+      {
+       "number": "4256585300",
+       "type": "Office",
+       "primary": true,
+       "ext": null
+      },
+      {
+       "number": "2064060627",
+       "type": "Mobile",
+       "primary": true,
+       "ext": null
+      }
+     ],
+     "office": {
+      "name": "Realogics Sotheby's International Realty",
+      "email": "rea.leads@mrtsystems.com",
+      "fulfillment_id": "1792959",
+      "href": "http://rsir.com/",
+      "phones": [
+       {
+        "number": "4256585300",
+        "type": "Office"
+       }
+      ]
+     },
+     "broker": {
+      "name": "Realogics Sotheby's International Realty",
+      "fulfillment_id": "1751898"
+     },
+     "builder": null
+    }
+   ],
+   "current_estimates": [
+    {
+     "estimate": 542800,
+     "estimate_high": 591600,
+     "estimate_low": 494100,
+     "date": "2026-10-05",
+     "isbest_homevalue": true,
+     "source": {
+      "type": "corelogic",
+      "name": "Cotality™"
+     }
+    },
+    {
+     "estimate": 540000,
+     "estimate_high": 599400,
+     "estimate_low": 480600,
+     "date": "2026-10-14",
+     "isbest_homevalue": false,
+     "source": {
+      "type": "collateral",
+      "name": "Collateral Analytics"
+     }
+    },
+    {
+     "estimate": 550052,
+     "estimate_high": 583055,
+     "estimate_low": 517048,
+     "date": "2026-10-28",
+     "isbest_homevalue": false,
+     "source": {
+      "type": "quantarium",
+      "name": "Quantarium"
+     }
+    }
+   ],
+   "pet_policy": null,
+   "units": null,
+   "tax_record": {
+    "apn": null,
+    "tax_parcel_id": null
+   }
+  },
+  {
+   "property_id": "2077545925",
+   "listing_id": "3001706030",
+   "permalink": "11024-Bartlett-Ave-NE_Seattle_WA_98125_M20775-45925",
+   "href": "https://www.realtor.com/realestateandhomes-detail/11024-Bartlett-Ave-NE_Seattle_WA_98125_M20775-45925",
+   "status": "sold",
+   "mls_status": "Sold",
+   "list_date": "2026-10-09T18:09:58.000000Z",
+   "last_update_date": "2026-11-06T12:15:24Z",
+   "last_status_change_date": "2026-11-06T20:21:26Z",
+   "pending_date": "2026-10-22T01:38:10Z",
+   "list_price": 475000,
+   "list_price_min": null,
+   "list_price_max": null,
+   "price_per_sqft": null,
+   "last_sold_price": 475000,
+   "last_sold_date": "2026-11-06",
+   "tags": [
+    "garage_1_or_more",
+    "single_story",
+    "big_lot",
+    "beach",
+    "oversized_lot",
+    "lake",
+    "trails",
+    "shopping"
+   ],
+   "flags": {
+    "is_coming_soon": null,
+    "is_contingent": null,
+    "is_garage_present": true,
+    "is_new_construction": null,
+    "is_pending": null,
+    "is_short_sale": null,
+    "is_foreclosure": null,
+    "is_senior_community": null,
+    "is_for_rent": null,
+    "is_deal_available": null,
+    "is_price_reduced": null,
+    "is_new_listing": false,
+    "is_subdivision": null,
+    "is_plan": null
+   },
+   "description": {
+    "type": "land",
+    "sub_type": null,
+    "name": null,
+    "beds": null,
+    "baths": null,
+    "baths_full": null,
+    "baths_half": null,
+    "baths_consolidated": null,
+    "sqft": null,
+    "lot_sqft": 10132,
+    "year_built": null,
+    "garage": null,
+    "stories": null
+   },
+   "location": {
+    "address": {
+     "line": "11024 Bartlett Ave NE",
+     "unit": null,
+     "city": "Seattle",
+     "state_code": "WA",
+     "postal_code": "98125",
+     "coordinate": {
+      "lat": 47.709327,
+      "lon": -122.281456
+     }
+    },
+    "county": {
+     "name": "King",
+     "fips_code": "53033"
+    },
+    "neighborhoods": null
+   },
+   "hoa": {
+    "fee": 0
+   },
+   "source": {
+    "id": "SEWA",
+    "type": "mls",
+    "name": "NWMLS",
+    "listing_id": "2592021",
+    "agents": [
+     {
+      "agent_name": null,
+      "agent_id": "5393",
+      "office_name": "Lake & Company",
+      "office_id": "7928"
+     },
+     {
+      "agent_name": null,
+      "agent_id": "40612",
+      "office_name": "Lake & Company",
+      "office_id": "7928"
+     }
+    ]
+   },
+   "primary_photo": {
+    "href": "https://ap.rdcpix.com/719fdb16abe522d0ea7c1097bc544560l-m2997527634s.jpg"
+   },
+   "photos": [
+    {
+     "href": "https://ap.rdcpix.com/719fdb16abe522d0ea7c1097bc544560l-m2997527634s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/719fdb16abe522d0ea7c1097bc544560l-m4110846938s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/719fdb16abe522d0ea7c1097bc544560l-m277453253s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/719fdb16abe522d0ea7c1097bc544560l-m386726519s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/719fdb16abe522d0ea7c1097bc544560l-m1924344571s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/719fdb16abe522d0ea7c1097bc544560l-m1653639285s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/719fdb16abe522d0ea7c1097bc544560l-m3975398975s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/719fdb16abe522d0ea7c1097bc544560l-m3134477999s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/719fdb16abe522d0ea7c1097bc544560l-m2186687866s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/719fdb16abe522d0ea7c1097bc544560l-m322222876s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/719fdb16abe522d0ea7c1097bc544560l-m3039992245s.jpg"
+    }
+   ],
+   "open_houses": null,
+   "virtual_tours": null,
+   "advertisers": [
+    {
+     "type": "seller",
+     "name": "Paul Van Hollebeke",
+     "fulfillment_id": "130939",
+     "email": "pv@lakere.com",
+     "nrds_id": "869022662",
+     "state_license": null,
+     "phones": [
+      {
+       "number": "2065271777",
+       "type": "Office",
+       "primary": true,
+       "ext": null
+      },
+      {
+       "number": "2064177878",
+       "type": "Mobile",
+       "primary": true,
+       "ext": null
+      }
+     ],
+     "office": {
+      "name": "Lake & Company Real Estate",
+      "email": "lake@lakere.com",
+      "fulfillment_id": "34674",
+      "href": "WWW.LAKERE.COM",
+      "phones": [
+       {
+        "number": "2065271777",
+        "type": "Office"
+       }
+      ]
+     },
+     "broker": {
+      "name": "Lake & Company - Broker",
+      "fulfillment_id": "3783623"
+     },
+     "builder": null
+    }
+   ],
+   "current_estimates": [
+    {
+     "estimate": 601300,
+     "estimate_high": 663200,
+     "estimate_low": 539400,
+     "date": "2026-10-05",
+     "isbest_homevalue": true,
+     "source": {
+      "type": "corelogic",
+      "name": "Cotality™"
+     }
+    },
+    {
+     "estimate": 594000,
+     "estimate_high": 689000,
+     "estimate_low": 499000,
+     "date": "2026-10-14",
+     "isbest_homevalue": false,
+     "source": {
+      "type": "collateral",
+      "name": "Collateral Analytics"
+     }
+    },
+    {
+     "estimate": 609045,
+     "estimate_high": 730854,
+     "estimate_low": 487236,
+     "date": "2026-10-14",
+     "isbest_homevalue": false,
+     "source": {
+      "type": "quantarium",
+      "name": "Quantarium"
+     }
+    }
+   ],
+   "pet_policy": null,
+   "units": null,
+   "tax_record": {
+    "apn": null,
+    "tax_parcel_id": null
+   }
+  },
+  {
+   "property_id": "1601887561",
+   "listing_id": "3000013742",
+   "permalink": "700-E-Denny-Way-Unit-206_Seattle_WA_98122_M16018-87561",
+   "href": "https://www.realtor.com/realestateandhomes-detail/700-E-Denny-Way-Unit-206_Seattle_WA_98122_M16018-87561",
+   "status": "sold",
+   "mls_status": "Sold",
+   "list_date": "2026-08-24T16:27:32.000000Z",
+   "last_update_date": "2026-11-06T17:00:35Z",
+   "last_status_change_date": "2026-11-07T01:03:43Z",
+   "pending_date": "2026-10-08T02:15:30Z",
+   "list_price": 308750,
+   "list_price_min": null,
+   "list_price_max": null,
+   "price_per_sqft": 615,
+   "last_sold_price": 308750,
+   "last_sold_date": "2026-11-06",
+   "tags": [
+    "city_view",
+    "community_outdoor_space",
+    "community_security_features",
+    "corner_lot",
+    "dishwasher",
+    "energy_efficient",
+    "hardwood_floors",
+    "laundry_room",
+    "pets_allowed",
+    "view",
+    "washer_dryer",
+    "single_story",
+    "garage_1_or_more",
+    "rental_property",
+    "balcony",
+    "den"
+   ],
+   "flags": {
+    "is_coming_soon": null,
+    "is_contingent": null,
+    "is_garage_present": true,
+    "is_new_construction": null,
+    "is_pending": null,
+    "is_short_sale": null,
+    "is_foreclosure": null,
+    "is_senior_community": null,
+    "is_for_rent": null,
+    "is_deal_available": null,
+    "is_price_reduced": null,
+    "is_new_listing": false,
+    "is_subdivision": null,
+    "is_plan": null
+   },
+   "description": {
+    "type": "condos",
+    "sub_type": "condo",
+    "name": null,
+    "beds": 1,
+    "baths": 1,
+    "baths_full": 1,
+    "baths_half": null,
+    "baths_consolidated": "1",
+    "sqft": 502,
+    "lot_sqft": null,
+    "year_built": 2000,
+    "garage": null,
+    "stories": 1
+   },
+   "location": {
+    "address": {
+     "line": "700 E Denny Way Unit 206",
+     "unit": "Unit 206",
+     "city": "Seattle",
+     "state_code": "WA",
+     "postal_code": "98122",
+     "coordinate": {
+      "lat": 47.618891,
+      "lon": -122.323153
+     }
+    },
+    "county": {
+     "name": "King",
+     "fips_code": "53033"
+    },
+    "neighborhoods": null
+   },
+   "hoa": {
+    "fee": 469
+   },
+   "source": {
+    "id": "SEWA",
+    "type": "mls",
+    "name": "NWMLS",
+    "listing_id": "2573240",
+    "agents": [
+     {
+      "agent_name": null,
+      "agent_id": "114795",
+      "office_name": "Redfin",
+      "office_id": "6018"
+     },
+     {
+      "agent_name": null,
+      "agent_id": "123030",
+      "office_name": "Windermere R E Mount Baker",
+      "office_id": "4712"
+     }
+    ]
+   },
+   "primary_photo": {
+    "href": "https://ap.rdcpix.com/b8b92cf6ba00636fda6fe479ff25590fl-m2678060643s.jpg"
+   },
+   "photos": [
+    {
+     "href": "https://ap.rdcpix.com/b8b92cf6ba00636fda6fe479ff25590fl-m2678060643s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/b8b92cf6ba00636fda6fe479ff25590fl-m924815941s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/b8b92cf6ba00636fda6fe479ff25590fl-m3592330375s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/b8b92cf6ba00636fda6fe479ff25590fl-m2207527657s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/b8b92cf6ba00636fda6fe479ff25590fl-m1859582569s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/b8b92cf6ba00636fda6fe479ff25590fl-m667857873s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/b8b92cf6ba00636fda6fe479ff25590fl-m3161936929s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/b8b92cf6ba00636fda6fe479ff25590fl-m1350417481s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/b8b92cf6ba00636fda6fe479ff25590fl-m370216458s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/b8b92cf6ba00636fda6fe479ff25590fl-m2735847968s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/b8b92cf6ba00636fda6fe479ff25590fl-m388575610s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/b8b92cf6ba00636fda6fe479ff25590fl-m171305847s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/b8b92cf6ba00636fda6fe479ff25590fl-m2525795301s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/b8b92cf6ba00636fda6fe479ff25590fl-m3505805223s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/b8b92cf6ba00636fda6fe479ff25590fl-m1059635161s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/b8b92cf6ba00636fda6fe479ff25590fl-m1677088877s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/b8b92cf6ba00636fda6fe479ff25590fl-m3823154584s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/b8b92cf6ba00636fda6fe479ff25590fl-m1394561324s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/b8b92cf6ba00636fda6fe479ff25590fl-m1588366276s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/b8b92cf6ba00636fda6fe479ff25590fl-m1078260979s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/b8b92cf6ba00636fda6fe479ff25590fl-m2542577397s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/b8b92cf6ba00636fda6fe479ff25590fl-m12602224s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/b8b92cf6ba00636fda6fe479ff25590fl-m638713556s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/b8b92cf6ba00636fda6fe479ff25590fl-m2242164668s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/b8b92cf6ba00636fda6fe479ff25590fl-m540115998s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/b8b92cf6ba00636fda6fe479ff25590fl-m3883523489s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/b8b92cf6ba00636fda6fe479ff25590fl-m2798279932s.jpg"
+    }
+   ],
+   "open_houses": null,
+   "virtual_tours": null,
+   "advertisers": [
+    {
+     "type": "seller",
+     "name": "Forrest Moody",
+     "fulfillment_id": "0",
+     "email": null,
+     "nrds_id": null,
+     "state_license": null,
+     "phones": [
+      {
+       "number": "2062586097",
+       "type": "Office",
+       "primary": true,
+       "ext": null
+      }
+     ],
+     "office": {
+      "name": "Redfin Corp.",
+      "email": "wendie.costello@redfin.com",
+      "fulfillment_id": "0",
+      "href": null,
+      "phones": [
+       {
+        "number": "2062586097",
+        "type": "Office"
+       }
+      ]
+     },
+     "broker": null,
+     "builder": null
+    }
+   ],
+   "current_estimates": [
+    {
+     "estimate": 302590,
+     "estimate_high": 314693,
+     "estimate_low": 290486,
+     "date": "2026-10-28",
+     "isbest_homevalue": true,
+     "source": {
+      "type": "quantarium",
+      "name": "Quantarium"
+     }
+    },
+    {
+     "estimate": 306000,
+     "estimate_high": 345800,
+     "estimate_low": 266200,
+     "date": "2026-10-14",
+     "isbest_homevalue": false,
+     "source": {
+      "type": "collateral",
+      "name": "Collateral Analytics"
+     }
+    },
+    {
+     "estimate": 297200,
+     "estimate_high": 320000,
+     "estimate_low": 274300,
+     "date": "2026-10-05",
+     "isbest_homevalue": false,
+     "source": {
+      "type": "corelogic",
+      "name": "Cotality™"
+     }
+    }
+   ],
+   "pet_policy": {
+    "cats": true,
+    "dogs": true,
+    "dogs_small": null,
+    "dogs_large": null
+   },
+   "units": null,
+   "tax_record": {
+    "apn": null,
+    "tax_parcel_id": null
+   }
+  },
+  {
+   "property_id": "1298566482",
+   "listing_id": "2997959943",
+   "permalink": "1729-34th-Ave_Seattle_WA_98122_M12985-66482",
+   "href": "https://www.realtor.com/realestateandhomes-detail/1729-34th-Ave_Seattle_WA_98122_M12985-66482",
+   "status": "sold",
+   "mls_status": "Sold",
+   "list_date": "2026-07-01T18:29:21.000000Z",
+   "last_update_date": "2026-11-06T22:05:41Z",
+   "last_status_change_date": "2026-11-07T06:09:00Z",
+   "pending_date": "2026-10-17T21:26:36Z",
+   "list_price": 2295000,
+   "list_price_min": null,
+   "list_price_max": null,
+   "price_per_sqft": 594,
+   "last_sold_price": 2150000,
+   "last_sold_date": "2026-11-06",
+   "tags": [
+    "city_view",
+    "community_outdoor_space",
+    "community_security_features",
+    "den_or_office",
+    "dining_room",
+    "family_room",
+    "fireplace",
+    "forced_air",
+    "game_room",
+    "hardwood_floors",
+    "hill_or_mountain_view",
+    "lake_view",
+    "laundry_room",
+    "view",
+    "water_view",
+    "two_or_more_stories",
+    "garage_1_or_more",
+    "high_ceiling",
+    "floor_plan",
+    "views",
+    "lake",
+    "office",
+    "den",
+    "great_room",
+    "soaking_tub",
+    "fire_pit"
+   ],
+   "flags": {
+    "is_coming_soon": null,
+    "is_contingent": null,
+    "is_garage_present": true,
+    "is_new_construction": null,
+    "is_pending": null,
+    "is_short_sale": null,
+    "is_foreclosure": null,
+    "is_senior_community": null,
+    "is_for_rent": null,
+    "is_deal_available": null,
+    "is_price_reduced": false,
+    "is_new_listing": false,
+    "is_subdivision": null,
+    "is_plan": null
+   },
+   "description": {
+    "type": "single_family",
+    "sub_type": null,
+    "name": null,
+    "beds": 4,
+    "baths": 4,
+    "baths_full": 3,
+    "baths_half": null,
+    "baths_consolidated": "4",
+    "sqft": 3620,
+    "lot_sqft": 5001,
+    "year_built": 2017,
+    "garage": null,
+    "stories": 2
+   },
+   "location": {
+    "address": {
+     "line": "1729 34th Ave",
+     "unit": null,
+     "city": "Seattle",
+     "state_code": "WA",
+     "postal_code": "98122",
+     "coordinate": {
+      "lat": 47.617361,
+      "lon": -122.289509
+     }
+    },
+    "county": {
+     "name": "King",
+     "fips_code": "53033"
+    },
+    "neighborhoods": null
+   },
+   "hoa": {
+    "fee": 0
+   },
+   "source": {
+    "id": "SEWA",
+    "type": "mls",
+    "name": "NWMLS",
+    "listing_id": "2543023",
+    "agents": [
+     {
+      "agent_name": null,
+      "agent_id": "35272",
+      "office_name": "RE/MAX Metro Realty, Inc.",
+      "office_id": "7008"
+     },
+     {
+      "agent_name": null,
+      "agent_id": "130913",
+      "office_name": "Coldwell Banker Bain",
+      "office_id": "5080"
+     }
+    ]
+   },
+   "primary_photo": {
+    "href": "https://ap.rdcpix.com/8442b7fe2692a993d35b9db0a9efa0f8l-m3357853299s.jpg"
+   },
+   "photos": [
+    {
+     "href": "https://ap.rdcpix.com/8442b7fe2692a993d35b9db0a9efa0f8l-m3357853299s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/8442b7fe2692a993d35b9db0a9efa0f8l-m925174491s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/8442b7fe2692a993d35b9db0a9efa0f8l-m1334732035s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/8442b7fe2692a993d35b9db0a9efa0f8l-m2591075890s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/8442b7fe2692a993d35b9db0a9efa0f8l-m384034756s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/8442b7fe2692a993d35b9db0a9efa0f8l-m4051536870s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/8442b7fe2692a993d35b9db0a9efa0f8l-m758357943s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/8442b7fe2692a993d35b9db0a9efa0f8l-m1097365355s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/8442b7fe2692a993d35b9db0a9efa0f8l-m1961358955s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/8442b7fe2692a993d35b9db0a9efa0f8l-m3702597080s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/8442b7fe2692a993d35b9db0a9efa0f8l-m3468534726s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/8442b7fe2692a993d35b9db0a9efa0f8l-m3488898679s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/8442b7fe2692a993d35b9db0a9efa0f8l-m3267322029s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/8442b7fe2692a993d35b9db0a9efa0f8l-m1988611246s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/8442b7fe2692a993d35b9db0a9efa0f8l-m3949838938s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/8442b7fe2692a993d35b9db0a9efa0f8l-m1908692825s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/8442b7fe2692a993d35b9db0a9efa0f8l-m4188017719s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/8442b7fe2692a993d35b9db0a9efa0f8l-m2855712059s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/8442b7fe2692a993d35b9db0a9efa0f8l-m682459447s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/8442b7fe2692a993d35b9db0a9efa0f8l-m927289068s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/8442b7fe2692a993d35b9db0a9efa0f8l-m2203392951s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/8442b7fe2692a993d35b9db0a9efa0f8l-m3101637080s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/8442b7fe2692a993d35b9db0a9efa0f8l-m3390265516s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/8442b7fe2692a993d35b9db0a9efa0f8l-m3693622198s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/8442b7fe2692a993d35b9db0a9efa0f8l-m4032381649s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/8442b7fe2692a993d35b9db0a9efa0f8l-m2382664890s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/8442b7fe2692a993d35b9db0a9efa0f8l-m727030950s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/8442b7fe2692a993d35b9db0a9efa0f8l-m1467513498s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/8442b7fe2692a993d35b9db0a9efa0f8l-m2948971130s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/8442b7fe2692a993d35b9db0a9efa0f8l-m2400072193s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/8442b7fe2692a993d35b9db0a9efa0f8l-m17416984s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/8442b7fe2692a993d35b9db0a9efa0f8l-m179809537s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/8442b7fe2692a993d35b9db0a9efa0f8l-m3310696692s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/8442b7fe2692a993d35b9db0a9efa0f8l-m1116187632s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/8442b7fe2692a993d35b9db0a9efa0f8l-m2472378204s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/8442b7fe2692a993d35b9db0a9efa0f8l-m3062139509s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/8442b7fe2692a993d35b9db0a9efa0f8l-m515500384s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/8442b7fe2692a993d35b9db0a9efa0f8l-m718939587s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/8442b7fe2692a993d35b9db0a9efa0f8l-m3286701921s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/8442b7fe2692a993d35b9db0a9efa0f8l-m1953542715s.jpg"
+    }
+   ],
+   "open_houses": null,
+   "virtual_tours": null,
+   "advertisers": [
+    {
+     "type": "seller",
+     "name": "Reba Haas",
+     "fulfillment_id": "429183",
+     "email": "reba@teamreba.com",
+     "nrds_id": "869040360",
+     "state_license": null,
+     "phones": [
+      {
+       "number": "2069103429",
+       "type": "Mobile",
+       "primary": true,
+       "ext": null
+      }
+     ],
+     "office": {
+      "name": "RE MAX Metro Realty",
+      "email": "lyndal@metroeastside.com",
+      "fulfillment_id": "288802",
+      "href": null,
+      "phones": [
+       {
+        "number": "2063225700",
+        "type": "Office"
+       }
+      ]
+     },
+     "broker": {
+      "name": "RE/MAX EASTSIDE BROKERS, INC. -  Broker",
+      "fulfillment_id": "3001531"
+     },
+     "builder": null
+    }
+   ],
+   "current_estimates": [
+    {
+     "estimate": 2272000,
+     "estimate_high": 2567400,
+     "estimate_low": 1976600,
+     "date": "2026-10-14",
+     "isbest_homevalue": true,
+     "source": {
+      "type": "collateral",
+      "name": "Collateral Analytics"
+     }
+    },
+    {
+     "estimate": 2266800,
+     "estimate_high": 2412000,
+     "estimate_low": 2121600,
+     "date": "2026-10-05",
+     "isbest_homevalue": false,
+     "source": {
+      "type": "corelogic",
+      "name": "Cotality™"
+     }
+    },
+    {
+     "estimate": 2294541,
+     "estimate_high": 2432213,
+     "estimate_low": 2156868,
+     "date": "2026-10-28",
+     "isbest_homevalue": false,
+     "source": {
+      "type": "quantarium",
+      "name": "Quantarium"
+     }
+    }
+   ],
+   "pet_policy": null,
+   "units": null,
+   "tax_record": {
+    "apn": null,
+    "tax_parcel_id": null
+   }
+  },
+  {
+   "property_id": "9182274078",
+   "listing_id": "2994982857",
+   "permalink": "121-Stewart-St-Apt-2402_Seattle_WA_98101_M91822-74078",
+   "href": "https://www.realtor.com/realestateandhomes-detail/121-Stewart-St-Apt-2402_Seattle_WA_98101_M91822-74078",
+   "status": "sold",
+   "mls_status": "Sold",
+   "list_date": "2026-05-08T05:39:18.000000Z",
+   "last_update_date": "2026-11-06T14:45:34Z",
+   "last_status_change_date": "2026-11-06T22:51:53Z",
+   "pending_date": "2026-10-16T04:15:48Z",
+   "list_price": 550000,
+   "list_price_min": null,
+   "list_price_max": null,
+   "price_per_sqft": 554,
+   "last_sold_price": 525000,
+   "last_sold_date": "2026-11-06",
+   "tags": [
+    "central_air",
+    "city_view",
+    "corner_lot",
+    "den_or_office",
+    "dishwasher",
+    "energy_efficient",
+    "forced_air",
+    "hardwood_floors",
+    "ocean_view",
+    "recreation_facilities",
+    "view",
+    "washer_dryer",
+    "water_view",
+    "single_story",
+    "waterfront",
+    "views",
+    "office",
+    "den",
+    "shopping"
+   ],
+   "flags": {
+    "is_coming_soon": null,
+    "is_contingent": null,
+    "is_garage_present": null,
+    "is_new_construction": null,
+    "is_pending": null,
+    "is_short_sale": null,
+    "is_foreclosure": null,
+    "is_senior_community": null,
+    "is_for_rent": null,
+    "is_deal_available": null,
+    "is_price_reduced": false,
+    "is_new_listing": false,
+    "is_subdivision": null,
+    "is_plan": null
+   },
+   "description": {
+    "type": "condos",
+    "sub_type": "condo",
+    "name": null,
+    "beds": 1,
+    "baths": 1,
+    "baths_full": 1,
+    "baths_half": null,
+    "baths_consolidated": "1",
+    "sqft": 948,
+    "lot_sqft": null,
+    "year_built": 2020,
+    "garage": null,
+    "stories": 1
+   },
+   "location": {
+    "address": {
+     "line": "121 Stewart St Apt 2402",
+     "unit": "Apt 2402",
+     "city": "Seattle",
+     "state_code": "WA",
+     "postal_code": "98101",
+     "coordinate": {
+      "lat": 47.610638,
+      "lon": -122.340527
+     }
+    },
+    "county": {
+     "name": "King",
+     "fips_code": "53033"
+    },
+    "neighborhoods": null
+   },
+   "hoa": {
+    "fee": 1236
+   },
+   "source": {
+    "id": "SEWA",
+    "type": "mls",
+    "name": "NWMLS",
+    "listing_id": "2520510",
+    "agents": [
+     {
+      "agent_name": null,
+      "agent_id": "68337",
+      "office_name": "Real Broker LLC",
+      "office_id": "6529"
+     },
+     {
+      "agent_name": null,
+      "agent_id": "24928",
+      "office_name": "Windermere RE Greenwood",
+      "office_id": "4894"
+     }
+    ]
+   },
+   "primary_photo": {
+    "href": "https://ap.rdcpix.com/238937e5a674110380ebcf9ab8e30c45l-m3744832433s.jpg"
+   },
+   "photos": [
+    {
+     "href": "https://ap.rdcpix.com/238937e5a674110380ebcf9ab8e30c45l-m3744832433s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/238937e5a674110380ebcf9ab8e30c45l-m87412003s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/238937e5a674110380ebcf9ab8e30c45l-m1586280360s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/238937e5a674110380ebcf9ab8e30c45l-m105192415s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/238937e5a674110380ebcf9ab8e30c45l-m1524299572s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/238937e5a674110380ebcf9ab8e30c45l-m1480917776s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/238937e5a674110380ebcf9ab8e30c45l-m3772908352s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/238937e5a674110380ebcf9ab8e30c45l-m824920826s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/238937e5a674110380ebcf9ab8e30c45l-m324396756s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/238937e5a674110380ebcf9ab8e30c45l-m3250143954s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/238937e5a674110380ebcf9ab8e30c45l-m4237680008s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/238937e5a674110380ebcf9ab8e30c45l-m2082925242s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/238937e5a674110380ebcf9ab8e30c45l-m3423630343s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/238937e5a674110380ebcf9ab8e30c45l-m3125313126s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/238937e5a674110380ebcf9ab8e30c45l-m961424379s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/238937e5a674110380ebcf9ab8e30c45l-m1753465333s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/238937e5a674110380ebcf9ab8e30c45l-m3629801325s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/238937e5a674110380ebcf9ab8e30c45l-m865337636s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/238937e5a674110380ebcf9ab8e30c45l-m1401532084s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/238937e5a674110380ebcf9ab8e30c45l-m2170427827s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/238937e5a674110380ebcf9ab8e30c45l-m1517381414s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/238937e5a674110380ebcf9ab8e30c45l-m2502804534s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/238937e5a674110380ebcf9ab8e30c45l-m39187477s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/238937e5a674110380ebcf9ab8e30c45l-m2955962431s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/238937e5a674110380ebcf9ab8e30c45l-m1771151477s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/238937e5a674110380ebcf9ab8e30c45l-m2245086097s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/238937e5a674110380ebcf9ab8e30c45l-m2938242926s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/238937e5a674110380ebcf9ab8e30c45l-m3147977015s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/238937e5a674110380ebcf9ab8e30c45l-m3629071282s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/238937e5a674110380ebcf9ab8e30c45l-m370560094s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/238937e5a674110380ebcf9ab8e30c45l-m316602021s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/238937e5a674110380ebcf9ab8e30c45l-m863215630s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/238937e5a674110380ebcf9ab8e30c45l-m1364416254s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/238937e5a674110380ebcf9ab8e30c45l-m574431327s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/238937e5a674110380ebcf9ab8e30c45l-m444212376s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/238937e5a674110380ebcf9ab8e30c45l-m36973952s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/238937e5a674110380ebcf9ab8e30c45l-m1874132173s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/238937e5a674110380ebcf9ab8e30c45l-m766943056s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/238937e5a674110380ebcf9ab8e30c45l-m3323338079s.jpg"
+    }
+   ],
+   "open_houses": null,
+   "virtual_tours": null,
+   "advertisers": [
+    {
+     "type": "seller",
+     "name": "Chris Bierrum",
+     "fulfillment_id": "3002761",
+     "email": "chris.bierrum@gmail.com",
+     "nrds_id": "869050127",
+     "state_license": null,
+     "phones": [
+      {
+       "number": "2062519002",
+       "type": "Mobile",
+       "primary": true,
+       "ext": null
+      },
+      {
+       "number": "2065380730",
+       "type": "Office",
+       "primary": true,
+       "ext": null
+      }
+     ],
+     "office": {
+      "name": "Real Broker LLC",
+      "email": "wabroker@therealbrokerage.com",
+      "fulfillment_id": "4721029",
+      "href": null,
+      "phones": [
+       {
+        "number": "3607901848",
+        "type": "Office"
+       }
+      ]
+     },
+     "broker": {
+      "name": "Real Broker LLC - Broker",
+      "fulfillment_id": "4721030"
+     },
+     "builder": null
+    }
+   ],
+   "current_estimates": [
+    {
+     "estimate": 761069,
+     "estimate_high": 905672,
+     "estimate_low": 616465,
+     "date": "2026-10-28",
+     "isbest_homevalue": true,
+     "source": {
+      "type": "quantarium",
+      "name": "Quantarium"
+     }
+    },
+    {
+     "estimate": 544000,
+     "estimate_high": 647400,
+     "estimate_low": 440600,
+     "date": "2026-10-14",
+     "isbest_homevalue": false,
+     "source": {
+      "type": "collateral",
+      "name": "Collateral Analytics"
+     }
+    }
+   ],
+   "pet_policy": null,
+   "units": null,
+   "tax_record": {
+    "apn": null,
+    "tax_parcel_id": null
+   }
+  },
+  {
+   "property_id": "1406057908",
+   "listing_id": "3000928467",
+   "permalink": "8456-6th-Ave-SW_Seattle_WA_98106_M14060-57908",
+   "href": "https://www.realtor.com/realestateandhomes-detail/8456-6th-Ave-SW_Seattle_WA_98106_M14060-57908",
+   "status": "sold",
+   "mls_status": "Sold",
+   "list_date": "2026-09-19T20:04:54.000000Z",
+   "last_update_date": "2026-11-06T18:10:34Z",
+   "last_status_change_date": "2026-11-07T02:14:29Z",
+   "pending_date": "2026-10-09T17:59:04Z",
+   "list_price": 878749,
+   "list_price_min": null,
+   "list_price_max": null,
+   "price_per_sqft": 369,
+   "last_sold_price": 878749,
+   "last_sold_date": "2026-11-06",
+   "tags": [
+    "community_outdoor_space",
+    "corner_lot",
+    "dining_room",
+    "dishwasher",
+    "family_room",
+    "fireplace",
+    "forced_air",
+    "hardwood_floors",
+    "laundry_room",
+    "view",
+    "washer_dryer",
+    "single_story",
+    "garage_1_or_more",
+    "modern_kitchen",
+    "large_kitchen",
+    "big_yard",
+    "fruit_trees",
+    "rental_property",
+    "views",
+    "playground",
+    "fire_pit",
+    "patio",
+    "park"
+   ],
+   "flags": {
+    "is_coming_soon": null,
+    "is_contingent": null,
+    "is_garage_present": true,
+    "is_new_construction": null,
+    "is_pending": null,
+    "is_short_sale": null,
+    "is_foreclosure": null,
+    "is_senior_community": null,
+    "is_for_rent": null,
+    "is_deal_available": null,
+    "is_price_reduced": null,
+    "is_new_listing": false,
+    "is_subdivision": null,
+    "is_plan": null
+   },
+   "description": {
+    "type": "single_family",
+    "sub_type": null,
+    "name": null,
+    "beds": 4,
+    "baths": 2,
+    "baths_full": 1,
+    "baths_half": null,
+    "baths_consolidated": "2",
+    "sqft": 2380,
+    "lot_sqft": 7619,
+    "year_built": 1971,
+    "garage": null,
+    "stories": 1
+   },
+   "location": {
+    "address": {
+     "line": "8456 6th Ave SW",
+     "unit": null,
+     "city": "Seattle",
+     "state_code": "WA",
+     "postal_code": "98106",
+     "coordinate": {
+      "lat": 47.526602,
+      "lon": -122.34255
+     }
+    },
+    "county": {
+     "name": "King",
+     "fips_code": "53033"
+    },
+    "neighborhoods": null
+   },
+   "hoa": {
+    "fee": 0
+   },
+   "source": {
+    "id": "SEWA",
+    "type": "mls",
+    "name": "NWMLS",
+    "listing_id": "2582200",
+    "agents": [
+     {
+      "agent_name": null,
+      "agent_id": "42436",
+      "office_name": "Keller Williams Rlty Bellevue",
+      "office_id": "5243"
+     },
+     {
+      "agent_name": null,
+      "agent_id": "134218",
+      "office_name": "Realogics Sotheby's Int'l Rlty",
+      "office_id": "4886"
+     },
+     {
+      "agent_name": null,
+      "agent_id": "125022",
+      "office_name": "Realogics Sotheby's Int'l Rlty",
+      "office_id": "4886"
+     }
+    ]
+   },
+   "primary_photo": {
+    "href": "https://ap.rdcpix.com/50cd96ae3467a887380cdef0df5d2c9bl-m3072698615s.jpg"
+   },
+   "photos": [
+    {
+     "href": "https://ap.rdcpix.com/50cd96ae3467a887380cdef0df5d2c9bl-m3072698615s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/50cd96ae3467a887380cdef0df5d2c9bl-m3065922479s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/50cd96ae3467a887380cdef0df5d2c9bl-m2427489880s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/50cd96ae3467a887380cdef0df5d2c9bl-m194026656s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/50cd96ae3467a887380cdef0df5d2c9bl-m2080678307s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/50cd96ae3467a887380cdef0df5d2c9bl-m974771062s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/50cd96ae3467a887380cdef0df5d2c9bl-m1713505167s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/50cd96ae3467a887380cdef0df5d2c9bl-m4216606328s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/50cd96ae3467a887380cdef0df5d2c9bl-m2332083029s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/50cd96ae3467a887380cdef0df5d2c9bl-m2528257461s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/50cd96ae3467a887380cdef0df5d2c9bl-m3793312578s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/50cd96ae3467a887380cdef0df5d2c9bl-m2079138656s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/50cd96ae3467a887380cdef0df5d2c9bl-m1134013745s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/50cd96ae3467a887380cdef0df5d2c9bl-m108305967s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/50cd96ae3467a887380cdef0df5d2c9bl-m3434690724s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/50cd96ae3467a887380cdef0df5d2c9bl-m1999074076s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/50cd96ae3467a887380cdef0df5d2c9bl-m214314550s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/50cd96ae3467a887380cdef0df5d2c9bl-m1938641572s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/50cd96ae3467a887380cdef0df5d2c9bl-m3462508425s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/50cd96ae3467a887380cdef0df5d2c9bl-m2163155282s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/50cd96ae3467a887380cdef0df5d2c9bl-m4210127548s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/50cd96ae3467a887380cdef0df5d2c9bl-m1811396048s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/50cd96ae3467a887380cdef0df5d2c9bl-m4083187797s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/50cd96ae3467a887380cdef0df5d2c9bl-m859382281s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/50cd96ae3467a887380cdef0df5d2c9bl-m3977347813s.jpg"
+    }
+   ],
+   "open_houses": null,
+   "virtual_tours": [
+    {
+     "href": "https://youtu.be/1LZWF4JqowU?si=QN2mAQyvcO2H1wr9",
+     "type": null
+    }
+   ],
+   "advertisers": [
+    {
+     "type": "seller",
+     "name": "Peter Mann",
+     "fulfillment_id": "3730146",
+     "email": "petermannhomes@gmail.com",
+     "nrds_id": null,
+     "state_license": null,
+     "phones": [
+      {
+       "number": "2069498561",
+       "type": "Home",
+       "primary": true,
+       "ext": null
+      }
+     ],
+     "office": {
+      "name": "Keller Williams Rlty Bellevue",
+      "email": "klrw113@kw.com",
+      "fulfillment_id": "1470563",
+      "href": "WWW.KWBELLEVUE.COM",
+      "phones": [
+       {
+        "number": "4254540911",
+        "type": "Office"
+       }
+      ]
+     },
+     "broker": {
+      "name": null,
+      "fulfillment_id": "0"
+     },
+     "builder": null
+    }
+   ],
+   "current_estimates": [
+    {
+     "estimate": 870000,
+     "estimate_high": 991800,
+     "estimate_low": 748200,
+     "date": "2026-10-14",
+     "isbest_homevalue": true,
+     "source": {
+      "type": "collateral",
+      "name": "Collateral Analytics"
+     }
+    },
+    {
+     "estimate": 872021,
+     "estimate_high": 898181,
+     "estimate_low": 845860,
+     "date": "2026-10-28",
+     "isbest_homevalue": false,
+     "source": {
+      "type": "quantarium",
+      "name": "Quantarium"
+     }
+    },
+    {
+     "estimate": 846800,
+     "estimate_high": 902600,
+     "estimate_low": 790900,
+     "date": "2026-10-05",
+     "isbest_homevalue": false,
+     "source": {
+      "type": "corelogic",
+      "name": "Cotality™"
+     }
+    }
+   ],
+   "pet_policy": null,
+   "units": null,
+   "tax_record": {
+    "apn": null,
+    "tax_parcel_id": null
+   }
+  },
+  {
+   "property_id": "9406730063",
+   "listing_id": "3001068884",
+   "permalink": "2426-NW-64th-St-C_Seattle_WA_98107_M94067-30063",
+   "href": "https://www.realtor.com/realestateandhomes-detail/2426-NW-64th-St-C_Seattle_WA_98107_M94067-30063",
+   "status": "sold",
+   "mls_status": "Sold",
+   "list_date": "2026-09-24T15:33:40.000000Z",
+   "last_update_date": "2026-11-06T14:57:35Z",
+   "last_status_change_date": "2026-11-06T23:03:31Z",
+   "pending_date": "2026-10-15T15:53:06Z",
+   "list_price": 997499,
+   "list_price_min": null,
+   "list_price_max": null,
+   "price_per_sqft": 490,
+   "last_sold_price": 950000,
+   "last_sold_date": "2026-11-06",
+   "tags": [
+    "community_outdoor_space",
+    "den_or_office",
+    "dining_room",
+    "dishwasher",
+    "fireplace",
+    "hardwood_floors",
+    "hill_or_mountain_view",
+    "laundry_room",
+    "view",
+    "washer_dryer",
+    "two_or_more_stories",
+    "garage_1_or_more",
+    "high_ceiling",
+    "open_floor_plan",
+    "floor_plan",
+    "no_hoa",
+    "media_room",
+    "ensuite",
+    "mount_rainier_view",
+    "smart_homes",
+    "stunning_views",
+    "views",
+    "chefs_kitchen",
+    "open_concept_floor_plan",
+    "walk_in_closet",
+    "office",
+    "exercise_room",
+    "mudroom",
+    "spa_like_ensuite",
+    "spa_like_bathroom",
+    "smart_home",
+    "groundscare"
+   ],
+   "flags": {
+    "is_coming_soon": null,
+    "is_contingent": null,
+    "is_garage_present": true,
+    "is_new_construction": null,
+    "is_pending": null,
+    "is_short_sale": null,
+    "is_foreclosure": null,
+    "is_senior_community": null,
+    "is_for_rent": null,
+    "is_deal_available": null,
+    "is_price_reduced": null,
+    "is_new_listing": false,
+    "is_subdivision": null,
+    "is_plan": null
+   },
+   "description": {
+    "type": "single_family",
+    "sub_type": null,
+    "name": null,
+    "beds": 3,
+    "baths": 3,
+    "baths_full": 1,
+    "baths_half": 1,
+    "baths_consolidated": "2.5",
+    "sqft": 1940,
+    "lot_sqft": 1694,
+    "year_built": 2015,
+    "garage": null,
+    "stories": 3
+   },
+   "location": {
+    "address": {
+     "line": "2426 NW 64th St Unit C",
+     "unit": "Unit C",
+     "city": "Seattle",
+     "state_code": "WA",
+     "postal_code": "98107",
+     "coordinate": {
+      "lat": 47.675428,
+      "lon": -122.388899
+     }
+    },
+    "county": {
+     "name": "King",
+     "fips_code": "53033"
+    },
+    "neighborhoods": null
+   },
+   "hoa": {
+    "fee": 0
+   },
+   "source": {
+    "id": "SEWA",
+    "type": "mls",
+    "name": "NWMLS",
+    "listing_id": "2586944",
+    "agents": [
+     {
+      "agent_name": null,
+      "agent_id": "122866",
+      "office_name": "COMPASS",
+      "office_id": "7912"
+     },
+     {
+      "agent_name": null,
+      "agent_id": "24928",
+      "office_name": "Windermere RE Greenwood",
+      "office_id": "4894"
+     }
+    ]
+   },
+   "primary_photo": {
+    "href": "https://ap.rdcpix.com/96742f3a1517fa75ea71fa09cdf73ae4l-m3901127998s.jpg"
+   },
+   "photos": [
+    {
+     "href": "https://ap.rdcpix.com/96742f3a1517fa75ea71fa09cdf73ae4l-m3901127998s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/96742f3a1517fa75ea71fa09cdf73ae4l-m311435916s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/96742f3a1517fa75ea71fa09cdf73ae4l-m513224573s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/96742f3a1517fa75ea71fa09cdf73ae4l-m3860868552s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/96742f3a1517fa75ea71fa09cdf73ae4l-m862732721s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/96742f3a1517fa75ea71fa09cdf73ae4l-m3915563121s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/96742f3a1517fa75ea71fa09cdf73ae4l-m317144229s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/96742f3a1517fa75ea71fa09cdf73ae4l-m1817730848s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/96742f3a1517fa75ea71fa09cdf73ae4l-m1644260904s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/96742f3a1517fa75ea71fa09cdf73ae4l-m4024954668s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/96742f3a1517fa75ea71fa09cdf73ae4l-m1239710225s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/96742f3a1517fa75ea71fa09cdf73ae4l-m438210846s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/96742f3a1517fa75ea71fa09cdf73ae4l-m2588667104s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/96742f3a1517fa75ea71fa09cdf73ae4l-m1355816103s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/96742f3a1517fa75ea71fa09cdf73ae4l-m3739030430s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/96742f3a1517fa75ea71fa09cdf73ae4l-m4065716609s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/96742f3a1517fa75ea71fa09cdf73ae4l-m953559596s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/96742f3a1517fa75ea71fa09cdf73ae4l-m1835316809s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/96742f3a1517fa75ea71fa09cdf73ae4l-m1242949784s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/96742f3a1517fa75ea71fa09cdf73ae4l-m1132780873s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/96742f3a1517fa75ea71fa09cdf73ae4l-m3272446589s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/96742f3a1517fa75ea71fa09cdf73ae4l-m1974883831s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/96742f3a1517fa75ea71fa09cdf73ae4l-m2081529421s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/96742f3a1517fa75ea71fa09cdf73ae4l-m2420402565s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/96742f3a1517fa75ea71fa09cdf73ae4l-m174458370s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/96742f3a1517fa75ea71fa09cdf73ae4l-m356777694s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/96742f3a1517fa75ea71fa09cdf73ae4l-m3192151255s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/96742f3a1517fa75ea71fa09cdf73ae4l-m938473212s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/96742f3a1517fa75ea71fa09cdf73ae4l-m3740691962s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/96742f3a1517fa75ea71fa09cdf73ae4l-m1184624810s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/96742f3a1517fa75ea71fa09cdf73ae4l-m2204499925s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/96742f3a1517fa75ea71fa09cdf73ae4l-m1623550140s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/96742f3a1517fa75ea71fa09cdf73ae4l-m1016648227s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/96742f3a1517fa75ea71fa09cdf73ae4l-m2273576973s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/96742f3a1517fa75ea71fa09cdf73ae4l-m210461370s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/96742f3a1517fa75ea71fa09cdf73ae4l-m2061810662s.jpg"
+    }
+   ],
+   "open_houses": null,
+   "virtual_tours": null,
+   "advertisers": [
+    {
+     "type": "seller",
+     "name": "Sinead Keogh",
+     "fulfillment_id": "3884852",
+     "email": "sinead@metroeastside.com",
+     "nrds_id": "869066969",
+     "state_license": null,
+     "phones": [
+      {
+       "number": "2067174806",
+       "type": "Mobile",
+       "primary": true,
+       "ext": null
+      }
+     ],
+     "office": {
+      "name": "Compass - Seattle WA",
+      "email": "rebecca.fraizer@compass.com",
+      "fulfillment_id": "100310030",
+      "href": "http://www.compass.com",
+      "phones": [
+       {
+        "number": "2063300314",
+        "type": "Mobile"
+       }
+      ]
+     },
+     "broker": {
+      "name": "Compass - Seattle WA",
+      "fulfillment_id": "100310032"
+     },
+     "builder": null
+    }
+   ],
+   "current_estimates": [
+    {
+     "estimate": 987700,
+     "estimate_high": 1050100,
+     "estimate_low": 925400,
+     "date": "2026-10-05",
+     "isbest_homevalue": true,
+     "source": {
+      "type": "corelogic",
+      "name": "Cotality™"
+     }
+    },
+    {
+     "estimate": 988000,
+     "estimate_high": 1175700,
+     "estimate_low": 800300,
+     "date": "2026-10-14",
+     "isbest_homevalue": false,
+     "source": {
+      "type": "collateral",
+      "name": "Collateral Analytics"
+     }
+    },
+    {
+     "estimate": 986707,
+     "estimate_high": 1026175,
+     "estimate_low": 947238,
+     "date": "2026-10-28",
+     "isbest_homevalue": false,
+     "source": {
+      "type": "quantarium",
+      "name": "Quantarium"
+     }
+    }
+   ],
+   "pet_policy": null,
+   "units": null,
+   "tax_record": {
+    "apn": null,
+    "tax_parcel_id": null
+   }
+  },
+  {
+   "property_id": "2115990040",
+   "listing_id": "3000366642",
+   "permalink": "118-Highland-Dr_Seattle_WA_98109_M21159-90040",
+   "href": "https://www.realtor.com/realestateandhomes-detail/118-Highland-Dr_Seattle_WA_98109_M21159-90040",
+   "status": "sold",
+   "mls_status": "Sold",
+   "list_date": "2026-09-03T04:45:30.000000Z",
+   "last_update_date": "2026-11-06T17:40:29Z",
+   "last_status_change_date": "2026-11-07T01:45:15Z",
+   "pending_date": "2026-10-27T00:57:21Z",
+   "list_price": 3590000,
+   "list_price_min": null,
+   "list_price_max": null,
+   "price_per_sqft": 644,
+   "last_sold_price": 3100000,
+   "last_sold_date": "2026-11-06",
+   "tags": [
+    "central_air",
+    "city_view",
+    "community_outdoor_space",
+    "den_or_office",
+    "dining_room",
+    "dishwasher",
+    "family_room",
+    "fireplace",
+    "forced_air",
+    "game_room",
+    "hardwood_floors",
+    "hill_or_mountain_view",
+    "laundry_room",
+    "spa_or_hot_tub",
+    "view",
+    "washer_dryer",
+    "two_or_more_stories",
+    "garage_1_or_more",
+    "gourmet_kitchen",
+    "high_ceiling",
+    "floor_plan",
+    "ensuite",
+    "views",
+    "open_concept",
+    "walk_in_closet",
+    "balcony",
+    "home_office",
+    "office",
+    "soaking_tub",
+    "patio",
+    "shopping"
+   ],
+   "flags": {
+    "is_coming_soon": null,
+    "is_contingent": null,
+    "is_garage_present": true,
+    "is_new_construction": null,
+    "is_pending": null,
+    "is_short_sale": null,
+    "is_foreclosure": null,
+    "is_senior_community": null,
+    "is_for_rent": null,
+    "is_deal_available": null,
+    "is_price_reduced": null,
+    "is_new_listing": false,
+    "is_subdivision": null,
+    "is_plan": null
+   },
+   "description": {
+    "type": "single_family",
+    "sub_type": null,
+    "name": null,
+    "beds": 4,
+    "baths": 6,
+    "baths_full": 1,
+    "baths_half": 2,
+    "baths_consolidated": "4.5+",
+    "sqft": 4810,
+    "lot_sqft": 5201,
+    "year_built": 1977,
+    "garage": null,
+    "stories": 2
+   },
+   "location": {
+    "address": {
+     "line": "118 Highland Dr",
+     "unit": null,
+     "city": "Seattle",
+     "state_code": "WA",
+     "postal_code": "98109",
+     "coordinate": {
+      "lat": 47.629956,
+      "lon": -122.354822
+     }
+    },
+    "county": {
+     "name": "King",
+     "fips_code": "53033"
+    },
+    "neighborhoods": null
+   },
+   "hoa": {
+    "fee": 0
+   },
+   "source": {
+    "id": "SEWA",
+    "type": "mls",
+    "name": "NWMLS",
+    "listing_id": "2574423",
+    "agents": [
+     {
+      "agent_name": null,
+      "agent_id": "51655",
+      "office_name": "Ewing & Clark, Inc.",
+      "office_id": "7079"
+     },
+     {
+      "agent_name": null,
+      "agent_id": "77666",
+      "office_name": "Ewing & Clark, Inc.",
+      "office_id": "1000792"
+     },
+     {
+      "agent_name": null,
+      "agent_id": "140833",
+      "office_name": "Skyline Properties, Inc.",
+      "office_id": "7178"
+     },
+     {
+      "agent_name": null,
+      "agent_id": "155649",
+      "office_name": "Skyline Properties, Inc.",
+      "office_id": "7178"
+     }
+    ]
+   },
+   "primary_photo": {
+    "href": "https://ap.rdcpix.com/9a20c9bbb1688c88f496d440e41ec363l-m3729662779s.jpg"
+   },
+   "photos": [
+    {
+     "href": "https://ap.rdcpix.com/9a20c9bbb1688c88f496d440e41ec363l-m3729662779s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/9a20c9bbb1688c88f496d440e41ec363l-m853320639s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/9a20c9bbb1688c88f496d440e41ec363l-m1877096920s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/9a20c9bbb1688c88f496d440e41ec363l-m3218593856s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/9a20c9bbb1688c88f496d440e41ec363l-m1361554805s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/9a20c9bbb1688c88f496d440e41ec363l-m1180935415s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/9a20c9bbb1688c88f496d440e41ec363l-m2452701055s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/9a20c9bbb1688c88f496d440e41ec363l-m2492722068s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/9a20c9bbb1688c88f496d440e41ec363l-m2566756019s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/9a20c9bbb1688c88f496d440e41ec363l-m1056836955s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/9a20c9bbb1688c88f496d440e41ec363l-m2007974916s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/9a20c9bbb1688c88f496d440e41ec363l-m952317947s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/9a20c9bbb1688c88f496d440e41ec363l-m1301150210s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/9a20c9bbb1688c88f496d440e41ec363l-m1318501471s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/9a20c9bbb1688c88f496d440e41ec363l-m2753112380s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/9a20c9bbb1688c88f496d440e41ec363l-m4114679659s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/9a20c9bbb1688c88f496d440e41ec363l-m3541509190s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/9a20c9bbb1688c88f496d440e41ec363l-m3321166896s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/9a20c9bbb1688c88f496d440e41ec363l-m3550150012s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/9a20c9bbb1688c88f496d440e41ec363l-m3603218456s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/9a20c9bbb1688c88f496d440e41ec363l-m1110682091s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/9a20c9bbb1688c88f496d440e41ec363l-m1505061625s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/9a20c9bbb1688c88f496d440e41ec363l-m10658434s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/9a20c9bbb1688c88f496d440e41ec363l-m2833221859s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/9a20c9bbb1688c88f496d440e41ec363l-m1241864685s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/9a20c9bbb1688c88f496d440e41ec363l-m506477383s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/9a20c9bbb1688c88f496d440e41ec363l-m1541616594s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/9a20c9bbb1688c88f496d440e41ec363l-m3465874850s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/9a20c9bbb1688c88f496d440e41ec363l-m1309411179s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/9a20c9bbb1688c88f496d440e41ec363l-m2309551856s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/9a20c9bbb1688c88f496d440e41ec363l-m2702205339s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/9a20c9bbb1688c88f496d440e41ec363l-m3018257184s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/9a20c9bbb1688c88f496d440e41ec363l-m3731255164s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/9a20c9bbb1688c88f496d440e41ec363l-m3620007894s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/9a20c9bbb1688c88f496d440e41ec363l-m3622292690s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/9a20c9bbb1688c88f496d440e41ec363l-m2170628499s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/9a20c9bbb1688c88f496d440e41ec363l-m352017s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/9a20c9bbb1688c88f496d440e41ec363l-m1599395185s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/9a20c9bbb1688c88f496d440e41ec363l-m2916887747s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/9a20c9bbb1688c88f496d440e41ec363l-m2574843576s.jpg"
+    }
+   ],
+   "open_houses": null,
+   "virtual_tours": null,
+   "advertisers": [
+    {
+     "type": "seller",
+     "name": "Kristine Losh",
+     "fulfillment_id": "99888294",
+     "email": null,
+     "nrds_id": null,
+     "state_license": null,
+     "phones": [
+      {
+       "number": "(206) 322-2840",
+       "type": "BUSINESS_PHONE",
+       "primary": true,
+       "ext": null
+      }
+     ],
+     "office": {
+      "name": "Ewing & Clark - Madison St",
+      "email": "homeshop@ewingandclark.com",
+      "fulfillment_id": "99888290",
+      "href": "WWW.EWINGANDCLARK.COM",
+      "phones": [
+       {
+        "number": "2063226127",
+        "type": "Office"
+       }
+      ]
+     },
+     "broker": {
+      "name": "Ewing & Clark, WA - Broker",
+      "fulfillment_id": "99888292"
+     },
+     "builder": null
+    },
+    {
+     "type": "co_seller",
+     "name": "Mary Jane Powers",
+     "fulfillment_id": "99888300",
+     "email": null,
+     "nrds_id": null,
+     "state_license": null,
+     "phones": [
+      {
+       "number": "(206) 322-2840",
+       "type": "BUSINESS_PHONE",
+       "primary": true,
+       "ext": null
+      }
+     ],
+     "office": {
+      "name": "Ewing & Clark - Madison St",
+      "email": "homeshop@ewingandclark.com",
+      "fulfillment_id": "99888290",
+      "href": "WWW.EWINGANDCLARK.COM",
+      "phones": [
+       {
+        "number": "2063226127",
+        "type": "Office"
+       }
+      ]
+     },
+     "broker": {
+      "name": "Ewing & Clark, WA - Broker",
+      "fulfillment_id": "99888292"
+     },
+     "builder": null
+    }
+   ],
+   "current_estimates": [
+    {
+     "estimate": 3537694,
+     "estimate_high": 3820709,
+     "estimate_low": 3254678,
+     "date": "2026-10-28",
+     "isbest_homevalue": true,
+     "source": {
+      "type": "quantarium",
+      "name": "Quantarium"
+     }
+    },
+    {
+     "estimate": 3408600,
+     "estimate_high": 3786900,
+     "estimate_low": 3030300,
+     "date": "2026-10-05",
+     "isbest_homevalue": false,
+     "source": {
+      "type": "corelogic",
+      "name": "Cotality™"
+     }
+    },
+    {
+     "estimate": 3554000,
+     "estimate_high": 4158200,
+     "estimate_low": 2949800,
+     "date": "2026-10-14",
+     "isbest_homevalue": false,
+     "source": {
+      "type": "collateral",
+      "name": "Collateral Analytics"
+     }
+    }
+   ],
+   "pet_policy": null,
+   "units": null,
+   "tax_record": {
+    "apn": null,
+    "tax_parcel_id": null
+   }
+  },
+  {
+   "property_id": "1229149478",
+   "listing_id": "2999704815",
+   "permalink": "5517-33rd-Ave-S_Seattle_WA_98118_M12291-49478",
+   "href": "https://www.realtor.com/realestateandhomes-detail/5517-33rd-Ave-S_Seattle_WA_98118_M12291-49478",
+   "status": "sold",
+   "mls_status": "Sold",
+   "list_date": "2026-08-14T20:11:29.000000Z",
+   "last_update_date": "2026-11-06T17:44:25Z",
+   "last_status_change_date": "2026-11-07T01:51:11Z",
+   "pending_date": "2026-10-27T05:56:36Z",
+   "list_price": 440000,
+   "list_price_min": null,
+   "list_price_max": null,
+   "price_per_sqft": 585,
+   "last_sold_price": 380000,
+   "last_sold_date": "2026-11-06",
+   "tags": [
+    "dining_room",
+    "forced_air",
+    "hardwood_floors",
+    "laundry_room",
+    "view",
+    "single_story",
+    "garage_1_or_more",
+    "basement",
+    "fenced_yard"
+   ],
+   "flags": {
+    "is_coming_soon": null,
+    "is_contingent": null,
+    "is_garage_present": true,
+    "is_new_construction": null,
+    "is_pending": null,
+    "is_short_sale": null,
+    "is_foreclosure": null,
+    "is_senior_community": null,
+    "is_for_rent": null,
+    "is_deal_available": null,
+    "is_price_reduced": false,
+    "is_new_listing": false,
+    "is_subdivision": null,
+    "is_plan": null
+   },
+   "description": {
+    "type": "single_family",
+    "sub_type": null,
+    "name": null,
+    "beds": 2,
+    "baths": 1,
+    "baths_full": 1,
+    "baths_half": null,
+    "baths_consolidated": "1",
+    "sqft": 650,
+    "lot_sqft": 5001,
+    "year_built": 1924,
+    "garage": null,
+    "stories": 1
+   },
+   "location": {
+    "address": {
+     "line": "5517 33rd Ave S",
+     "unit": null,
+     "city": "Seattle",
+     "state_code": "WA",
+     "postal_code": "98118",
+     "coordinate": {
+      "lat": 47.551938,
+      "lon": -122.290765
+     }
+    },
+    "county": {
+     "name": "King",
+     "fips_code": "53033"
+    },
+    "neighborhoods": null
+   },
+   "hoa": {
+    "fee": 0
+   },
+   "source": {
+    "id": "SEWA",
+    "type": "mls",
+    "name": "NWMLS",
+    "listing_id": "2567614",
+    "agents": [
+     {
+      "agent_name": null,
+      "agent_id": "70580",
+      "office_name": "Better Properties NW",
+      "office_id": "299"
+     },
+     {
+      "agent_name": null,
+      "agent_id": "70580",
+      "office_name": "Better Properties NW",
+      "office_id": "299"
+     }
+    ]
+   },
+   "primary_photo": {
+    "href": "https://ap.rdcpix.com/a7b7f4dce08ebe5cd022f286e594c12al-m1073119008s.jpg"
+   },
+   "photos": [
+    {
+     "href": "https://ap.rdcpix.com/a7b7f4dce08ebe5cd022f286e594c12al-m1073119008s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/a7b7f4dce08ebe5cd022f286e594c12al-m2212806252s.jpg"
+    }
+   ],
+   "open_houses": null,
+   "virtual_tours": null,
+   "advertisers": [
+    {
+     "type": "seller",
+     "name": "Hernando M. Marcelo",
+     "fulfillment_id": "0",
+     "email": "jong.marcelo@comcast.net",
+     "nrds_id": null,
+     "state_license": null,
+     "phones": [
+      {
+       "number": "2535282222",
+       "type": null,
+       "primary": true,
+       "ext": null
+      }
+     ],
+     "office": {
+      "name": "Better Properties NW",
+      "email": "bpnwfw@gmail.com",
+      "fulfillment_id": "3960095",
+      "href": "http://www.betterpropertiesnw.com",
+      "phones": [
+       {
+        "number": "2535282222",
+        "type": "Office"
+       }
+      ]
+     },
+     "broker": null,
+     "builder": null
+    }
+   ],
+   "current_estimates": [
+    {
+     "estimate": 479300,
+     "estimate_high": 526000,
+     "estimate_low": 432500,
+     "date": "2026-10-05",
+     "isbest_homevalue": true,
+     "source": {
+      "type": "corelogic",
+      "name": "Cotality™"
+     }
+    },
+    {
+     "estimate": 480000,
+     "estimate_high": 566400,
+     "estimate_low": 393600,
+     "date": "2026-10-14",
+     "isbest_homevalue": false,
+     "source": {
+      "type": "collateral",
+      "name": "Collateral Analytics"
+     }
+    },
+    {
+     "estimate": 439512,
+     "estimate_high": 474672,
+     "estimate_low": 404351,
+     "date": "2026-10-28",
+     "isbest_homevalue": false,
+     "source": {
+      "type": "quantarium",
+      "name": "Quantarium"
+     }
+    }
+   ],
+   "pet_policy": null,
+   "units": null,
+   "tax_record": {
+    "apn": null,
+    "tax_parcel_id": null
+   }
+  },
+  {
+   "property_id": "9450418983",
+   "listing_id": "2999349539",
+   "permalink": "588-Bell-St-Unit-2201S_Seattle_WA_98121_M94504-18983",
+   "href": "https://www.realtor.com/realestateandhomes-detail/588-Bell-St-Unit-2201S_Seattle_WA_98121_M94504-18983",
+   "status": "sold",
+   "mls_status": "Sold",
+   "list_date": "2026-08-06T14:23:22.000000Z",
+   "last_update_date": "2026-11-06T16:48:39Z",
+   "last_status_change_date": "2026-11-07T00:52:57Z",
+   "pending_date": "2026-10-08T02:03:41Z",
+   "list_price": 799000,
+   "list_price_min": null,
+   "list_price_max": null,
+   "price_per_sqft": 748,
+   "last_sold_price": 750000,
+   "last_sold_date": "2026-11-06",
+   "tags": [
+    "central_air",
+    "city_view",
+    "community_clubhouse",
+    "community_outdoor_space",
+    "community_security_features",
+    "community_spa_or_hot_tub",
+    "corner_lot",
+    "dining_room",
+    "dishwasher",
+    "energy_efficient",
+    "forced_air",
+    "hardwood_floors",
+    "hill_or_mountain_view",
+    "laundry_room",
+    "recreation_facilities",
+    "view",
+    "washer_dryer",
+    "community_swimming_pool",
+    "single_story",
+    "garage_1_or_more",
+    "waterfront",
+    "open_floor_plan",
+    "floor_plan",
+    "lake_view",
+    "views",
+    "lake",
+    "open_concept_floor_plan",
+    "den",
+    "park"
+   ],
+   "flags": {
+    "is_coming_soon": null,
+    "is_contingent": null,
+    "is_garage_present": true,
+    "is_new_construction": null,
+    "is_pending": null,
+    "is_short_sale": null,
+    "is_foreclosure": null,
+    "is_senior_community": null,
+    "is_for_rent": null,
+    "is_deal_available": null,
+    "is_price_reduced": false,
+    "is_new_listing": false,
+    "is_subdivision": null,
+    "is_plan": null
+   },
+   "description": {
+    "type": "condos",
+    "sub_type": "condo",
+    "name": null,
+    "beds": 2,
+    "baths": 2,
+    "baths_full": 1,
+    "baths_half": null,
+    "baths_consolidated": "2",
+    "sqft": 1003,
+    "lot_sqft": null,
+    "year_built": 2015,
+    "garage": null,
+    "stories": 1
+   },
+   "location": {
+    "address": {
+     "line": "588 Bell St Unit 2201S",
+     "unit": "Unit 2201S",
+     "city": "Seattle",
+     "state_code": "WA",
+     "postal_code": "98121",
+     "coordinate": {
+      "lat": 47.616657,
+      "lon": -122.343018
+     }
+    },
+    "county": {
+     "name": "King",
+     "fips_code": "53033"
+    },
+    "neighborhoods": null
+   },
+   "hoa": {
+    "fee": 1235
+   },
+   "source": {
+    "id": "SEWA",
+    "type": "mls",
+    "name": "NWMLS",
+    "listing_id": "2565512",
+    "agents": [
+     {
+      "agent_name": null,
+      "agent_id": "2379",
+      "office_name": "Windermere RE/Capitol Hill,Inc",
+      "office_id": "7091"
+     },
+     {
+      "agent_name": null,
+      "agent_id": "100172",
+      "office_name": "Urban Living",
+      "office_id": "5732"
+     }
+    ]
+   },
+   "primary_photo": {
+    "href": "https://ap.rdcpix.com/d44d1900b7285bf8fbeab283c6982bdbl-m3285775144s.jpg"
+   },
+   "photos": [
+    {
+     "href": "https://ap.rdcpix.com/d44d1900b7285bf8fbeab283c6982bdbl-m3285775144s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/d44d1900b7285bf8fbeab283c6982bdbl-m2319480139s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/d44d1900b7285bf8fbeab283c6982bdbl-m2235363511s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/d44d1900b7285bf8fbeab283c6982bdbl-m435854615s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/d44d1900b7285bf8fbeab283c6982bdbl-m3850564640s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/d44d1900b7285bf8fbeab283c6982bdbl-m2716413304s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/d44d1900b7285bf8fbeab283c6982bdbl-m2358808968s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/d44d1900b7285bf8fbeab283c6982bdbl-m1287220732s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/d44d1900b7285bf8fbeab283c6982bdbl-m1452228196s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/d44d1900b7285bf8fbeab283c6982bdbl-m1395279965s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/d44d1900b7285bf8fbeab283c6982bdbl-m3213315196s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/d44d1900b7285bf8fbeab283c6982bdbl-m1934005776s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/d44d1900b7285bf8fbeab283c6982bdbl-m2887415717s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/d44d1900b7285bf8fbeab283c6982bdbl-m102037434s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/d44d1900b7285bf8fbeab283c6982bdbl-m1139127528s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/d44d1900b7285bf8fbeab283c6982bdbl-m2691294740s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/d44d1900b7285bf8fbeab283c6982bdbl-m4053198546s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/d44d1900b7285bf8fbeab283c6982bdbl-m308093288s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/d44d1900b7285bf8fbeab283c6982bdbl-m3946050460s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/d44d1900b7285bf8fbeab283c6982bdbl-m3848510360s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/d44d1900b7285bf8fbeab283c6982bdbl-m2523361430s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/d44d1900b7285bf8fbeab283c6982bdbl-m1848058621s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/d44d1900b7285bf8fbeab283c6982bdbl-m284621813s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/d44d1900b7285bf8fbeab283c6982bdbl-m2960603313s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/d44d1900b7285bf8fbeab283c6982bdbl-m720837796s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/d44d1900b7285bf8fbeab283c6982bdbl-m3071185032s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/d44d1900b7285bf8fbeab283c6982bdbl-m3679154655s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/d44d1900b7285bf8fbeab283c6982bdbl-m2514810212s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/d44d1900b7285bf8fbeab283c6982bdbl-m2901767419s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/d44d1900b7285bf8fbeab283c6982bdbl-m338177088s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/d44d1900b7285bf8fbeab283c6982bdbl-m4115246389s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/d44d1900b7285bf8fbeab283c6982bdbl-m2207399977s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/d44d1900b7285bf8fbeab283c6982bdbl-m3789472107s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/d44d1900b7285bf8fbeab283c6982bdbl-m3038719395s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/d44d1900b7285bf8fbeab283c6982bdbl-m263317527s.jpg"
+    }
+   ],
+   "open_houses": null,
+   "virtual_tours": null,
+   "advertisers": [
+    {
+     "type": "seller",
+     "name": "Tracy Treseder",
+     "fulfillment_id": "1629051",
+     "email": null,
+     "nrds_id": null,
+     "state_license": null,
+     "phones": [
+      {
+       "number": "(206) 324-8900",
+       "type": "Office",
+       "primary": true,
+       "ext": null
+      }
+     ],
+     "office": {
+      "name": "Windermere RE/Capitol Hill,Inc",
+      "email": "patgrimm@windermere.com",
+      "fulfillment_id": "1358934",
+      "href": "HOMEINSEATTLE.COM",
+      "phones": [
+       {
+        "number": "(206) 324-8900",
+        "type": "Office"
+       },
+       {
+        "number": "2063281716",
+        "type": "Fax"
+       }
+      ]
+     },
+     "broker": {
+      "name": "Windermere RE/Capitol Hill,Inc - Broker",
+      "fulfillment_id": "1358933"
+     },
+     "builder": null
+    }
+   ],
+   "current_estimates": [
+    {
+     "estimate": 841000,
+     "estimate_high": 1000800,
+     "estimate_low": 681200,
+     "date": "2026-10-14",
+     "isbest_homevalue": true,
+     "source": {
+      "type": "collateral",
+      "name": "Collateral Analytics"
+     }
+    }
+   ],
+   "pet_policy": null,
+   "units": null,
+   "tax_record": null
+  },
+  {
+   "property_id": "1897897302",
+   "listing_id": "2999857227",
+   "permalink": "3333-Wallingford-Ave-N-Apt-410_Seattle_WA_98103_M18978-97302",
+   "href": "https://www.realtor.com/realestateandhomes-detail/3333-Wallingford-Ave-N-Apt-410_Seattle_WA_98103_M18978-97302",
+   "status": "sold",
+   "mls_status": "Sold",
+   "list_date": "2026-08-19T18:05:38.000000Z",
+   "last_update_date": "2026-11-06T20:23:43Z",
+   "last_status_change_date": "2026-11-07T04:27:16Z",
+   "pending_date": "2026-10-09T16:22:07Z",
+   "list_price": 424997,
+   "list_price_min": null,
+   "list_price_max": null,
+   "price_per_sqft": 579,
+   "last_sold_price": 405000,
+   "last_sold_date": "2026-11-06",
+   "tags": [
+    "city_view",
+    "dining_room",
+    "energy_efficient",
+    "forced_air",
+    "hardwood_floors",
+    "hill_or_mountain_view",
+    "ocean_view",
+    "view",
+    "water_view",
+    "single_story",
+    "garage_1_or_more",
+    "elevator",
+    "views",
+    "lake",
+    "trails",
+    "walk_in_closet",
+    "den",
+    "patio",
+    "shopping"
+   ],
+   "flags": {
+    "is_coming_soon": null,
+    "is_contingent": null,
+    "is_garage_present": true,
+    "is_new_construction": null,
+    "is_pending": null,
+    "is_short_sale": null,
+    "is_foreclosure": null,
+    "is_senior_community": null,
+    "is_for_rent": null,
+    "is_deal_available": null,
+    "is_price_reduced": false,
+    "is_new_listing": false,
+    "is_subdivision": null,
+    "is_plan": null
+   },
+   "description": {
+    "type": "condos",
+    "sub_type": "condo",
+    "name": null,
+    "beds": 1,
+    "baths": 1,
+    "baths_full": 1,
+    "baths_half": null,
+    "baths_consolidated": "1",
+    "sqft": 700,
+    "lot_sqft": null,
+    "year_built": 2005,
+    "garage": null,
+    "stories": 1
+   },
+   "location": {
+    "address": {
+     "line": "3333 Wallingford Ave N Apt 410",
+     "unit": "Apt 410",
+     "city": "Seattle",
+     "state_code": "WA",
+     "postal_code": "98103",
+     "coordinate": {
+      "lat": 47.6478,
+      "lon": -122.336952
+     }
+    },
+    "county": {
+     "name": "King",
+     "fips_code": "53033"
+    },
+    "neighborhoods": null
+   },
+   "hoa": {
+    "fee": 524
+   },
+   "source": {
+    "id": "SEWA",
+    "type": "mls",
+    "name": "NWMLS",
+    "listing_id": "2571279",
+    "agents": [
+     {
+      "agent_name": null,
+      "agent_id": "94079",
+      "office_name": "RE/MAX Equity Group",
+      "office_id": "704"
+     },
+     {
+      "agent_name": null,
+      "agent_id": "83872",
+      "office_name": "Designed Realty",
+      "office_id": "10190"
+     }
+    ]
+   },
+   "primary_photo": {
+    "href": "https://ap.rdcpix.com/45f004465896cd8b7613d9b8f78eaf63l-m3266942424s.jpg"
+   },
+   "photos": [
+    {
+     "href": "https://ap.rdcpix.com/45f004465896cd8b7613d9b8f78eaf63l-m3266942424s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/45f004465896cd8b7613d9b8f78eaf63l-m1582780075s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/45f004465896cd8b7613d9b8f78eaf63l-m4209182689s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/45f004465896cd8b7613d9b8f78eaf63l-m3536421702s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/45f004465896cd8b7613d9b8f78eaf63l-m950652246s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/45f004465896cd8b7613d9b8f78eaf63l-m2376423422s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/45f004465896cd8b7613d9b8f78eaf63l-m264357909s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/45f004465896cd8b7613d9b8f78eaf63l-m3419145988s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/45f004465896cd8b7613d9b8f78eaf63l-m2321743187s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/45f004465896cd8b7613d9b8f78eaf63l-m3643995421s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/45f004465896cd8b7613d9b8f78eaf63l-m3552721314s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/45f004465896cd8b7613d9b8f78eaf63l-m1602794695s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/45f004465896cd8b7613d9b8f78eaf63l-m330461582s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/45f004465896cd8b7613d9b8f78eaf63l-m826275673s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/45f004465896cd8b7613d9b8f78eaf63l-m3742644891s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/45f004465896cd8b7613d9b8f78eaf63l-m1164644228s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/45f004465896cd8b7613d9b8f78eaf63l-m2644428303s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/45f004465896cd8b7613d9b8f78eaf63l-m1559678436s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/45f004465896cd8b7613d9b8f78eaf63l-m269241061s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/45f004465896cd8b7613d9b8f78eaf63l-m3105844149s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/45f004465896cd8b7613d9b8f78eaf63l-m1895975476s.jpg"
+    }
+   ],
+   "open_houses": null,
+   "virtual_tours": null,
+   "advertisers": [
+    {
+     "type": "seller",
+     "name": "Lorna Murray",
+     "fulfillment_id": "100050046",
+     "email": null,
+     "nrds_id": null,
+     "state_license": null,
+     "phones": [
+      {
+       "number": "(360) 882-6000",
+       "type": "BUSINESS_PHONE",
+       "primary": true,
+       "ext": null
+      }
+     ],
+     "office": {
+      "name": "RE/MAX Equity Group",
+      "email": "candacec@equitygroupteam.com",
+      "fulfillment_id": "100050043",
+      "href": null,
+      "phones": [
+       {
+        "number": "3608826000",
+        "type": "BUSINESS_PHONE"
+       }
+      ]
+     },
+     "broker": {
+      "name": "RE/MAX Equity Group - Broker",
+      "fulfillment_id": "100050044"
+     },
+     "builder": null
+    }
+   ],
+   "current_estimates": [
+    {
+     "estimate": 436000,
+     "estimate_high": 518800,
+     "estimate_low": 353200,
+     "date": "2026-10-14",
+     "isbest_homevalue": true,
+     "source": {
+      "type": "collateral",
+      "name": "Collateral Analytics"
+     }
+    },
+    {
+     "estimate": 419348,
+     "estimate_high": 440315,
+     "estimate_low": 398380,
+     "date": "2026-10-28",
+     "isbest_homevalue": false,
+     "source": {
+      "type": "quantarium",
+      "name": "Quantarium"
+     }
+    }
+   ],
+   "pet_policy": null,
+   "units": null,
+   "tax_record": {
+    "apn": null,
+    "tax_parcel_id": null
+   }
+  },
+  {
+   "property_id": "2776418479",
+   "listing_id": "3001118154",
+   "permalink": "721-21st-Ave-E_Seattle_WA_98112_M27764-18479",
+   "href": "https://www.realtor.com/realestateandhomes-detail/721-21st-Ave-E_Seattle_WA_98112_M27764-18479",
+   "status": "sold",
+   "mls_status": "Sold",
+   "list_date": "2026-09-25T17:05:34.000000Z",
+   "last_update_date": "2026-11-06T21:15:40Z",
+   "last_status_change_date": "2026-11-07T05:21:31Z",
+   "pending_date": "2026-10-08T16:27:58Z",
+   "list_price": 1289000,
+   "list_price_min": null,
+   "list_price_max": null,
+   "price_per_sqft": 487,
+   "last_sold_price": 1150000,
+   "last_sold_date": "2026-11-06",
+   "tags": [
+    "carport",
+    "dining_room",
+    "fireplace",
+    "hardwood_floors",
+    "laundry_room",
+    "view",
+    "two_or_more_stories",
+    "basement",
+    "fenced_yard",
+    "rental_property",
+    "den",
+    "groundscare"
+   ],
+   "flags": {
+    "is_coming_soon": null,
+    "is_contingent": null,
+    "is_garage_present": null,
+    "is_new_construction": null,
+    "is_pending": null,
+    "is_short_sale": null,
+    "is_foreclosure": null,
+    "is_senior_community": null,
+    "is_for_rent": null,
+    "is_deal_available": null,
+    "is_price_reduced": null,
+    "is_new_listing": false,
+    "is_subdivision": null,
+    "is_plan": null
+   },
+   "description": {
+    "type": "single_family",
+    "sub_type": null,
+    "name": null,
+    "beds": 4,
+    "baths": 2,
+    "baths_full": 2,
+    "baths_half": null,
+    "baths_consolidated": "2",
+    "sqft": 2360,
+    "lot_sqft": 4600,
+    "year_built": 1919,
+    "garage": null,
+    "stories": 2
+   },
+   "location": {
+    "address": {
+     "line": "721 21st Ave E",
+     "unit": null,
+     "city": "Seattle",
+     "state_code": "WA",
+     "postal_code": "98112",
+     "coordinate": {
+      "lat": 47.625902,
+      "lon": -122.305168
+     }
+    },
+    "county": {
+     "name": "King",
+     "fips_code": "53033"
+    },
+    "neighborhoods": null
+   },
+   "hoa": {
+    "fee": 0
+   },
+   "source": {
+    "id": "SEWA",
+    "type": "mls",
+    "name": "NWMLS",
+    "listing_id": "2587540",
+    "agents": [
+     {
+      "agent_name": null,
+      "agent_id": "44430",
+      "office_name": "Real Residential",
+      "office_id": "7756"
+     },
+     {
+      "agent_name": null,
+      "agent_id": "34625",
+      "office_name": "Real Residential",
+      "office_id": "137091455"
+     },
+     {
+      "agent_name": null,
+      "agent_id": "13788",
+      "office_name": "Windermere Real Estate Midtown",
+      "office_id": "7111"
+     }
+    ]
+   },
+   "primary_photo": {
+    "href": "https://ap.rdcpix.com/9908f06a879c77e9ad231428d1c56aeel-m864690165s.jpg"
+   },
+   "photos": [
+    {
+     "href": "https://ap.rdcpix.com/9908f06a879c77e9ad231428d1c56aeel-m864690165s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/9908f06a879c77e9ad231428d1c56aeel-m1462209722s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/9908f06a879c77e9ad231428d1c56aeel-m1494093710s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/9908f06a879c77e9ad231428d1c56aeel-m2419270098s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/9908f06a879c77e9ad231428d1c56aeel-m1702938461s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/9908f06a879c77e9ad231428d1c56aeel-m3443104717s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/9908f06a879c77e9ad231428d1c56aeel-m1569138719s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/9908f06a879c77e9ad231428d1c56aeel-m3554457022s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/9908f06a879c77e9ad231428d1c56aeel-m3811463337s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/9908f06a879c77e9ad231428d1c56aeel-m343386007s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/9908f06a879c77e9ad231428d1c56aeel-m1424295431s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/9908f06a879c77e9ad231428d1c56aeel-m946579097s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/9908f06a879c77e9ad231428d1c56aeel-m4080346579s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/9908f06a879c77e9ad231428d1c56aeel-m2382495890s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/9908f06a879c77e9ad231428d1c56aeel-m1489544326s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/9908f06a879c77e9ad231428d1c56aeel-m1651739853s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/9908f06a879c77e9ad231428d1c56aeel-m4058394832s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/9908f06a879c77e9ad231428d1c56aeel-m615729517s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/9908f06a879c77e9ad231428d1c56aeel-m3606397731s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/9908f06a879c77e9ad231428d1c56aeel-m360903473s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/9908f06a879c77e9ad231428d1c56aeel-m239867350s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/9908f06a879c77e9ad231428d1c56aeel-m2817805266s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/9908f06a879c77e9ad231428d1c56aeel-m3271587623s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/9908f06a879c77e9ad231428d1c56aeel-m1636858604s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/9908f06a879c77e9ad231428d1c56aeel-m2784991968s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/9908f06a879c77e9ad231428d1c56aeel-m97895379s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/9908f06a879c77e9ad231428d1c56aeel-m39321504s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/9908f06a879c77e9ad231428d1c56aeel-m464657388s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/9908f06a879c77e9ad231428d1c56aeel-m2387114339s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/9908f06a879c77e9ad231428d1c56aeel-m2322070428s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/9908f06a879c77e9ad231428d1c56aeel-m2271833462s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/9908f06a879c77e9ad231428d1c56aeel-m3261781676s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/9908f06a879c77e9ad231428d1c56aeel-m1234271557s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/9908f06a879c77e9ad231428d1c56aeel-m3585924534s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/9908f06a879c77e9ad231428d1c56aeel-m893409125s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/9908f06a879c77e9ad231428d1c56aeel-m1485228077s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/9908f06a879c77e9ad231428d1c56aeel-m3544220416s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/9908f06a879c77e9ad231428d1c56aeel-m165207264s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/9908f06a879c77e9ad231428d1c56aeel-m1711284692s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/9908f06a879c77e9ad231428d1c56aeel-m1521524230s.jpg"
+    }
+   ],
+   "open_houses": null,
+   "virtual_tours": null,
+   "advertisers": [
+    {
+     "type": "seller",
+     "name": "Albert Clark",
+     "fulfillment_id": "1134507",
+     "email": "albertc@nwgrealestate.com",
+     "nrds_id": "869044125",
+     "state_license": null,
+     "phones": [
+      {
+       "number": "2064654129",
+       "type": "Mobile",
+       "primary": true,
+       "ext": null
+      }
+     ],
+     "office": {
+      "name": "Real Residential - Seattle",
+      "email": "info@realresidential.com",
+      "fulfillment_id": "100272958",
+      "href": "http://www.realresidential.com",
+      "phones": [
+       {
+        "number": "(206) 342-0200",
+        "type": "BUSINESS_PHONE"
+       }
+      ]
+     },
+     "broker": {
+      "name": "Real Residential - Seattle - Broker",
+      "fulfillment_id": "100272959"
+     },
+     "builder": null
+    },
+    {
+     "type": "co_seller",
+     "name": "Steven Curran",
+     "fulfillment_id": "1469697",
+     "email": "steve@nwgrealestate.com",
+     "nrds_id": null,
+     "state_license": null,
+     "phones": [
+      {
+       "number": "4252413583",
+       "type": "Mobile",
+       "primary": true,
+       "ext": null
+      }
+     ],
+     "office": {
+      "name": "Real Residential - Bellevue",
+      "email": "info@realresidential.com",
+      "fulfillment_id": "100272960",
+      "href": "http://www.realresidential.com",
+      "phones": [
+       {
+        "number": "(206) 342-0200",
+        "type": "BUSINESS_PHONE"
+       }
+      ]
+     },
+     "broker": {
+      "name": "Real Residential - Seattle - Broker",
+      "fulfillment_id": "100272959"
+     },
+     "builder": null
+    }
+   ],
+   "current_estimates": [
+    {
+     "estimate": 1276000,
+     "estimate_high": 1352600,
+     "estimate_low": 1199400,
+     "date": "2026-10-14",
+     "isbest_homevalue": true,
+     "source": {
+      "type": "collateral",
+      "name": "Collateral Analytics"
+     }
+    },
+    {
+     "estimate": 1231000,
+     "estimate_high": 1385300,
+     "estimate_low": 1076700,
+     "date": "2026-10-05",
+     "isbest_homevalue": false,
+     "source": {
+      "type": "corelogic",
+      "name": "Cotality™"
+     }
+    },
+    {
+     "estimate": 1281600,
+     "estimate_high": 1537920,
+     "estimate_low": 1025280,
+     "date": "2026-10-28",
+     "isbest_homevalue": false,
+     "source": {
+      "type": "quantarium",
+      "name": "Quantarium"
+     }
+    }
+   ],
+   "pet_policy": null,
+   "units": null,
+   "tax_record": {
+    "apn": null,
+    "tax_parcel_id": null
+   }
+  },
+  {
+   "property_id": "2649653682",
+   "listing_id": "2999077742",
+   "permalink": "1920-4th-Ave-Unit-1002_Seattle_WA_98101_M26496-53682",
+   "href": "https://www.realtor.com/realestateandhomes-detail/1920-4th-Ave-Unit-1002_Seattle_WA_98101_M26496-53682",
+   "status": "sold",
+   "mls_status": "Sold",
+   "list_date": "2026-07-31T03:51:17.000000Z",
+   "last_update_date": "2026-11-06T14:35:36Z",
+   "last_status_change_date": "2026-11-06T22:40:16Z",
+   "pending_date": "2026-10-10T01:16:15Z",
+   "list_price": 1275000,
+   "list_price_min": null,
+   "list_price_max": null,
+   "price_per_sqft": 778,
+   "last_sold_price": 1250000,
+   "last_sold_date": "2026-11-06",
+   "tags": [
+    "central_air",
+    "city_view",
+    "community_clubhouse",
+    "community_security_features",
+    "community_spa_or_hot_tub",
+    "corner_lot",
+    "dining_room",
+    "dishwasher",
+    "energy_efficient",
+    "fireplace",
+    "forced_air",
+    "hardwood_floors",
+    "laundry_room",
+    "ocean_view",
+    "recreation_facilities",
+    "view",
+    "washer_dryer",
+    "water_view",
+    "community_swimming_pool",
+    "single_story",
+    "garage_1_or_more",
+    "kitchen_island",
+    "high_ceiling",
+    "floor_plan",
+    "views",
+    "walk_in_pantry",
+    "open_concept_floor_plan",
+    "den",
+    "medicalcare"
+   ],
+   "flags": {
+    "is_coming_soon": null,
+    "is_contingent": null,
+    "is_garage_present": true,
+    "is_new_construction": null,
+    "is_pending": null,
+    "is_short_sale": null,
+    "is_foreclosure": null,
+    "is_senior_community": null,
+    "is_for_rent": null,
+    "is_deal_available": null,
+    "is_price_reduced": null,
+    "is_new_listing": false,
+    "is_subdivision": null,
+    "is_plan": null
+   },
+   "description": {
+    "type": "condos",
+    "sub_type": "condo",
+    "name": null,
+    "beds": 2,
+    "baths": 2,
+    "baths_full": 2,
+    "baths_half": null,
+    "baths_consolidated": "2",
+    "sqft": 1607,
+    "lot_sqft": null,
+    "year_built": 2009,
+    "garage": null,
+    "stories": 1
+   },
+   "location": {
+    "address": {
+     "line": "1920 4th Ave Unit 1002",
+     "unit": "Unit 1002",
+     "city": "Seattle",
+     "state_code": "WA",
+     "postal_code": "98101",
+     "coordinate": {
+      "lat": 47.612987,
+      "lon": -122.339306
+     }
+    },
+    "county": {
+     "name": "King",
+     "fips_code": "53033"
+    },
+    "neighborhoods": null
+   },
+   "hoa": {
+    "fee": 1713
+   },
+   "source": {
+    "id": "SEWA",
+    "type": "mls",
+    "name": "NWMLS",
+    "listing_id": "2561760",
+    "agents": [
+     {
+      "agent_name": null,
+      "agent_id": "55526",
+      "office_name": "Pointe3 Real Estate",
+      "office_id": "7006"
+     },
+     {
+      "agent_name": null,
+      "agent_id": "96133",
+      "office_name": "Pointe3 Real Estate",
+      "office_id": "1000729"
+     },
+     {
+      "agent_name": null,
+      "agent_id": "16339",
+      "office_name": "RE/MAX Northwest",
+      "office_id": "5655"
+     }
+    ]
+   },
+   "primary_photo": {
+    "href": "https://ap.rdcpix.com/566aa19c7e6e75136a0c97d50912f66fl-m297596211s.jpg"
+   },
+   "photos": [
+    {
+     "href": "https://ap.rdcpix.com/566aa19c7e6e75136a0c97d50912f66fl-m297596211s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/566aa19c7e6e75136a0c97d50912f66fl-m4280821723s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/566aa19c7e6e75136a0c97d50912f66fl-m4166829050s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/566aa19c7e6e75136a0c97d50912f66fl-m512605852s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/566aa19c7e6e75136a0c97d50912f66fl-m3422237464s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/566aa19c7e6e75136a0c97d50912f66fl-m1150605413s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/566aa19c7e6e75136a0c97d50912f66fl-m3352698674s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/566aa19c7e6e75136a0c97d50912f66fl-m1403795905s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/566aa19c7e6e75136a0c97d50912f66fl-m787213335s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/566aa19c7e6e75136a0c97d50912f66fl-m2316007033s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/566aa19c7e6e75136a0c97d50912f66fl-m314047538s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/566aa19c7e6e75136a0c97d50912f66fl-m3710580085s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/566aa19c7e6e75136a0c97d50912f66fl-m1939590287s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/566aa19c7e6e75136a0c97d50912f66fl-m4069469884s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/566aa19c7e6e75136a0c97d50912f66fl-m2792890766s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/566aa19c7e6e75136a0c97d50912f66fl-m3600139604s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/566aa19c7e6e75136a0c97d50912f66fl-m4259207735s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/566aa19c7e6e75136a0c97d50912f66fl-m280151427s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/566aa19c7e6e75136a0c97d50912f66fl-m719310101s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/566aa19c7e6e75136a0c97d50912f66fl-m4100538995s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/566aa19c7e6e75136a0c97d50912f66fl-m2687487469s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/566aa19c7e6e75136a0c97d50912f66fl-m826998292s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/566aa19c7e6e75136a0c97d50912f66fl-m3243314897s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/566aa19c7e6e75136a0c97d50912f66fl-m3906121949s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/566aa19c7e6e75136a0c97d50912f66fl-m4061577602s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/566aa19c7e6e75136a0c97d50912f66fl-m738129823s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/566aa19c7e6e75136a0c97d50912f66fl-m2803488944s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/566aa19c7e6e75136a0c97d50912f66fl-m3968753176s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/566aa19c7e6e75136a0c97d50912f66fl-m3587359280s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/566aa19c7e6e75136a0c97d50912f66fl-m3388343321s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/566aa19c7e6e75136a0c97d50912f66fl-m496799074s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/566aa19c7e6e75136a0c97d50912f66fl-m2068921983s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/566aa19c7e6e75136a0c97d50912f66fl-m1902246441s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/566aa19c7e6e75136a0c97d50912f66fl-m3486515027s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/566aa19c7e6e75136a0c97d50912f66fl-m2084424161s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/566aa19c7e6e75136a0c97d50912f66fl-m681038208s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/566aa19c7e6e75136a0c97d50912f66fl-m2321172319s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/566aa19c7e6e75136a0c97d50912f66fl-m2783515772s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/566aa19c7e6e75136a0c97d50912f66fl-m3550943213s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/566aa19c7e6e75136a0c97d50912f66fl-m3588005365s.jpg"
+    }
+   ],
+   "open_houses": null,
+   "virtual_tours": null,
+   "advertisers": [
+    {
+     "type": "seller",
+     "name": "Ashley J Hayes Michael",
+     "fulfillment_id": "100330451",
+     "email": "ashley@urbanash.com",
+     "nrds_id": null,
+     "state_license": null,
+     "phones": [
+      {
+       "number": "2067999949",
+       "type": "Mobile",
+       "primary": true,
+       "ext": null
+      }
+     ],
+     "office": {
+      "name": "Pointe3 Real Estate LLC",
+      "email": "transaction@pointe3.com",
+      "fulfillment_id": "4435756",
+      "href": "http://www.pointe3.com",
+      "phones": [
+       {
+        "number": "2062172217",
+        "type": "Office"
+       }
+      ]
+     },
+     "broker": {
+      "name": "Pointe3 Real Estate",
+      "fulfillment_id": "0"
+     },
+     "builder": null
+    },
+    {
+     "type": "co_seller",
+     "name": "Jennifer Moreno",
+     "fulfillment_id": "0",
+     "email": "jenni@urbanashley.com",
+     "nrds_id": null,
+     "state_license": null,
+     "phones": [
+      {
+       "number": "2062172217",
+       "type": "Office",
+       "primary": true,
+       "ext": null
+      }
+     ],
+     "office": {
+      "name": "Pointe3 Real Estate LLC",
+      "email": "transaction@pointe3.com",
+      "fulfillment_id": "4435756",
+      "href": "http://www.pointe3.com",
+      "phones": [
+       {
+        "number": "2062172217",
+        "type": "Office"
+       }
+      ]
+     },
+     "broker": null,
+     "builder": null
+    }
+   ],
+   "current_estimates": [
+    {
+     "estimate": 1225765,
+     "estimate_high": 1287053,
+     "estimate_low": 1164476,
+     "date": "2026-10-28",
+     "isbest_homevalue": true,
+     "source": {
+      "type": "quantarium",
+      "name": "Quantarium"
+     }
+    },
+    {
+     "estimate": 1215800,
+     "estimate_high": 1303500,
+     "estimate_low": 1128200,
+     "date": "2026-10-05",
+     "isbest_homevalue": false,
+     "source": {
+      "type": "corelogic",
+      "name": "Cotality™"
+     }
+    },
+    {
+     "estimate": 1262000,
+     "estimate_high": 1463900,
+     "estimate_low": 1060100,
+     "date": "2026-10-14",
+     "isbest_homevalue": false,
+     "source": {
+      "type": "collateral",
+      "name": "Collateral Analytics"
+     }
+    }
+   ],
+   "pet_policy": null,
+   "units": null,
+   "tax_record": {
+    "apn": null,
+    "tax_parcel_id": null
+   }
+  },
+  {
+   "property_id": "2808217700",
+   "listing_id": "3001849301",
+   "permalink": "1731-Lake-Washington-Blvd-S_Seattle_WA_98144_M28082-17700",
+   "href": "https://www.realtor.com/realestateandhomes-detail/1731-Lake-Washington-Blvd-S_Seattle_WA_98144_M28082-17700",
+   "status": "sold",
+   "mls_status": "Sold",
+   "list_date": "2026-10-14T21:57:58.000000Z",
+   "last_update_date": "2026-11-06T14:37:35Z",
+   "last_status_change_date": "2026-11-06T22:40:16Z",
+   "pending_date": "2026-10-23T19:28:17Z",
+   "list_price": 1099000,
+   "list_price_min": null,
+   "list_price_max": null,
+   "price_per_sqft": 472,
+   "last_sold_price": 1079000,
+   "last_sold_date": "2026-11-06",
+   "tags": [
+    "community_outdoor_space",
+    "cul_de_sac",
+    "dining_room",
+    "dishwasher",
+    "family_room",
+    "fireplace",
+    "hardwood_floors",
+    "laundry_room",
+    "view",
+    "washer_dryer",
+    "two_or_more_stories",
+    "garage_1_or_more",
+    "basement",
+    "wooded_land",
+    "new_roof",
+    "views",
+    "lake",
+    "trails",
+    "walk_in_pantry",
+    "walk_in_closet",
+    "home_office",
+    "office"
+   ],
+   "flags": {
+    "is_coming_soon": null,
+    "is_contingent": null,
+    "is_garage_present": true,
+    "is_new_construction": null,
+    "is_pending": null,
+    "is_short_sale": null,
+    "is_foreclosure": null,
+    "is_senior_community": null,
+    "is_for_rent": null,
+    "is_deal_available": null,
+    "is_price_reduced": null,
+    "is_new_listing": false,
+    "is_subdivision": null,
+    "is_plan": null
+   },
+   "description": {
+    "type": "single_family",
+    "sub_type": null,
+    "name": null,
+    "beds": 4,
+    "baths": 2,
+    "baths_full": 1,
+    "baths_half": null,
+    "baths_consolidated": "2",
+    "sqft": 2285,
+    "lot_sqft": 3868,
+    "year_built": 1916,
+    "garage": null,
+    "stories": 2
+   },
+   "location": {
+    "address": {
+     "line": "1731 Lake Washington Blvd S",
+     "unit": null,
+     "city": "Seattle",
+     "state_code": "WA",
+     "postal_code": "98144",
+     "coordinate": {
+      "lat": 47.587198,
+      "lon": -122.290207
+     }
+    },
+    "county": {
+     "name": "King",
+     "fips_code": "53033"
+    },
+    "neighborhoods": null
+   },
+   "hoa": {
+    "fee": 0
+   },
+   "source": {
+    "id": "SEWA",
+    "type": "mls",
+    "name": "NWMLS",
+    "listing_id": "2592700",
+    "agents": [
+     {
+      "agent_name": null,
+      "agent_id": "46480",
+      "office_name": "Bushwick",
+      "office_id": "3996"
+     },
+     {
+      "agent_name": null,
+      "agent_id": "152830",
+      "office_name": "Keller Williams Realty PS",
+      "office_id": "9861"
+     }
+    ]
+   },
+   "primary_photo": {
+    "href": "https://ap.rdcpix.com/fa54af1683b44c7f503346faadd14d9el-m910149707s.jpg"
+   },
+   "photos": [
+    {
+     "href": "https://ap.rdcpix.com/fa54af1683b44c7f503346faadd14d9el-m910149707s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/fa54af1683b44c7f503346faadd14d9el-m482573955s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/fa54af1683b44c7f503346faadd14d9el-m4068395290s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/fa54af1683b44c7f503346faadd14d9el-m1825804071s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/fa54af1683b44c7f503346faadd14d9el-m3221724802s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/fa54af1683b44c7f503346faadd14d9el-m3493953883s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/fa54af1683b44c7f503346faadd14d9el-m1509042243s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/fa54af1683b44c7f503346faadd14d9el-m1090498583s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/fa54af1683b44c7f503346faadd14d9el-m2237998020s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/fa54af1683b44c7f503346faadd14d9el-m2147414732s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/fa54af1683b44c7f503346faadd14d9el-m1861679380s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/fa54af1683b44c7f503346faadd14d9el-m328625192s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/fa54af1683b44c7f503346faadd14d9el-m3262173452s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/fa54af1683b44c7f503346faadd14d9el-m3950700231s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/fa54af1683b44c7f503346faadd14d9el-m2706470435s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/fa54af1683b44c7f503346faadd14d9el-m161348325s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/fa54af1683b44c7f503346faadd14d9el-m2899365752s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/fa54af1683b44c7f503346faadd14d9el-m2855532761s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/fa54af1683b44c7f503346faadd14d9el-m812882212s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/fa54af1683b44c7f503346faadd14d9el-m2680992079s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/fa54af1683b44c7f503346faadd14d9el-m4139088658s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/fa54af1683b44c7f503346faadd14d9el-m2012504339s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/fa54af1683b44c7f503346faadd14d9el-m4121755201s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/fa54af1683b44c7f503346faadd14d9el-m2825043958s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/fa54af1683b44c7f503346faadd14d9el-m3873743922s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/fa54af1683b44c7f503346faadd14d9el-m418608647s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/fa54af1683b44c7f503346faadd14d9el-m2287319486s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/fa54af1683b44c7f503346faadd14d9el-m2402307098s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/fa54af1683b44c7f503346faadd14d9el-m383922082s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/fa54af1683b44c7f503346faadd14d9el-m3513345713s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/fa54af1683b44c7f503346faadd14d9el-m2457229596s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/fa54af1683b44c7f503346faadd14d9el-m3929044691s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/fa54af1683b44c7f503346faadd14d9el-m2089687177s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/fa54af1683b44c7f503346faadd14d9el-m2417172680s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/fa54af1683b44c7f503346faadd14d9el-m2786368391s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/fa54af1683b44c7f503346faadd14d9el-m2643755001s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/fa54af1683b44c7f503346faadd14d9el-m2253574252s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/fa54af1683b44c7f503346faadd14d9el-m1358428549s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/fa54af1683b44c7f503346faadd14d9el-m564567533s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/fa54af1683b44c7f503346faadd14d9el-m2575112162s.jpg"
+    }
+   ],
+   "open_houses": null,
+   "virtual_tours": null,
+   "advertisers": [
+    {
+     "type": "seller",
+     "name": "Robert McGarty",
+     "fulfillment_id": "2164635",
+     "email": "rob@bushwick.com",
+     "nrds_id": null,
+     "state_license": null,
+     "phones": [
+      {
+       "number": "2062957760",
+       "type": "Mobile",
+       "primary": true,
+       "ext": null
+      }
+     ],
+     "office": {
+      "name": "Bushwick Real Estate Services",
+      "email": null,
+      "fulfillment_id": "4056087",
+      "href": null,
+      "phones": [
+       {
+        "number": "2062957760",
+        "type": "BUSINESS_MOBILE"
+       }
+      ]
+     },
+     "broker": {
+      "name": "Bushwick Real Estate Services - Broker",
+      "fulfillment_id": "4056097"
+     },
+     "builder": null
+    }
+   ],
+   "current_estimates": [
+    {
+     "estimate": 1164300,
+     "estimate_high": 1257500,
+     "estimate_low": 1071100,
+     "date": "2026-10-05",
+     "isbest_homevalue": true,
+     "source": {
+      "type": "corelogic",
+      "name": "Cotality™"
+     }
+    },
+    {
+     "estimate": 1176000,
+     "estimate_high": 1364200,
+     "estimate_low": 987800,
+     "date": "2026-10-14",
+     "isbest_homevalue": false,
+     "source": {
+      "type": "collateral",
+      "name": "Collateral Analytics"
+     }
+    },
+    {
+     "estimate": 1114837,
+     "estimate_high": 1204023,
+     "estimate_low": 1025650,
+     "date": "2026-10-28",
+     "isbest_homevalue": false,
+     "source": {
+      "type": "quantarium",
+      "name": "Quantarium"
+     }
+    }
+   ],
+   "pet_policy": null,
+   "units": null,
+   "tax_record": {
+    "apn": null,
+    "tax_parcel_id": null
+   }
+  },
+  {
+   "property_id": "2388012528",
+   "listing_id": "3001028123",
+   "permalink": "1415-2nd-Ave-Unit-1009_Seattle_WA_98101_M23880-12528",
+   "href": "https://www.realtor.com/realestateandhomes-detail/1415-2nd-Ave-Unit-1009_Seattle_WA_98101_M23880-12528",
+   "status": "sold",
+   "mls_status": "Sold",
+   "list_date": "2026-09-23T16:10:55.000000Z",
+   "last_update_date": "2026-11-06T15:13:35Z",
+   "last_status_change_date": "2026-11-06T23:15:55Z",
+   "pending_date": "2026-10-29T04:32:39Z",
+   "list_price": 765000,
+   "list_price_min": null,
+   "list_price_max": null,
+   "price_per_sqft": 742,
+   "last_sold_price": 735000,
+   "last_sold_date": "2026-11-06",
+   "tags": [
+    "city_view",
+    "community_clubhouse",
+    "community_security_features",
+    "community_spa_or_hot_tub",
+    "corner_lot",
+    "dishwasher",
+    "energy_efficient",
+    "hardwood_floors",
+    "hill_or_mountain_view",
+    "laundry_room",
+    "ocean_view",
+    "recreation_facilities",
+    "view",
+    "washer_dryer",
+    "water_view",
+    "community_swimming_pool",
+    "single_story",
+    "garage_1_or_more",
+    "waterfront",
+    "rental_property",
+    "breathtaking_views",
+    "views",
+    "shopping"
+   ],
+   "flags": {
+    "is_coming_soon": null,
+    "is_contingent": null,
+    "is_garage_present": true,
+    "is_new_construction": null,
+    "is_pending": null,
+    "is_short_sale": null,
+    "is_foreclosure": null,
+    "is_senior_community": null,
+    "is_for_rent": null,
+    "is_deal_available": null,
+    "is_price_reduced": true,
+    "is_new_listing": false,
+    "is_subdivision": null,
+    "is_plan": null
+   },
+   "description": {
+    "type": "condos",
+    "sub_type": "condo",
+    "name": null,
+    "beds": 2,
+    "baths": 2,
+    "baths_full": 1,
+    "baths_half": null,
+    "baths_consolidated": "2",
+    "sqft": 991,
+    "lot_sqft": null,
+    "year_built": 1991,
+    "garage": null,
+    "stories": 1
+   },
+   "location": {
+    "address": {
+     "line": "1415 2nd Ave Unit 1009",
+     "unit": "Unit 1009",
+     "city": "Seattle",
+     "state_code": "WA",
+     "postal_code": "98101",
+     "coordinate": {
+      "lat": 47.608644,
+      "lon": -122.338787
+     }
+    },
+    "county": {
+     "name": "King",
+     "fips_code": "53033"
+    },
+    "neighborhoods": null
+   },
+   "hoa": {
+    "fee": 1019
+   },
+   "source": {
+    "id": "SEWA",
+    "type": "mls",
+    "name": "NWMLS",
+    "listing_id": "2585774",
+    "agents": [
+     {
+      "agent_name": null,
+      "agent_id": "42832",
+      "office_name": "Skyline Properties, Inc.",
+      "office_id": "5353"
+     },
+     {
+      "agent_name": null,
+      "agent_id": "18799",
+      "office_name": "Steel Realty Group, LLC",
+      "office_id": "6407"
+     }
+    ]
+   },
+   "primary_photo": {
+    "href": "https://ap.rdcpix.com/c5c693e3b8c0fffdd880ad34a23e8f13l-m864852559s.jpg"
+   },
+   "photos": [
+    {
+     "href": "https://ap.rdcpix.com/c5c693e3b8c0fffdd880ad34a23e8f13l-m864852559s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/c5c693e3b8c0fffdd880ad34a23e8f13l-m4133780141s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/c5c693e3b8c0fffdd880ad34a23e8f13l-m3093365025s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/c5c693e3b8c0fffdd880ad34a23e8f13l-m1649706804s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/c5c693e3b8c0fffdd880ad34a23e8f13l-m1406569407s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/c5c693e3b8c0fffdd880ad34a23e8f13l-m1551898059s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/c5c693e3b8c0fffdd880ad34a23e8f13l-m4057489557s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/c5c693e3b8c0fffdd880ad34a23e8f13l-m1773801501s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/c5c693e3b8c0fffdd880ad34a23e8f13l-m1847068621s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/c5c693e3b8c0fffdd880ad34a23e8f13l-m828666585s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/c5c693e3b8c0fffdd880ad34a23e8f13l-m3378979578s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/c5c693e3b8c0fffdd880ad34a23e8f13l-m2479399179s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/c5c693e3b8c0fffdd880ad34a23e8f13l-m1702720077s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/c5c693e3b8c0fffdd880ad34a23e8f13l-m2118405178s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/c5c693e3b8c0fffdd880ad34a23e8f13l-m1125156389s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/c5c693e3b8c0fffdd880ad34a23e8f13l-m1785757240s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/c5c693e3b8c0fffdd880ad34a23e8f13l-m3523218123s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/c5c693e3b8c0fffdd880ad34a23e8f13l-m3792816597s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/c5c693e3b8c0fffdd880ad34a23e8f13l-m3534365707s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/c5c693e3b8c0fffdd880ad34a23e8f13l-m646110341s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/c5c693e3b8c0fffdd880ad34a23e8f13l-m1231475813s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/c5c693e3b8c0fffdd880ad34a23e8f13l-m1741725415s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/c5c693e3b8c0fffdd880ad34a23e8f13l-m1713472225s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/c5c693e3b8c0fffdd880ad34a23e8f13l-m919265622s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/c5c693e3b8c0fffdd880ad34a23e8f13l-m160742029s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/c5c693e3b8c0fffdd880ad34a23e8f13l-m3278150712s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/c5c693e3b8c0fffdd880ad34a23e8f13l-m3559616754s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/c5c693e3b8c0fffdd880ad34a23e8f13l-m4079122336s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/c5c693e3b8c0fffdd880ad34a23e8f13l-m2978249344s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/c5c693e3b8c0fffdd880ad34a23e8f13l-m2389071231s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/c5c693e3b8c0fffdd880ad34a23e8f13l-m2633214984s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/c5c693e3b8c0fffdd880ad34a23e8f13l-m741184864s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/c5c693e3b8c0fffdd880ad34a23e8f13l-m4162411268s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/c5c693e3b8c0fffdd880ad34a23e8f13l-m1745632834s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/c5c693e3b8c0fffdd880ad34a23e8f13l-m2535113588s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/c5c693e3b8c0fffdd880ad34a23e8f13l-m3105607867s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/c5c693e3b8c0fffdd880ad34a23e8f13l-m3334734867s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/c5c693e3b8c0fffdd880ad34a23e8f13l-m3128226329s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/c5c693e3b8c0fffdd880ad34a23e8f13l-m1687300481s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/c5c693e3b8c0fffdd880ad34a23e8f13l-m626110899s.jpg"
+    }
+   ],
+   "open_houses": null,
+   "virtual_tours": null,
+   "advertisers": [
+    {
+     "type": "seller",
+     "name": "Bobby Ratty",
+     "fulfillment_id": "3907681",
+     "email": "krlw113@kw.com",
+     "nrds_id": null,
+     "state_license": null,
+     "phones": [
+      {
+       "number": "4254540911",
+       "type": "BUSINESS_PHONE",
+       "primary": true,
+       "ext": null
+      }
+     ],
+     "office": {
+      "name": "Skyline Properties, Inc.",
+      "email": "skylineproperties@myrealestatewebcenter.com",
+      "fulfillment_id": "1829036",
+      "href": "http://www.skylineproperties.com",
+      "phones": [
+       {
+        "number": "18007536156",
+        "type": "Toll Free"
+       },
+       {
+        "number": "4254552065",
+        "type": "Office"
+       },
+       {
+        "number": "4256464766",
+        "type": "Fax"
+       }
+      ]
+     },
+     "broker": {
+      "name": "Skyline Properties, Inc.",
+      "fulfillment_id": "1829033"
+     },
+     "builder": null
+    }
+   ],
+   "current_estimates": [
+    {
+     "estimate": 772000,
+     "estimate_high": 918700,
+     "estimate_low": 625300,
+     "date": "2026-10-14",
+     "isbest_homevalue": true,
+     "source": {
+      "type": "collateral",
+      "name": "Collateral Analytics"
+     }
+    },
+    {
+     "estimate": 778000,
+     "estimate_high": 832600,
+     "estimate_low": 723500,
+     "date": "2026-10-05",
+     "isbest_homevalue": false,
+     "source": {
+      "type": "corelogic",
+      "name": "Cotality™"
+     }
+    },
+    {
+     "estimate": 758350,
+     "estimate_high": 796267,
+     "estimate_low": 720432,
+     "date": "2026-10-28",
+     "isbest_homevalue": false,
+     "source": {
+      "type": "quantarium",
+      "name": "Quantarium"
+     }
+    }
+   ],
+   "pet_policy": null,
+   "units": null,
+   "tax_record": {
+    "apn": null,
+    "tax_parcel_id": null
+   }
+  },
+  {
+   "property_id": "1505534188",
+   "listing_id": "2998495512",
+   "permalink": "1524-NE-140th-St-2OP1D_Seattle_WA_98125_M15055-34188",
+   "href": "https://www.realtor.com/realestateandhomes-detail/1524-NE-140th-St-2OP1D_Seattle_WA_98125_M15055-34188",
+   "status": "sold",
+   "mls_status": "Sold",
+   "list_date": "2026-07-14T23:21:24.000000Z",
+   "last_update_date": "2026-11-06T16:25:36Z",
+   "last_status_change_date": "2026-11-07T00:27:55Z",
+   "pending_date": "2026-10-13T12:44:11Z",
+   "list_price": 549999,
+   "list_price_min": null,
+   "list_price_max": null,
+   "price_per_sqft": 283,
+   "last_sold_price": 500000,
+   "last_sold_date": "2026-11-06",
+   "tags": [
+    "carport",
+    "community_clubhouse",
+    "community_outdoor_space",
+    "community_security_features",
+    "den_or_office",
+    "dishwasher",
+    "energy_efficient",
+    "hardwood_floors",
+    "pets_allowed",
+    "recreation_facilities",
+    "washer_dryer",
+    "community_swimming_pool",
+    "single_story",
+    "open_floor_plan",
+    "floor_plan",
+    "big_lot",
+    "ensuite",
+    "gated_community",
+    "wet_bar",
+    "open_concept_floor_plan",
+    "walk_in_closet",
+    "fireplace",
+    "home_office",
+    "office",
+    "den",
+    "patio",
+    "clubhouse",
+    "security"
+   ],
+   "flags": {
+    "is_coming_soon": null,
+    "is_contingent": null,
+    "is_garage_present": null,
+    "is_new_construction": null,
+    "is_pending": null,
+    "is_short_sale": null,
+    "is_foreclosure": null,
+    "is_senior_community": null,
+    "is_for_rent": null,
+    "is_deal_available": null,
+    "is_price_reduced": false,
+    "is_new_listing": false,
+    "is_subdivision": null,
+    "is_plan": null
+   },
+   "description": {
+    "type": "condos",
+    "sub_type": "condo",
+    "name": null,
+    "beds": 2,
+    "baths": 2,
+    "baths_full": 1,
+    "baths_half": null,
+    "baths_consolidated": "2",
+    "sqft": 1768,
+    "lot_sqft": null,
+    "year_built": 1973,
+    "garage": null,
+    "stories": 1
+   },
+   "location": {
+    "address": {
+     "line": "1524 NE 140th St Unit D2",
+     "unit": "Unit D2",
+     "city": "Seattle",
+     "state_code": "WA",
+     "postal_code": "98125",
+     "coordinate": {
+      "lat": 47.730788,
+      "lon": -122.311357
+     }
+    },
+    "county": {
+     "name": "King",
+     "fips_code": "53033"
+    },
+    "neighborhoods": null
+   },
+   "hoa": {
+    "fee": 837
+   },
+   "source": {
+    "id": "SEWA",
+    "type": "mls",
+    "name": "NWMLS",
+    "listing_id": "2554495",
+    "agents": [
+     {
+      "agent_name": null,
+      "agent_id": "103836",
+      "office_name": "Windermere Real Estate Midtown",
+      "office_id": "7111"
+     },
+     {
+      "agent_name": null,
+      "agent_id": "4058",
+      "office_name": "Cornerstone Assoc Real Estate",
+      "office_id": "7106"
+     }
+    ]
+   },
+   "primary_photo": {
+    "href": "https://ap.rdcpix.com/b1b66ec6a6da82fddc797834339fd66dl-m3356916459s.jpg"
+   },
+   "photos": [
+    {
+     "href": "https://ap.rdcpix.com/b1b66ec6a6da82fddc797834339fd66dl-m3356916459s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/b1b66ec6a6da82fddc797834339fd66dl-m3284047656s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/b1b66ec6a6da82fddc797834339fd66dl-m1482670391s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/b1b66ec6a6da82fddc797834339fd66dl-m1754891158s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/b1b66ec6a6da82fddc797834339fd66dl-m2387641565s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/b1b66ec6a6da82fddc797834339fd66dl-m1209004826s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/b1b66ec6a6da82fddc797834339fd66dl-m3188499735s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/b1b66ec6a6da82fddc797834339fd66dl-m989552074s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/b1b66ec6a6da82fddc797834339fd66dl-m3901422878s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/b1b66ec6a6da82fddc797834339fd66dl-m2341054087s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/b1b66ec6a6da82fddc797834339fd66dl-m1557532469s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/b1b66ec6a6da82fddc797834339fd66dl-m2564578579s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/b1b66ec6a6da82fddc797834339fd66dl-m4042119949s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/b1b66ec6a6da82fddc797834339fd66dl-m2576969428s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/b1b66ec6a6da82fddc797834339fd66dl-m1181308241s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/b1b66ec6a6da82fddc797834339fd66dl-m2367611290s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/b1b66ec6a6da82fddc797834339fd66dl-m3601358816s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/b1b66ec6a6da82fddc797834339fd66dl-m1753055806s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/b1b66ec6a6da82fddc797834339fd66dl-m3095214901s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/b1b66ec6a6da82fddc797834339fd66dl-m2889836603s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/b1b66ec6a6da82fddc797834339fd66dl-m1865347235s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/b1b66ec6a6da82fddc797834339fd66dl-m1412930768s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/b1b66ec6a6da82fddc797834339fd66dl-m1300598437s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/b1b66ec6a6da82fddc797834339fd66dl-m201874954s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/b1b66ec6a6da82fddc797834339fd66dl-m3596200935s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/b1b66ec6a6da82fddc797834339fd66dl-m581218056s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/b1b66ec6a6da82fddc797834339fd66dl-m2411404832s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/b1b66ec6a6da82fddc797834339fd66dl-m319796056s.jpg"
+    }
+   ],
+   "open_houses": null,
+   "virtual_tours": null,
+   "advertisers": [
+    {
+     "type": "seller",
+     "name": "Beshir Abdella",
+     "fulfillment_id": "2183202",
+     "email": "beshira@johnlscott.com",
+     "nrds_id": null,
+     "state_license": null,
+     "phones": [
+      {
+       "number": "2066010894",
+       "type": "Mobile",
+       "primary": true,
+       "ext": null
+      }
+     ],
+     "office": {
+      "name": "Windermere Real Estate Midtown",
+      "email": "lakeview@windermere.com",
+      "fulfillment_id": "1655692",
+      "href": null,
+      "phones": [
+       {
+        "number": "(206) 527-5445",
+        "type": "Office"
+       }
+      ]
+     },
+     "broker": {
+      "name": "Windermere Real Estate Seattle - Broker",
+      "fulfillment_id": "3794272"
+     },
+     "builder": null
+    }
+   ],
+   "current_estimates": [
+    {
+     "estimate": 475695,
+     "estimate_high": 618403,
+     "estimate_low": 332986,
+     "date": "2026-10-28",
+     "isbest_homevalue": true,
+     "source": {
+      "type": "quantarium",
+      "name": "Quantarium"
+     }
+    },
+    {
+     "estimate": 463000,
+     "estimate_high": 578800,
+     "estimate_low": 347300,
+     "date": "2026-10-14",
+     "isbest_homevalue": false,
+     "source": {
+      "type": "collateral",
+      "name": "Collateral Analytics"
+     }
+    },
+    {
+     "estimate": 521900,
+     "estimate_high": 616500,
+     "estimate_low": 427300,
+     "date": "2026-10-05",
+     "isbest_homevalue": false,
+     "source": {
+      "type": "corelogic",
+      "name": "Cotality™"
+     }
+    }
+   ],
+   "pet_policy": {
+    "cats": true,
+    "dogs": false,
+    "dogs_small": null,
+    "dogs_large": null
+   },
+   "units": null,
+   "tax_record": {
+    "apn": null,
+    "tax_parcel_id": null
+   }
+  },
+  {
+   "property_id": "2368049171",
+   "listing_id": "3000664204",
+   "permalink": "14332-Phinney-Ave-N_Seattle_WA_98133_M23680-49171",
+   "href": "https://www.realtor.com/realestateandhomes-detail/14332-Phinney-Ave-N_Seattle_WA_98133_M23680-49171",
+   "status": "sold",
+   "mls_status": "Sold",
+   "list_date": "2026-09-11T21:09:52.000000Z",
+   "last_update_date": "2026-11-06T18:22:40Z",
+   "last_status_change_date": "2026-11-07T02:26:53Z",
+   "pending_date": "2026-09-17T19:28:46Z",
+   "list_price": 815000,
+   "list_price_min": null,
+   "list_price_max": null,
+   "price_per_sqft": 703,
+   "last_sold_price": 815000,
+   "last_sold_date": "2026-11-06",
+   "tags": [
+    "community_outdoor_space",
+    "dining_room",
+    "dishwasher",
+    "forced_air",
+    "hardwood_floors",
+    "laundry_room",
+    "two_or_more_stories",
+    "fenced_yard",
+    "open_floor_plan",
+    "floor_plan",
+    "private_courtyard",
+    "fenced_courtyard",
+    "open_concept_floor_plan",
+    "fireplace",
+    "home_office",
+    "office",
+    "den",
+    "fire_pit",
+    "patio",
+    "groundscare"
+   ],
+   "flags": {
+    "is_coming_soon": null,
+    "is_contingent": null,
+    "is_garage_present": null,
+    "is_new_construction": null,
+    "is_pending": null,
+    "is_short_sale": null,
+    "is_foreclosure": null,
+    "is_senior_community": null,
+    "is_for_rent": null,
+    "is_deal_available": null,
+    "is_price_reduced": null,
+    "is_new_listing": false,
+    "is_subdivision": null,
+    "is_plan": null
+   },
+   "description": {
+    "type": "single_family",
+    "sub_type": null,
+    "name": null,
+    "beds": 3,
+    "baths": 2,
+    "baths_full": 1,
+    "baths_half": null,
+    "baths_consolidated": "2",
+    "sqft": 1160,
+    "lot_sqft": 5711,
+    "year_built": 1944,
+    "garage": null,
+    "stories": 2
+   },
+   "location": {
+    "address": {
+     "line": "14332 Phinney Ave N",
+     "unit": null,
+     "city": "Seattle",
+     "state_code": "WA",
+     "postal_code": "98133",
+     "coordinate": {
+      "lat": 47.733291,
+      "lon": -122.353908
+     }
+    },
+    "county": {
+     "name": "King",
+     "fips_code": "53033"
+    },
+    "neighborhoods": null
+   },
+   "hoa": {
+    "fee": 0
+   },
+   "source": {
+    "id": "SEWA",
+    "type": "mls",
+    "name": "NWMLS",
+    "listing_id": "2579773",
+    "agents": [
+     {
+      "agent_name": null,
+      "agent_id": "33275",
+      "office_name": "John L. Scott, Inc.",
+      "office_id": "6040"
+     },
+     {
+      "agent_name": null,
+      "agent_id": "104046",
+      "office_name": "Windermere RE/Lake Tapps, Inc",
+      "office_id": "9374"
+     }
+    ]
+   },
+   "primary_photo": {
+    "href": "https://ap.rdcpix.com/0bdc34a007848fcee9d9dbb547ecefffl-m2497137701s.jpg"
+   },
+   "photos": [
+    {
+     "href": "https://ap.rdcpix.com/0bdc34a007848fcee9d9dbb547ecefffl-m2497137701s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/0bdc34a007848fcee9d9dbb547ecefffl-m1534735296s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/0bdc34a007848fcee9d9dbb547ecefffl-m514168718s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/0bdc34a007848fcee9d9dbb547ecefffl-m4276687743s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/0bdc34a007848fcee9d9dbb547ecefffl-m552817200s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/0bdc34a007848fcee9d9dbb547ecefffl-m2679900834s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/0bdc34a007848fcee9d9dbb547ecefffl-m2592471961s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/0bdc34a007848fcee9d9dbb547ecefffl-m2014055610s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/0bdc34a007848fcee9d9dbb547ecefffl-m3498554565s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/0bdc34a007848fcee9d9dbb547ecefffl-m567528495s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/0bdc34a007848fcee9d9dbb547ecefffl-m34609463s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/0bdc34a007848fcee9d9dbb547ecefffl-m2677665650s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/0bdc34a007848fcee9d9dbb547ecefffl-m1532806238s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/0bdc34a007848fcee9d9dbb547ecefffl-m844428714s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/0bdc34a007848fcee9d9dbb547ecefffl-m1766932185s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/0bdc34a007848fcee9d9dbb547ecefffl-m3245726476s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/0bdc34a007848fcee9d9dbb547ecefffl-m840999537s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/0bdc34a007848fcee9d9dbb547ecefffl-m3860082647s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/0bdc34a007848fcee9d9dbb547ecefffl-m3421902131s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/0bdc34a007848fcee9d9dbb547ecefffl-m673876708s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/0bdc34a007848fcee9d9dbb547ecefffl-m2798420432s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/0bdc34a007848fcee9d9dbb547ecefffl-m2201623479s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/0bdc34a007848fcee9d9dbb547ecefffl-m3937556602s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/0bdc34a007848fcee9d9dbb547ecefffl-m429054697s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/0bdc34a007848fcee9d9dbb547ecefffl-m2709934952s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/0bdc34a007848fcee9d9dbb547ecefffl-m32283304s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/0bdc34a007848fcee9d9dbb547ecefffl-m523040973s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/0bdc34a007848fcee9d9dbb547ecefffl-m2400817886s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/0bdc34a007848fcee9d9dbb547ecefffl-m3259211169s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/0bdc34a007848fcee9d9dbb547ecefffl-m989218787s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/0bdc34a007848fcee9d9dbb547ecefffl-m3256592999s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/0bdc34a007848fcee9d9dbb547ecefffl-m2947150187s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/0bdc34a007848fcee9d9dbb547ecefffl-m3259211169s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/0bdc34a007848fcee9d9dbb547ecefffl-m1359172546s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/0bdc34a007848fcee9d9dbb547ecefffl-m1677452466s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/0bdc34a007848fcee9d9dbb547ecefffl-m2498478106s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/0bdc34a007848fcee9d9dbb547ecefffl-m3784412846s.jpg"
+    },
+    {
+     "href": "https://ap.rdcpix.com/0bdc34a007848fcee9d9dbb547ecefffl-m532830933s.jpg"
+    }
+   ],
+   "open_houses": null,
+   "virtual_tours": null,
+   "advertisers": [
+    {
+     "type": "seller",
+     "name": "Brad Masters",
+     "fulfillment_id": "2964903",
+     "email": "tinastauffer@johnlscott.com",
+     "nrds_id": null,
+     "state_license": null,
+     "phones": [
+      {
+       "number": "2062768668",
+       "type": "Office",
+       "primary": true,
+       "ext": null
+      }
+     ],
+     "office": {
+      "name": "JOHN L. SCOTT REAL ESTATE - BELLEVUE",
+      "email": "Bellevue@johnlscott.com",
+      "fulfillment_id": "11090",
+      "href": null,
+      "phones": [
+       {
+        "number": "4254542437",
+        "type": "Office"
+       }
+      ]
+     },
+     "broker": {
+      "name": "JOHN L. SCOTT",
+      "fulfillment_id": "2964593"
+     },
+     "builder": null
+    }
+   ],
+   "current_estimates": [
+    {
+     "estimate": 807000,
+     "estimate_high": 928100,
+     "estimate_low": 686000,
+     "date": "2026-10-14",
+     "isbest_homevalue": true,
+     "source": {
+      "type": "collateral",
+      "name": "Collateral Analytics"
+     }
+    },
+    {
+     "estimate": 809935,
+     "estimate_high": 834233,
+     "estimate_low": 785636,
+     "date": "2026-10-28",
+     "isbest_homevalue": false,
+     "source": {
+      "type": "quantarium",
+      "name": "Quantarium"
+     }
+    },
+    {
+     "estimate": 783600,
+     "estimate_high": 842900,
+     "estimate_low": 724300,
+     "date": "2026-10-05",
+     "isbest_homevalue": false,
+     "source": {
+      "type": "corelogic",
+      "name": "Cotality™"
+     }
+    }
+   ],
+   "pet_policy": null,
+   "units": null,
+   "tax_record": {
+    "apn": null,
+    "tax_parcel_id": null
+   }
+  }
+ ]
+}

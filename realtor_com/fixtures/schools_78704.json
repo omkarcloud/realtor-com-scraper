@@ -1,0 +1,604 @@
+{
+ "total": 27,
+ "schools": [
+  {
+   "id": "0768941411",
+   "name": "Athena Montessori Academy",
+   "rating": null,
+   "funding_type": "private",
+   "education_levels": [
+    "elementary"
+   ],
+   "student_count": 140,
+   "grades": [
+    "K"
+   ],
+   "parent_rating": null,
+   "coordinate": {
+    "lat": 30.229225,
+    "lon": -97.781021
+   },
+   "district": {
+    "id": "06211428551",
+    "name": null
+   },
+   "location": {
+    "city": "Austin"
+   }
+  },
+  {
+   "id": "0768580201",
+   "name": "Galindo Elementary School",
+   "rating": 4,
+   "funding_type": "public",
+   "education_levels": [
+    "elementary"
+   ],
+   "student_count": 418,
+   "grades": [
+    "K",
+    "1",
+    "2",
+    "3",
+    "4",
+    "5"
+   ],
+   "parent_rating": 3,
+   "coordinate": {
+    "lat": 30.229524,
+    "lon": -97.771872
+   },
+   "district": {
+    "id": "06211430211",
+    "name": "Austin Independent School District"
+   },
+   "location": {
+    "city": "Austin"
+   }
+  },
+  {
+   "id": "0768579101",
+   "name": "Crockett High School",
+   "rating": 4,
+   "funding_type": "public",
+   "education_levels": [
+    "high"
+   ],
+   "student_count": 1529,
+   "grades": [
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "parent_rating": 4,
+   "coordinate": {
+    "lat": 30.214685,
+    "lon": -97.797486
+   },
+   "district": {
+    "id": "06211430211",
+    "name": "Austin Independent School District"
+   },
+   "location": {
+    "city": "Austin"
+   }
+  },
+  {
+   "id": "0768705251",
+   "name": "Texas School For The Deaf",
+   "rating": null,
+   "funding_type": "public",
+   "education_levels": [
+    "elementary",
+    "middle",
+    "high"
+   ],
+   "student_count": 473,
+   "grades": [
+    "K",
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "parent_rating": 4,
+   "coordinate": {
+    "lat": 30.254118,
+    "lon": -97.749106
+   },
+   "district": {
+    "id": "06211446831",
+    "name": "Texas Sch For The Deaf"
+   },
+   "location": {
+    "city": "Austin"
+   }
+  },
+  {
+   "id": "0768578921",
+   "name": "Becker Elementary School",
+   "rating": 7,
+   "funding_type": "public",
+   "education_levels": [
+    "elementary"
+   ],
+   "student_count": 502,
+   "grades": [
+    "K",
+    "1",
+    "2",
+    "3",
+    "4",
+    "5"
+   ],
+   "parent_rating": 4,
+   "coordinate": {
+    "lat": 30.250446,
+    "lon": -97.759854
+   },
+   "district": {
+    "id": "06211430211",
+    "name": "Austin Independent School District"
+   },
+   "location": {
+    "city": "Austin"
+   }
+  },
+  {
+   "id": "0768579761",
+   "name": "Travis Heights Elementary School",
+   "rating": 6,
+   "funding_type": "public",
+   "education_levels": [
+    "elementary"
+   ],
+   "student_count": 469,
+   "grades": [
+    "K",
+    "1",
+    "2",
+    "3",
+    "4",
+    "5"
+   ],
+   "parent_rating": 5,
+   "coordinate": {
+    "lat": 30.241439,
+    "lon": -97.745969
+   },
+   "district": {
+    "id": "06211430211",
+    "name": "Austin Independent School District"
+   },
+   "location": {
+    "city": "Austin"
+   }
+  },
+  {
+   "id": "0768685601",
+   "name": "Parkside Community School",
+   "rating": null,
+   "funding_type": "private",
+   "education_levels": [
+    "elementary"
+   ],
+   "student_count": 97,
+   "grades": [
+    "K",
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6"
+   ],
+   "parent_rating": 5,
+   "coordinate": {
+    "lat": 30.264386,
+    "lon": -97.76161
+   },
+   "district": {
+    "id": "06211428551",
+    "name": null
+   },
+   "location": {
+    "city": "Austin"
+   }
+  },
+  {
+   "id": "0768579151",
+   "name": "Fulmore Middle School",
+   "rating": 4,
+   "funding_type": "public",
+   "education_levels": [
+    "middle"
+   ],
+   "student_count": 910,
+   "grades": [
+    "6",
+    "7",
+    "8"
+   ],
+   "parent_rating": 4,
+   "coordinate": {
+    "lat": 30.24406,
+    "lon": -97.750226
+   },
+   "district": {
+    "id": "06211430211",
+    "name": "Austin Independent School District"
+   },
+   "location": {
+    "city": "Austin"
+   }
+  },
+  {
+   "id": "0768578911",
+   "name": "Barton Hills Elementary School",
+   "rating": 7,
+   "funding_type": "public",
+   "education_levels": [
+    "elementary"
+   ],
+   "student_count": 286,
+   "grades": [
+    "K",
+    "1",
+    "2",
+    "3",
+    "4",
+    "5"
+   ],
+   "parent_rating": 4,
+   "coordinate": {
+    "lat": 30.254429,
+    "lon": -97.783299
+   },
+   "district": {
+    "id": "06211430211",
+    "name": "Austin Independent School District"
+   },
+   "location": {
+    "city": "Austin"
+   }
+  },
+  {
+   "id": "0768580061",
+   "name": "Covington Middle School",
+   "rating": 6,
+   "funding_type": "public",
+   "education_levels": [
+    "middle"
+   ],
+   "student_count": 632,
+   "grades": [
+    "6",
+    "7",
+    "8"
+   ],
+   "parent_rating": 4,
+   "coordinate": {
+    "lat": 30.212564,
+    "lon": -97.834577
+   },
+   "district": {
+    "id": "06211430211",
+    "name": "Austin Independent School District"
+   },
+   "location": {
+    "city": "Austin"
+   }
+  },
+  {
+   "id": "0768740531",
+   "name": "Richards School For Young Women Leaders",
+   "rating": 8,
+   "funding_type": "public",
+   "education_levels": [
+    "middle",
+    "high"
+   ],
+   "student_count": 920,
+   "grades": [
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "parent_rating": 3,
+   "coordinate": {
+    "lat": 30.2361,
+    "lon": -97.788656
+   },
+   "district": {
+    "id": "06211430211",
+    "name": "Austin Independent School District"
+   },
+   "location": {
+    "city": "Austin"
+   }
+  },
+  {
+   "id": "0768724721",
+   "name": "Travis County Juvenile Detention Center",
+   "rating": 1,
+   "funding_type": "public",
+   "education_levels": [
+    "middle",
+    "high"
+   ],
+   "student_count": 30,
+   "grades": [
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "parent_rating": null,
+   "coordinate": {
+    "lat": 30.235506,
+    "lon": -97.753761
+   },
+   "district": {
+    "id": "06211430211",
+    "name": "Austin Independent School District"
+   },
+   "location": {
+    "city": "Austin"
+   }
+  },
+  {
+   "id": "0768579501",
+   "name": "O Henry Middle School",
+   "rating": 6,
+   "funding_type": "public",
+   "education_levels": [
+    "middle"
+   ],
+   "student_count": 686,
+   "grades": [
+    "6",
+    "7",
+    "8"
+   ],
+   "parent_rating": 3,
+   "coordinate": {
+    "lat": 30.285771,
+    "lon": -97.774117
+   },
+   "district": {
+    "id": "06211430211",
+    "name": "Austin Independent School District"
+   },
+   "location": {
+    "city": "Austin"
+   }
+  },
+  {
+   "id": "0768580221",
+   "name": "Leadership Academy",
+   "rating": 1,
+   "funding_type": "public",
+   "education_levels": [
+    "middle",
+    "high"
+   ],
+   "student_count": 23,
+   "grades": [
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "parent_rating": null,
+   "coordinate": {
+    "lat": 30.235506,
+    "lon": -97.753761
+   },
+   "district": {
+    "id": "06211430211",
+    "name": "Austin Independent School District"
+   },
+   "location": {
+    "city": "Austin"
+   }
+  },
+  {
+   "id": "0768579721",
+   "name": "St. Elmo Elementary School",
+   "rating": 4,
+   "funding_type": "public",
+   "education_levels": [
+    "elementary"
+   ],
+   "student_count": 305,
+   "grades": [
+    "K",
+    "1",
+    "2",
+    "3",
+    "4",
+    "5"
+   ],
+   "parent_rating": 5,
+   "coordinate": {
+    "lat": 30.222081,
+    "lon": -97.773367
+   },
+   "district": {
+    "id": "06211430211",
+    "name": "Austin Independent School District"
+   },
+   "location": {
+    "city": "Austin"
+   }
+  },
+  {
+   "id": "0768864511",
+   "name": "Premier High School Of Austin",
+   "rating": 5,
+   "funding_type": "public",
+   "education_levels": [
+    "middle",
+    "high"
+   ],
+   "student_count": 143,
+   "grades": [
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "parent_rating": null,
+   "coordinate": {
+    "lat": 30.226435,
+    "lon": -97.783758
+   },
+   "district": {
+    "id": "06211446161",
+    "name": "Premier High Schools"
+   },
+   "location": {
+    "city": "Austin"
+   }
+  },
+  {
+   "id": "0768736501",
+   "name": "San Juan Diego Catholic High School",
+   "rating": null,
+   "funding_type": "private",
+   "education_levels": [
+    "high"
+   ],
+   "student_count": 127,
+   "grades": [
+    "9",
+    "10",
+    "11",
+    "12"
+   ],
+   "parent_rating": 4,
+   "coordinate": {
+    "lat": 30.24079,
+    "lon": -97.763159
+   },
+   "district": {
+    "id": "06211428551",
+    "name": null
+   },
+   "location": {
+    "city": "Austin"
+   }
+  },
+  {
+   "id": "0768675731",
+   "name": "St Ignatius Martyr School",
+   "rating": null,
+   "funding_type": "private",
+   "education_levels": [
+    "elementary",
+    "middle"
+   ],
+   "student_count": 162,
+   "grades": [
+    "K",
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8"
+   ],
+   "parent_rating": 4,
+   "coordinate": {
+    "lat": 30.23968,
+    "lon": -97.754071
+   },
+   "district": {
+    "id": "06211428551",
+    "name": null
+   },
+   "location": {
+    "city": "Austin"
+   }
+  },
+  {
+   "id": "0768579861",
+   "name": "Zilker Elementary School",
+   "rating": 9,
+   "funding_type": "public",
+   "education_levels": [
+    "elementary"
+   ],
+   "student_count": 506,
+   "grades": [
+    "K",
+    "1",
+    "2",
+    "3",
+    "4",
+    "5"
+   ],
+   "parent_rating": 4,
+   "coordinate": {
+    "lat": 30.252843,
+    "lon": -97.774666
+   },
+   "district": {
+    "id": "06211430211",
+    "name": "Austin Independent School District"
+   },
+   "location": {
+    "city": "Austin"
+   }
+  },
+  {
+   "id": "0768952221",
+   "name": "Joslin Elementary School",
+   "rating": 7,
+   "funding_type": "public",
+   "education_levels": [
+    "elementary"
+   ],
+   "student_count": 265,
+   "grades": [
+    "K",
+    "1",
+    "2",
+    "3",
+    "4",
+    "5"
+   ],
+   "parent_rating": null,
+   "coordinate": {
+    "lat": 30.227905,
+    "lon": -97.790973
+   },
+   "district": {
+    "id": "06211430211",
+    "name": "Austin Independent School District"
+   },
+   "location": {
+    "city": "Austin"
+   }
+  }
+ ]
+}
